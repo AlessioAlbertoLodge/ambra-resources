@@ -1,0 +1,1375 @@
+case_id,eia_id,p_state,p_county,ylat,xlong,p_name,p_year,p_tech_pri,p_cap_ac,p_cap_dc,p_type,utility_name,source
+repd-1018,1018,England,Lincolnshire,53.42328,0.069039,Fen Farm Solar Park,2011,PV,1.0,,solar farm,Ecotricity,REPD
+repd-1019,1019,England,Cornwall,50.337128,-4.836316,Manor Farm,2011,PV,4.7,,solar farm,Low carbon Solar Partners,REPD
+repd-1020,1020,England,Cornwall,50.217921,-5.368143,Nanterrow Farm,2011,PV,4.7,,solar farm,Low carbon Solar Partners,REPD
+repd-1021,1021,England,Cornwall,50.442375,-4.281969,Howton Farm,2011,PV,4.4,,solar farm,Low carbon Solar Partners,REPD
+repd-1022,1022,England,Cornwall,50.870149,-4.427103,East Langford Farm,2011,PV,5.0,,solar farm,Low carbon Solar Partners,REPD
+repd-1023,1023,England,Cornwall,50.394894,-5.069336,Trevemper solar farm,2011,PV,1.7,,solar farm,The Green Company,REPD
+repd-1024,1024,England,Cornwall,50.923515,-4.486316,Chester Energy (East Woolley Farm),2012,PV,5.0,,solar farm,Chester Energy (Eastcott),REPD
+repd-1028,1028,England,Cornwall,50.304498,-5.081529,Chynoweth Farm,2011,PV,2.9,,solar farm,Low carbon Solar Partners,REPD
+repd-1029,1029,England,Norfolk,52.804757,1.398738,Carlton Farm Solar farm,2011,PV,5.0,,solar farm,Private Developer,REPD
+repd-1032,1032,England,Cornwall,50.237573,-5.122807,Wheal Jane,2011,PV,1.4,,solar farm,Lightsource Renewable Energy,REPD
+repd-1034,1034,England,Cambridgeshire,52.172144,0.067289,Cantelupe Solar Farm,2013,PV,5.0,,solar farm,Innogy (previously - Belectric (previously Alectron Investments Ltd)),REPD
+repd-1035,1035,England,Cornwall,50.540134,-4.782553,Benbole Farm,2011,PV,2.0,,solar farm,Private Developer,REPD
+repd-1039,1039,England,Devon,50.389122,-4.008856,Langage Solar Farm,2011,PV,5.0,,solar farm,Terrence O'Rourke Ltd,REPD
+repd-1040,1040,England,Nottinghamshire,53.028209,-0.814538,Grange Solar Farm,2011,PV,4.6,,solar farm,Lark Energy,REPD
+repd-1041,1041,England,Kent,51.315702,1.345827,Ebbsfleet Farm Solar Farm,2011,PV,4.9,,solar farm,GKA Limited,REPD
+repd-1042,1042,England,Buckinghamshire,51.845405,-0.95572,Westcott Venture Park Phase 2 & 3,2012,PV,1.3,,solar farm,Rockspring Hanover Property Unit Trust,REPD
+repd-1046,1046,England,Somerset,51.122702,-2.965661,Summerway Drove,2011,PV,2.0,,solar farm,BNRG Renewables,REPD
+repd-1047,1047,England,Somerset,51.175687,-2.967512,Puriton Solar Farm,2011,PV,4.6,,solar farm,BNRG Renewables,REPD
+repd-1048,1048,England,Derbyshire,52.877083,-1.574611,Toyota Solar Farm,2011,PV,4.6,,solar farm,Bluefield Solar Income Fund,REPD
+repd-1049,1049,England,Lincolnshire,52.790046,0.134819,Long Sutton Butterfly And Wildlife Park,2011,PV,1.7,,solar farm,Moor Solar,REPD
+repd-1050,1050,England,Lincolnshire,52.79036,0.135873,Long Sutton Butterfly And Wildlife Park (extension),2011,PV,1.0,,solar farm,Moor Solar,REPD
+repd-1053,1053,England,Gloucestershire,52.018792,-1.802457,Springhill Solar Park (Northwick),2013,PV,5.0,,solar farm,Greencoat Capital,REPD
+repd-1054,1054,England,Oxfordshire,51.61876,-1.644,Westmill Farm - PV,2011,PV,5.0,,solar farm,Private Developer,REPD
+repd-1055,1055,Wales,Dyfed,52.035238,-4.621248,Rhosygilwen Solar Farm,2011,PV,1.0,,solar farm,Private Developer,REPD
+repd-1056,1056,Wales,Gwent,51.722746,-2.91649,Llancayo Solar Farm,2011,PV,3.9,,solar farm,m03 Power,REPD
+repd-1058,1058,England,Northamptonshire,52.102085,-1.004852,Shacks Barn Solar Farm,2013,PV,5.0,,solar farm,Moser Baer,REPD
+repd-1059,1059,England,Cornwall,50.383294,-5.111145,Carines Farm Solar Array,2013,PV,1.0,,solar farm,Solar Securities Group Ltd,REPD
+repd-1060,1060,England,Dorset,50.710754,-2.173925,Trigon Solar Farm,2013,PV,7.0,,solar farm,Trigon Solar Farm Ltd,REPD
+repd-1062,1062,England,Cambridgeshire,52.3152,0.217662,Chittering Solar Farm Extension,2013,PV,6.3,,solar farm,Abbey Properties Cambs,REPD
+repd-1064,1064,England,Cornwall,50.406661,-4.758212,Tredinnick Fields,2013,PV,5.8,,solar farm,Kronos Solar,REPD
+repd-1065,1065,England,Cornwall,50.373424,-4.957898,Summercourt Solar Farm (Glebe Farm),2013,PV,1.1,,solar farm,Solar Securities Group Ltd,REPD
+repd-1067,1067,England,Cornwall,50.451694,-4.428112,Higher Trevartha Farm,2013,PV,3.0,,solar farm,Smarter Energy Solutions Ltd,REPD
+repd-1070,1070,England,Devon,50.790352,-2.922646,Beechgrove Farm,2011,PV,4.0,,solar farm,AEE Renewables,REPD
+repd-1076,1076,England,Somerset,51.105196,-2.672829,PARK WOOD SOLAR FARM,2011,PV,5.0,,solar farm,Solar Power Generation Limited,REPD
+repd-1078,1078,England,Suffolk,52.437533,1.595699,Promens Solar,2011,PV,1.7,,solar farm,Lightsource Renewable Energy,REPD
+repd-1079,1079,England,Wiltshire,51.624329,-2.1089,Malmesbury Solar,2011,PV,5.0,,solar farm,Sunstroom Energy,REPD
+repd-1080,1080,England,Cornwall,50.366597,-4.956489,Trefullock Solar Farm,2011,PV,5.0,,solar farm,Bosch Solar Energy,REPD
+repd-1081,1081,England,Somerset,50.885221,-2.831077,Lower Coombe Farm Solar,2011,PV,1.0,,solar farm,Solar South West,REPD
+repd-1082,1082,England,Isle of Wight,50.709866,-1.366437,Durrants Farm Solar,2011,PV,4.5,,solar farm,Kronos Solar/Vogt Solar,REPD
+repd-1084,1084,England,Surrey,51.119286,-0.544827,Dunsfold Park Solar Farm,2011,PV,2.0,,solar farm,Dunsfold Park Ltd,REPD
+repd-1085,1085,England,Cambridgeshire,52.451127,0.037917,Alan Bartlett & Sons Solar,2013,PV,1.2,,solar farm,Alan Bartlett & Sons Ltd,REPD
+repd-1086,1086,England,Hampshire,50.894121,-1.458495,Tavells Lane Solar Farm,2013,PV,5.3,,solar farm,Hive Energy,REPD
+repd-1088,1088,England,Cornwall,50.142109,-5.193514,LITTLE TREVEASE SOLAR PARK,2013,PV,5.3,,solar farm,Private Developer,REPD
+repd-1089,1089,England,Somerset,51.112388,-3.037075,Cobbs Cross Solar Park,2013,PV,5.0,,solar farm,PS Renewables,REPD
+repd-1090,1090,England,Dorset,50.643336,-2.506255,NOTTINGTON LANE SOLAR FARM,2013,PV,5.0,,solar farm,PS Renewables,REPD
+repd-1091,1091,England,Wiltshire,51.420379,-1.606713,RUDGE FARM SOLAR FARM,2013,PV,7.0,,solar farm,Orta Solar,REPD
+repd-1094,1094,England,Devon,50.790444,-4.401444,CRINACOTT SOLAR FARM (Pyworthy),2013,PV,6.7,,solar farm,Sunsave 4 Ltd/ Vogt Solar,REPD
+repd-1095,1095,England,Isle of Wight,50.735019,-1.301962,Chawton Farm Solar Farm,2013,PV,3.2,,solar farm,BNRG Renewables,REPD
+repd-1096,1096,England,Isle of Wight,50.641992,-1.204259,VENTNOR ROAD SOLAR PARK,2013,PV,4.8,,solar farm,BNRG Renewables,REPD
+repd-1097,1097,England,Cambridgeshire,52.318388,-0.383106,ROOKERY FARM SOLAR FARM,2013,PV,5.3,,solar farm,Prosolia UK Ltd,REPD
+repd-1098,1098,England,Cornwall,50.170737,-5.225286,Little White Alice Solar Park,2013,PV,1.3,,solar farm,Little White Alice Ltd,REPD
+repd-1103,1103,England,Somerset,51.119519,-2.971038,Park Wall Solar Park,2013,PV,5.0,,solar farm,Unknown,REPD
+repd-1108,1108,England,Norfolk,52.49763,1.309183,Hall Farm Solar park,2016,PV,15.0,,solar farm,Solar Park Developments (Blackrock),REPD
+repd-1128,1128,England,Norfolk,52.797457,1.183853,Oulton Airfield Solar Farm (Phase 1),2016,PV,5.0,,solar farm,Solar Century/ Bluefield Solar,REPD
+repd-1157,1157,England,Hampshire,50.949394,-1.307925,Chalcroft Solar Park,2013,PV,6.3,,solar farm,Chalcroft Solar Park,REPD
+repd-1158,1158,England,Devon,50.780743,-4.441549,Bradford Solar Park,2013,PV,5.3,,solar farm,Wessex Solar Energy,REPD
+repd-1160,1160,England,Somerset,50.883158,-2.837892,Lower Coombe Farm (Bean Field),2012,PV,1.0,,solar farm,A H Warren Trust,REPD
+repd-1161,1161,Wales,Dyfed,51.725032,-4.238635,Ffos Las Racecourse,2012,PV,5.5,,solar farm,Private Developer,REPD
+repd-1163,1163,England,Norfolk,52.698032,1.089964,Woodforde Farm,2013,PV,9.0,,solar farm,Esconrg,REPD
+repd-1165,1165,England,Wiltshire,51.346593,-2.244152,Kingston Farm,2011,PV,5.0,,solar farm,BOA Property / AEE Renewables UK,REPD
+repd-1166,1166,England,Essex,51.96706,0.368637,Spriggs Farm,2013,PV,12.0,,solar farm,Abic,REPD
+repd-1169,1169,England,Hereford and Worcester,52.152476,-2.046535,Rotherdale Farm,2015,PV,5.0,,solar farm,Vale Green Energy,REPD
+repd-1171,1171,England,Cambridgeshire,52.530285,-0.026165,Turves Solar Farm,2013,PV,5.0,,solar farm,Abbey Renewables,REPD
+repd-1173,1173,England,Devon,50.675494,-4.246551,Rexton Cross,2013,PV,2.0,,solar farm,Padero Solaer,REPD
+repd-1176,1176,England,Devon,50.423561,-3.784944,Hatchlands Farm,2013,PV,5.2,,solar farm,Orta Solar,REPD
+repd-1184,1184,England,Buckinghamshire,52.016666,-0.864101,Land At Potash Farm,2013,PV,7.0,,solar farm,PS Renewables,REPD
+repd-1198,1198,England,East Sussex,50.915919,0.055352,Land at Upper Clayhill Farm,2015,PV,4.9,,solar farm,Lightsource Renewable Energy,REPD
+repd-1203,1203,England,Avon,51.331518,-2.854653,Towerbrook Farm (Banwell Solar Farm),2015,PV,7.2,,solar farm,Aquila Capital,REPD
+repd-1208,1208,England,Somerset,51.357982,-2.795874,Twin Elm Solar Farm,2012,PV,1.0,,solar farm,Lightsource BP,REPD
+repd-1223,1223,England,Norfolk,52.604096,1.035131,Hardingham Solar Farm,2014,PV,14.8,,solar farm,Solar Century/ Bluefield Solar,REPD
+repd-1226,1226,England,Devon,51.050592,-4.074391,Hollamoor Farm (PV),2013,PV,2.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-1229,1229,England,Devon,50.897323,-3.3609,Langlands Solar Farm,2013,PV,2.1,,solar farm,Cetis,REPD
+repd-1230,1230,England,Cornwall,50.3913,-4.596004,Langunnett Solar Farm,2013,PV,6.2,,solar farm,Vogt Solar,REPD
+repd-1232,1232,England,Kent,51.351944,1.367445,Manston Solar Farm,2013,PV,9.9,,solar farm,Vogt Solar,REPD
+repd-1233,1233,England,Hampshire,51.205644,-0.848647,Marsh House Solar Park,2015,PV,5.5,,solar farm,Constantine Land Ltd,REPD
+repd-1237,1237,England,Kent,51.371746,0.745411,Morrisons roof mounted solar,2013,PV,2.0,,solar farm,WM Morrisons Supermarkets Plc,REPD
+repd-1240,1240,England,Oxfordshire,52.003491,-1.413562,Rickfield Farm solar park,2014,PV,1.0,,solar farm,Western Power Distribution,REPD
+repd-1243,1243,England,Gloucestershire,51.645094,-2.653031,Tump Solar Farm,2017,PV,5.0,,solar farm,Green Energy UK Direct,REPD
+repd-1244,1244,Wales,Dyfed,51.698705,-4.90119,West Farm (Solar),2013,PV,7.7,,solar farm,Vogt Solar,REPD
+repd-1247,1247,England,Hampshire,51.184292,-1.373721,Owls Lodge Farm,2013,PV,5.0,,solar farm,Anesco (previously AEE Renewables),REPD
+repd-1252,1252,England,Hampshire,50.761812,-1.679844,Beckley Solar Farm,2012,PV,1.7,,solar farm,Anesco,REPD
+repd-1269,1269,England,Avon,51.545819,-2.579605,Oakham Farm,2016,PV,8.0,,solar farm,Anesco/Parklands Solar,REPD
+repd-1272,1272,England,Berkshire,51.381113,-1.232508,Limberlost Farm,2013,PV,1.5,,solar farm,Anesco,REPD
+repd-1273,1273,England,Hampshire,50.75692,-1.703652,Office Field,2013,PV,7.2,,solar farm,Anesco,REPD
+repd-1274,1274,England,Somerset,51.038477,-3.306296,Sandys Moor Road,2013,PV,2.9,,solar farm,Anesco,REPD
+repd-1275,1275,England,Cambridgeshire,52.201206,-0.073531,Skylark Meadow Solar park,2013,PV,5.0,,solar farm,Anesco,REPD
+repd-1278,1278,England,County Durham,54.548474,-1.573944,Aldi Distribution Centre - Darlington,2014,PV,1.2,,solar farm,Aldi,REPD
+repd-1282,1282,England,Hampshire,51.082661,-1.151112,Bishops Sutton,2014,PV,12.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-1283,1283,England,Devon,50.364058,-3.642104,Blackawton Solar Farm,2014,PV,3.0,,solar farm,Maria Bailey Planning,REPD
+repd-1284,1284,England,Oxfordshire,51.732834,-1.194696,BMW UK Manufacturing Ltd,2014,PV,3.0,,solar farm,Free Green Energy,REPD
+repd-1285,1285,England,Leicestershire,52.803307,-1.111552,Land to the East of Burton Lane,2016,PV,2.6,,solar farm,EBS Energy LLP,REPD
+repd-1292,1292,England,Essex,51.963413,0.403484,Land west of Hawkspur Green (Hill Hall Solar),2016,PV,4.9,,solar farm,Lightsource Renewable Energy,REPD
+repd-1294,1294,England,North Yorkshire,53.794437,-1.225902,Kingspan Insulation Solar Installation,2014,PV,5.0,,solar farm,Kingspan Insulation/ Eneco,REPD
+repd-1296,1296,Northern Ireland,Co. Antrim,54.558397,-6.190884,Land to the South of 15 Lough Road,2016,PV,4.8,,solar farm,Lightsource Renewable Energy,REPD
+repd-1298,1298,England,Oxfordshire,51.663256,-1.097773,Langley Hall Farm,2014,PV,2.4,,solar farm,Lark Energy,REPD
+repd-1299,1299,England,Norfolk,52.901134,1.168238,Pond Farm,2014,PV,3.6,,solar farm,Lark Energy,REPD
+repd-1303,1303,England,Devon,50.899301,-3.395201,Nether Mill Farm,2014,PV,3.1,,solar farm,AEE Renewables,REPD
+repd-1304,1304,England,Wiltshire,51.626474,-2.112964,NEWNTON DAIRY FARM,2014,PV,7.2,,solar farm,Anesco,REPD
+repd-1306,1306,England,Berkshire,51.400615,-1.022173,Pierces Farm,2015,PV,1.7,,solar farm,NextEnergy Capital,REPD
+repd-1308,1308,England,Cornwall,50.418912,-4.689517,Rew Farm Solar Farm,2014,PV,6.1,,solar farm,Lightsource Renewable Energy,REPD
+repd-1314,1314,England,Wiltshire,51.273023,-2.160804,Westbury (Closed) Landfill Site,2014,PV,3.5,,solar farm,Viridor,REPD
+repd-1315,1315,England,Cambridgeshire,52.355968,-0.078467,Wiggin Hill Solar Farm - Phase 2,2015,PV,4.1,,solar farm,Lightsource Renewable Energy,REPD
+repd-1320,1320,England,Kent,51.266716,1.23123,Grain Harvesters Ltd,2014,PV,1.0,,solar farm,Grain Harvesters Ltd,REPD
+repd-1322,1322,England,Essex,51.958125,0.390668,Hyde Farm,2014,PV,10.8,,solar farm,Lightsource Renewable Energy / Push Energy,REPD
+repd-1324,1324,England,East Sussex,50.874934,0.453425,St Francis Farm,2015,PV,4.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-1325,1325,England,Hampshire,50.944263,-1.208065,Bishop�s Waltham Solar Farm,2017,PV,12.0,,solar farm,Solafields U/Bishop's Waltham Renewables Ltd,REPD
+repd-1328,1328,England,Norfolk,52.661752,1.701196,Nova Scotia Farm solar park,2014,PV,13.9,,solar farm,Equitix,REPD
+repd-1329,1329,England,Norfolk,52.913362,1.18682,"Hall Farm, East Beckham",2014,PV,10.2,,solar farm,TGC Renewables,REPD
+repd-1330,1330,Wales,West Glamorgan,51.794164,-3.943724,Cefn Betingau Farm,2014,PV,9.0,,solar farm,Wessex Solar Energy,REPD
+repd-1331,1331,England,Oxfordshire,51.616556,-1.348034,Hill Farm Solar Park (VoWH),2014,PV,14.8,,solar farm,Hill Farm Solar Park Limited,REPD
+repd-1332,1332,England,Essex,51.912824,1.124053,Wix Lodge,2014,PV,18.7,,solar farm,Sunsave 25 (Wix Lodge Farm) Limited/ Vogt Solar,REPD
+repd-1333,1333,England,Hampshire,51.161022,-1.536261,Saxley Farm,2014,PV,5.0,,solar farm,Solar Century/ Bluefield Solar,REPD
+repd-1335,1335,England,Wiltshire,51.373429,-2.089669,Snarlton Farm (Melksham solar farm),2016,PV,49.6,,solar farm,Foresight,REPD
+repd-1338,1338,England,Suffolk,52.288757,0.611034,Lackford Estate Solar Park,2014,PV,20.9,,solar farm,Lackford Estate Solar Park Ltd,REPD
+repd-1339,1339,England,Northamptonshire,52.405609,-0.561104,Colpmans Farm,2012,PV,5.0,,solar farm,Greencoat Capital,REPD
+repd-1340,1340,England,Norfolk,52.769995,0.387639,Porvair International Ltd,2012,PV,1.8,,solar farm,KL Technologies,REPD
+repd-1341,1341,England,Devon,50.816567,-4.130002,Willsland Solar farm,2013,PV,3.2,,solar farm,The Green Company,REPD
+repd-1342,1342,England,Hampshire,51.214226,-1.06945,Frying Down Copse Solar Farm,2012,PV,5.0,,solar farm,Private Developer,REPD
+repd-1343,1343,England,Isle of Wight,50.687187,-1.485468,Wilmingham Lane Solar Farm,2013,PV,7.0,,solar farm,Low Carbon Solar,REPD
+repd-1344,1344,England,Somerset,50.994497,-2.60273,Chilton Cantelo Solar Farm,2013,PV,5.0,,solar farm,NextEnery Solar Fund (NESF),REPD
+repd-1346,1346,England,Devon,50.921707,-4.038672,Beaford Brook Solar Park,2013,PV,5.2,,solar farm,Wessex Solar Energy,REPD
+repd-1348,1348,England,Shropshire,52.68948,-2.944536,Hayford Farm,2014,PV,8.9,,solar farm,WS Systems Ltd,REPD
+repd-1349,1349,England,Somerset,51.05169,-3.212617,Halse Farm,2013,PV,8.2,,solar farm,AEE Renewables,REPD
+repd-1350,1350,Northern Ireland,Co. Down,54.668754,-5.942601,Bombardier Factory,2015,PV,3.8,,solar farm,Bombardier Aerospace,REPD
+repd-1352,1352,England,Devon,50.745897,-3.358715,STRETE FARM SOLAR FARM,2013,PV,4.8,,solar farm,Ms Power Projects Ltd,REPD
+repd-1353,1353,England,Cornwall,50.306886,-5.015216,Tregassow Farm - Solar Modules,2013,PV,6.0,,solar farm,Private Developer,REPD
+repd-1355,1355,England,Somerset,51.043817,-2.410688,Higher Hatherleigh Solar Farm extension,2013,PV,1.5,,solar farm,Private Developer,REPD
+repd-1356,1356,Wales,Dyfed,51.775285,-4.137634,Pont Andrew Solar Farm,2012,PV,1.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-1358,1358,Scotland,Grampian,57.56035,-2.372285,Cairnhill Farm solar park,2015,PV,2.4,,solar farm,Green Cat Renewables,REPD
+repd-1359,1359,England,Kent,51.351921,1.374468,Manston Solar Farm extension (Westwood),2014,PV,9.2,,solar farm,Sunsave 16 Ltd/ Vogt Solar,REPD
+repd-1362,1362,England,Hampshire,50.831325,-1.196118,Newlands Farm Solar,2014,PV,20.5,,solar farm,Sunsave 10 (FAREHAM) / Vogt Solar,REPD
+repd-1367,1367,England,Lincolnshire,52.965791,-0.071693,Fen Road,2014,PV,1.4,,solar farm,Lark Energy,REPD
+repd-1374,1374,England,Buckinghamshire,51.845165,-0.647839,Long Meadow Farm,2015,PV,4.1,,solar farm,Private Developer,REPD
+repd-1380,1380,England,Devon,50.633921,-3.371095,Liverton Farm,2015,PV,4.8,,solar farm,Clinton Devon Estates,REPD
+repd-1382,1382,England,Kent,51.234866,1.264874,Home Farm (Knowlton - solar),2014,PV,11.5,,solar farm,Sunsave 20 (Knowlton) Ltd/ Vogt Solar,REPD
+repd-1384,1384,England,Wiltshire,51.498204,-2.090707,Lake Farm,2011,PV,5.0,,solar farm,AEE Renewables,REPD
+repd-1385,1385,England,Hampshire,51.195534,-1.675204,Parkhouse Corner (Orta Solar),2013,PV,6.6,,solar farm,Orta Solar,REPD
+repd-1386,1386,England,Somerset,51.060534,-3.197337,Sandhill Solar Park,2011,PV,2.0,,solar farm,Solar Power South,REPD
+repd-1387,1387,England,Cambridgeshire,52.344938,0.166163,Mingay Farm,2011,PV,5.0,,solar farm,Abbey Renewables,REPD
+repd-1388,1388,Wales,Dyfed,51.675376,-4.795877,Jordanston Solar Farm,2013,PV,5.0,,solar farm,AEE Renewables,REPD
+repd-1390,1390,England,Cheshire,53.289397,-3.032202,Aldi Distribution Centre - Neston,2014,PV,1.2,,solar farm,Aldi,REPD
+repd-1394,1394,England,Wiltshire,51.561164,-2.09943,Rodbourne Rail Farm - Solar Park,2013,PV,7.6,,solar farm,British Solar Renewables,REPD
+repd-1404,1404,England,Nottinghamshire,53.356444,-0.995399,Barnby Moor,2015,PV,4.0,,solar farm,Lark Energy,REPD
+repd-1416,1416,England,Devon,50.985291,-4.122444,Knockworthy Farm,2013,PV,3.5,,solar farm,NextEnery Solar Fund (NESF),REPD
+repd-1418,1418,England,Hampshire,50.917942,-1.232297,Raglington Farm,2013,PV,5.8,,solar farm,NextEnery Solar Fund (NESF),REPD
+repd-1421,1421,England,Isle of Wight,50.697142,-1.421984,Stables Farm,2012,PV,1.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-1423,1423,England,Devon,50.361695,-3.941305,Luson Farm,2013,PV,1.9,,solar farm,Lightsource Renewable Energy,REPD
+repd-1428,1428,England,Cornwall,50.562924,-4.747871,Kellygreen Farm,2016,PV,4.0,,solar farm,INRG Solar,REPD
+repd-1429,1429,England,Somerset,51.076649,-3.262247,Grove Farm (solar),2015,PV,3.5,,solar farm,juwi Renewable Energies,REPD
+repd-1433,1433,England,Lincolnshire,52.969168,-0.690684,Marston Solar Farm,2011,PV,4.9,,solar farm,Lark Energy,REPD
+repd-1435,1435,England,Devon,50.610222,-4.270748,Tredown Solar Farm,2013,PV,1.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-1439,1439,England,Dorset,51.045903,-2.311879,Slaughtergate Farm,2013,PV,1.8,,solar farm,Lightsource Renewable Energy,REPD
+repd-1441,1441,England,Devon,50.854531,-3.408186,Kia Ora Farm,2013,PV,1.8,,solar farm,Lightsource Renewable Energy,REPD
+repd-1442,1442,England,Devon,50.83091,-3.784437,Ellicombe Farm,2013,PV,1.4,,solar farm,Lightsource Renewable Energy,REPD
+repd-1443,1443,England,Devon,50.88605,-4.215137,Southcombe Farm,2013,PV,1.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-1445,1445,England,Devon,50.916334,-3.570679,West Bradley Farm,2012,PV,1.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-1446,1446,England,Devon,50.752381,-4.277339,Whiddon Farm,2013,PV,1.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-1449,1449,England,Hampshire,50.912074,-1.034065,Lovedean Farm,2013,PV,4.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-1450,1450,England,Somerset,51.019339,-2.996189,Higher Knapp Farm,2013,PV,1.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-1453,1453,England,Dorset,50.922731,-2.20445,Park Farm,2013,PV,4.0,,solar farm,Low Carbon Solar,REPD
+repd-1454,1454,England,Devon,50.864491,-3.227008,Dunkeswell Airfield,2015,PV,2.0,,solar farm,Lumicity,REPD
+repd-1463,1463,England,Essex,51.814131,0.936833,Langenhoe Solar Farm,2015,PV,21.3,,solar farm,NextEnergy Solar Fund,REPD
+repd-1464,1464,England,Essex,51.905854,0.602413,Kentishes Solar Farm,2016,PV,5.0,,solar farm,Push Energy/ NextEnergy Solar Fund (NESF),REPD
+repd-1467,1467,England,Devon,50.424785,-3.809332,Marley Thatch Solar Farm,2013,PV,6.3,,solar farm,TGC Renewables,REPD
+repd-1468,1468,England,Devon,50.772607,-2.950972,Newlands Farm (East Devon),2013,PV,5.0,,solar farm,TGC Renewables,REPD
+repd-1473,1473,England,South Yorkshire,53.529481,-1.316489,Goldthorpe,2014,PV,1.5,,solar farm,Aldi,REPD
+repd-1474,1474,England,Hampshire,51.114676,-0.97816,Barley Wood Farm Lane,2015,PV,5.4,,solar farm,Lightsource Renewable Energy,REPD
+repd-1476,1476,England,Wiltshire,51.482001,-2.164952,Battens Farm Solar Park,2014,PV,11.0,,solar farm,Battens Farm Solar Park Ltd,REPD
+repd-1478,1478,England,Cheshire,52.999357,-2.596237,Combermere Abbey,2015,PV,14.0,,solar farm,INRG Solar,REPD
+repd-1480,1480,England,Suffolk,52.046736,1.284626,Foxburrow Farm,2014,PV,8.0,,solar farm,UK Sustainable Energy,REPD
+repd-1484,1484,England,Devon,50.732638,-3.351232,Great Houndbeare Farm,2017,PV,10.0,,solar farm,Sunsave 49 SPV (prev. Cherry Solar),REPD
+repd-1485,1485,England,Shropshire,52.656863,-2.729806,Condover (Green Farm),2015,PV,10.2,,solar farm,NextEnergy Solar Fund,REPD
+repd-1489,1489,England,Gloucestershire,51.728633,-2.507433,Hurst Farm,2014,PV,5.0,,solar farm,Bee Green Solar,REPD
+repd-1490,1490,England,South Yorkshire,53.54059,-1.031381,Ikea Distribution Centre,2015,PV,1.7,,solar farm,IKEA Properties Investments Ltd,REPD
+repd-1491,1491,England,Staffordshire,52.633452,-2.140591,Jaguar Land Rover,2014,PV,5.8,,solar farm,Jaguar Land Rover,REPD
+repd-1494,1494,England,Lincolnshire,53.019888,0.063251,Leverton Ings,2014,PV,12.0,,solar farm,Hazel Capital LLP,REPD
+repd-1497,1497,England,Nottinghamshire,53.303903,-0.99324,Little Morton Solar Farm,2014,PV,14.3,,solar farm,Lightsource Renewable Energy,REPD
+repd-1498,1498,England,Nottinghamshire,52.966006,-0.83238,Lodge Farm - Orston,2014,PV,12.4,,solar farm,Lightsource Renewable Energy,REPD
+repd-1500,1500,England,Northamptonshire,52.359893,-1.02427,Lowther Farms,2014,PV,1.8,,solar farm,Lowther Farms,REPD
+repd-1501,1501,Scotland,Grampian,57.377942,-2.389126,Mackies Dairy PV,2015,PV,1.8,,solar farm,Mackies Of Scotland Ltd,REPD
+repd-1502,1502,England,Cambridgeshire,52.335078,0.157138,Mingay Farm - extension,2014,PV,19.3,,solar farm,Octopus Imvetments,REPD
+repd-1503,1503,Wales,Dyfed,51.849281,-4.354773,Redcourt Farm,2015,PV,3.3,,solar farm,PS Renewables,REPD
+repd-1506,1506,England,Cumbria,54.1389,-3.239949,Sowerby Lodge Farm,2018,PV,5.0,,solar farm,Gamma Solar Limited,REPD
+repd-1507,1507,England,East Sussex,50.92005,0.226815,Stone Hill,2014,PV,2.6,,solar farm,Solar Century,REPD
+repd-1509,1509,England,Somerset,50.994174,-3.087374,Taunton Racecourse,2015,PV,1.5,,solar farm,Green Hedge (BayWa r.e.),REPD
+repd-1510,1510,England,Leicestershire,52.576576,-1.406834,The Stables,2014,PV,1.8,,solar farm,Anesco,REPD
+repd-1513,1513,England,Gloucestershire,51.867557,-2.485337,Vantage Point,2011,PV,1.4,,solar farm,Bee Green Solar,REPD
+repd-1515,1515,England,Hampshire,51.142384,-0.950102,Wilsom Farm,2016,PV,11.0,,solar farm,Canadian solar,REPD
+repd-1516,1516,England,Kent,51.32518,1.124023,Woodlands Farm Solar Park,2015,PV,10.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-1518,1518,England,Avon,51.345003,-2.861092,Bowerhouse Farm,2015,PV,8.3,,solar farm,KWTN Solar,REPD
+repd-1519,1519,England,Warwickshire,52.250572,-1.555826,Brickyard Barn,2014,PV,4.1,,solar farm,Sun Glow Power,REPD
+repd-1520,1520,Wales,Clwyd,53.031766,-3.059441,Bronwylfa Reservoir,2015,PV,3.0,,solar farm,Wrexham County Borough Council,REPD
+repd-1521,1521,Wales,Vale of Glamorgan,51.497907,-3.517365,Land At Court Farm,2016,PV,2.2,,solar farm,Sybac Solar International GmbH,REPD
+repd-1522,1522,England,Somerset,51.209057,-2.578415,Crapnell Farm Solar Farm,2014,PV,5.4,,solar farm,Lightsource Renewable Energy,REPD
+repd-1523,1523,Northern Ireland,Co. Antrim,54.670691,-6.198533,Crookedstone Road,2016,PV,4.8,,solar farm,Lightsource Renewable Energy,REPD
+repd-1525,1525,England,Lincolnshire,53.322417,-0.697463,Danes Farm - extension,2016,PV,10.5,,solar farm,Freewatt Renewable Energy,REPD
+repd-1527,1527,England,Suffolk,52.43404,1.605539,Ellough Airfield (Resubmission),2014,PV,13.2,,solar farm,Next Energy Solar Fund Ltd,REPD
+repd-1528,1528,England,Lincolnshire,53.015172,-0.521411,Ermine Street Farm solar park,2014,PV,32.5,,solar farm,Octopus Investments,REPD
+repd-1529,1529,England,Oxfordshire,51.794038,-1.426373,Eynsham Solar Farm,2014,PV,13.2,,solar farm,Belltown Power,REPD
+repd-1531,1531,England,West Sussex,50.942839,-0.322279,Ford Farm (Ashurst),2016,PV,10.0,,solar farm,Conergy,REPD
+repd-1536,1536,England,West Sussex,50.946343,-0.342182,Priors Byne Farm,2016,PV,7.6,,solar farm,Gamma Solar Limited,REPD
+repd-1537,1537,England,Norfolk,52.755071,1.356917,Scottow Moor - RAF Coltishall Solar Farm (Phase 1),2015,PV,32.0,,solar farm,Greencoat Capital,REPD
+repd-1538,1538,England,Hampshire,51.187576,-1.367367,Owls Lodge Farm Extension,2013,PV,5.0,,solar farm,Anesco,REPD
+repd-1540,1540,England,Cornwall,50.502685,-4.891827,Hawksland Solar,2013,PV,3.1,,solar farm,Moser Baer,REPD
+repd-1541,1541,England,Cornwall,50.503593,-4.843688,Middle Treworder Farm,2013,PV,5.0,,solar farm,Innogy (previously BELECTRIC Solar),REPD
+repd-1542,1542,England,Cambridgeshire,52.549749,-0.147876,Black Bush Farm,2014,PV,2.7,,solar farm,Lark Energy,REPD
+repd-1543,1543,England,Cornwall,50.046506,-5.217964,Goonhilly Downs - PV,2014,PV,4.5,,solar farm,Wardell Armstrong International Ltd,REPD
+repd-1544,1544,England,Cornwall,50.121671,-5.135107,Higher Tregarne Solar Farm,2013,PV,5.0,,solar farm,John Laing Environmental Assets,REPD
+repd-1545,1545,England,Cornwall,50.286292,-5.1209,Causilgey Solar Farm,2013,PV,5.0,,solar farm,China Sunergy,REPD
+repd-1546,1546,England,Cornwall,50.319736,-4.835392,Ninnis Farm Solar,2013,PV,5.0,,solar farm,The Green Company,REPD
+repd-1547,1547,England,Cornwall,50.489889,-4.929764,Trelow Farm,2012,PV,1.6,,solar farm,Low carbon Solar Partners,REPD
+repd-1548,1548,England,Cornwall,50.341407,-4.930325,Hewas Solar Farm,2013,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-1549,1549,England,Devon,50.804231,-4.37693,Great Knowle Farm Solar,2012,PV,3.0,,solar farm,The Green Company,REPD
+repd-1550,1550,England,Norfolk,52.474562,0.950121,Airfield Farm PV,2012,PV,5.0,,solar farm,P V Farms 01,REPD
+repd-1551,1551,England,Cornwall,50.480036,-4.738308,Lower Bodiniel Farm,2012,PV,5.0,,solar farm,Wardell Armstrong International Ltd,REPD
+repd-1552,1552,England,Oxfordshire,51.973987,-1.115975,Shelswell Park Solar Farm,2013,PV,5.0,,solar farm,Anesco,REPD
+repd-1553,1553,England,Cambridgeshire,52.31813,0.221095,Chittering Solar Farm,2012,PV,5.0,,solar farm,Abbey Renewables,REPD
+repd-1554,1554,England,Cornwall,50.429767,-5.005432,Kernow Solar Farm,2012,PV,5.0,,solar farm,Cornwall Council Property Services,REPD
+repd-1555,1555,England,Lincolnshire,52.7739,-0.318602,Limes Farm Solar Farm,2013,PV,4.6,,solar farm,Lark Energy,REPD
+repd-1557,1557,England,Devon,51.125232,-3.924862,Bratton Fleming Solar Farm,2013,PV,5.0,,solar farm,Wessex Solar Energy,REPD
+repd-1558,1558,England,Isle of Wight,50.692516,-1.449124,Lee Farm,2012,PV,5.0,,solar farm,Vogt Solar,REPD
+repd-1560,1560,England,Cornwall,50.423888,-4.805144,Woodlands Barton Solar Farm,2013,PV,4.9,,solar farm,Laurence Associates,REPD
+repd-1561,1561,England,Cornwall,50.697983,-4.44944,Winsdon Farm,2014,PV,5.0,,solar farm,Primrose Solar,REPD
+repd-1562,1562,England,Hampshire,50.805146,-1.360324,The Manor of Cadland Estate,2012,PV,5.0,,solar farm,The Manor of Cadland Estate,REPD
+repd-1563,1563,England,Cornwall,50.494372,-4.961954,Trenouth Farm,2012,PV,3.6,,solar farm,Low Carbon Solar,REPD
+repd-1564,1564,England,Cornwall,50.507153,-4.326036,Callington Solar Farm,2014,PV,6.4,,solar farm,Inazin (Low Carbon Solar),REPD
+repd-1566,1566,England,Cornwall,50.422906,-4.927794,St Columb Major Solar Farm,2014,PV,7.0,,solar farm,Inazin Solar (previoulsy owned by Low Carbon Solar),REPD
+repd-1567,1567,England,Dorset,50.700046,-2.324289,Crossways Pit Solar Farm,2013,PV,5.0,,solar farm,NextEnery Solar Fund (NESF),REPD
+repd-1569,1569,England,Devon,50.931931,-3.345858,Ayshford Court Farm,2013,PV,5.0,,solar farm,AEE Renewables,REPD
+repd-1570,1570,England,Hampshire,51.211189,-1.536416,Andover Solar Farm,2013,PV,5.0,,solar farm,The Clark Trustees,REPD
+repd-1571,1571,England,West Sussex,50.837327,-0.705447,Oving Solar Farm,2012,PV,5.0,,solar farm,Vogt Solar,REPD
+repd-1572,1572,England,Cornwall,50.711023,-4.42329,Grange Farm (Cornwall),2013,PV,5.0,,solar farm,Vogt Solar,REPD
+repd-1573,1573,England,Hampshire,51.194725,-1.66598,Shipton Bellinger - Park House Corner Solar Farm,2013,PV,5.4,,solar farm,Low Carbon Solar,REPD
+repd-1574,1574,England,Dorset,50.779216,-2.935447,Wyld Meadow Solar Farm,2012,PV,4.8,,solar farm,NextEnery Solar Fund (NESF),REPD
+repd-1575,1575,England,Somerset,51.258796,-2.586419,Shooters Bottom Solar Park,2014,PV,7.0,,solar farm,Anesco,REPD
+repd-1576,1576,England,Somerset,50.873892,-2.905818,Goldenhaye Field Solar Farm,2013,PV,2.0,,solar farm,Cricket St Thomas Estate,REPD
+repd-1577,1577,Wales,Gwent,51.561704,-3.089391,Clearwell Farm - solar,2015,PV,2.0,,solar farm,Heritage Energy,REPD
+repd-1578,1578,England,Lincolnshire,53.322417,-0.697463,Danes Farm,2011,PV,3.3,,solar farm,Freewatt Renewable Energy,REPD
+repd-1580,1580,Wales,Gwent,51.600856,-2.91207,Langstone Court Road Solar Farm,2013,PV,2.5,,solar farm,Private Developer,REPD
+repd-1581,1581,England,West Sussex,51.059525,-0.445969,Five Oaks Solar Farm,2011,PV,5.0,,solar farm,John Laing Environmental Assets,REPD
+repd-1582,1582,England,Northamptonshire,52.109509,-1.204678,Culworth House Solar Farm,2015,PV,3.0,,solar farm,Private Developer,REPD
+repd-1583,1583,England,Devon,50.434355,-4.1618,Warleigh Barton Solar Farm,2013,PV,5.0,,solar farm,Low Carbon Solar,REPD
+repd-1584,1584,England,Cornwall,50.397328,-4.748931,Trenoweth Solar Farm,2013,PV,2.5,,solar farm,Kronos Solar,REPD
+repd-1585,1585,England,Leicestershire,52.803307,-1.111552,Wymeswold Airfield,2013,PV,34.0,,solar farm,Foresight Solar Fund,REPD
+repd-1586,1586,England,Somerset,51.043704,-2.427176,Higher Hatherleigh Solar Farm,2013,PV,3.5,,solar farm,Hive Energy,REPD
+repd-1587,1587,England,Devon,50.946097,-3.31411,Barton Solar Farm,2012,PV,1.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-1588,1588,England,Cornwall,50.440768,-4.777591,Clann Solar Farm,2014,PV,1.4,,solar farm,Lightsource Renewable Energy,REPD
+repd-1589,1589,England,Dorset,50.750442,-2.103098,Dolmans Hill (Redbridge Farm) Solar Arrays,2014,PV,5.0,,solar farm,Emotion Energy (Bournemouth) Limited,REPD
+repd-1590,1590,England,Norfolk,52.901134,1.307032,North Norfolk Business Centre Solar Park,2014,PV,11.0,,solar farm,NESF (formerly Lumicity) / Next Energy,REPD
+repd-1591,1591,England,Devon,51.064159,-4.108795,Horsacott Farm Solar Park,2013,PV,6.4,,solar farm,Hazel Capital LLP,REPD
+repd-1592,1592,England,Suffolk,52.131404,0.51717,Broxted Solar Farm (Stradishall Airfield),2014,PV,31.6,,solar farm,Lark Energy,REPD
+repd-1593,1593,England,Wiltshire,51.65296,-1.730475,Pentylands Farm,2014,PV,19.0,,solar farm,Moser Baer,REPD
+repd-1594,1594,England,Cornwall,50.542315,-4.349192,Trefinnick Farm,2013,PV,5.0,,solar farm,MTS Trefinnick Solar Ltd,REPD
+repd-1595,1595,England,Cornwall,50.303885,-5.141365,Four Burrows Solar farm,2015,PV,7.2,,solar farm,TRIG,REPD
+repd-1598,1598,Wales,Dyfed,51.850125,-4.952386,Rudbaxton Solar Park,2014,PV,10.8,,solar farm,Rudbaxton Solar Park Limited,REPD
+repd-1601,1601,England,Cornwall,50.210963,-5.366111,Hope Solar Farm,2014,PV,7.3,,solar farm,Hope Solar Park Ltd,REPD
+repd-1603,1603,England,Somerset,50.92611,-3.127988,Culmhead Solar Farm,2014,PV,7.5,,solar farm,Anesco,REPD
+repd-1604,1604,England,Cornwall,50.176856,-5.38719,Wheal Alfred Road Solar Farm,2013,PV,3.5,,solar farm,TGC Renewables,REPD
+repd-1605,1605,England,Devon,51.146122,-4.137665,Blatchworthy Farm,2013,PV,1.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-1606,1606,England,Somerset,50.935456,-2.902204,Parsonage Barn (extension),2013,PV,7.6,,solar farm,Private Developer,REPD
+repd-1607,1607,England,Kent,51.320237,0.481581,BIOSSENCE SOLAR PARK,2011,PV,4.5,,solar farm,AGR,REPD
+repd-1609,1609,England,Cornwall,50.399609,-5.055637,HENDRA HOLIDAY PARK SOLAR FARM,2011,PV,1.2,,solar farm,Hendra Holiday Park,REPD
+repd-1610,1610,England,Devon,50.773008,-4.335304,EASTACOMBE SOLAR FARM,2012,PV,3.6,,solar farm,The Green Company,REPD
+repd-1612,1612,Wales,Clwyd,53.040896,-2.989906,Wrexham Social Housing PV,2012,PV,5.4,,solar farm,Wrexham Council,REPD
+repd-1614,1614,England,Cornwall,50.795618,-4.545055,Creathorne Farm  - Solar Farm,2014,PV,1.8,,solar farm,Good Energy Generation,REPD
+repd-1617,1617,England,Devon,50.874481,-3.315392,Higher Pirzwell Solar Farm,2012,PV,1.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-1618,1618,England,Devon,50.852308,-3.73962,Broadgate Solar Farm,2012,PV,1.1,,solar farm,Lightsource Renewable Energy,REPD
+repd-1619,1619,England,Wiltshire,51.362644,-2.094661,CRAYSMARSH SOLAR FARM,2012,PV,1.8,,solar farm,Lightsource BP,REPD
+repd-1620,1620,England,Somerset,51.279938,-2.525569,SOLAR PARK - WHITCHURCH FARM,2014,PV,6.5,,solar farm,Anesco,REPD
+repd-1622,1622,England,Lincolnshire,53.148001,0.23483,THE HOLLIES SOLAR PARK - SKEGNESS,2013,PV,8.6,,solar farm,Private Developer,REPD
+repd-1623,1623,Wales,Dyfed,51.899181,-4.866457,AMBLESTON SOLAR PANELS,2012,PV,6.0,,solar farm,Arqiva Ltd,REPD
+repd-1626,1626,England,Cornwall,50.479616,-4.378305,Ford Farm Solar Farm,2013,PV,5.0,,solar farm,Ford Farm PV Scheme LLP,REPD
+repd-1630,1630,England,Cornwall,50.703451,-4.490614,Canworthy Water,2014,PV,41.0,,solar farm,Equitix,REPD
+repd-1631,1631,England,Devon,50.802364,-4.293664,Foxcombe Farm Solar Park,2013,PV,5.0,,solar farm,Private Developer,REPD
+repd-1634,1634,Wales,Dyfed,51.718375,-5.043934,Liddeston Ridge Solar Park (Milford Haven),2014,PV,5.0,,solar farm,Milford Haven Port Authority,REPD
+repd-1639,1639,England,Cornwall,50.411472,-4.77865,Bodwen Solar Park,2017,PV,5.5,,solar farm,Greencoat Capital,REPD
+repd-1641,1641,England,Cornwall,50.567938,-4.849809,Treswarrow Solar Park,2015,PV,6.5,,solar farm,Private Developer,REPD
+repd-1642,1642,England,Cornwall,50.331577,-4.929172,Carnemough Farm Solar Park,2016,PV,7.0,,solar farm,Elgin Energy EsCo,REPD
+repd-1646,1646,England,Somerset,51.057575,-2.86518,Aller Court Farm Solar Park,2017,PV,5.0,,solar farm,NESF (formerly British Solar Renewables),REPD
+repd-1648,1648,England,Devon,50.802591,-4.367805,Derriton Fields Solar Farm,2014,PV,11.8,,solar farm,Sunsave 12 (Derriton Fields) Limited./ Vogt solar,REPD
+repd-1649,1649,England,Devon,51.003869,-4.140824,Cleave Farm Solar Park,2013,PV,4.7,,solar farm,Lightsource Renewable Energy,REPD
+repd-1655,1655,England,Cornwall,50.291664,-5.139184,Four Burrows Farm  (Extension 2),2014,PV,6.3,,solar farm,Renewable Energy Systems (RES),REPD
+repd-1656,1656,England,Wiltshire,51.627581,-1.887616,Chelworth Industrial Estate Solar Park,2014,PV,1.0,,solar farm,Bath & West Community Energy Ltd,REPD
+repd-1658,1658,England,Essex,51.856249,0.498279,Drapers Farm Solar Park,2014,PV,6.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-1659,1659,England,Devon,50.951708,-4.119532,Week Farm Solar Park,2014,PV,3.3,,solar farm,Unknown,REPD
+repd-1661,1661,Wales,Dyfed,51.964701,-4.99311,Langton Farm Solar park,2015,PV,4.4,,solar farm,Lightsource Renewable Energy,REPD
+repd-1663,1663,England,Avon,51.533613,-2.449438,Says Court Farm solar park,2014,PV,19.8,,solar farm,AEE Renewables,REPD
+repd-1667,1667,England,Leicestershire,52.644102,-0.558802,Ketton solar farm,2014,PV,9.0,,solar farm,Lark Energy,REPD
+repd-1669,1669,England,Hampshire,50.809496,-1.359853,The Manor of Cadland Estate - extension,2014,PV,3.0,,solar farm,Manor of Cadland,REPD
+repd-1671,1671,England,Oxfordshire,51.844084,-1.22578,Rowles Farm solar park,2015,PV,13.0,,solar farm,United Photovoltaics,REPD
+repd-1672,1672,England,Norfolk,52.59442,0.39534,Ryston Estate Solar Park,2015,PV,4.8,,solar farm,Lightsource Renewable Energy,REPD
+repd-1673,1673,England,Norfolk,52.559394,0.564123,Reaches Farm Solar Park,2014,PV,6.1,,solar farm,Lightsource Renewable Energy,REPD
+repd-1681,1681,England,Somerset,51.225323,-2.944594,Watchfield Lawn,2014,PV,10.2,,solar farm,Belltown Power,REPD
+repd-1694,1694,England,Lincolnshire,53.147506,0.19181,Bicker Fen (previously Manor Farm),2024,PV,22.6,,solar farm,Innova Renewables Limited,REPD
+repd-1699,1699,England,Hereford and Worcester,51.973292,-2.674724,Witches Solar Farm,2013,PV,5.0,,solar farm,Smarter Energy Solutions,REPD
+repd-1713,1713,England,Norfolk,52.67323,0.627118,Burntstalk Solar Park,2013,PV,11.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-1714,1714,England,Norfolk,52.744971,0.775787,Claypit Moor Solar Farm (Lexham),2013,PV,7.9,,solar farm,Lightsource Renewable Energy,REPD
+repd-1715,1715,England,Suffolk,52.360598,1.52577,Holton Airfield,2013,PV,11.0,,solar farm,Private Developer,REPD
+repd-1716,1716,England,Oxfordshire,51.635927,-1.356903,Goose Willow Farm,2013,PV,11.5,,solar farm,IKAROS SOLAR LIMITED,REPD
+repd-1717,1717,England,Suffolk,52.352248,1.47371,Chediston Hall Solar Park,2013,PV,12.3,,solar farm,Lightsource Renewable Energy,REPD
+repd-1718,1718,England,Cornwall,50.360942,-4.946083,Burthy Farm,2015,PV,10.0,,solar farm,Elgin Energy EsCo,REPD
+repd-1719,1719,Wales,Dyfed,51.827891,-4.633438,Caeremlyn Solar Farm,2014,PV,18.0,,solar farm,Munich RE,REPD
+repd-1720,1720,England,Devon,50.420238,-3.761043,Hazard Farm,2014,PV,6.4,,solar farm,TGC Renewables,REPD
+repd-1721,1721,England,Oxfordshire,51.864763,-1.143822,Home Farm (Merton - solar),2013,PV,18.3,,solar farm,R S Assemblies Limited,REPD
+repd-1723,1723,England,Dorset,50.91295,-2.312625,Rudge Hill Farm,2013,PV,1.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-1724,1724,England,Wiltshire,51.592253,-1.716096,Sevor Farm,2013,PV,9.3,,solar farm,AEE Renewables,REPD
+repd-1725,1725,England,Wiltshire,51.626413,-2.110812,Marsh Farm,2014,PV,14.0,,solar farm,Steadfast Marsh Solar - Innogy (previously BELECTRIC Solar),REPD
+repd-1726,1726,England,Cornwall,50.303949,-5.138307,Four Burrows Solar farm (Extension 1),2014,PV,1.5,,solar farm,Inazin Power Ltd,REPD
+repd-1727,1727,England,Kent,51.392883,0.869522,Old Rides solar Farm,2014,PV,8.0,,solar farm,Sunsave 9 (Old Rides) Ltd/ Vogt solar,REPD
+repd-1728,1728,England,Cornwall,50.701309,-4.402452,Parabel North Beer Solar Farm,2013,PV,6.8,,solar farm,35 Degrees,REPD
+repd-1729,1729,England,Devon,50.842336,-4.095124,Crockers Hele,2013,PV,1.3,,solar farm,Private Developer,REPD
+repd-1730,1730,England,Cheshire,53.10505,-2.472766,Bentley Motors Ltd 1,2013,PV,5.1,,solar farm,Bentley Motor Cars Ltd,REPD
+repd-1731,1731,England,Gloucestershire,52.019557,-1.803226,Northwick Estate (Extension),2013,PV,2.2,,solar farm,Northwick Power Ltd,REPD
+repd-1732,1732,England,Oxfordshire,52.029988,-1.474843,North Of Field Barn,2014,PV,1.0,,solar farm,Blenheim Farm,REPD
+repd-1735,1735,England,Wiltshire,51.510417,-1.812427,Wroughton Airfield Solar Park,2016,PV,41.0,,solar farm,Rockfire Capital,REPD
+repd-1736,1736,England,Suffolk,52.279383,0.391403,Forest Heath Solar Farm,2014,PV,5.0,,solar farm,Munich RE,REPD
+repd-1737,1737,England,Cambridgeshire,52.41934,-0.23658,Abbey Farm,2014,PV,9.0,,solar farm,Anesco,REPD
+repd-1743,1743,England,Somerset,51.231135,-2.436745,Land at Soho Farm,2014,PV,1.5,,solar farm,Mells Park Trust,REPD
+repd-1744,1744,England,Oxfordshire,52.079426,-1.416887,Land South West Of Apollo Business Park,2014,PV,1.7,,solar farm,Cyrasol Ecotec,REPD
+repd-1746,1746,Wales,Gwent,51.834636,-2.92532,Manor Farm (Monmouthshire),2016,PV,10.5,,solar farm,3C Energy/Conergy,REPD
+repd-1747,1747,England,Somerset,51.229118,-2.821776,Land at Mill Farm,2013,PV,1.0,,solar farm,Community Power Ltd,REPD
+repd-1748,1748,England,Wiltshire,51.178268,-2.019592,Land at East Farm,2013,PV,6.8,,solar farm,Anesco,REPD
+repd-1750,1750,England,Somerset,51.007438,-3.201228,New Rendy Farm,2013,PV,4.8,,solar farm,TGC Renewables,REPD
+repd-1751,1751,England,Suffolk,52.340346,1.646733,Reydon Farm,2015,PV,3.9,,solar farm,Green Hedge (BayWa r.e.),REPD
+repd-1752,1752,England,Lincolnshire,53.022187,-0.735283,Copley Farm,2016,PV,30.0,,solar farm,TGC Renewables,REPD
+repd-1753,1753,England,Suffolk,52.438849,1.605932,Ellough Airfield (Ellough 2 extension),2016,PV,10.0,,solar farm,Lark Energy,REPD
+repd-1754,1754,England,Cornwall,50.30619,-5.095052,Nanteague Farm,2015,PV,7.7,,solar farm,British Solar Renewables,REPD
+repd-1755,1755,England,Lincolnshire,52.97225,-0.355472,Grange Farm (Burton Pedwardine),2014,PV,15.0,,solar farm,Lark Energy,REPD
+repd-1756,1756,England,Shropshire,52.720735,-2.486304,Wheat Leasows Solar Park,2014,PV,4.0,,solar farm,Telford and Wrekin Borough Council,REPD
+repd-1757,1757,England,Suffolk,52.339615,0.788608,Honington Solar Farm,2014,PV,13.6,,solar farm,NextEnergy Solar Fund (NESF),REPD
+repd-1758,1758,England,Isle of Wight,50.697522,-1.132184,Hill Farm Solar Park,2014,PV,10.2,,solar farm,Lightsource Renewable Energy (BNRG Renewables),REPD
+repd-1761,1761,England,Dorset,50.847044,-1.864754,Homeland Solar Farm,2014,PV,13.2,,solar farm,Foresight,REPD
+repd-1762,1762,England,Isle of Wight,50.710592,-1.137523,East Fairlee,2015,PV,7.3,,solar farm,The Solar Building Company Ltd,REPD
+repd-1763,1763,England,Essex,51.564106,0.389578,Fairwind Farm,2014,PV,10.0,,solar farm,MS Power Projects Ltd,REPD
+repd-1764,1764,England,Somerset,51.112859,-2.819212,Redlands Farm,2015,PV,6.2,,solar farm,juwi Renewable Energies,REPD
+repd-1765,1765,Wales,Dyfed,51.819484,-4.918903,Fenton Home Farm,2014,PV,31.3,,solar farm,Sunsave,REPD
+repd-1766,1766,England,Cambridgeshire,52.378714,-0.198163,Abbots Ripton Solar Farm,2014,PV,24.7,,solar farm,Octopus Investment,REPD
+repd-1767,1767,England,Kent,51.401663,0.806358,South Lees Farm,2014,PV,11.0,,solar farm,Solar Century,REPD
+repd-1768,1768,England,Hampshire,50.884407,-1.08128,Southwick Estate,2015,PV,48.0,,solar farm,Bluefield Solar Income Fund,REPD
+repd-1769,1769,England,Bedfordshire,52.14931,-0.256332,Waterloo solar park,2015,PV,14.6,,solar farm,Lightsource Renewable Energy,REPD
+repd-1772,1772,England,Leicestershire,52.644102,-0.558802,Ketton solar farm - phase 2,2015,PV,3.0,,solar farm,Lark Energy,REPD
+repd-1774,1774,Wales,Dyfed,51.823285,-4.861255,Oak Cottage,2015,PV,4.9,,solar farm,Anesco,REPD
+repd-1775,1775,England,Kent,50.992424,0.87625,Sycamore Farm,2014,PV,20.0,,solar farm,BNRG Renewables,REPD
+repd-1776,1776,England,Cornwall,50.441994,-4.217049,North Wayton Farm,2014,PV,5.0,,solar farm,KS SPV21 Ltd,REPD
+repd-1777,1777,England,Norfolk,52.861878,0.771256,South Creake Solar Farm,2016,PV,26.0,,solar farm,Lightsource BP,REPD
+repd-1781,1781,Wales,Dyfed,51.78738,-4.029081,Pen Y Cae solar farm,2015,PV,6.9,,solar farm,Rockfire Capital,REPD
+repd-1783,1783,England,Norfolk,52.712071,0.196507,Rose And Crown Farm,2016,PV,30.0,,solar farm,Elgin Energy EsCo,REPD
+repd-1784,1784,England,Wiltshire,51.541534,-1.870827,Wickfield Farm,2017,PV,5.0,,solar farm,NESF (formerly A C Crocker Properties Ltd),REPD
+repd-1785,1785,England,West Sussex,50.806146,-0.623524,Rookery Farm,2015,PV,3.8,,solar farm,Green Switch Solutions,REPD
+repd-1787,1787,Wales,Mid Glamorgan,51.495452,-3.695846,Seaview Farm,2016,PV,1.7,,solar farm,Private Developer,REPD
+repd-1788,1788,England,Bedfordshire,52.302051,-0.519555,Chelveston Airfield - extension,2014,PV,3.5,,solar farm,Chelveston Renewable Energy,REPD
+repd-1789,1789,Northern Ireland,Co. Antrim,54.608805,-6.167171,Knockcairn Road,2017,PV,6.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-1804,1804,England,Staffordshire,52.683936,-1.775524,Huddlesford Farm,2016,PV,1.0,,solar farm,NESF (formerly Green Energy Networks),REPD
+repd-1806,1806,England,Staffordshire,52.683996,-1.764902,Park Lane,2016,PV,1.0,,solar farm,NESF (formerly Green Energy Networks),REPD
+repd-1811,1811,England,Leicestershire,52.739738,-1.116147,Gypsom Solar Farm,2017,PV,5.0,,solar farm,BE Renewables,REPD
+repd-1813,1813,England,Cornwall,50.429517,-4.663348,Polmaugan Farm,2014,PV,5.0,,solar farm,Munich RE,REPD
+repd-1815,1815,England,Cornwall,50.394239,-4.845522,Land at Gilley's Mill Dam,2016,PV,5.0,,solar farm,NextEnergy Solar Fund,REPD
+repd-1816,1816,England,Kent,51.22739,0.711926,East Lenham Solar Farm,2014,PV,6.6,,solar farm,Laurence Associates,REPD
+repd-1817,1817,England,Oxfordshire,51.633425,-1.361345,Steventon Solar Park,2014,PV,10.0,,solar farm,Foresight,REPD
+repd-1818,1818,England,Nottinghamshire,53.222769,-0.926573,Westwood Farm Solar Park,2015,PV,5.1,,solar farm,Lightsource Renewable Energy,REPD
+repd-1820,1820,England,Norfolk,52.543265,0.54398,Meadow Farm solar park,2014,PV,6.0,,solar farm,Lightsource BP,REPD
+repd-1823,1823,Wales,South Glamorgan,51.418568,-3.326971,Sutton Mawr Farm,2014,PV,7.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-1824,1824,England,Cornwall,50.351312,-4.875908,Carloggas Farm Solar Park,2015,PV,8.3,,solar farm,Good Energy Generation,REPD
+repd-1826,1826,England,Lincolnshire,53.142691,0.202316,Lincoln Farm,2016,PV,11.4,,solar farm,juwi Renewable Energies,REPD
+repd-1827,1827,Wales,Dyfed,52.108387,-4.523581,Llwyn Du Solar Farm,2015,PV,8.0,,solar farm,Next Energy Solar Fund,REPD
+repd-1828,1828,England,Devon,51.146122,-4.137665,West Hill Farm (solar),2014,PV,7.3,,solar farm,Lumicity,REPD
+repd-1832,1832,England,Oxfordshire,51.605091,-1.400282,Elms Farm,2015,PV,29.0,,solar farm,Bluefield Solar,REPD
+repd-1834,1834,England,Wiltshire,51.519633,-1.880704,Rock Farm / Goldborough Farm (Rookwood),2015,PV,5.0,,solar farm,Good Energy Generation,REPD
+repd-1835,1835,England,Cambridgeshire,52.184532,0.269933,Great Wilbraham Solar Farm,2015,PV,38.1,,solar farm,Inazin Energy Limited / Low Carbon,REPD
+repd-1836,1836,England,Somerset,51.067308,-2.757253,Somerton Door Farm,2015,PV,8.7,,solar farm,Lightsource Renewable Energy,REPD
+repd-1838,1838,England,North Yorkshire,54.175095,-1.495521,Barugh Farm,2016,PV,5.0,,solar farm,HB & CH Barker Ltd,REPD
+repd-1840,1840,England,Hampshire,51.198721,-1.611622,Lains Farm,2016,PV,5.0,,solar farm,INRG,REPD
+repd-1842,1842,England,Buckinghamshire,51.850171,-0.648444,Great Seabrook Farm,2015,PV,5.0,,solar farm,Conergy,REPD
+repd-1843,1843,England,Nottinghamshire,52.917997,-1.049998,Cotgrave solar farm,2015,PV,4.9,,solar farm,Anesco,REPD
+repd-1846,1846,England,Devon,50.504672,-3.749741,Parkview solar park,2015,PV,6.5,,solar farm,NextEnergy,REPD
+repd-1848,1848,England,Hampshire,51.249726,-1.273927,Overton,2015,PV,4.0,,solar farm,British Solar Renewables,REPD
+repd-1850,1850,England,Wiltshire,51.524462,-1.791368,Lower Basset Down Farm,2016,PV,10.5,,solar farm,INRG Solar,REPD
+repd-1862,1862,Wales,Vale of Glamorgan,51.421627,-3.497722,Morfa Farm,2016,PV,2.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-1864,1864,England,Devon,51.153861,-4.173974,Barton Close Farm,2016,PV,5.5,,solar farm,British Solar Renewables,REPD
+repd-1865,1865,England,Cambridgeshire,52.355681,-0.077408,Wiggin Hill Solar Farm - Phase 1,2015,PV,6.8,,solar farm,Lightsource Renewable Energy,REPD
+repd-1872,1872,England,Cornwall,50.401581,-4.378701,Wilton Farm (pv),2015,PV,9.5,,solar farm,Primrose Solar,REPD
+repd-1874,1874,England,Dorset,50.837753,-2.228206,Canada Farm,2014,PV,8.3,,solar farm,British Solar Renewables,REPD
+repd-1875,1875,England,Cambridgeshire,52.119107,-0.029134,Hoback Farm,2014,PV,13.1,,solar farm,TGC Renewables,REPD
+repd-1876,1876,England,Gloucestershire,52.070158,-1.860966,The Rainbows Solar Farm,2014,PV,4.0,,solar farm,Innogy (previously BELECTRIC Solar),REPD
+repd-1878,1878,England,Buckinghamshire,52.146625,-0.756522,Salcey Solar Farm,2014,PV,5.0,,solar farm,NextEnergy Capital,REPD
+repd-1884,1884,England,Devon,50.811233,-4.086747,Hillsmoor Solar Farm,2017,PV,1.2,,solar farm,Mosscliff Environmental,REPD
+repd-1885,1885,England,Leicestershire,52.639974,-1.258552,Desford Solar Farm,2016,PV,5.0,,solar farm,Trina Solar,REPD
+repd-1886,1886,England,Avon,51.359343,-2.791302,Iwood Lane Solar Farm,2014,PV,8.0,,solar farm,Wessex Solar Energy,REPD
+repd-1889,1889,England,Suffolk,52.439271,1.587363,Playters Solar Farm,2016,PV,8.6,,solar farm,Anesco,REPD
+repd-1890,1890,England,Hereford and Worcester,52.102444,-1.920052,Bypass Nurseries Solar Farm,2014,PV,3.3,,solar farm,Sun Spirit,REPD
+repd-1892,1892,England,Cheshire,53.387316,-2.602879,Warrington Home Solar Scheme,2016,PV,5.3,,solar farm,Warrington Council,REPD
+repd-1893,1893,England,Suffolk,52.048566,0.944443,Babergh Home Solar Scheme,2016,PV,2.8,,solar farm,Babergh District Council,REPD
+repd-1894,1894,England,Suffolk,52.154084,1.039133,Mid Suffolk Home Solar Scheme,2016,PV,4.8,,solar farm,Mid Suffolk District Council,REPD
+repd-1895,1895,Wales,South Glamorgan,51.45367,-3.388595,Garn Solar Farm,2014,PV,7.4,,solar farm,Equitix,REPD
+repd-1896,1896,England,Cornwall,50.355673,-4.898795,Trethosa Farm Solar Park,2015,PV,4.8,,solar farm,Trethosa Solar Ltd,REPD
+repd-1897,1897,England,Cornwall,50.289724,-5.120718,Garvinack Farm Solar Park,2015,PV,7.0,,solar farm,Lumicity,REPD
+repd-1898,1898,England,Dorset,50.887773,-2.596191,Caswell Farm Solar Park,2016,PV,6.7,,solar farm,Juwi Renewable Energies,REPD
+repd-1899,1899,England,Oxfordshire,52.066531,-1.465822,Epwell Grounds Farm solar park,2014,PV,7.0,,solar farm,Private Developer,REPD
+repd-1900,1900,Wales,West Glamorgan,51.599764,-3.764649,Pant-Y-Moch Farm,2016,PV,5.0,,solar farm,Canadian Solar,REPD
+repd-1902,1902,England,Dorset,50.688638,-2.223461,Woolbridge Solar Park,2014,PV,5.0,,solar farm,Good Energy Generation,REPD
+repd-1903,1903,England,Somerset,51.042762,-2.792028,Tengore Lane,2015,PV,3.6,,solar farm,Foresight,REPD
+repd-1904,1904,England,Dorset,51.054142,-2.317898,Manor Farm (Dorset),2014,PV,5.0,,solar farm,INRG Solar,REPD
+repd-1905,1905,England,Kent,51.186928,0.340919,Hadlow Place solar farm,2015,PV,14.3,,solar farm,Hadlow Solar Park,REPD
+repd-1906,1906,England,Cambridgeshire,52.070051,-0.042311,Bassingbourn Solar Farm,2015,PV,14.4,,solar farm,Push Energy,REPD
+repd-1907,1907,England,Hampshire,50.740037,-1.552857,Lower Pennington Farm,2014,PV,2.7,,solar farm,West Solent Solar Cooperative,REPD
+repd-1908,1908,England,Oxfordshire,51.633032,-1.348766,Goose Willow Farm - extension,2014,PV,7.0,,solar farm,Ikaros Solar Limited,REPD
+repd-1909,1909,England,Norfolk,52.575712,1.388982,Avenue Farm,2015,PV,7.3,,solar farm,Lightsource Renewable Energy,REPD
+repd-1910,1910,England,Northamptonshire,52.303321,-0.77751,Sywell Road,2017,PV,5.0,,solar farm,NESF (formerly Lark Energy),REPD
+repd-1912,1912,England,Essex,51.955798,0.579687,Gosfield Airfield,2015,PV,12.6,,solar farm,Push Energy,REPD
+repd-1913,1913,England,Cambridgeshire,52.250164,0.348573,Exning,2015,PV,29.9,,solar farm,Vortex (formerly Sun Edison),REPD
+repd-1914,1914,England,Avon,51.539711,-2.522746,Grange Farm (Avon),2014,PV,21.0,,solar farm,Solar Power South,REPD
+repd-1915,1915,England,Wiltshire,51.175095,-2.010964,Land at East Farm - extension,2016,PV,6.0,,solar farm,J.M. Stratton & Co.,REPD
+repd-1918,1918,England,East Sussex,50.868415,0.120202,Laughton Level,2015,PV,7.0,,solar farm,Wessex Solar Energy,REPD
+repd-1919,1919,England,Cambridgeshire,52.128457,-0.079739,Croydon / Church Farm (Royston),2015,PV,16.5,,solar farm,Push Energy/ NextEnergy Solar Fund (NESF),REPD
+repd-1920,1920,England,Berkshire,51.480607,-1.564003,Hadley Farm (Orta Membury Solar Farm),2015,PV,17.0,,solar farm,Foresight Solar,REPD
+repd-1923,1923,England,Wiltshire,51.40954,-2.218895,Manor Farm (Wiltshire),2015,PV,6.3,,solar farm,RB & T Barton Ltd,REPD
+repd-1924,1924,England,Kent,51.355064,0.780783,Tonge Corner Farm,2016,PV,22.0,,solar farm,Martifer Solar (Voltalia),REPD
+repd-1925,1925,England,Kent,51.168176,0.807834,Oaklands Farm,2015,PV,6.9,,solar farm,Lightsource Renewable Energy,REPD
+repd-1927,1927,England,North Yorkshire,54.323561,-1.48768,North East of Ainderby Steeple,2017,PV,5.9,,solar farm,Renesola UK,REPD
+repd-1930,1930,Scotland,Tayside,56.367719,-3.277081,Errol Estate,2016,PV,13.0,,solar farm,Elgin Energy EsCo,REPD
+repd-1931,1931,England,Isle of Wight,50.713061,-1.260038,Grange Farm,2015,PV,6.0,,solar farm,INRG Solar,REPD
+repd-1938,1938,England,Berkshire,51.447806,-0.543317,Wraysbury Landfill,2017,PV,4.8,,solar farm,Sirius Solar Building,REPD
+repd-1940,1940,England,Hertfordshire,52.00799,-0.013402,Wisbridge Farm,2014,PV,9.3,,solar farm,Push Energy,REPD
+repd-1942,1942,England,Bedfordshire,51.860046,-0.463269,Caddington Solar Farm (Phase 1),2014,PV,3.0,,solar farm,Raybridge Corporation,REPD
+repd-1943,1943,England,Devon,51.131243,-3.908161,Capeland Farm,2015,PV,8.3,,solar farm,juwi Renewable Energies,REPD
+repd-1944,1944,England,Wiltshire,51.493641,-2.217411,Castle Combe Circuit,2015,PV,12.0,,solar farm,Sunsave 17 / Vogt Solar,REPD
+repd-1945,1945,England,Wiltshire,51.649063,-1.790725,Castle Eaton Farm,2014,PV,17.8,,solar farm,Hive Energy,REPD
+repd-1946,1946,England,Essex,51.910403,0.993762,Chancery Farm (Ardleigh),2016,PV,11.9,,solar farm,BlackRock,REPD
+repd-1947,1947,England,Bedfordshire,52.176746,-0.484363,Clapham solar farm,2016,PV,7.5,,solar farm,SBC Renewables,REPD
+repd-1949,1949,England,Bedfordshire,52.302708,-0.525326,Chelveston Airfield,2014,PV,16.0,,solar farm,Chelveston Renewable Energy Limited,REPD
+repd-1950,1950,England,Essex,51.821931,1.087278,Chisbon Solar Farm (Frowick Lane),2015,PV,13.0,,solar farm,ESCO NRG,REPD
+repd-1951,1951,Wales,Dyfed,51.770814,-4.038049,Clawdd Ddu PV,2014,PV,13.5,,solar farm,Elgin Energy EsCo,REPD
+repd-1952,1952,England,Somerset,51.350139,-2.824644,Congresbury Solar Farm,2015,PV,7.1,,solar farm,FIM Solar Distribution,REPD
+repd-1953,1953,Wales,Powys,51.700661,-3.947571,Abergelli Glas Solar Farm,2015,PV,7.7,,solar farm,Foresight,REPD
+repd-1954,1954,England,Cornwall,50.350206,-4.249825,Anthony Estate Solar Farm,2015,PV,4.7,,solar farm,St Anthony 101 PV Park Ltd,REPD
+repd-1955,1955,England,Derbyshire,52.881675,-1.743017,Aston House Solar Farm,2015,PV,20.0,,solar farm,Solar century / Magnetar Solar,REPD
+repd-1957,1957,England,West Sussex,50.764426,-0.793077,Bakers Farm (solar),2015,PV,12.0,,solar farm,Quercus Renewable Holding 2,REPD
+repd-1958,1958,England,Devon,50.349741,-4.036993,Balls Wood Solar Farm,2015,PV,8.7,,solar farm,Due South Energy & SunE Project6 Ltd,REPD
+repd-1959,1959,England,Essex,51.939218,1.136364,Barn Farm,2015,PV,4.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-1961,1961,England,Suffolk,52.316335,0.498938,Bay Farm,2014,PV,8.1,,solar farm,NextEnergy Solar Fund (NESF),REPD
+repd-1963,1963,England,East Sussex,50.856006,0.174812,Berwick solar farm,2015,PV,8.2,,solar farm,Susenco/Low Carbon,REPD
+repd-1964,1964,England,Devon,50.439104,-3.731338,Bidwell Solar Farm,2015,PV,5.0,,solar farm,Wessex Solar Energy,REPD
+repd-1966,1966,England,West Sussex,50.813843,-0.635676,Bilsham Farm,2014,PV,14.5,,solar farm,NextEnergy Solar Fund,REPD
+repd-1968,1968,England,Warwickshire,52.087851,-1.667312,Blackwell Grange Solar Farm,2017,PV,5.0,,solar farm,Conergy,REPD
+repd-1969,1969,England,Wiltshire,51.274643,-2.189925,Blenches Mill,2014,PV,6.1,,solar farm,NextEnery Solar Fund (NESF),REPD
+repd-1970,1970,England,Kent,51.358065,0.68887,Bobbing solar farm,2016,PV,11.3,,solar farm,Solar Securities (Group),REPD
+repd-1971,1971,England,Cornwall,50.483532,-4.733491,Bodmin 2 Solar Farm,2015,PV,5.3,,solar farm,Solar Securities Group,REPD
+repd-1973,1973,England,Dorset,50.712718,-2.165377,Bottom Plain,2014,PV,10.0,,solar farm,Inazin Energy/Low Carbon,REPD
+repd-1974,1974,England,Wiltshire,51.588541,-1.936225,Braydon Manor Farm,2016,PV,8.7,,solar farm,Public Power Solutions,REPD
+repd-1975,1975,Wales,West Glamorgan,51.686564,-3.958236,Brynwhilach Solar Park,2021,PV,4.0,,solar farm,Core Pisces / Gower Power Co-op CIC,REPD
+repd-1976,1976,England,Northamptonshire,52.154224,-0.810745,Bulls Head Farm North,2014,PV,4.7,,solar farm,Anesco,REPD
+repd-1978,1978,England,Devon,50.761273,-3.420782,Burrowton Farm,2016,PV,5.0,,solar farm,NextEnery Solar Fund (NESF),REPD
+repd-1981,1981,England,Kent,51.310548,1.338879,Ebbsfleet Solar Farm,2014,PV,5.0,,solar farm,Thanet Solar Ltd/ Vogt Solar,REPD
+repd-1982,1982,Wales,Mid Glamorgan,51.522665,-3.618744,Court Colman solar park,2015,PV,15.0,,solar farm,Suncredit UK/ Vogt Solar,REPD
+repd-1983,1983,England,Hampshire,51.19607,-1.460131,Cowdown Lane,2016,PV,40.0,,solar farm,Equitix,REPD
+repd-1984,1984,England,Devon,50.759928,-3.404805,Crannaford Solar Farm,2014,PV,12.5,,solar farm,MS Power Projects,REPD
+repd-1985,1985,Wales,Mid Glamorgan,51.635067,-3.169797,Cwmcaesingrug Farm,2015,PV,10.0,,solar farm,Kronos Solar,REPD
+repd-1987,1987,England,West Sussex,50.829093,-0.692043,Decoy Farm House Solar Modules,2014,PV,6.0,,solar farm,Ms Power Projects Ltd,REPD
+repd-1990,1990,England,Shropshire,52.960883,-2.724064,Hadley Solar Farm,2015,PV,6.6,,solar farm,Lightsource Renewable Energy,REPD
+repd-1991,1991,England,Leicestershire,52.630324,-1.348161,Hall Farm Solar Farm (Newbold Verdon),2015,PV,5.0,,solar farm,Push Energy/ NextEnergy Solar Fund (NESF),REPD
+repd-1992,1992,England,Avon,51.538935,-2.531446,Hammond Court Farm,2015,PV,15.0,,solar farm,Solar Power South,REPD
+repd-1994,1994,England,Hertfordshire,52.02123,-0.013603,Hatch Penn Farm PV,2014,PV,1.0,,solar farm,Private Developer,REPD
+repd-1995,1995,England,Shropshire,52.686803,-2.942007,Hayford Farm - extension,2015,PV,8.2,,solar farm,Green Power,REPD
+repd-1998,1998,England,Wiltshire,51.451222,-1.985963,High Penn Solar Park,2014,PV,9.6,,solar farm,Hive Energy,REPD
+repd-1999,1999,England,Essex,51.824756,0.719514,Highfields Farm (Braintree),2014,PV,2.8,,solar farm,Hive Energy,REPD
+repd-2000,2000,England,Essex,51.824756,0.719514,Highfields Farm (Colchester),2014,PV,12.2,,solar farm,Hive Energy,REPD
+repd-2001,2001,England,Hampshire,51.311837,-1.111366,Hill End Farm,2014,PV,2.8,,solar farm,Lightsource Renewable Energy,REPD
+repd-2004,2004,England,Somerset,51.198338,-2.383952,Holwell Hill,2016,PV,6.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-2005,2005,England,Somerset,51.048648,-2.434868,Hook Valley Solar Park,2014,PV,17.0,,solar farm,British Solar Renewables (formerly know as Solar Power Generation),REPD
+repd-2006,2006,England,Kent,51.102211,0.976451,Partridge Farm,2016,PV,10.6,,solar farm,Eco Energy World,REPD
+repd-2007,2007,England,Cumbria,54.778039,-3.324074,Aspatria,2015,PV,19.0,,solar farm,United Photovoltaics,REPD
+repd-2008,2008,England,Cornwall,50.303687,-5.075493,Penare Farm Solar Farm,2014,PV,11.0,,solar farm,British Solar Renewables (formerly Solar Power Generation),REPD
+repd-2009,2009,England,Cornwall,50.198734,-5.16911,Pencoose Farm,2015,PV,8.5,,solar farm,First Solar Project Ltd,REPD
+repd-2010,2010,England,Cornwall,50.407311,-4.451824,Pensipple Farm,2014,PV,5.0,,solar farm,Elgin Energy EsCo,REPD
+repd-2011,2011,England,Berkshire,51.417535,-1.014378,Pingewood Road South,2015,PV,15.8,,solar farm,BayWa/ SunGift,REPD
+repd-2012,2012,England,Gloucestershire,51.781916,-2.622969,Pingry Farm - Phase 1,2014,PV,3.4,,solar farm,Coleford Energy,REPD
+repd-2013,2013,England,Devon,50.821383,-4.427539,Pitworthy Farm Solar Park,2014,PV,15.6,,solar farm,Hive Energy,REPD
+repd-2014,2014,England,Lincolnshire,53.27431,-0.294364,Primrose Hill Farm,2015,PV,3.7,,solar farm,Sun & Soil,REPD
+repd-2015,2015,England,Somerset,51.178074,-2.923671,Pyde Drove,2014,PV,7.0,,solar farm,Wessex Solar Energy,REPD
+repd-2016,2016,England,Dorset,50.748188,-2.061393,Race farm,2014,PV,6.1,,solar farm,Equitix,REPD
+repd-2017,2017,England,Nottinghamshire,52.9356,-1.059105,Radcliffe Solar Farm,2015,PV,4.2,,solar farm,Sirius Solar Building,REPD
+repd-2019,2019,England,Humberside,53.696748,-0.063735,Redhall Industrial Estate,2014,PV,5.0,,solar farm,Dodds Limited,REPD
+repd-2020,2020,England,Avon,51.488983,-2.396055,Ring O Bells Farm,2016,PV,5.0,,solar farm,Green Energy UK Direct,REPD
+repd-2021,2021,England,Cumbria,54.174513,-3.209699,Roanhead Farm,2015,PV,6.5,,solar farm,Fengate Capital,REPD
+repd-2022,2022,England,Hereford and Worcester,52.153559,-2.034098,Rotherdale Farm - extension,2015,PV,9.0,,solar farm,Vale Green Energy,REPD
+repd-2023,2023,England,Wiltshire,51.380103,-2.162746,Roundponds Farm Solar Park,2015,PV,13.5,,solar farm,Hive Energy,REPD
+repd-2024,2024,England,Wiltshire,51.371328,-1.967585,Hopton Road Industrial Estate,2014,PV,1.3,,solar farm,Hopton PV Ltd,REPD
+repd-2026,2026,England,Hampshire,51.008678,-1.391482,Field House Solar / Hursley Road,2015,PV,6.4,,solar farm,Foresight,REPD
+repd-2027,2027,England,Oxfordshire,51.760107,-1.639602,Kencot Hill Solar Farm,2014,PV,37.0,,solar farm,Foresight Solar Fund Limited,REPD
+repd-2028,2028,England,Cornwall,50.353357,-4.904348,KERNICK MICA DAM - SOLAR FARM,2014,PV,12.0,,solar farm,Private Developer,REPD
+repd-2030,2030,England,Oxfordshire,51.643966,-1.373582,Landmead Farm (East Hanney),2014,PV,46.0,,solar farm,First Solar/Innogy (previously BELECTRIC Solar)/Foresight Solar Fund,REPD
+repd-2032,2032,England,Staffordshire,52.94733,-2.020332,Lower Newton Farm,2015,PV,11.5,,solar farm,Novus Solar Developments,REPD
+repd-2033,2033,England,Devon,50.293258,-3.767118,Lower Slade Farm,2015,PV,4.1,,solar farm,PS Renewables,REPD
+repd-2034,2034,England,Suffolk,52.136593,1.36571,Lower Ufford Lane,2015,PV,1.1,,solar farm,William Notcutt Estates,REPD
+repd-2035,2035,England,Wiltshire,51.662471,-1.700376,Lynt Farm,2015,PV,27.0,,solar farm,Meag,REPD
+repd-2036,2036,England,Staffordshire,52.878023,-1.832042,Marchington Solar Farm,2016,PV,4.3,,solar farm,Trina Solar,REPD
+repd-2039,2039,England,Somerset,51.184585,-2.33575,Monksham Solar Farm,2014,PV,10.7,,solar farm,John Laing Environmental Assets Group,REPD
+repd-2040,2040,England,Avon,51.514926,-2.657594,Moorhouse Lane,2015,PV,1.8,,solar farm,Orta Solar Ltd,REPD
+repd-2041,2041,England,Hereford and Worcester,52.181318,-1.956796,Morton Wood Farm,2016,PV,4.8,,solar farm,Sun & Soil,REPD
+repd-2043,2043,England,East Sussex,50.844962,0.235681,Natewood Farm,2015,PV,8.9,,solar farm,Haymaker Energy,REPD
+repd-2044,2044,England,Hampshire,50.890531,-1.332967,Netley Landfill Solar,2017,PV,12.0,,solar farm,REG Solarpower/Veolia,REPD
+repd-2045,2045,England,Oxfordshire,51.868031,-1.182379,New Stone House,2015,PV,12.5,,solar farm,INRG Solar,REPD
+repd-2046,2046,England,Norfolk,52.905692,0.830153,North Creake Airfield,2014,PV,20.0,,solar farm,British Solar Renewables (formerly known as Solar Power Generation),REPD
+repd-2047,2047,England,Dorset,50.744874,-2.095078,North of Newton Farm,2014,PV,3.0,,solar farm,Primrose Solar,REPD
+repd-2049,2049,England,Wiltshire,51.597801,-1.698332,Roves Farm (Solar),2015,PV,12.7,,solar farm,Bluefield Solar,REPD
+repd-2050,2050,England,Norfolk,52.688684,1.399951,Salhouse Solar Farm,2015,PV,5.0,,solar farm,Island Green Power,REPD
+repd-2051,2051,England,Gloucestershire,52.101119,-1.787028,Norton Hall,2014,PV,2.8,,solar farm,Ms Power Projects Ltd,REPD
+repd-2052,2052,England,Dorset,50.705544,-2.143586,Oaklands Plantation,2016,PV,5.0,,solar farm,Eneco UK,REPD
+repd-2053,2053,England,Essex,51.526238,0.319142,Ockendon Landfill Solar Farm,2023,PV,38.0,,solar farm,NTR Plc,REPD
+repd-2054,2054,England,Leicestershire,52.707292,-1.472496,Packington Solar Farm,2015,PV,13.9,,solar farm,Solstice Renewables,REPD
+repd-2055,2055,England,Devon,50.765004,-3.398533,SAUNDERCROFT SOLAR FARM,2014,PV,7.0,,solar farm,NextEnery Solar Fund (NESF),REPD
+repd-2056,2056,England,Gloucestershire,51.639032,-2.655097,Sedbury Park,2015,PV,5.0,,solar farm,Bee Green Solar,REPD
+repd-2057,2057,England,Leicestershire,52.780648,-1.02623,Six Hills Solar Farm,2015,PV,18.7,,solar farm,Lightsource Renewable Energy,REPD
+repd-2058,2058,England,Dorset,50.735537,-2.097553,South Newton Farm,2014,PV,11.3,,solar farm,Equitix,REPD
+repd-2059,2059,England,Cornwall,50.356248,-4.202043,Southdown Quarry,2015,PV,1.5,,solar farm,Ethical Power,REPD
+repd-2060,2060,England,Somerset,51.014061,-2.608572,Southfield Farm Solar Park,2016,PV,11.5,,solar farm,British Solar Renewables,REPD
+repd-2061,2061,England,Wiltshire,51.546356,-1.881442,Spittleborough Farm,2014,PV,12.0,,solar farm,MTS Spittleborough Solar Ltd,REPD
+repd-2062,2062,England,Wiltshire,51.618255,-1.751421,Stanton solar park,2015,PV,5.0,,solar farm,Quercus Renewable Holding 2,REPD
+repd-2063,2063,England,Gloucestershire,51.821243,-2.39979,Stantway Solar Farm,2014,PV,5.0,,solar farm,Private Developer,REPD
+repd-2064,2064,England,Devon,50.785461,-2.924862,Stonebarrow Farm,2014,PV,8.0,,solar farm,British Solar Renewables (formerly known as Solar Power Generation),REPD
+repd-2065,2065,England,Cambridgeshire,52.328993,0.218175,Stowbridge Farm,2014,PV,24.0,,solar farm,Magnetar Solar,REPD
+repd-2066,2066,England,Suffolk,52.008817,1.28686,Stratton Hall Solar Park,2014,PV,11.6,,solar farm,Stratton Hall Solar Park Limited,REPD
+repd-2067,2067,England,Somerset,51.013328,-2.564728,Sutton Montis Road Solar Park / Sutton Bridge Solar Farm,2015,PV,5.4,,solar farm,PS Renewables,REPD
+repd-2068,2068,England,Oxfordshire,51.74776,-0.934825,Thame solar farm,2016,PV,4.3,,solar farm,Big 60 Million,REPD
+repd-2071,2071,England,Oxfordshire,51.804611,-1.294028,The Flit,2015,PV,10.5,,solar farm,United Photovoltaics,REPD
+repd-2072,2072,England,Norfolk,52.691939,1.103876,The Old Airfield,2015,PV,5.0,,solar farm,Lumicity,REPD
+repd-2073,2073,England,Kent,51.338606,1.347639,Thorne Farm,2014,PV,6.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-2074,2074,Wales,Dyfed,51.749092,-5.04074,Tiers Cross Solar Farm,2014,PV,24.0,,solar farm,Good Energy Generation,REPD
+repd-2075,2075,England,Kent,51.209799,1.276389,Tilmanstone Colliery,2016,PV,10.0,,solar farm,Ovenden Plant Hire Limited,REPD
+repd-2076,2076,England,Suffolk,52.433391,0.500923,Toggam Farm,2016,PV,12.5,,solar farm,Forest Heath District Council,REPD
+repd-2077,2077,England,Avon,51.597344,-2.472445,Tower Hill Farm,2015,PV,8.1,,solar farm,NextEnergy Solar Fund (NESF),REPD
+repd-2078,2078,Wales,Clwyd,53.227867,-3.024834,Toyota Motor Manufacturing Uk - Deeside,2014,PV,3.8,,solar farm,Toyota Motor Manufacturing,REPD
+repd-2079,2079,Wales,Clwyd,52.945448,-2.917883,Trench Farm,2015,PV,7.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-2080,2080,England,Gloucestershire,51.959232,-2.121499,Troughton Farm,2016,PV,30.0,,solar farm,Hive Energy,REPD
+repd-2081,2081,England,Buckinghamshire,52.032815,-1.105311,Turweston Solar Farm,2014,PV,16.7,,solar farm,INRG Solar,REPD
+repd-2082,2082,England,Hampshire,51.172101,-1.099707,Upper Farm solar park,2015,PV,12.0,,solar farm,Kronos Solar,REPD
+repd-2083,2083,England,Gloucestershire,51.643564,-2.406462,Upper Huntingford Farm,2016,PV,7.7,,solar farm,Foresight,REPD
+repd-2084,2084,England,Leicestershire,52.799697,-1.364202,Walnut Yard (Phase 1),2015,PV,1.8,,solar farm,Lark Energy,REPD
+repd-2085,2085,England,Wiltshire,51.643318,-1.817791,Water Eaton Farm / Port Farm,2015,PV,34.8,,solar farm,Foresight/ Vogt solar,REPD
+repd-2086,2086,England,Dorset,50.861324,-1.900844,Wedgehill Farm,2015,PV,13.0,,solar farm,Orta Solar,REPD
+repd-2088,2088,England,Norfolk,52.790502,0.744777,West Raynham,2015,PV,49.9,,solar farm,Bluefield Solar,REPD
+repd-2089,2089,England,Oxfordshire,51.785433,-1.608174,Westerfield Farm,2015,PV,12.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-2090,2090,England,Hampshire,51.162149,-1.506246,Westover Farm,2014,PV,7.0,,solar farm,Private Developer,REPD
+repd-2091,2091,England,Somerset,51.130298,-2.795254,Whitley Farm (1 of 2),2014,PV,3.5,,solar farm,NextEnery Solar Fund (NESF),REPD
+repd-2092,2092,England,Somerset,51.128474,-2.784405,Whitley Farm (2 of 2),2014,PV,3.5,,solar farm,NextEnery Solar Fund (NESF),REPD
+repd-2093,2093,Wales,South Glamorgan,51.441325,-3.323975,Whitton Mawr,2017,PV,6.0,,solar farm,Cenin Renewables,REPD
+repd-2095,2095,England,Devon,50.824489,-3.397385,Winham Farm,2015,PV,5.0,,solar farm,Hive Energy,REPD
+repd-2096,2096,Wales,South Glamorgan,51.4679,-3.243187,Woden Park,2014,PV,5.0,,solar farm,Caerau Solar IQ,REPD
+repd-2098,2098,England,Cornwall,50.441353,-4.242977,West Kingsmill Farm Solar Park,2014,PV,1.6,,solar farm,Inazin (previously Low carbon Solar Partners),REPD
+repd-2101,2101,England,Devon,51.018939,-3.684642,Bommertown Solar Farm,2015,PV,5.0,,solar farm,Steadfast Molland Solar Ltd,REPD
+repd-2102,2102,England,Cornwall,50.72385,-4.405447,West Ditchen Farm,2016,PV,5.0,,solar farm,PV Sunpower Ltd,REPD
+repd-2103,2103,England,Somerset,51.066665,-3.116659,Lower Marsh Farm,2014,PV,5.0,,solar farm,Solar Power South,REPD
+repd-2104,2104,Wales,Isle of Anglesey,53.178668,-4.414809,Bodorgan Solar Farm,2014,PV,12.6,,solar farm,Anesco,REPD
+repd-2105,2105,England,Dorset,50.795857,-1.856331,Chapel Lane Parley Solar Farm Phase 2,2014,PV,36.0,,solar farm,Eco Sustainable Solutions,REPD
+repd-2107,2107,England,Derbyshire,53.247923,-1.346445,Arkwright Solar Farm,2015,PV,8.0,,solar farm,Conergy,REPD
+repd-2108,2108,England,Shropshire,52.824445,-2.809576,Charity Farm (Burlton Solar Farm),2016,PV,14.4,,solar farm,Lightsource Renewable Energy,REPD
+repd-2109,2109,England,Dorset,50.865237,-1.882975,Verwood Solar Farm,2015,PV,20.4,,solar farm,Foresight,REPD
+repd-2110,2110,Wales,Gwynedd,53.165336,-4.24144,Parciau Farm Solar Park,2015,PV,13.9,,solar farm,Kronos Solar,REPD
+repd-2111,2111,England,Derbyshire,53.01237,-1.602526,Smith Hall Farm Solar Park,2016,PV,5.0,,solar farm,Trina Solar,REPD
+repd-2112,2112,England,Devon,50.647285,-3.382488,Bystock Solar Farm,2015,PV,4.1,,solar farm,Lightsource Renewable Energy,REPD
+repd-2114,2114,England,Dorset,50.817323,-1.924303,Bedborough Farm,2016,PV,7.0,,solar farm,Solstice Renewables Ltd,REPD
+repd-2117,2117,England,London,51.558725,0.282721,Cranham Golf Course Solar Park,2016,PV,2.6,,solar farm,Cranham Golf Course,REPD
+repd-2118,2118,England,Somerset,50.93734,-2.865963,Hurcott Copse Solar Farm,2015,PV,10.0,,solar farm,Dillington Farms Ltd,REPD
+repd-2120,2120,England,Somerset,51.005928,-3.221928,Grange Farm Solar Farm,2013,PV,4.9,,solar farm,Anesco,REPD
+repd-2121,2121,England,Cornwall,50.435884,-4.378801,Trehawke Barton (Doddycross) Solar Farm,2014,PV,10.6,,solar farm,Foresight,REPD
+repd-2125,2125,England,Cornwall,50.47413,-4.316324,Newton Ferrers solar park,2016,PV,19.5,,solar farm,Gruene Energien,REPD
+repd-2126,2126,England,Cornwall,50.160103,-5.183301,Nancrossa Farm solar park,2016,PV,6.0,,solar farm,Second Solar Project,REPD
+repd-2127,2127,England,Somerset,51.213848,-2.585848,Pitts Farm,2014,PV,2.6,,solar farm,Lightsource BP,REPD
+repd-2128,2128,England,Nottinghamshire,53.302646,-0.919454,Walmoor Farm solar park,2015,PV,4.0,,solar farm,Green Switch Solutions,REPD
+repd-2129,2129,England,Cornwall,50.426286,-4.365591,Trequite Farm solar park,2014,PV,9.9,,solar farm,Elgin Energy EsCo,REPD
+repd-2132,2132,England,East Sussex,50.933528,0.110809,Bentley Estate,2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-2133,2133,England,Somerset,51.204187,-2.528069,New Row Farm,2014,PV,3.9,,solar farm,Lightsource Renewable Energy,REPD
+repd-2135,2135,England,Kent,51.455134,0.614203,MALMAYNES HALL FARM,2015,PV,12.0,,solar farm,Wessex Solar Energy,REPD
+repd-2136,2136,England,Gloucestershire,51.724087,-1.913161,Crucis Park,2014,PV,12.5,,solar farm,Solar Planning Limited,REPD
+repd-2137,2137,Wales,South Glamorgan,51.430814,-3.407279,Treguff Farm,2015,PV,4.4,,solar farm,Lightsource Renewable Energy,REPD
+repd-2138,2138,England,Kent,51.061165,0.812542,Kenardington Place Farm,2015,PV,7.0,,solar farm,Kronos Solar,REPD
+repd-2139,2139,England,Dorset,50.77349,-2.04767,Henbury Quarry,2015,PV,3.9,,solar farm,Lightsource Renewable Energy,REPD
+repd-2140,2140,England,Lincolnshire,53.143959,-0.160538,Grange Farm (Kirkby on Bain),2015,PV,9.0,,solar farm,Solar Park Developments,REPD
+repd-2143,2143,England,Essex,51.943065,0.929579,Boxted Airfield,2015,PV,18.8,,solar farm,NextEnergy Solar Fund,REPD
+repd-2144,2144,England,Buckinghamshire,52.136728,-0.692712,Rectory Farm/Emberton,2015,PV,9.0,,solar farm,Low Carbon,REPD
+repd-2145,2145,England,Devon,50.766778,-3.465732,St Francis Court Farm,2017,PV,4.0,,solar farm,Martifer Solar (Voltalia),REPD
+repd-2150,2150,England,Hampshire,51.327975,-1.112188,Berry Court Farm,2016,PV,4.2,,solar farm,Green Switch Solutions - SOLD,REPD
+repd-2151,2151,England,Nottinghamshire,53.312443,-0.999749,Walkers Wood Solar Park,2015,PV,27.0,,solar farm,Solar century / Magnetar Solar,REPD
+repd-2152,2152,England,Bedfordshire,52.231651,-0.596797,Odell Glebe Solar Farm,2015,PV,16.8,,solar farm,Vento Ludens,REPD
+repd-2153,2153,England,Somerset,51.351617,-2.50393,Hunstrete (Wilmington Farm),2014,PV,2.3,,solar farm,Bath & West Community Energy Ltd,REPD
+repd-2154,2154,England,Somerset,50.898865,-2.777226,Lower Severalls Farm,2017,PV,10.8,,solar farm,Sigma Solar Limited / OPDE,REPD
+repd-2157,2157,England,Warwickshire,52.213454,-1.737183,Burton Farm,2015,PV,4.4,,solar farm,Quercus Renewable Holding 2,REPD
+repd-2158,2158,England,Shropshire,52.734892,-2.707961,Sundorne Grove,2015,PV,20.0,,solar farm,Elgin Energy EsCo,REPD
+repd-2159,2159,England,Wiltshire,51.306568,-2.038741,Lower End Farm,2015,PV,4.9,,solar farm,Good Energy Generation,REPD
+repd-2160,2160,England,Lincolnshire,53.155071,0.296537,Skegness Solar Park,2015,PV,4.9,,solar farm,Skegness Solar Park,REPD
+repd-2162,2162,England,Derbyshire,53.207073,-1.3724,Land north of Temple Normanton,2016,PV,4.9,,solar farm,NESF (formerly Lark Energy),REPD
+repd-2164,2164,England,Somerset,51.017356,-2.959094,Helland Meads,2014,PV,1.2,,solar farm,Private Developer,REPD
+repd-2165,2165,England,Nottinghamshire,53.107254,-1.29909,Crow Trees Farm,2016,PV,4.7,,solar farm,Foresight,REPD
+repd-2166,2166,England,Shropshire,52.569308,-3.050397,Priest Weston,2015,PV,1.0,,solar farm,Mellington Farm,REPD
+repd-2169,2169,England,East Sussex,50.931336,0.237686,Horam,2015,PV,8.1,,solar farm,Vogt Solar,REPD
+repd-2171,2171,England,Cambridgeshire,52.529503,-0.0262,Turves/Burtnhouse Solar Farm Extension,2015,PV,4.7,,solar farm,Lightsource Renewable Energy,REPD
+repd-2173,2173,England,Devon,50.65819,-3.393448,Coombe Farm,2015,PV,8.0,,solar farm,Renewable Energy Systems Ltd (RES),REPD
+repd-2174,2174,England,Somerset,51.079382,-2.695538,Higher Hill Farm (extension),2016,PV,1.5,,solar farm,British Solar Renewables,REPD
+repd-2175,2175,England,Hereford and Worcester,52.07195,-1.910229,Mount Farm,2016,PV,22.0,,solar farm,INRG (Solar Park) 14,REPD
+repd-2176,2176,Wales,Gwent,51.725764,-3.158195,Hafod-Y-Dafal Farm,2015,PV,14.0,,solar farm,KS SPV53 Ltd,REPD
+repd-2178,2178,England,Staffordshire,52.669112,-2.126702,Barr Farm,2015,PV,1.8,,solar farm,Lark Energy,REPD
+repd-2179,2179,England,Lancashire,53.770939,-2.578186,BAE Samlesbury Aerodrome,2015,PV,2.0,,solar farm,British Aerospace Defence Limited,REPD
+repd-2180,2180,Wales,Dyfed,51.813473,-4.941746,Shoals Hook Farm,2015,PV,12.1,,solar farm,John Laing Environmental Assets Group,REPD
+repd-2181,2181,England,Bedfordshire,51.924797,-0.611839,Manor Farm,2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-2182,2182,England,Buckinghamshire,52.126718,-0.805166,Littlewood Farm,2015,PV,14.0,,solar farm,3C Energy,REPD
+repd-2184,2184,England,Derbyshire,53.237268,-1.342547,Cherry Tree Farm,2016,PV,5.0,,solar farm,Trina Solar,REPD
+repd-2185,2185,England,Cambridgeshire,52.370278,-0.131449,Lodge Farm,2015,PV,2.4,,solar farm,G & D Castle Ltd,REPD
+repd-2186,2186,England,Buckinghamshire,51.748313,-0.896324,Bumpers Farm Phase 1,2017,PV,5.0,,solar farm,Solar Planning,REPD
+repd-2187,2187,England,Essex,51.836996,0.7886,Birch Airfield,2015,PV,5.6,,solar farm,Push Energy/ NextEnergy Solar Fund (NESF),REPD
+repd-2188,2188,England,Northamptonshire,52.448768,-0.798223,Gaultney Solar Park,2015,PV,20.5,,solar farm,United Photovoltaics,REPD
+repd-2190,2190,England,Somerset,51.178798,-2.978421,Puriton Landfill Solar Farm,2015,PV,11.4,,solar farm,SBC Renewables,REPD
+repd-2192,2192,England,Nottinghamshire,53.260108,-1.187805,Hunciecroft Farm,2015,PV,8.0,,solar farm,Solar century / Magnetar Solar,REPD
+repd-2196,2196,England,Staffordshire,52.839691,-1.685367,Rolleston Park Farm,2015,PV,18.7,,solar farm,Push Energy,REPD
+repd-2200,2200,England,Leicestershire,52.756806,-1.499014,Prestop Park Farm,2015,PV,16.0,,solar farm,Foresight,REPD
+repd-2201,2201,England,Somerset,51.221673,-2.911599,Yardwall Manor,2015,PV,3.0,,solar farm,Foresight,REPD
+repd-2202,2202,England,Cambridgeshire,52.065023,-0.02231,Royston Solar Farm (Phase 1) (a),2016,PV,5.0,,solar farm,Canadian Solar,REPD
+repd-2203,2203,England,Wiltshire,51.506642,-1.968037,Bradenstoke solar park,2016,PV,69.8,,solar farm,Defence Infrastructure Organisation / BSR,REPD
+repd-2204,2204,England,Lincolnshire,53.027595,-0.399116,Deepdale Farm,2016,PV,8.0,,solar farm,Deepdale Farm Solar Ltd,REPD
+repd-2205,2205,England,Northamptonshire,52.175223,-0.780367,Manor Farm (Horton),2016,PV,5.0,,solar farm,Capital Stage,REPD
+repd-2206,2206,Wales,Mid Glamorgan,51.632727,-3.158221,Penrhiwarwydd Farm,2015,PV,8.5,,solar farm,MTS Hill Farm Solar Ltd,REPD
+repd-2208,2208,England,Lincolnshire,52.925871,-0.105662,Nowhere Farm,2015,PV,8.1,,solar farm,Estover Energy,REPD
+repd-2210,2210,England,Nottinghamshire,52.90268,-0.950765,Langar Lane,2016,PV,10.0,,solar farm,Kappa Solar/ OPDE,REPD
+repd-2211,2211,England,Shropshire,52.622291,-2.713056,Pitchford,2015,PV,10.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-2212,2212,England,Shropshire,52.632678,-2.730054,Condover Airfield,2015,PV,12.3,,solar farm,Lightsource Renewable Energy,REPD
+repd-2213,2213,England,South Yorkshire,53.620816,-1.160217,Askern Colliery solar farm,2015,PV,5.0,,solar farm,Anesco,REPD
+repd-2215,2215,Wales,West Glamorgan,51.765839,-3.621199,Maesgwyn solar farm,2017,PV,7.5,,solar farm,Walters Group,REPD
+repd-2216,2216,England,Buckinghamshire,51.871828,-0.632557,Church Farm,2015,PV,6.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-2217,2217,England,Hertfordshire,51.839493,-0.739483,Folly Farm,2015,PV,13.1,,solar farm,Hive Energy,REPD
+repd-2218,2218,England,Cambridgeshire,52.333592,0.225598,Stowbridge Farm - Extension (Phase 2),2015,PV,10.0,,solar farm,FC Palmer and Sons,REPD
+repd-2219,2219,England,Cambridgeshire,52.078248,0.048908,Black Peak Farm,2015,PV,31.8,,solar farm,Lightsource Renewable Energy,REPD
+repd-2221,2221,England,Nottinghamshire,53.365914,-1.033002,"Jubilee Farm, Barnby Moor",2017,PV,5.0,,solar farm,NESF (formerly Lark Energy),REPD
+repd-2225,2225,England,Devon,50.408451,-4.029532,Newnham Estate,2015,PV,14.0,,solar farm,Solstice Renewables,REPD
+repd-2226,2226,England,Somerset,50.874434,-2.987524,Wambrook Farm,2015,PV,4.1,,solar farm,Sunsave 19 (Wambrook)/ Vogt Solar,REPD
+repd-2227,2227,England,Buckinghamshire,51.988549,-1.00504,Gawcott Fields Farm,2015,PV,9.2,,solar farm,Harper Solar Ltd,REPD
+repd-2228,2228,England,Northamptonshire,52.039387,-0.894347,Mount Mill Farm,2015,PV,12.0,,solar farm,OPDE,REPD
+repd-2231,2231,England,Northamptonshire,52.107945,-1.020739,Handley Park,2016,PV,5.0,,solar farm,Haymaker Energy,REPD
+repd-2232,2232,England,Warwickshire,52.234695,-1.544226,Tollgate Farm,2016,PV,4.3,,solar farm,CRE8 Energy (UK),REPD
+repd-2233,2233,England,Dorset,50.818213,-2.169782,North Farm (Spetisbury),2015,PV,11.6,,solar farm,British Solar Renewables,REPD
+repd-2234,2234,England,Dorset,50.803196,-1.864383,Chapel Lane Parley Solar Farm Phase 3,2015,PV,4.0,,solar farm,Eco Sustainable Solutions,REPD
+repd-2236,2236,Northern Ireland,Co. Antrim,54.518139,-6.0994,Ballinderry Road Solar Phase 1 (Lisburn),2017,PV,13.5,,solar farm,Hadstone Energy/Island Green Power,REPD
+repd-2237,2237,England,Leicestershire,52.809507,-1.087451,GDL Wymeswold Solar Farm/land off the A6006,2016,PV,6.1,,solar farm,Green Switch Solutions,REPD
+repd-2238,2238,England,Gloucestershire,51.73567,-2.362368,Hillhouse Farm,2015,PV,28.5,,solar farm,Cambridge Solar Power/ Vogt Solar,REPD
+repd-2239,2239,England,Buckinghamshire,51.810588,-0.733849,Gib Lane (Aston Clinton solar park),2015,PV,24.2,,solar farm,CEE,REPD
+repd-2240,2240,England,Essex,51.621897,0.446691,Outwood Farm (Phase 1),2016,PV,5.0,,solar farm,MS Power Projects,REPD
+repd-2241,2241,England,Humberside,53.560432,-0.581262,Raventhorpe Farm,2015,PV,38.0,,solar farm,Fengate Capital,REPD
+repd-2242,2242,England,Somerset,51.080608,-2.510158,Manor Farm (Castle Cary),2017,PV,1.8,,solar farm,Brilliant Harvest Installations,REPD
+repd-2243,2243,Wales,Mid Glamorgan,51.563861,-3.291551,Maes Bach Farm,2015,PV,4.9,,solar farm,Lightsource Renewable Energy,REPD
+repd-2244,2244,England,Berkshire,51.389541,-0.961041,Sheepbridge Court Farm,2015,PV,5.0,,solar farm,Foresight,REPD
+repd-2247,2247,England,Nottinghamshire,52.948139,-0.847685,Elton solar farm,2015,PV,5.0,,solar farm,Valfortec,REPD
+repd-2248,2248,England,Dorset,50.906903,-1.840431,Cross Roads Plantation,2015,PV,5.0,,solar farm,Good Energy Generation,REPD
+repd-2249,2249,England,Cambridgeshire,52.064864,0.011005,Munceys Farm,2015,PV,31.6,,solar farm,Lightsource Renewable Energy,REPD
+repd-2252,2252,England,Devon,51.110479,-4.120518,Luscott Barton,2015,PV,13.0,,solar farm,Sunsave 7 Luscott Barton Ltd/ vogt Solar,REPD
+repd-2253,2253,Wales,Gwynedd,53.286797,-3.525209,Kinmel 1 CIC,2016,PV,5.0,,solar farm,Haymaker Energy,REPD
+repd-2255,2255,England,Kent,51.351562,1.098598,Owls Hatch Road,2015,PV,48.0,,solar farm,Cubico Sustainable Investments,REPD
+repd-2258,2258,England,East Sussex,50.840411,0.190678,Wilbees Farm,2016,PV,5.0,,solar farm,Hive Energy,REPD
+repd-2259,2259,England,Oxfordshire,51.586839,-1.131373,Winterbrook,2015,PV,1.2,,solar farm,S.A.T. Sun & Alternative Technology,REPD
+repd-2260,2260,England,Nottinghamshire,53.240625,-1.107963,Welbeck Solar / Hazel Gap,2015,PV,16.0,,solar farm,Solar century / Magnetar Solar,REPD
+repd-2261,2261,England,Northamptonshire,52.102645,-0.923196,Homestead Farm (Alderton),2015,PV,17.6,,solar farm,CEE,REPD
+repd-2263,2263,England,Lancashire,54.022263,-2.822834,Arna Wood Solar,2017,PV,6.2,,solar farm,BE Renewables (on behalf of Arna Wood),REPD
+repd-2264,2264,England,West Yorkshire,53.702772,-1.242279,Knottingley A,2016,PV,5.0,,solar farm,Envantage Renewables,REPD
+repd-2265,2265,England,Bedfordshire,51.987418,-0.481806,Clayhill Farm,2016,PV,10.0,,solar farm,Anesco,REPD
+repd-2266,2266,England,Kent,51.172649,0.412028,Paddock Wood,2015,PV,9.2,,solar farm,Foresight Solar Fund,REPD
+repd-2268,2268,England,Essex,51.627237,0.843023,Wick Farm (Burnham on Crouch),2015,PV,5.0,,solar farm,Countryside Renewables,REPD
+repd-2271,2271,England,Nottinghamshire,53.231115,-1.091442,Netherfield Lane,2015,PV,19.7,,solar farm,Lightsource Renewable Energy,REPD
+repd-2272,2272,England,Shropshire,52.529493,-2.490939,Upper Meadowley Farm,2017,PV,10.7,,solar farm,GDL Upper Meadowley,REPD
+repd-2274,2274,England,Somerset,51.287111,-2.981295,Wick Farm Solar Park,2016,PV,14.6,,solar farm,Hadstone Energy/ Communities for Renewables,REPD
+repd-2277,2277,England,Lincolnshire,53.319938,0.094725,High Leas,2015,PV,6.5,,solar farm,European Energy Photovoltaics,REPD
+repd-2278,2278,England,Warwickshire,52.613055,-1.558992,Atherstone,2015,PV,14.7,,solar farm,Foresight Solar Fund,REPD
+repd-2279,2279,England,Warwickshire,52.214179,-1.445495,The Elms,2015,PV,10.4,,solar farm,Foresight Solar Fund,REPD
+repd-2280,2280,England,West Sussex,50.862139,-0.79273,Hunters Race Solar Park,2014,PV,9.3,,solar farm,Aardvark Environment Matters,REPD
+repd-2281,2281,England,Suffolk,52.196478,1.410106,Parham Airfield (Great Glenham),2013,PV,17.5,,solar farm,AG Renewables Ltd,REPD
+repd-2282,2282,England,Dorset,50.791799,-1.861238,Chapel Lane Parley Solar Farm Phase 1,2014,PV,20.0,,solar farm,Solar Power Generation Limited,REPD
+repd-2283,2283,England,Nottinghamshire,53.223917,-1.137683,Welbeck Colliery,2014,PV,11.3,,solar farm,Foresight,REPD
+repd-2284,2284,England,Suffolk,52.448503,1.674749,Priory Farm,2014,PV,3.1,,solar farm,Private Developer,REPD
+repd-2285,2285,England,Wiltshire,51.383321,-2.1701,Norrington Common Solar Farm,2014,PV,10.0,,solar farm,Terraform Power (SunEdison),REPD
+repd-2286,2286,Wales,West Glamorgan,51.740927,-3.591252,Hendre Fawr Farm,2015,PV,11.6,,solar farm,INRG Solar,REPD
+repd-2288,2288,England,Cornwall,50.750979,-4.450633,Northmoor,2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-2296,2296,England,West Sussex,50.814822,-0.682534,Manor Farm - Shripney,2016,PV,5.0,,solar farm,BNRG Renewables,REPD
+repd-2298,2298,England,Somerset,51.348437,-2.515655,Chelwood Solar Farm,2015,PV,5.0,,solar farm,Mongoose Energy Coop,REPD
+repd-2299,2299,England,Bedfordshire,52.2679,-0.423427,Manor Farm - Pertenhall,2015,PV,15.0,,solar farm,Prosolia UK,REPD
+repd-2300,2300,England,Norfolk,52.603211,1.030372,Hardingham Solar Farm - extension,2015,PV,5.2,,solar farm,Solar Century/ Bluefield Solar,REPD
+repd-2307,2307,England,Oxfordshire,51.853913,-1.131847,Brooks Farm Solar Park,2015,PV,8.0,,solar farm,Green Energy UK Direct Ltd,REPD
+repd-2308,2308,England,Dorset,50.755491,-1.750245,Christchurch Energy,2015,PV,18.0,,solar farm,New Forest Energy Ltd,REPD
+repd-2309,2309,England,Lincolnshire,53.407472,0.018848,Yarburgh Grove Farm,2015,PV,8.1,,solar farm,Foresight,REPD
+repd-2312,2312,England,Hampshire,51.288459,-0.883505,Taplins Farm solar park,2016,PV,5.9,,solar farm,PS Renewables,REPD
+repd-2314,2314,England,Isle of Wight,50.693953,-1.443076,Homestead Farm,2015,PV,10.7,,solar farm,Anesco,REPD
+repd-2319,2319,England,Buckinghamshire,52.096248,-0.742872,The Kickles,2016,PV,5.0,,solar farm,Green Energy UK Direct Ltd/ Vogt Solar,REPD
+repd-2320,2320,England,Nottinghamshire,53.154676,-1.013992,Eakring Solar Farm,2015,PV,11.9,,solar farm,Lightsource Renewable Energy,REPD
+repd-2321,2321,England,Nottinghamshire,53.211282,-0.879811,Egmanton Solar Farm,2015,PV,14.2,,solar farm,United Photovoltaics,REPD
+repd-2323,2323,England,Lincolnshire,53.181331,-0.473593,Branston solar park,2015,PV,18.9,,solar farm,Inazin Energy Limited/Low Carbon,REPD
+repd-2324,2324,Northern Ireland,Co. Antrim,54.607712,-6.189946,Moira Road,2017,PV,6.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-2325,2325,Wales,Dyfed,51.684905,-4.907846,Golden Hill,2015,PV,6.2,,solar farm,John Laing Environmental Assets Group,REPD
+repd-2326,2326,Wales,Dyfed,51.642314,-4.948412,Chapel Hill,2015,PV,8.0,,solar farm,Wessex Solar Energy,REPD
+repd-2327,2327,Wales,Mid Glamorgan,51.672506,-3.381077,Pen Rhiw Caradog,2017,PV,4.7,,solar farm,Lightsource Renewable Energy,REPD
+repd-2329,2329,England,Cambridgeshire,52.11118,-0.069061,Vine Farm Solar Park,2016,PV,45.0,,solar farm,Allianz,REPD
+repd-2331,2331,England,Devon,50.386015,-3.766442,Coombeshead Solar Farm,2015,PV,8.0,,solar farm,Foresight,REPD
+repd-2332,2332,England,Lincolnshire,52.697999,-0.132859,Decoy Farm,2015,PV,5.0,,solar farm,Push Energy/ NextEnergy Solar Fund (NESF),REPD
+repd-2333,2333,England,Oxfordshire,51.670456,-1.059656,Easington Farm (Chalgrove),2015,PV,21.3,,solar farm,Chalgrove Solar,REPD
+repd-2334,2334,Wales,West Glamorgan,51.699993,-3.992766,Gelliwern Isaf Farm,2015,PV,6.0,,solar farm,Solar Park Developments,REPD
+repd-2335,2335,England,Devon,50.592115,-3.533709,Sawmills Solar Farm,2015,PV,6.5,,solar farm,Foresight,REPD
+repd-2336,2336,England,Devon,50.975817,-4.346764,Walland Farm,2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-2338,2338,Wales,South Glamorgan,51.417798,-3.307534,Weycock Road,2016,PV,7.0,,solar farm,Elgin Energy EsCo,REPD
+repd-2342,2342,England,Somerset,51.172568,-3.359677,Higher Bye Farm,2015,PV,6.8,,solar farm,Anesco,REPD
+repd-2343,2343,England,Wiltshire,51.3315,-2.224049,Cockhill Solar Farm,2015,PV,20.0,,solar farm,Next Energy Solar Fund Ltd,REPD
+repd-2344,2344,England,Wiltshire,51.60549,-1.898673,Bentham Farm,2015,PV,8.0,,solar farm,Hive Energy,REPD
+repd-2345,2345,England,Wiltshire,51.151405,-1.737908,Boscombe Airfield,2015,PV,12.3,,solar farm,Lark Energy,REPD
+repd-2347,2347,Wales,Flintshire,53.240892,-3.022718,Shotwick Solar Farm,2016,PV,72.2,,solar farm,Foresight Solar Fund,REPD
+repd-2348,2348,England,Cornwall,50.462433,-4.91985,Winnards Perch Solar Farm,2013,PV,3.8,,solar farm,Solar Securities Group,REPD
+repd-2351,2351,England,Wiltshire,51.617615,-2.053147,Lodge Farm (Poulshot),2015,PV,14.5,,solar farm,Hive Energy,REPD
+repd-2352,2352,England,Bedfordshire,52.2526,-0.589251,Glebe Farm Solar Energy Park,2015,PV,15.0,,solar farm,Vento Ludens,REPD
+repd-2353,2353,Wales,Isle of Anglesey,53.233342,-4.404655,Bryn yr Odyn Solar Farm,2015,PV,15.0,,solar farm,New Forest Energy Ltd,REPD
+repd-2354,2354,Wales,West Glamorgan,51.696498,-3.939433,Rhyd-y-Pandy Solar Farm,2015,PV,6.0,,solar farm,Wessex Solar Energy,REPD
+repd-2355,2355,Wales,Dyfed,51.795279,-4.018399,Saron Road solar park,2015,PV,6.7,,solar farm,Anesco,REPD
+repd-2356,2356,England,Nottinghamshire,53.346764,-0.92938,Tiln Farm solar park,2015,PV,8.0,,solar farm,Pfalz Solar,REPD
+repd-2357,2357,England,Bedfordshire,52.040456,-0.253208,Langford Solar Farm,2015,PV,13.0,,solar farm,Lark Energy,REPD
+repd-2358,2358,England,Wiltshire,51.307587,-2.084591,Stokes Marsh Farm,2015,PV,16.6,,solar farm,South West Solar Parks,REPD
+repd-2359,2359,Wales,South Glamorgan,51.394918,-3.404941,West Hall Solar Farm,2014,PV,7.0,,solar farm,INRG Solar,REPD
+repd-2360,2360,England,Cambridgeshire,52.331008,0.225776,Stowbridge Farm - Extension (Phase 1),2015,PV,10.0,,solar farm,FC Palmer & Sons Ltd,REPD
+repd-2361,2361,England,Dorset,50.777851,-2.394254,Bourne Park (Solar),2015,PV,5.0,,solar farm,Sovereign Energy Partners LLP,REPD
+repd-2362,2362,England,Northamptonshire,52.052941,-1.153327,Hall Farm,2015,PV,5.1,,solar farm,United Photovoltaics,REPD
+repd-2363,2363,Wales,Dyfed,51.712799,-4.178056,Brynteg Farm,2014,PV,16.2,,solar farm,Brynteg Solar,REPD
+repd-2364,2364,England,Northamptonshire,52.133897,-0.847053,Stonepit Farm,2014,PV,5.0,,solar farm,Lark Energy,REPD
+repd-2365,2365,Wales,Dyfed,51.747259,-4.794506,Yerbeston Gate Farm,2015,PV,6.1,,solar farm,Sunsave 23 Limited/ Vogt solar,REPD
+repd-2366,2366,England,Lincolnshire,52.745995,0.050939,Grange Farm (Lincolnshire),2015,PV,12.7,,solar farm,Green Switch Solutions,REPD
+repd-2367,2367,England,Kent,51.356641,1.085437,Molehill Farm,2015,PV,18.0,,solar farm,Bluefield Solar Income Fund,REPD
+repd-2368,2368,England,East Sussex,50.873157,0.427475,Pashley Farm,2015,PV,11.5,,solar farm,Bluefield Solar Income Fund,REPD
+repd-2369,2369,England,Lincolnshire,53.243864,-0.428657,Fiskerton Airfield (Phase 1),2015,PV,12.0,,solar farm,NESF (formerly Lark Energy),REPD
+repd-2370,2370,Wales,Mid Glamorgan,51.674454,-3.276487,Hendai Farm,2015,PV,13.4,,solar farm,Conergy UK,REPD
+repd-2372,2372,England,Cambridgeshire,52.079566,0.002019,Bury Lane Fruit Farm,2014,PV,24.0,,solar farm,Vortex (formerly Sun Edison),REPD
+repd-2373,2373,England,Wiltshire,51.342223,-2.185596,Marsh Farm Hilperton,2015,PV,9.1,,solar farm,Foresight,REPD
+repd-2375,2375,England,Somerset,51.255695,-2.90406,Ashlawn Farm,2015,PV,6.8,,solar farm,Brilliant Harvest,REPD
+repd-2376,2376,Wales,Dyfed,51.809939,-5.007446,Cuckoo Grove Farm,2015,PV,6.1,,solar farm,Foresight,REPD
+repd-2377,2377,England,Nottinghamshire,52.9902,-1.082962,Gedling Solar Farm,2015,PV,5.7,,solar farm,Foresight,REPD
+repd-2378,2378,England,Nottinghamshire,53.142021,-1.025225,Bilsthorpe Quarry Solar Park,2014,PV,4.8,,solar farm,Anesco,REPD
+repd-2379,2379,England,Kent,51.2738,1.143923,Littlebourne,2014,PV,17.0,,solar farm,Bluefield Solar Income Fund,REPD
+repd-2380,2380,England,Northamptonshire,52.281585,-0.693804,Wellingborough Solar Farm,2014,PV,8.5,,solar farm,Lark Energy,REPD
+repd-2381,2381,Wales,West Glamorgan,51.60941,-3.829465,Baglan Bay Solar Farm - Phase 1,2014,PV,5.0,,solar farm,St. Modwen Developments,REPD
+repd-2382,2382,England,Cornwall,50.288674,-5.19671,Gover Farm Solar Park,2014,PV,8.0,,solar farm,Green Energy UK Direct Ltd,REPD
+repd-2383,2383,England,Cornwall,50.442353,-4.816392,Kerriers Solar Park,2014,PV,9.6,,solar farm,Kronos Solar,REPD
+repd-2384,2384,England,Wiltshire,51.54308,-2.165058,Hullavington Solar Park,2015,PV,7.0,,solar farm,Wessex Solar Energy,REPD
+repd-2385,2385,England,London,51.507986,0.137686,Crossness Sewage Works PV,2011,PV,1.5,,solar farm,Thames Water Utilities,REPD
+repd-2386,2386,England,Somerset,51.076326,-2.689154,Higher Hill Farm,2011,PV,5.0,,solar farm,Solar Power Generation,REPD
+repd-2387,2387,England,Somerset,51.069614,-2.640928,Manor Farm (Keinton Mandeville),2011,PV,1.0,,solar farm,Private Developer,REPD
+repd-2388,2388,England,Surrey,51.404118,-0.397699,Walton WTW PV,2011,PV,1.8,,solar farm,Thames Water Utilities,REPD
+repd-2389,2389,England,Warwickshire,52.273627,-1.535737,Wolseley National Distribution Centre,2014,PV,2.0,,solar farm,Wolseley UK,REPD
+repd-4694,4694,England,Leicestershire,52.850498,-1.35764,East Midlands Distribution Centre,2015,PV,6.1,,solar farm,Marks and Spencer plc,REPD
+repd-4701,4701,England,Shropshire,52.335374,-2.494319,Land at High Point Farm,2017,PV,4.5,,solar farm,TGC Renewables,REPD
+repd-4703,4703,England,Dorset,50.627819,-2.494791,Land at Newlands Farm,2016,PV,5.0,,solar farm,British Solar Renewables,REPD
+repd-4705,4705,England,Northamptonshire,52.458358,-0.842983,Eckland Lodge Farm,2016,PV,2.9,,solar farm,Stuart Howes & Son Ltd,REPD
+repd-4706,4706,England,Bedfordshire,51.856402,-0.468649,Caddington Solar Farm (Phase 2),2016,PV,5.0,,solar farm,Emsrayne Limited,REPD
+repd-4712,4712,England,Somerset,51.031898,-3.16655,Montys Farm,2016,PV,5.0,,solar farm,Solar Ventures,REPD
+repd-4713,4713,England,West Sussex,50.818074,-0.731717,Merston Solar Park,2016,PV,10.0,,solar farm,Primrose Solar / Mongoose Energy,REPD
+repd-4718,4718,England,Essex,51.620151,0.697449,Fambridge Road/Canewdon Road,2015,PV,5.0,,solar farm,UK Solar Assets (Alcor LS-SPV),REPD
+repd-4721,4721,England,Cornwall,50.180823,-5.132634,Roskrow Farm,2015,PV,8.9,,solar farm,Roskrow Solar,REPD
+repd-4724,4724,Northern Ireland,Co. Down,54.571573,-5.569156,Ballyboley Solar (Carrowdore),2017,PV,6.0,,solar farm,Island Green Power,REPD
+repd-4727,4727,England,Dorset,50.778385,-1.863958,Hale Farm,2016,PV,8.0,,solar farm,Hale Solar Limited,REPD
+repd-4729,4729,England,Somerset,51.14628,-2.539545,Pylle Southern solar park (Lower Easton Farm),2015,PV,5.0,,solar farm,Pylle Solar/ John Laing Environmental,REPD
+repd-4734,4734,Wales,Caerphilly,51.688227,-3.180397,Land at Darran Farm,2017,PV,2.6,,solar farm,SRE (Darran),REPD
+repd-4736,4736,England,Cambridgeshire,52.63785,0.162133,Wisbech Solar Farm,2015,PV,3.5,,solar farm,British Solar Renewables,REPD
+repd-4738,4738,Wales,Denbighshire,52.987535,-3.444579,Rhug Estate,2016,PV,1.2,,solar farm,Rhug Estate,REPD
+repd-4739,4739,England,Norfolk,52.868045,0.920205,Snettisham Solar Farm,2017,PV,2.7,,solar farm,Solar Associates,REPD
+repd-4740,4740,England,Devon,51.150439,-4.131216,West Hill Farm,2015,PV,2.4,,solar farm,Hazel Capital LLP,REPD
+repd-4745,4745,England,North Yorkshire,54.169786,-1.315632,Cold Harbour Farm,2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-4748,4748,England,Leicestershire,52.827989,-1.286969,Land at Whatton Road,2015,PV,1.5,,solar farm,Push Energy,REPD
+repd-4751,4751,England,Gloucestershire,51.666764,-2.408159,Upper Wick Solar Farm,2016,PV,5.0,,solar farm,Upper Wick Solar Farm,REPD
+repd-4752,4752,England,Somerset,50.839383,-2.937048,Marshwood Farm,2015,PV,1.8,,solar farm,KWTN Solar,REPD
+repd-4753,4753,Scotland,Aberdeenshire,57.621415,-2.042843,House O�Hill Solar Farm,2015,PV,1.6,,solar farm,House O'Hill Wind Energy,REPD
+repd-4757,4757,England,Somerset,51.224358,-2.763895,Hawkers Farm,2015,PV,9.5,,solar farm,Greenfields (A),REPD
+repd-4761,4761,England,Dorset,50.776227,-1.871779,Woodtown Farm,2015,PV,3.8,,solar farm,Woodtown Solar Limited,REPD
+repd-4766,4766,England,West Sussex,50.848088,-0.701854,Land at Tangmere Airfield,2015,PV,5.0,,solar farm,West Sussex County Council,REPD
+repd-4767,4767,England,Derbyshire,52.758502,-1.597682,Land at Coton Park Colliery,2015,PV,2.5,,solar farm,NESF (formerly Green Energy Networks),REPD
+repd-4769,4769,England,Wiltshire,51.613007,-1.816684,Chapel Farm,2017,PV,5.0,,solar farm,Public Power Solutions/ Swindon Borough Council,REPD
+repd-4780,4780,Scotland,Aberdeenshire,57.308605,-2.827155,Cairnmore Solar Park,2016,PV,3.8,,solar farm,GPV Rhynie,REPD
+repd-4783,4783,England,Wiltshire,51.048342,-1.833455,Bake Farm Solar Farm,2016,PV,5.0,,solar farm,British Solar Renewables,REPD
+repd-4785,4785,England,Greater Manchester,53.59759,-2.683989,Thompson House Equestrian farm,2016,PV,5.0,,solar farm,Emotion Solar One,REPD
+repd-4792,4792,England,Devon,50.954937,-3.302827,Red Hill Farm,2015,PV,4.8,,solar farm,Lightsource Renewable Energy,REPD
+repd-4794,4794,England,Devon,50.878285,-3.384567,Stoneshill Farm,2017,PV,5.0,,solar farm,Green Energy UK Direct,REPD
+repd-4804,4804,England,Humberside,53.808455,-0.315811,Carlam Hill Education CIC,2016,PV,5.0,,solar farm,Greencoat (formerly Renesola),REPD
+repd-4825,4825,England,Cambridgeshire,52.21037,-0.207076,Caldecote Manor Farm,2016,PV,5.0,,solar farm,Sustain Energy Solutions,REPD
+repd-4830,4830,Wales,Dyfed,51.823619,-4.928358,Crundale / Fenton Home Farm (extension),2015,PV,5.9,,solar farm,Vogt Solar,REPD
+repd-4833,4833,England,Isle of Wight,50.677203,-1.24543,Fieldscale,2016,PV,10.6,,solar farm,SBC Renewables,REPD
+repd-4836,4836,England,Kent,51.367112,0.654199,Iwade Solar Farm,2015,PV,1.7,,solar farm,FH Dean Ltd,REPD
+repd-4838,4838,England,Devon,51.018104,-3.865043,Kingsland Barton Solar Farm,2014,PV,5.0,,solar farm,Padero Solar,REPD
+repd-4839,4839,England,Devon,50.447169,-4.013102,Lee Moor China Clay Works,2015,PV,9.5,,solar farm,Wanageeska,REPD
+repd-4840,4840,England,Dorset,50.844862,-2.167095,Littleton,2015,PV,12.1,,solar farm,Lightsource Renewable Energy,REPD
+repd-4841,4841,England,Leicestershire,52.756148,-1.440479,Lount solar farm,2015,PV,2.8,,solar farm,Hadstone Energy,REPD
+repd-4844,4844,Scotland,Tayside,56.574038,-2.709142,New Mains Of Guynd Farm,2016,PV,10.0,,solar farm,BWE Partnership,REPD
+repd-4846,4846,England,Kent,51.369769,0.698896,Orchard Farm,2016,PV,10.0,,solar farm,Omega Solar / OPDE,REPD
+repd-4850,4850,England,Warwickshire,52.156709,-1.931415,Salford Lodge,2015,PV,5.0,,solar farm,AR Partners,REPD
+repd-4856,4856,England,Avon,51.372046,-2.876282,The Grange,2016,PV,8.0,,solar farm,Elgin Energy EsCo,REPD
+repd-4857,4857,England,South Yorkshire,53.635804,-0.933708,Thorne Farm,2015,PV,5.0,,solar farm,Conergy,REPD
+repd-4858,4858,England,Shropshire,52.703475,-2.574731,Tiddiecross Solar Farm,2015,PV,10.5,,solar farm,Vogt Solar,REPD
+repd-4859,4859,England,Essex,51.884993,0.3944,Tooleys Farm,2015,PV,5.3,,solar farm,Lightsource Renewable Energy,REPD
+repd-4860,4860,England,Somerset,50.926911,-3.13811,Trickey Warren,2015,PV,4.8,,solar farm,Anesco,REPD
+repd-4861,4861,England,Shropshire,52.937911,-2.643585,Twemlows,2015,PV,10.0,,solar farm,Sunsave 27 (Twemlows)/ Vogt solar,REPD
+repd-4862,4862,Wales,Gwynedd,52.91384,-4.478893,Tyddyn Cae (Nefyn),2015,PV,4.9,,solar farm,Lightsource Renewable Energy,REPD
+repd-4874,4874,England,Hampshire,51.163631,-1.51228,Abbots Ann,2015,PV,7.0,,solar farm,British Solar Renewables,REPD
+repd-4878,4878,England,Cornwall,50.467136,-4.697566,Margate Solar Farm,2015,PV,3.0,,solar farm,Lanhydrock Estate Company,REPD
+repd-4880,4880,England,Humberside,53.525117,-0.146084,Laceby Solar Farm,2016,PV,27.1,,solar farm,Conergy,REPD
+repd-4884,4884,Northern Ireland,Co. Antrim,54.963762,-6.49296,Finvoy Road,2017,PV,5.9,,solar farm,Lightsource Renewable Energy,REPD
+repd-4885,4885,England,Norfolk,52.605121,1.306355,Land East of White Horse Lane,2016,PV,5.0,,solar farm,Island Green Power,REPD
+repd-4887,4887,England,Lancashire,53.872552,-2.765443,Westfield Farm,2016,PV,5.0,,solar farm,Hive Energy/ Vogt Solar,REPD
+repd-4889,4889,England,Somerset,51.194839,-2.318423,West Woodlands,2016,PV,5.0,,solar farm,Sunsave 24/ Vogt solar,REPD
+repd-4891,4891,England,Cornwall,50.354988,-4.24066,Mendennick Farm,2015,PV,2.8,,solar farm,REG Solarpower,REPD
+repd-4896,4896,Wales,West Glamorgan,51.637016,-4.012952,Cockett Valley,2017,PV,4.0,,solar farm,Renewable Developments Wales,REPD
+repd-4897,4897,England,Dorset,50.809896,-2.638785,Rampisham North,2017,PV,5.0,,solar farm,British Solar Renewables,REPD
+repd-4899,4899,England,Avon,51.532459,-2.668948,Severn Road Solar Park,2016,PV,1.8,,solar farm,Bristol City Council,REPD
+repd-4903,4903,England,Cumbria,54.613964,-3.529978,Moorhouse Farm,2016,PV,5.0,,solar farm,Solar Park Developments,REPD
+repd-4916,4916,England,Somerset,51.035681,-2.391662,Land at Sutor Farm,2016,PV,5.0,,solar farm,Elgin Energy EsCo,REPD
+repd-4929,4929,England,Cornwall,50.376722,-4.956992,Land North East Of Penrose Far,2015,PV,1.5,,solar farm,Clean Earth Energy,REPD
+repd-4931,4931,England,West Sussex,50.757682,-0.784531,Land At Ferry Farm,2015,PV,10.0,,solar farm,BNRG (sold to another developer),REPD
+repd-4933,4933,England,West Sussex,50.819644,-0.544918,Land at Brookbarn Farm,2015,PV,3.0,,solar farm,Anesco,REPD
+repd-4935,4935,England,County Durham,54.60774,-1.596796,Field at School Aycliffe Lane,2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-4936,4936,England,Kent,51.178142,0.359646,Capel Grange Solar Park,2016,PV,6.6,,solar farm,West Coast Energy,REPD
+repd-4938,4938,Wales,Carmarthenshire,51.758699,-4.122447,Pentre farm,2014,PV,5.5,,solar farm,Kinetica Solar,REPD
+repd-4939,4939,England,Gloucestershire,51.918384,-2.371515,Land At Rymes Farm (Phase 1),2016,PV,6.9,,solar farm,TGC Renewables,REPD
+repd-4940,4940,Wales,Vale of Glamorgan,51.406562,-3.386204,Llancadle Farm,2015,PV,5.0,,solar farm,Llancadle Solar Farm Ltd,REPD
+repd-4943,4943,England,Gloucestershire,51.919986,-2.373724,Land At Rymes Farm (Phase 2)/Grange Solar Farm,2015,PV,6.8,,solar farm,Solar Century (TGC Renewables),REPD
+repd-4948,4948,England,Wiltshire,51.326492,-2.233066,Trowle Common,2016,PV,5.0,,solar farm,Low Carbon,REPD
+repd-4951,4951,England,Lincolnshire,53.009905,-0.054955,Canopus Farm,2015,PV,5.0,,solar farm,Countryside Renewables,REPD
+repd-4952,4952,England,Kent,51.14872,1.328349,Land At Guston Court Farm,2015,PV,5.0,,solar farm,Conergy West Sussex,REPD
+repd-4954,4954,Northern Ireland,Co. Armagh,54.505803,-6.186279,Former Maghaberry Airfield,2018,PV,25.7,,solar farm,Lightsource Renewable Energy,REPD
+repd-4969,4969,Scotland,Angus,56.634995,-2.704335,Pressock Farm,2017,PV,5.0,,solar farm,Green Power Consultants,REPD
+repd-4983,4983,England,Nottinghamshire,53.188059,-1.00715,Rufford Lane,2016,PV,2.6,,solar farm,Anesco,REPD
+repd-4986,4986,England,Hampshire,51.142384,-0.950102,Land to the north and south of Cakers Lane (Wilsom),2017,PV,11.0,,solar farm,Canadian Solar,REPD
+repd-4990,4990,England,Devon,51.053445,-4.125302,Collacott Farm,2016,PV,4.5,,solar farm,Cooper Energy Engineering,REPD
+repd-4994,4994,England,Somerset,50.979763,-3.247965,Tonedale Farm,2015,PV,5.0,,solar farm,Capital Estate Tonedale,REPD
+repd-4996,4996,England,Leicestershire,52.642712,-1.311562,Lindridge Farm,2015,PV,5.0,,solar farm,Sun Farming,REPD
+repd-4997,4997,England,Cambridgeshire,52.372559,-0.194286,Abbots Ripton Solar Farm (ext.),2015,PV,3.9,,solar farm,Rectory Lane Renewables,REPD
+repd-5000,5000,Northern Ireland,Co. Armagh,54.410457,-6.413057,Gilford Road,2015,PV,1.3,,solar farm,Kingspan Energy,REPD
+repd-5001,5001,England,Lancashire,53.909139,-3.01867,Fleetwood Water Treatment Works,2015,PV,1.3,,solar farm,United Utilities,REPD
+repd-5002,5002,England,Cambridgeshire,52.328465,0.31729,Triangle Solar Farm Park,2017,PV,12.0,,solar farm,Cambridge County Council,REPD
+repd-5006,5006,Wales,Monmouthshire,51.734237,-2.945945,Land at Lower House Farm,2016,PV,8.1,,solar farm,3C Energy,REPD
+repd-5012,5012,Scotland,West Lothian,55.87872,-3.648237,Aldi Distribution Centre,2015,PV,1.3,,solar farm,Aldi,REPD
+repd-5014,5014,England,Shropshire,52.389301,-2.76234,Bromfield Sand and Gravel,2017,PV,0.5,,solar farm,Sovereign Partners,REPD
+repd-5015,5015,England,Staffordshire,52.997008,-2.060361,Land at Heywood Grange,2016,PV,8.4,,solar farm,Sovereign Partners,REPD
+repd-5017,5017,England,North Yorkshire,54.13081,-2.55203,Ravens Close,2017,PV,5.0,,solar farm,NESF (formerly Tau Solar),REPD
+repd-5018,5018,England,Hampshire,50.94286,-1.202694,Forest Farm,2017,PV,3.0,,solar farm,NESF (formerly Earthworm/Waltham Solar),REPD
+repd-5019,5019,Wales,Pembrokeshire,51.671157,-4.746424,Land West of Roberts Wall Far,2016,PV,2.5,,solar farm,Navitas Project,REPD
+repd-5020,5020,England,Warwickshire,52.200262,-1.775083,Drayton Manor Farm,2016,PV,25.0,,solar farm,Anesco,REPD
+repd-5022,5022,England,Derbyshire,52.915971,-1.794627,Somersal Mill Farm,2016,PV,2.6,,solar farm,Navitas Project,REPD
+repd-5026,5026,Wales,Clwyd,52.987403,-3.070436,Land Opposite Tyn Y Pistyll,2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5033,5033,England,North Yorkshire,54.148074,-1.232397,Land South of Highfield House,2016,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5053,5053,Wales,Monmouthshire,51.633979,-2.731198,Rhewl Farm,2016,PV,6.0,,solar farm,Renesola,REPD
+repd-5063,5063,England,Derbyshire,53.026869,-1.657245,Land at Dayfields Farm,2016,PV,4.7,,solar farm,TGC Renewables,REPD
+repd-5071,5071,England,Hampshire,50.810195,-1.089974,MMD Shipping Services,2015,PV,1.2,,solar farm,EvoEnergy,REPD
+repd-5079,5079,England,Cornwall,50.470854,-4.699751,Newton Margate,2015,PV,1.5,,solar farm,Tulip Meats,REPD
+repd-5080,5080,England,Hampshire,51.107621,-1.530196,Eveley Farm,2016,PV,49.0,,solar farm,PS Renewables,REPD
+repd-5084,5084,Wales,Gwent,51.601147,-2.87865,Court Farm,2017,PV,8.5,,solar farm,BE Renewables,REPD
+repd-5085,5085,Northern Ireland,Co. Antrim,54.741515,-6.238796,Millar Farm,2017,PV,6.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5089,5089,England,Essex,51.911902,1.153539,Green Farm,2015,PV,5.0,,solar farm,Hive Energy,REPD
+repd-5090,5090,England,Gloucestershire,51.935444,-2.089814,Home Farm,2017,PV,6.7,,solar farm,Wirsol Energy,REPD
+repd-5092,5092,England,Buckinghamshire,52.007844,-0.927191,Land at Thornborough Grounds,2016,PV,5.0,,solar farm,NESF (formerly Lark Energy),REPD
+repd-5093,5093,Wales,Vale of Glamorgan,51.396233,-3.254265,Port of Barry  - Site 1,2015,PV,4.5,,solar farm,Associated British Ports (ABP),REPD
+repd-5096,5096,England,Dorset,50.821194,-2.555677,Southern Counties Shooting Ground Phase 1,2017,PV,9.0,,solar farm,British Solar Renewables / NextEenrgy Solar Fund (NESF),REPD
+repd-5099,5099,England,Lancashire,54.052061,-2.878275,Fanny House Farm,2015,PV,5.0,,solar farm,Primrose Solar,REPD
+repd-5102,5102,England,Somerset,50.885923,-2.943426,Chard Solar Park,2016,PV,3.0,,solar farm,Conergy,REPD
+repd-5104,5104,Wales,Vale of Glamorgan,51.474512,-3.292783,Home Farm,2017,PV,3.0,,solar farm,Cenin Renewables,REPD
+repd-5117,5117,England,Kent,51.277392,1.307215,Marshborough Farm solar park,2015,PV,5.0,,solar farm,Vogt Solar,REPD
+repd-5118,5118,England,Lincolnshire,53.243864,-0.428657,Fiskerton Airfield (Phase 2),2015,PV,22.0,,solar farm,Lark Energy,REPD
+repd-5119,5119,England,Leicestershire,52.799697,-1.364202,"Langley Priory, Walnut Yard (Phase 2)",2016,PV,6.2,,solar farm,Lark Energy,REPD
+repd-5125,5125,England,Essex,51.860676,1.005042,Bluegates Solar Park,2015,PV,10.5,,solar farm,Edgar Middleton,REPD
+repd-5128,5128,England,Derbyshire,53.226652,-1.374331,Land To The East Of Back Lane,2015,PV,5.0,,solar farm,Anesco,REPD
+repd-5131,5131,England,Devon,50.811714,-2.958991,Axe View Solar Farm,2017,PV,5.0,,solar farm,NESF (formerly INRG Solar),REPD
+repd-5132,5132,England,Lancashire,53.791823,-2.62034,Land at Fell View Farm (Phase 1),2016,PV,4.2,,solar farm,Anesco,REPD
+repd-5136,5136,England,Shropshire,52.380912,-2.67531,South of Henley Hall,2017,PV,5.0,,solar farm,NESF (formerly Kronos Solar (KS SPV39)),REPD
+repd-5137,5137,England,Devon,50.360079,-3.747258,Place Barton Farm,2017,PV,4.9,,solar farm,British Solar Renewables,REPD
+repd-5139,5139,England,Gloucestershire,51.979875,-1.997872,Lower Stanley Farm,2016,PV,4.0,,solar farm,Green Hedge (BayWa r.e.),REPD
+repd-5140,5140,England,West Sussex,50.977021,-0.168368,Land Parcel North of Goddards,2016,PV,5.0,,solar farm,INRG Solar,REPD
+repd-5142,5142,England,Hertfordshire,51.873314,-0.357848,"Ld At Lawrence End Park &, Dane Street",2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5143,5143,England,Berkshire,51.379662,-1.19322,"Gravel Works, Wasing Estate",2017,PV,5.0,,solar farm,NESF (formerly INRG Solar),REPD
+repd-5145,5145,England,Derbyshire,52.774248,-1.65348,Drakelow Solar Farm,2016,PV,5.0,,solar farm,BlackRock,REPD
+repd-5146,5146,England,West Sussex,51.046283,-0.434186,Land at Five Oaks Farm,2016,PV,5.0,,solar farm,Low Carbon,REPD
+repd-5147,5147,Wales,Clwyd,52.958786,-2.955859,Knolton Farmhouse Cheese Solar Farm,2016,PV,1.0,,solar farm,Pegasus Group,REPD
+repd-5148,5148,England,Staffordshire,52.760374,-1.744294,Blakenhall Park Solar Farm,2015,PV,1.8,,solar farm,Mercer Farming,REPD
+repd-5149,5149,England,Lincolnshire,52.971249,-0.722459,Grantham Solar Farm,2015,PV,5.0,,solar farm,British Solar Renewables,REPD
+repd-5150,5150,Wales,Rhondda Cynon Taff,51.523809,-3.425237,Agricultural Land at Trecastle,2015,PV,4.0,,solar farm,Suncredit UK/ Vogt solar,REPD
+repd-5152,5152,England,Devon,50.841836,-3.760849,Sharland Solar Farm,2017,PV,2.8,,solar farm,Lightsource Renewable Energy,REPD
+repd-5156,5156,England,Derbyshire,52.775527,-1.511118,Short Hazel Solar Farm,2016,PV,5.0,,solar farm,Pearmat Solar,REPD
+repd-5157,5157,England,North Yorkshire,54.095599,-1.032262,Mill Hill Farm,2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5158,5158,England,Northamptonshire,52.289355,-0.654751,"Little Irchester, Higham Road Solar Farm",2016,PV,4.6,,solar farm,NESF (formerly Lark Energy),REPD
+repd-5162,5162,England,Bedfordshire,51.861696,-0.351998,Land North of Chiltern Greeen,2016,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5163,5163,England,Lancashire,53.845733,-2.759557,Bilsborrow Solar Farm,2017,PV,5.0,,solar farm,Greencoat Capital,REPD
+repd-5164,5164,England,Oxfordshire,51.962066,-1.333255,Hill Farm,2017,PV,5.0,,solar farm,NESF (formerly Earthworm),REPD
+repd-5165,5165,England,Derbyshire,53.148073,-1.387031,Padleywood Farm,2016,PV,5.0,,solar farm,OST Energy,REPD
+repd-5167,5167,England,Nottinghamshire,53.3482,-0.928128,Tiln Farm Retford (extension),2015,PV,1.7,,solar farm,Pfalz Solar,REPD
+repd-5168,5168,England,Leicestershire,52.685223,-1.317462,Tower Hayes Farm,2016,PV,5.0,,solar farm,Elgar Middleton,REPD
+repd-5169,5169,England,Shropshire,52.706703,-2.368914,Sheriffhales Solar Farm,2015,PV,8.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-5182,5182,England,Essex,51.843325,0.804977,Land Adjacent Claypits Farm (a),2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5183,5183,England,Essex,51.844988,0.804645,Land Adjacent Claypits Farm (b) (Birch Estate),2016,PV,2.3,,solar farm,Lightsource SPV 186 (community owned),REPD
+repd-5190,5190,Wales,Gwynedd,52.907453,-4.333971,Fferm Bryn Bachau,2016,PV,4.4,,solar farm,BNRG Renewables,REPD
+repd-5199,5199,England,Norfolk,52.755071,1.356917,Scottow Moor - RAF Coltishall Solar Farm (Phase 2),2016,PV,17.9,,solar farm,Greencoat Capital,REPD
+repd-5202,5202,England,Cornwall,50.362942,-4.786247,West Carclaze Solar Farm,2017,PV,6.5,,solar farm,Canadian Solar,REPD
+repd-5204,5204,England,Humberside,53.620106,-0.694681,Flixborough Industrial Estate,2017,PV,5.0,,solar farm,NESF (formerly INRG Solar),REPD
+repd-5207,5207,England,Gloucestershire,51.561233,-2.657613,Land adjacent to Church Road,2016,PV,3.5,,solar farm,Canadian Solar,REPD
+repd-5212,5212,England,Derbyshire,53.008893,-1.690861,Lady Hole Farm,2016,PV,3.0,,solar farm,Solarig,REPD
+repd-5218,5218,England,West Sussex,51.036561,-0.365794,Land at Christ�s Hospital School,2015,PV,1.1,,solar farm,Photon Energy,REPD
+repd-5224,5224,England,Derbyshire,53.255809,-1.207433,Creswell Solar Park,2016,PV,5.0,,solar farm,Sovereign Energy Partners,REPD
+repd-5225,5225,England,Humberside,53.682093,-1.086732,Pollington Solar Farm,2017,PV,5.0,,solar farm,Pollington Solar,REPD
+repd-5226,5226,Wales,Clwyd,53.024165,-2.925458,Land NW Of Pickhill Bridge Farm,2017,PV,3.6,,solar farm,NextEnergy  Solar Fund,REPD
+repd-5229,5229,England,Staffordshire,53.013303,-1.933304,Moneystone Quarry Solar Farm,2016,PV,5.0,,solar farm,SBC Renewables,REPD
+repd-5230,5230,England,Gloucestershire,51.781916,-2.622969,Pingry Farm - Phase 2,2015,PV,3.4,,solar farm,Coleford Energy,REPD
+repd-5231,5231,England,Norfolk,52.432933,0.990905,Kenninghall Solar / Hazeldick Solar,2015,PV,8.0,,solar farm,Norfolk Renewables,REPD
+repd-5232,5232,Wales,Pembrokeshire,51.668513,-5.020916,Wogaston Solar Farm,2015,PV,5.3,,solar farm,Elgin Energy EsCo,REPD
+repd-5233,5233,Wales,Dyfed,52.091817,-4.620608,Crugmore Farm,2015,PV,6.4,,solar farm,John Laing Environmental Assets Group,REPD
+repd-5234,5234,England,Devon,50.506787,-3.635289,Rydon Farm,2015,PV,12.0,,solar farm,MTS Rydon Solar,REPD
+repd-5241,5241,England,Staffordshire,52.895968,-1.840312,"Solar farm at land at The Willows, Uttoxeter",2017,PV,6.4,,solar farm,TGC Renewables,REPD
+repd-5242,5242,England,Hampshire,50.990001,-1.505909,Highwood Lane,2016,PV,5.0,,solar farm,Solstice Renewables,REPD
+repd-5243,5243,England,Gloucestershire,51.745869,-2.53561,Yorkley Solar Park,2015,PV,5.0,,solar farm,Bee Green Solar,REPD
+repd-5244,5244,England,Warwickshire,52.244927,-1.410225,Solar Farm at Fields Farm (Phase 1),2016,PV,5.0,,solar farm,Foresight Group (TGC Renewables),REPD
+repd-5253,5253,England,Wiltshire,51.605419,-1.736648,Land at Beech Farm,2016,PV,4.6,,solar farm,Vortex (formerly SunEdison),REPD
+repd-5256,5256,Wales,Ceredigion,52.123394,-4.563218,Aberporth Solar Farm,2015,PV,1.5,,solar farm,JBM Solutions,REPD
+repd-5257,5257,Wales,Pembrokeshire,51.669767,-5.012711,Hoplass Farm,2015,PV,10.0,,solar farm,Kronos Solar,REPD
+repd-5258,5258,England,Northamptonshire,52.304062,-0.528626,Chelveston Renewable Energy Park - Solar Extension,2015,PV,19.5,,solar farm,FEL Solar,REPD
+repd-5259,5259,England,Hampshire,50.963618,-1.47899,Grove Solar Park (Phase 1),2016,PV,5.0,,solar farm,Solar Century,REPD
+repd-5261,5261,England,Lancashire,53.791518,-2.623614,Fell View Farm (Phase 2),2016,PV,2.9,,solar farm,Anesco,REPD
+repd-5263,5263,England,West Sussex,50.998519,-0.067046,Land At Chiddinglye Farm,2016,PV,5.0,,solar farm,REPOWER Balcombe & Chiddinglye Solar Park,REPD
+repd-5264,5264,England,Lancashire,53.927489,-2.259644,Land of coal pit lane,2016,PV,5.0,,solar farm,Wirsol Energy/Island Green Power,REPD
+repd-5265,5265,England,Norfolk,52.642126,0.848076,Huntingfield Solar Farm,2018,PV,4.4,,solar farm,Raker Farms,REPD
+repd-5266,5266,England,Shropshire,52.467211,-2.323852,Astley Solar Farm,2016,PV,5.0,,solar farm,Rockfire Capital,REPD
+repd-5267,5267,England,West Sussex,51.110421,-0.108797,Majors Hill/Turners Hill Solar Farm,2016,PV,1.1,,solar farm,Haymaker Energy,REPD
+repd-5271,5271,Wales,Carmarthenshire,51.833773,-4.280676,Land South Of Bryn Cyrnau Isaf,2017,PV,5.9,,solar farm,Green Switch Solutions - Liquidated,REPD
+repd-5273,5273,England,Leicestershire,52.722676,-1.485324,Ashby Solar Farm (a),2016,PV,5.0,,solar farm,Primrose Solar,REPD
+repd-5276,5276,England,Gloucestershire,51.710858,-1.921697,Cirencester Solar Farm,2022,PV,23.0,,solar farm,Warrington Borough Council / Statkraft,REPD
+repd-5282,5282,England,Northamptonshire,52.163623,-0.92247,Land South of Knock Lane,2016,PV,4.0,,solar farm,Solar Power Inc UK Services/SPI China (HK),REPD
+repd-5285,5285,England,Norfolk,52.552615,1.249611,Land south of Brick Kiln Road,2016,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5287,5287,England,Derbyshire,53.148073,-1.387031,Averhill Farm,2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5288,5288,England,Staffordshire,52.873814,-1.776448,Morton House (Marchington),2016,PV,6.2,,solar farm,Foresight Group (TGC Renewables),REPD
+repd-5289,5289,Wales,Vale of Glamorgan,51.423321,-3.239474,Biglis Farm,2016,PV,5.0,,solar farm,Conergy West Sussex,REPD
+repd-5290,5290,England,Somerset,50.975486,-2.454054,Milborne Port Solar Farm,2018,PV,4.2,,solar farm,Big 60 Million,REPD
+repd-5292,5292,Wales,Mid Glamorgan,51.746127,-3.317168,Land At Cwm Bargoed,2016,PV,5.0,,solar farm,Kronos Solar/ Vogt Solar,REPD
+repd-5293,5293,England,Nottinghamshire,53.187426,-1.05534,Land South Off Ollerton Road,2017,PV,4.2,,solar farm,Anesco,REPD
+repd-5295,5295,England,Hertfordshire,51.696581,-0.222115,Land At Swanland Road,2017,PV,5.0,,solar farm,Gascoyne Holdings,REPD
+repd-5296,5296,England,Norfolk,52.535282,1.066099,Rookery Business Park,2016,PV,5.0,,solar farm,Solar Century/ Bluefield Solar,REPD
+repd-5297,5297,England,North Yorkshire,54.236988,-1.398507,Land North of Sandhutton Lane,2017,PV,5.0,,solar farm,Greencoat Capital,REPD
+repd-5301,5301,England,County Durham,54.506915,-1.485097,Land West Of Hunger Hill Farm,2017,PV,5.0,,solar farm,Greencoat Capital,REPD
+repd-5302,5302,England,Cambridgeshire,52.456893,0.039331,Land East Of Honeysome Road,2016,PV,4.6,,solar farm,Honeysome Road Solar,REPD
+repd-5303,5303,England,Greater Manchester,53.541336,-2.449926,Salford Road Solar Farm,2015,PV,2.2,,solar farm,Greater Manchester Waste Disposal Authority,REPD
+repd-5305,5305,England,Leicestershire,52.59456,-1.507892,Ld NW Of Ratcliffe House Farm,2015,PV,3.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-5309,5309,England,Cleveland,54.534992,-1.075773,Land at Woodhouse Farm,2016,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5310,5310,England,Gloucestershire,51.557426,-2.551928,Parklands,2016,PV,4.6,,solar farm,Anesco,REPD
+repd-5312,5312,England,Gloucestershire,51.522448,-2.526598,Amcor Flexibles,2015,PV,1.7,,solar farm,Langley Eco,REPD
+repd-5315,5315,England,Dorset,50.759154,-1.751842,Waterditch Solar Farm,2016,PV,18.0,,solar farm,New Forest Energy,REPD
+repd-5316,5316,England,Leicestershire,52.633746,-0.998479,Land Off Ingarsby Lane,2016,PV,2.1,,solar farm,T J Coates Ltd,REPD
+repd-5320,5320,England,Tyne and Wear,54.920629,-1.466865,Nissan Test Track,2016,PV,4.8,,solar farm,Nissan / On-Site Land Solutions,REPD
+repd-5321,5321,England,Lancashire,53.766416,-2.876154,Cooper House Farm,2016,PV,5.0,,solar farm,Suncredit UK/ Vogt solar,REPD
+repd-5322,5322,England,Humberside,53.673542,-1.066557,Land at Pollington Airfield,2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5324,5324,England,Wiltshire,51.290259,-2.231405,Land at Poles Hole Farm,2017,PV,6.8,,solar farm,Sunsave 13 (Southwick),REPD
+repd-5328,5328,England,Lancashire,53.780515,-2.959916,Staining Wood Farm,2016,PV,4.9,,solar farm,Lightsource Renewable Energy,REPD
+repd-5330,5330,England,Cumbria,54.875284,-2.987554,Land between Orton Park Farm,2016,PV,6.4,,solar farm,INRG Solar,REPD
+repd-5331,5331,Northern Ireland,Co. Antrim,54.513245,-6.088289,Ballinderry Road Solar Phase 2 (Lisburn),2017,PV,7.0,,solar farm,RAD Energy One/ Island Green Power,REPD
+repd-5332,5332,Scotland,North Ayrshire,55.657521,-4.74323,"Site To North East Of, Lochcraigs Farm",2017,PV,5.0,,solar farm,SBC Renewables,REPD
+repd-5333,5333,Scotland,Angus,56.612132,-2.601447,West Mains of Kinblethmont,2016,PV,5.0,,solar farm,BWE Partnership,REPD
+repd-5336,5336,England,Wiltshire,51.292103,-2.211753,Land West Side of Axe and Cleaver Lane,2016,PV,5.0,,solar farm,Wessex Solar Energy,REPD
+repd-5340,5340,England,Shropshire,52.804478,-2.865677,Land To The North Of Moor Farm,2017,PV,3.8,,solar farm,Navitas Project,REPD
+repd-5342,5342,England,Shropshire,52.486052,-2.80345,Henley Solar Farm,2017,PV,6.5,,solar farm,Greencoat/ Renesola,REPD
+repd-5357,5357,England,Leicestershire,52.663717,-1.368971,Crown Farm,2017,PV,6.0,,solar farm,Suncredit UK (Sunventures 7),REPD
+repd-5359,5359,England,County Durham,54.540883,-1.355175,Eaglescliffe Solar Farm,2017,PV,5.0,,solar farm,UK Sustainable Energy,REPD
+repd-5360,5360,Wales,Gwynedd,52.934841,-4.354002,Tyddyn Gwyn (Gelli Gron Farm),2016,PV,3.8,,solar farm,Lightsource Renewable Energy,REPD
+repd-5368,5368,England,Leicestershire,52.684314,-1.314192,Thornton Lane,2016,PV,2.7,,solar farm,Green Hedge (BayWa r.e.),REPD
+repd-5376,5376,Wales,Clwyd,52.988786,-3.059565,Penycae Solar Farm,2016,PV,5.0,,solar farm,SBC Renewables,REPD
+repd-5377,5377,England,Leicestershire,52.756479,-1.489875,Land at Ingles Hill Farm,2016,PV,3.0,,solar farm,Sunventures (Suncredit UK),REPD
+repd-5379,5379,Wales,Monmouthshire,51.587294,-2.72274,Southbrook Solar Farm,2016,PV,5.0,,solar farm,Sunventures (Suncredit UK),REPD
+repd-5380,5380,England,County Durham,54.847582,-1.736703,Green Croft Solar Farm,2016,PV,5.0,,solar farm,Anesco,REPD
+repd-5381,5381,Wales,Caerphilly,51.671845,-3.15235,Upper Pant-Ysgawen Farm/Crumlin,2016,PV,4.9,,solar farm,Suncredit UK,REPD
+repd-5383,5383,England,Derbyshire,53.263875,-1.304449,Land at Oxcroft Stocking Ground,2016,PV,4.0,,solar farm,Anesco,REPD
+repd-5384,5384,Scotland,Fife,56.164833,-3.150996,West Strathore Solar Limited,2017,PV,5.0,,solar farm,West Strathore Solar,REPD
+repd-5385,5385,England,Leicestershire,52.517262,-0.919869,Land at Meadow Farm,2017,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5387,5387,England,Hampshire,51.279762,-0.880518,Hungerford Farm,2016,PV,5.0,,solar farm,Solstice Renewables,REPD
+repd-5389,5389,Wales,Gwynedd,52.58997,-4.096692,Land at Morfa Camp,2016,PV,2.8,,solar farm,Novus Solar Developments,REPD
+repd-5391,5391,England,Warwickshire,52.49854,-1.598879,Land South of Pogmore Spinney,2017,PV,5.0,,solar farm,Murex Energy,REPD
+repd-5394,5394,England,Kent,51.318712,0.902939,Abbey Fields Farm,2016,PV,5.3,,solar farm,FR Solar Kent PV,REPD
+repd-5395,5395,England,Devon,50.411801,-4.182308,Ernesettle Solar Farm,2016,PV,4.1,,solar farm,PEC Renewables,REPD
+repd-5396,5396,England,Nottinghamshire,53.206208,-1.196789,SPF Thirty Acres Farm,2016,PV,3.8,,solar farm,Navitas Project,REPD
+repd-5398,5398,Wales,West Glamorgan,51.626465,-4.045875,Killan Farm Solar Array Extens,2017,PV,1.0,,solar farm,Y Felin Ddwr Charitable Trust,REPD
+repd-5400,5400,England,North Yorkshire,54.356898,-1.637445,Land East of Appleton Farm,2016,PV,5.0,,solar farm,Gresham House,REPD
+repd-5401,5401,England,Nottinghamshire,53.16015,-1.216135,Land At Debdale Lane,2016,PV,5.0,,solar farm,Equitix Fund IV,REPD
+repd-5402,5402,England,North Yorkshire,53.796845,-1.217372,Land at Ash Row Farm,2015,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5403,5403,England,North Yorkshire,54.417451,-1.698859,Land at Stripe Farm,2016,PV,5.0,,solar farm,Gresham House,REPD
+repd-5404,5404,England,Derbyshire,53.239832,-1.254373,Land at Bolsover Moor Quarry,2017,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5406,5406,England,Cheshire,53.104187,-2.511771,Land To The North Of Dairy House Farm,2016,PV,3.4,,solar farm,Lightsource Renewable Energy,REPD
+repd-5407,5407,England,Hampshire,50.738718,-1.563158,Pennington Recycling Centre,2016,PV,1.2,,solar farm,Novus Solar Developments,REPD
+repd-5411,5411,England,Cambridgeshire,52.293121,0.309769,Goosehall Solar Farm,2020,PV,39.5,,solar farm,Lightsource Renewable Energy,REPD
+repd-5412,5412,England,Cumbria,54.808895,-3.002209,Land west of Welton Road,2016,PV,4.4,,solar farm,Lightsource Renewable Energy,REPD
+repd-5415,5415,England,Derbyshire,53.118799,-1.321405,Twin Yards Solar Farm,2017,PV,5.0,,solar farm,Global Renewable Construction,REPD
+repd-5424,5424,England,Staffordshire,52.875539,-1.78097,Land of Green Lane,2017,PV,5.8,,solar farm,TGC Renewables,REPD
+repd-5425,5425,England,Gloucestershire,51.681533,-2.419429,Land At  Actrees Farm,2016,PV,5.0,,solar farm,Actrees Solar Power/ Vogt Solar,REPD
+repd-5428,5428,England,Somerset,50.981832,-2.428674,Land at Bowden Lane,2017,PV,5.0,,solar farm,British Solar Renewables / NextEnergy Solar Fund (NESF),REPD
+repd-5429,5429,England,Dorset,50.972355,-2.381601,Land at Stalbridge Park,2017,PV,5.0,,solar farm,British Solar Renewables / NextEnergy Solar Fund (NESF),REPD
+repd-5430,5430,England,Norfolk,52.798431,1.397918,Frog's Loke Solar Farm,2016,PV,5.0,,solar farm,Frogs Loke Solar,REPD
+repd-5431,5431,England,Cambridgeshire,52.241854,-0.359554,Staughton Airfield Solar Farm,2020,PV,40.0,,solar farm,GreenHedge (BayWa r.e.) / Next Energy Capital,REPD
+repd-5435,5435,Northern Ireland,Co. Antrim,54.635613,-6.114794,Lands West of Belfast Road,2017,PV,10.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5437,5437,Wales,Caerphilly,51.703713,-3.179281,Manmoel Road Solar Park,2017,PV,4.1,,solar farm,Pearmat Solar,REPD
+repd-5440,5440,England,Somerset,51.194338,-2.961963,Huntspill Level Solar Park,2016,PV,5.5,,solar farm,Wessex Solar Energy,REPD
+repd-5442,5442,England,Gloucestershire,51.718413,-2.360638,Land at Box Road,2016,PV,2.2,,solar farm,Suncredit UK,REPD
+repd-5443,5443,Northern Ireland,Co. Antrim,54.560137,-6.180662,Hillside Solar Farm,2017,PV,25.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-5444,5444,England,Humberside,53.533292,-0.13358,Low Farm Solar Array,2022,PV,20.0,,solar farm,Wirsol / Island Green Power,REPD
+repd-5447,5447,England,Cheshire,53.158895,-2.382443,Land south of Wood Lane (Safeguard Bradwell),2017,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5450,5450,Northern Ireland,Co. Antrim,54.694347,-6.234148,South Antrim Solar Park - Phase 1,2018,PV,6.5,,solar farm,Hadstone Energy,REPD
+repd-5451,5451,England,Devon,50.326355,-4.030345,Newton Downs Farm,2017,PV,5.0,,solar farm,Core Aries (Renewable Energy),REPD
+repd-5453,5453,England,Norfolk,52.798431,1.397918,Bunn's Hill Solar Park,2016,PV,5.0,,solar farm,Solar Century/ Bluefield Solar,REPD
+repd-5465,5465,England,Shropshire,52.727186,-2.552758,Rushmoor Lane Farm (Cheshire Coppice),2016,PV,5.0,,solar farm,Sunsave 38/ Vogt Solar,REPD
+repd-5472,5472,England,Hampshire,51.155822,-1.458141,Fullenton Solar Farm,2016,PV,4.2,,solar farm,Tealing Solar Parks,REPD
+repd-5477,5477,Wales,Vale of Glamorgan,51.416201,-3.31442,Cwm Derwyn Farm,2017,PV,5.0,,solar farm,Kronos Solar,REPD
+repd-5478,5478,England,Leicestershire,52.778498,-0.937979,Land to the west of Ashfordby Business Park,2016,PV,3.5,,solar farm,First Renewable Developments,REPD
+repd-5480,5480,England,Hereford and Worcester,52.069182,-2.149823,Glebe Farm Solar Farm,2021,PV,32.0,,solar farm,NextEnergy Capital LLP,REPD
+repd-5482,5482,England,North Yorkshire,54.14446,-1.228101,York Solar Farm,2019,PV,34.7,,solar farm,Gridserve,REPD
+repd-5483,5483,England,Lincolnshire,53.106056,-0.019949,Land Off Folly Lane,2016,PV,5.0,,solar farm,Solar Century/ Bluefield Solar,REPD
+repd-5485,5485,England,Cornwall,50.401759,-4.356236,Land At Bake Farm,2016,PV,5.0,,solar farm,Murex Energy,REPD
+repd-5486,5486,England,Lancashire,53.823256,-2.962063,Land To The South Of Todderstaffe,2017,PV,4.5,,solar farm,Solar Power Inc UK Services/SPI China (HK),REPD
+repd-5487,5487,England,West Sussex,50.857074,-0.729807,Strettington Solar Farm,2016,PV,5.0,,solar farm,Sunsave 30 (Strettington)/ Vogt solar,REPD
+repd-5497,5497,England,Essex,51.840818,0.601098,Cressing Solar Farm (Phase 1),2016,PV,5.0,,solar farm,Octopus Investments,REPD
+repd-5498,5498,England,Wiltshire,51.321901,-2.154934,Land north of Ashton Road,2017,PV,4.0,,solar farm,Conergy,REPD
+repd-5499,5499,Wales,Carmarthenshire,51.759181,-4.533746,Parc Cynog,2016,PV,5.0,,solar farm,Vattenfall,REPD
+repd-5506,5506,England,Shropshire,52.639464,-2.250718,Albrighton Solar farm,2017,PV,15.8,,solar farm,Big 60 Million,REPD
+repd-5508,5508,England,Somerset,51.056738,-2.347194,Clapton Farm Solar Park,2017,PV,5.0,,solar farm,British Solar Renewables,REPD
+repd-5512,5512,England,Dorset,50.669915,-2.30645,Galton Manor Solar Park,2017,PV,5.0,,solar farm,British Solar Renewables,REPD
+repd-5513,5513,Scotland,Fife,56.415716,-2.962693,Wormit Solar Farm,2017,PV,4.0,,solar farm,Green Hedge (BayWa r.e.),REPD
+repd-5520,5520,England,Derbyshire,53.281266,-1.36185,The Breck,2016,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5523,5523,Wales,Pembrokeshire,51.777142,-4.988241,North Tenement,2017,PV,5.0,,solar farm,North Tenement Solar Farm Limited,REPD
+repd-5524,5524,Wales,Gwent,51.621394,-3.07938,Cwrt Henllys Farm,2016,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5525,5525,England,Cumbria,54.819459,-2.897139,Land at Wreay,2017,PV,5.0,,solar farm,Anesco,REPD
+repd-5527,5527,England,Wiltshire,51.535273,-1.803588,Common Farm,2016,PV,4.8,,solar farm,Public Power Solutions/ Swindon Borough Council,REPD
+repd-5529,5529,England,Cheshire,52.995739,-2.724841,Fields Farm (Agden),2017,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5530,5530,England,Leicestershire,52.724961,-1.445719,Land at Hill Farm,2016,PV,1.2,,solar farm,Hill Farm,REPD
+repd-5531,5531,Wales,Gwent,51.619771,-2.992183,Land to North West of Lodge Farm (Park Farm),2017,PV,4.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5532,5532,England,Leicestershire,52.58532,-0.709,Seaton Road Solar Farm,2017,PV,4.0,,solar farm,SBC Renewables,REPD
+repd-5536,5536,England,Somerset,51.269805,-2.962421,Wick Lane Solar Ltd,2017,PV,2.8,,solar farm,Navitas Project,REPD
+repd-5538,5538,England,Hereford and Worcester,52.185366,-2.286212,Otherton Farm,2017,PV,4.0,,solar farm,Wirisol (Sun & Soil),REPD
+repd-5540,5540,Wales,Ceredigion,52.151116,-4.135176,Nanthenfoel Farms,2017,PV,5.0,,solar farm,Anesco,REPD
+repd-5545,5545,England,Hereford and Worcester,52.018102,-2.770001,Land at Green Farm,2016,PV,1.0,,solar farm,Private Developer,REPD
+repd-5547,5547,England,Devon,50.754402,-4.299428,West Venn Solar Farm,2017,PV,5.0,,solar farm,Solar Securities Group,REPD
+repd-5548,5548,Wales,Vale of Glamorgan,51.479581,-3.530481,Corntown Farm,2017,PV,3.4,,solar farm,SBC Renewables,REPD
+repd-5551,5551,England,Oxfordshire,51.657374,-1.161946,Wally Corner Landfill Site,2017,PV,7.0,,solar farm,SBC Renewables,REPD
+repd-5554,5554,England,Derbyshire,53.146858,-1.395526,Land North of the Wood at Averill Farm,2016,PV,5.0,,solar farm,Stretton Solar,REPD
+repd-5559,5559,England,North Yorkshire,53.702782,-1.20094,Sudforth Lane (Kellingley Solar Farm),2017,PV,5.0,,solar farm,First Renewable Developments/ Harworth Group,REPD
+repd-5560,5560,Wales,Rhondda Cynon Taff,51.583432,-3.332159,Berthlwyd Farm,2017,PV,5.0,,solar farm,Greencoat Capital,REPD
+repd-5562,5562,England,Lincolnshire,52.965068,-0.019533,Pinguin Foods,2016,PV,1.5,,solar farm,Pinguin Foods Ltd,REPD
+repd-5568,5568,England,Staffordshire,52.640471,-2.141825,Land East of Lawn Lane,2016,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5572,5572,England,Kent,51.305808,0.34431,Land off Ford Lane,2016,PV,4.7,,solar farm,Trina Solar,REPD
+repd-5577,5577,England,Staffordshire,52.949058,-1.869778,Woodhouse Fields Farm,2017,PV,5.0,,solar farm,Wirsol,REPD
+repd-5578,5578,England,West Sussex,50.952372,-0.385463,Land off Hooklands Lane,2016,PV,5.0,,solar farm,Conergy UK,REPD
+repd-5581,5581,England,Lincolnshire,52.882597,-0.599385,High Dyke (Mill Farm),2016,PV,5.0,,solar farm,Island Green Power,REPD
+repd-5582,5582,England,Devon,50.79003,-4.399295,Land West of Parsonage Wood,2016,PV,4.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-5588,5588,England,Devon,50.351461,-3.662094,Land at Oldstone Farm,2017,PV,5.0,,solar farm,British Solar Renewables,REPD
+repd-5590,5590,England,Derbyshire,52.730472,-1.552389,Shortheath Solar Park,2017,PV,5.0,,solar farm,Trina Solar,REPD
+repd-5591,5591,England,Derbyshire,53.258536,-1.292408,Land at Oxcroft Stocking Ground,2016,PV,3.0,,solar farm,Anesco,REPD
+repd-5592,5592,England,Derbyshire,52.888162,-1.807748,Holtwood Farm,2016,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5596,5596,England,Northamptonshire,52.21996,-0.9617,Nectar Way Regional Distribution Centre,2015,PV,1.0,,solar farm,Sainsburys Supermarkets Limited,REPD
+repd-5599,5599,England,Buckinghamshire,51.827428,-0.736322,Gib Lane Solar farm (Extension),2016,PV,5.0,,solar farm,Haymaker Energy,REPD
+repd-5600,5600,England,Wiltshire,51.019542,-2.18821,Land east of Littledown Business Park,2016,PV,6.2,,solar farm,Lightsource Renewable Energy,REPD
+repd-5602,5602,England,Shropshire,52.706049,-2.422115,Lyreco - Telford Distribution Centre,2016,PV,3.8,,solar farm,Addison Energy,REPD
+repd-5605,5605,Wales,Vale of Glamorgan,51.396233,-3.254265,Port of Barry  - Site 2,2015,PV,5.0,,solar farm,Associated British Ports (ABP),REPD
+repd-5632,5632,England,Dorset,50.688016,-2.317058,Holly Farm Solar Park,2017,PV,5.0,,solar farm,British Solar Renewables,REPD
+repd-5633,5633,England,West Sussex,51.124531,0.015523,Worsted Farm,2019,PV,5.0,,solar farm,S4N Worsted/,REPD
+repd-5643,5643,England,Leicestershire,52.56144,-1.418426,Basin Bridge Farm,2016,PV,5.0,,solar farm,Sun Farming UK,REPD
+repd-5650,5650,England,Dorset,50.674511,-2.322712,Land at East Farm,2017,PV,5.0,,solar farm,East Farm Solar Park Ltd,REPD
+repd-5653,5653,England,Wiltshire,51.599597,-1.742904,B&Q Swindon DC,2016,PV,2.5,,solar farm,Kingfisher Scottish Limited Partnership,REPD
+repd-5654,5654,England,Nottinghamshire,52.926373,-1.050797,Stragglethorpe Road farm,2016,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5656,5656,England,Cleveland,54.632641,-1.268383,Land at Bluehouse Farm,2016,PV,5.0,,solar farm,Anesco,REPD
+repd-5659,5659,England,Dorset,50.686871,-2.178692,Stokeford Farm,2024,PV,28.5,,solar farm,Alaska (The Holme Estate),REPD
+repd-5660,5660,England,Hertfordshire,51.709109,-0.205123,Potters Bar Solar Farm,2017,PV,5.0,,solar farm,UK Sustainable Energy,REPD
+repd-5664,5664,England,Cleveland,54.63328,-1.295807,Stob House Farm,2016,PV,4.9,,solar farm,Anesco,REPD
+repd-5670,5670,England,Shropshire,52.709068,-2.412302,Granville Road Solar Farm,2016,PV,5.0,,solar farm,Solstice Renewables,REPD
+repd-5683,5683,Wales,Gwent,51.712634,-2.99349,Mamhilad Solar Farm,2020,PV,5.0,,solar farm,Active Renewables,REPD
+repd-5685,5685,England,Buckinghamshire,52.176307,-0.703324,Hyde Farm,2017,PV,5.0,,solar farm,Conergy,REPD
+repd-5686,5686,England,Hereford and Worcester,52.138635,-2.669432,Lower Venn Farm,2016,PV,5.0,,solar farm,New Energy for the World,REPD
+repd-5687,5687,England,Nottinghamshire,53.181211,-1.20381,Littlewood Lane Solar,2017,PV,5.0,,solar farm,Littlewood Renewables,REPD
+repd-5694,5694,England,County Durham,54.775243,-1.365523,Peterlee Solar Farm,2016,PV,5.0,,solar farm,Zaravolt Development,REPD
+repd-5712,5712,England,Warwickshire,52.253736,-1.480878,Land On The East Side Of Fosse Way,2017,PV,10.0,,solar farm,Anesco,REPD
+repd-5720,5720,England,Norfolk,52.645192,1.25822,Briar Solar Farm,2017,PV,1.9,,solar farm,NR16/ RenEnergy,REPD
+repd-5723,5723,England,Greater Manchester,53.533088,-2.376033,Bent Spur Solar Farm,2016,PV,5.0,,solar farm,Active Renewables,REPD
+repd-5735,5735,England,Leicestershire,52.565399,-1.129997,Blaby Solar Farm,2016,PV,3.5,,solar farm,Blaby Solar Farm,REPD
+repd-5742,5742,England,Nottinghamshire,53.127101,-1.042047,Bilsthorpe (Land off Forest Lane),2017,PV,5.0,,solar farm,NESF (formerly Lark Energy),REPD
+repd-5756,5756,England,Greater Manchester,53.455107,-2.058481,Godley Water Treatment Works,2016,PV,3.0,,solar farm,United Utilities,REPD
+repd-5786,5786,England,West Sussex,50.805881,-0.716989,Park Farm,2016,PV,5.0,,solar farm,BNRG (BL Solar),REPD
+repd-5793,5793,England,Cumbria,54.285889,-2.685085,Greaves Solar Farm,2016,PV,5.0,,solar farm,New Energy for the World,REPD
+repd-5795,5795,Scotland,Clackmannanshire,56.143022,-3.711989,Balhearty Solar,2016,PV,5.0,,solar farm,NESF (formerly Lark Energy),REPD
+repd-5796,5796,England,Warwickshire,52.217649,-1.408273,Weddington Farm,2016,PV,2.1,,solar farm,Green Switch Solutions/Belvedere Energy Developments - Liquidated,REPD
+repd-5797,5797,Scotland,Fife,56.147936,-3.146692,Middle Balbeggie,2017,PV,5.0,,solar farm,Lightsource Renewable Energy,REPD
+repd-5824,5824,England,Kent,51.159269,0.508917,Widehurst Farm,2017,PV,5.0,,solar farm,Wirsol (formerly Susenco),REPD
+repd-5828,5828,England,Staffordshire,52.975183,-2.171036,Screwfix Direct,2016,PV,2.5,,solar farm,Kingfisher Scottish Limited Partnership,REPD
+repd-5829,5829,England,Cambridgeshire,52.445058,-0.132568,Land at Biggin Lane,2016,PV,5.0,,solar farm,Ramsey Solar,REPD
+repd-5832,5832,England,West Sussex,50.822552,-0.651437,Land at Barnham,2017,PV,1.0,,solar farm,Wirsol,REPD
+repd-5834,5834,England,Shropshire,52.900149,-3.01518,Ebnal Lodge,2017,PV,5.0,,solar farm,Greencoat Capital,REPD
+repd-5835,5835,England,Oxfordshire,51.858812,-1.475022,Southill Solar,2016,PV,4.5,,solar farm,Sustainable Charlbury (Community),REPD
+repd-5838,5838,England,Lancashire,53.706553,-2.781362,"Carver Hay, moss lane",2017,PV,2.5,,solar farm,Navitas Project,REPD
+repd-5848,5848,England,Cumbria,54.67413,-3.526284,St Helen's Lane,2017,PV,5.0,,solar farm,UK Sustainable Energy,REPD
+repd-5852,5852,Northern Ireland,Co. Tyrone,54.653818,-6.739247,Dale Farm,2018,PV,4.9,,solar farm,Solar Farm DFD,REPD
+repd-5864,5864,England,Avon,51.508038,-2.678302,Avonmouth,2016,PV,4.2,,solar farm,Bristol Energy Co-Op,REPD
+repd-5866,5866,Wales,Gwent,51.550768,-3.100279,Newport (Began Road),2016,PV,4.9,,solar farm,Eco Energy World,REPD
+repd-5880,5880,England,Northamptonshire,52.206079,-0.977214,Land to the south of Hill Farm,2017,PV,6.8,,solar farm,TGC Renewables,REPD
+repd-5887,5887,England,Hertfordshire,51.907395,-0.046615,Mill Farm,2016,PV,5.0,,solar farm,Push Energy/ NextEnergy Solar Fund (NESF),REPD
+repd-5891,5891,England,Dorset,50.822037,-2.556213,Southern Counties Shooting Ground Phase 2,2017,PV,5.0,,solar farm,British Solar Renewables,REPD
+repd-5914,5914,Scotland,Angus,56.603761,-2.585954,Parkhill Solar Farm,2018,PV,5.0,,solar farm,Innova / Lark Energy,REPD
+repd-5917,5917,Wales,Carmarthenshire,51.667572,-4.089665,Dura Park Bynea Industrial Site,2015,PV,1.4,,solar farm,Short Bros Homes,REPD
+repd-5926,5926,England,Wiltshire,51.280221,-2.214021,Brook Hall Farm,2016,PV,4.7,,solar farm,South West Solar Parks (Brook Hall Farm SPV),REPD
+repd-5928,5928,England,Lancashire,53.774982,-2.929836,Land off Moss Side Lane,2017,PV,5.0,,solar farm,WEL Solar Park 11,REPD
+repd-5942,5942,England,Essex,51.472058,0.423443,Barvills Solar Farm,2017,PV,5.0,,solar farm,BE Renewables/Barvills Solar Limited,REPD
+repd-5945,5945,Scotland,Aberdeenshire,57.30807,-2.823823,Cairnmore Solar Park (extension),2015,PV,1.2,,solar farm,GPV Rhynie,REPD
+repd-5946,5946,England,Essex,51.575493,0.693764,London Southend Airport,2016,PV,2.5,,solar farm,London Southend Airport Co.,REPD
+repd-5952,5952,Northern Ireland,Co. Armagh,54.402464,-6.262207,Laurelhill,2018,PV,8.5,,solar farm,BNRG Northern Power,REPD
+repd-5955,5955,Northern Ireland,Co. Antrim,54.998528,-6.440426,Bann Road (Tullaghans Road),2017,PV,25.0,,solar farm,Greencoat Capital,REPD
+repd-5977,5977,Northern Ireland,Co. Antrim,54.67544,-6.016037,Gibson Farm,2018,PV,6.4,,solar farm,Lightsource Renewable Energy,REPD
+repd-5985,5985,England,London,51.492406,0.02704,Thameside DC,2016,PV,1.0,,solar farm,Sainsburys Supermarkets Limited,REPD
+repd-6007,6007,Northern Ireland,Co. Antrim,54.883904,-6.253617,Ballygarvey Road,2018,PV,13.0,,solar farm,Elgin Energy EsCo,REPD
+repd-6019,6019,England,Cumbria,54.66785,-2.798329,Moss Thorn Farm,2017,PV,5.8,,solar farm,TGC Renewables,REPD
+repd-6035,6035,Wales,Mid Glamorgan,51.540124,-3.699713,Caergarw Farm,2017,PV,3.8,,solar farm,Suncredit UK (Sunventures 7),REPD
+repd-6042,6042,England,Avon,51.524649,-2.571322,Rolls Royce Filton Campus Building 184,2016,PV,1.4,,solar farm,Innogy (previously BELECTRIC Solar),REPD
+repd-6043,6043,England,Avon,51.524649,-2.571322,Rolls Royce Filton Campus Building 185,2016,PV,1.8,,solar farm,Innogy (previously BELECTRIC Solar),REPD
+repd-6055,6055,England,West Sussex,50.82808,-0.215241,ParkerSteel Shoreham Plant,2015,PV,1.8,,solar farm,Larimin,REPD
+repd-6062,6062,England,Dorset,50.775582,-2.395157,Bourne Farm,2015,PV,2.4,,solar farm,Farm Power Apollo,REPD
+repd-6063,6063,England,Surrey,51.389715,-0.309565,London�s Queen Elizabeth II reservoir,2016,PV,6.3,,solar farm,Lightsource Renewable Energy,REPD
+repd-6069,6069,England,Wiltshire,51.573791,-1.81361,Barnfield Solar Park,2018,PV,2.5,,solar farm,Public Power Solutions,REPD
+repd-6108,6108,Wales,Pembrokeshire,51.773738,-4.987712,Popehill Farm,2017,PV,5.0,,solar farm,North Tenement Solar Limited,REPD
+repd-6114,6114,England,Essex,51.679382,-0.008811,Waltham Point Distribution Centre,2016,PV,1.8,,solar farm,Sainsburys Supermarkets Limited,REPD
+repd-6129,6129,England,West Yorkshire,53.702772,-1.242279,Knottingley B,2016,PV,2.4,,solar farm,Envantage Renewables,REPD
+repd-6132,6132,England,London,51.496026,-0.408077,Western International Market,2016,PV,1.7,,solar farm,London Borough of Hounslow,REPD
+repd-6133,6133,England,Northamptonshire,52.205457,-0.795066,Land East of Horton Road,2017,PV,4.9,,solar farm,NESF (formerly Lark Energy),REPD
+repd-6162,6162,England,Greater Manchester,53.579881,-2.426909,Salford Road,2016,PV,1.6,,solar farm,Aldi,REPD
+repd-6163,6163,England,Hampshire,50.963618,-1.47899,Grove Solar Park (Phase 2),2016,PV,11.0,,solar farm,Solar Century,REPD
+repd-6172,6172,Wales,Clwyd,53.028979,-2.921297,Williams Farm,2016,PV,5.0,,solar farm,Solar Ventures,REPD
+repd-6174,6174,England,Lincolnshire,52.932271,-0.096604,Kirton Solar PV Farm,2016,PV,3.2,,solar farm,Ethical Power,REPD
+repd-6180,6180,England,Cambridgeshire,52.451422,-0.137008,Bury Green Farm Solar,2016,PV,5.0,,solar farm,Bury Green Farm Solar (Caledon Partners),REPD
+repd-6181,6181,England,Nottinghamshire,53.445448,-0.981029,Misson Solar Farm,2016,PV,5.0,,solar farm,Novus,REPD
+repd-6189,6189,England,Lancashire,54.020701,-2.817217,Lancaster Wastewater Treatment Works,2016,PV,1.2,,solar farm,United Utilities,REPD
+repd-6198,6198,England,Hampshire,51.005991,-0.951501,Whitman Laboratories,2017,PV,1.0,,solar farm,Whitman Laboratories,REPD
+repd-6205,6205,England,West Sussex,50.833809,-0.606067,Binsted Farm,2016,PV,5.0,,solar farm,Lightsource BP,REPD
+repd-6230,6230,England,Lancashire,53.77185,-2.81025,Oakfield Farm,2016,PV,5.0,,solar farm,Renewable Source,REPD
+repd-6231,6231,England,Lancashire,53.772225,-2.806631,Oakfield Farm - extension,2016,PV,1.7,,solar farm,Renewable Source,REPD
+repd-6244,6244,England,West Sussex,50.847417,-0.743251,Former Westhampnett Landfill,2018,PV,7.5,,solar farm,West Sussex County Council,REPD
+repd-6246,6246,England,Cheshire,53.105897,-2.472238,Bentley Motors,2018,PV,2.9,,solar farm,Bentley Motors,REPD
+repd-6248,6248,England,Suffolk,52.319007,0.710856,Ingham North Solar,2021,PV,14.2,,solar farm,Solafields/Ingham Renewables,REPD
+repd-6314,6314,England,West Midlands,52.506842,-2.009002,DPD Distribution Centre,2017,PV,1.0,,solar farm,DPD,REPD
+repd-6320,6320,England,London,51.522089,-0.00693,Bywaters� Materials Recovery Facility Solar Array,2017,PV,1.0,,solar farm,Bywaters,REPD
+repd-6321,6321,England,County Durham,54.591211,-1.377547,High Meadow Farm,2016,PV,4.0,,solar farm,Anesco,REPD
+repd-6328,6328,England,Devon,50.968131,-4.095055,Deep Moor Landfill Site,2018,PV,2.0,,solar farm,Coastal Recycling UK (formerly Devon Waste Management),REPD
+repd-6329,6329,England,Hampshire,50.932497,-1.497923,Testwood Water Supply Works,2017,PV,1.9,,solar farm,Southern Water Services,REPD
+repd-6369,6369,Wales,Vale of Glamorgan,51.3976,-3.470745,Rosedew Farm,2016,PV,5.0,,solar farm,INRG,REPD
+repd-6376,6376,England,Kent,50.935148,0.909909,Dengemarsh Road,2016,PV,1.0,,solar farm,Tudor Roof Tile Co,REPD
+repd-6402,6402,England,West Yorkshire,53.711888,-1.571452,Haigh Hall Solar Farm,2017,PV,5.0,,solar farm,Athos Solar,REPD
+repd-6403,6403,England,South Yorkshire,53.537956,-1.033478,Next Distribution Centre Doncaster,2016,PV,2.5,,solar farm,Next/ Eneco,REPD
+repd-6411,6411,Wales,Gwent,51.561299,-2.90317,Llanwern Solar Farm & Battery Storage,2021,PV,75.0,,solar farm,NextEnergy Capital LLP,REPD
+repd-6458,6458,England,Hereford and Worcester,52.100795,-1.914594,Sytchwythy Fields,2017,PV,1.4,,solar farm,AR Partners,REPD
+repd-6466,6466,England,Lancashire,53.751053,-2.825895,Clifton Marsh Wastewater Treatment Works,2019,PV,1.3,,solar farm,United Utilities,REPD
+repd-6484,6484,England,Warwickshire,52.355421,-1.350655,Ling Hall,2021,PV,7.0,,solar farm,REG Solarpower/Veolia,REPD
+repd-6485,6485,England,North Yorkshire,54.17931,-0.525028,Sherburn,2016,PV,5.0,,solar farm,Kingspan,REPD
+repd-6486,6486,Wales,South Glamorgan,51.500164,-3.118076,Aldi - Cardiff,2016,PV,1.5,,solar farm,Aldi,REPD
+repd-6493,6493,Wales,Monmouthshire,51.610665,-2.720902,Oak Grove Farm,2017,PV,5.7,,solar farm,Monmouthshire County Council,REPD
+repd-6502,6502,England,Kent,51.338767,0.913885,Cleve Hill Solar Project,2025,PV,373.0,,solar farm,Quinbrook Infrastructure Partners,REPD
+repd-6506,6506,Northern Ireland,Co. Antrim,54.959231,-6.514699,Bann Road (Rasharkin),2017,PV,18.0,,solar farm,Elgin Energy,REPD
+repd-6513,6513,England,Lancashire,53.568838,-2.824725,Lathom (Pilkington Technical Centre),2019,PV,2.5,,solar farm,Lightsource BP,REPD
+repd-6520,6520,Wales,Mid Glamorgan,51.511998,-3.670779,Stormy Down Solar Farm,2017,PV,3.8,,solar farm,Belisama Energy,REPD
+repd-6523,6523,England,Lancashire,53.749654,-2.831888,Clifton Marsh Wastewater Treatment Works,2019,PV,3.2,,solar farm,United Utilities Water/ Preston City Council,REPD
+repd-6532,6532,England,Cheshire,53.169556,-2.866053,Huntington Water Treatment Works,2019,PV,7.2,,solar farm,United Utilities,REPD
+repd-6591,6591,England,Devon,50.333232,-3.976299,Creacombe Solar Farm,2020,PV,7.3,,solar farm,Gnaton Farm,REPD
+repd-6603,6603,England,Bedfordshire,52.067195,-0.612024,Cranfield Airfield,2018,PV,1.0,,solar farm,Cranfield Univsersity,REPD
+repd-6660,6660,Wales,South Glamorgan,51.494217,-3.126026,Lamby Way Solar Farm,2020,PV,8.9,,solar farm,Cardiff Council,REPD
+repd-6683,6683,England,Norfolk,52.739766,0.420416,Chamber 16 (Cold Store),2016,PV,1.2,,solar farm,Pinguin Foods UK,REPD
+repd-6700,6700,England,Essex,51.963107,0.364876,Terriers Farm,2022,PV,44.0,,solar farm,Low Carbon,REPD
+repd-6716,6716,England,Cornwall,50.646212,-4.636828,Saputo Dairy UK,2022,PV,4.2,,solar farm,Lightsource BP,REPD
+repd-6723,6723,England,Essex,51.467567,0.353011,Tilbury LCY2,2019,PV,4.0,,solar farm,Amazon UK Services/ Push Energy,REPD
+repd-6726,6726,Scotland,Fife,56.063851,-3.39072,Dunfermline EDI4,2019,PV,1.9,,solar farm,Amazon UK Services/ Push Energy,REPD
+repd-6742,6742,England,Gloucestershire,51.63526,-2.381145,"Building F, Renishaw Factory",2020,PV,0.2,,solar farm,Renishaw Group,REPD
+repd-6745,6745,Scotland,Fife,56.182242,-3.238772,Finmont Service Reservoir,2020,PV,0.3,,solar farm,Scottish Water,REPD
+repd-6752,6752,England,Gloucestershire,51.752792,-2.297475,Renishaw PLC Factory,2020,PV,0.8,,solar farm,Renishaw Group,REPD
+repd-6759,6759,England,Cumbria,54.356568,-2.762567,Burneside Mill,2019,PV,0.5,,solar farm,Community Energy Cumbria,REPD
+repd-6761,6761,England,Gloucestershire,51.865508,-2.368785,Leeways,2019,PV,0.5,,solar farm,Mypower Solar,REPD
+repd-6762,6762,England,Norfolk,52.669094,0.537573,Field north of Water Treatment Works / Hoggs Drove,2021,PV,1.0,,solar farm,Anglian Water Services,REPD
+repd-6766,6766,England,Leicestershire,52.690744,-1.36296,Pretoria Road,2020,PV,4.9,,solar farm,Lightsource BP,REPD
+repd-6768,6768,Wales,Pembrokeshire,51.760284,-5.01897,Bolton Hill WTW,2020,PV,0.5,,solar farm,Dwr Cymru Welsh Water,REPD
+repd-6816,6816,England,Gloucestershire,51.998756,-2.111192,Moog Controls Factory,2019,PV,0.38,,solar farm,Moog Controls,REPD
+repd-6834,6834,Wales,West Glamorgan,51.631888,-3.910868,Carn Nicholas Farm (Extension),2023,PV,10.0,,solar farm,Innova Renewables Limited,REPD
+repd-7210,7210,England,Tyne and Wear,54.918129,-1.485151,Unipres building,2020,PV,4.9,,solar farm,Regenerco,REPD
+repd-7225,7225,England,South Yorkshire,53.539903,-1.432451,Tesco Wombwell Lane,2020,PV,0.2,,solar farm,Batchelor Electrical,REPD
+repd-7229,7229,England,West Sussex,50.796801,-0.669872,Tesco Superstore Shripney Road,2020,PV,0.2,,solar farm,Batchelor Electrical,REPD
+repd-7235,7235,England,East Sussex,50.786089,0.303569,Tesco Lottbridge Drove,2019,PV,0.2,,solar farm,Tesco Stores,REPD
+repd-7238,7238,England,Kent,51.442627,0.759563,Tesco Super-Store (Bridge Road),2020,PV,0.4,,solar farm,Push Energy,REPD
+repd-7244,7244,England,Buckinghamshire,52.019388,-0.811875,The Hazeley Academy,2019,PV,0.2,,solar farm,Solar Options for Schools,REPD
+repd-7247,7247,England,Essex,51.562732,0.502052,Tesco Extra Hazelmere,2019,PV,0.4,,solar farm,Push Energy,REPD
+repd-7248,7248,England,Cheshire,53.406873,-2.659489,Amazon Omega Business Park,2020,PV,1.5,,solar farm,Amazon UK Services / Push Energy,REPD
+repd-7249,7249,England,Hertfordshire,51.768553,-0.452885,Iron Mountain Site,2020,PV,0.3,,solar farm,Iron Mountain,REPD
+repd-7251,7251,England,Greater Manchester,53.522538,-2.489471,Tesco Crab Tree Lane,2020,PV,0.5,,solar farm,Tesco Stores,REPD
+repd-7256,7256,England,Nottinghamshire,53.050562,-0.824114,The Grange,2021,PV,49.9,,solar farm,Lightsource BP,REPD
+repd-7258,7258,England,Warwickshire,52.440301,-1.255199,Streetfield Farm,2022,PV,18.3,,solar farm,Lightsource BP,REPD
+repd-7259,7259,Scotland,West Lothian,55.914276,-3.518431,Iron Mountain Building,2020,PV,0.3,,solar farm,Iron Mountain,REPD
+repd-7267,7267,Scotland,Fife,56.019462,-3.408873,St Margarets Bay,2020,PV,0.2,,solar farm,Scottish Water,REPD
+repd-7269,7269,England,Cambridgeshire,52.135148,-0.039911,Lamp Hill Wimpole Estate,2020,PV,0.4,,solar farm,National Trust,REPD
+repd-7279,7279,England,Lancashire,53.592798,-3.03144,Ainsdale Wastewater Treatment Works,2019,PV,0.3,,solar farm,United Utilities,REPD
+repd-7281,7281,Scotland,Highland,56.836819,-5.077556,Lochaber High School (Resubmission),2019,PV,0.3,,solar farm,Highland Council,REPD
+repd-7287,7287,Scotland,Perth and Kinross,56.383133,-3.385395,Perth Wastewater Treatment Works,2021,PV,0.4,,solar farm,Scottish Water,REPD
+repd-7288,7288,England,West Yorkshire,53.787641,-1.533191,TF and JH Braime Holdings Factory,2020,PV,0.2,,solar farm,TF and JH Braime,REPD
+repd-7292,7292,England,Greater Manchester,53.461969,-2.174044,"Tesco Super-Store (Garratt Way, Gorton)",2020,PV,0.7,,solar farm,Push Energy,REPD
+repd-7298,7298,England,Cambridgeshire,52.660514,0.097285,Volmary Site,2019,PV,0.2,,solar farm,Volmary,REPD
+repd-7310,7310,Scotland,Highland,57.692902,-4.167338,Invergordon Academy,2019,PV,0.2,,solar farm,Highland Council,REPD
+repd-7320,7320,England,Leicestershire,52.653554,-1.132211,National Space Centre,2019,PV,0.2,,solar farm,EvoEnergy,REPD
+repd-7321,7321,England,Somerset,50.94215,-2.637138,Tesco Queensway Place,2019,PV,0.3,,solar farm,Push Energy,REPD
+repd-7347,7347,Scotland,Perth and Kinross,56.383573,-3.462067,Aviva Headquarters,2020,PV,1.8,,solar farm,Aviva,REPD
+repd-7363,7363,England,Cambridgeshire,52.318999,0.318996,Bracks Farm,2023,PV,28.0,,solar farm,British Solar Renewables / BayWa r.e. UK Limited,REPD
+repd-7374,7374,England,Hertfordshire,51.905493,-0.215607,Flamingo House,2020,PV,1.0,,solar farm,M & G,REPD
+repd-7375,7375,England,Cumbria,54.930247,-2.971999,Kingmoor Park,2020,PV,5.0,,solar farm,Push Energy / Kingmoor Park,REPD
+repd-7381,7381,England,Oxfordshire,51.728087,-1.015285,The Oxfordshire Golf Club,2019,PV,0.3,,solar farm,The Oxfordshire Golf Club,REPD
+repd-7386,7386,England,Buckinghamshire,51.989272,-0.981315,Buckingham Tesco Superstore,2020,PV,0.2,,solar farm,Batchelor Electrical,REPD
+repd-7391,7391,Scotland,North Lanarkshire,55.853751,-4.013817,Henry Colbeck Office,2019,PV,0.2,,solar farm,Henry Colbeck,REPD
+repd-7400,7400,Wales,Flintshire,53.256044,-3.139176,Flint Landfill Site Castle Park,2021,PV,2.0,,solar farm,Flintshire County Council,REPD
+repd-7405,7405,England,Wiltshire,51.178827,-2.00789,East Codford Solar Farm Extension Phase 3,2022,PV,18.0,,solar farm,Centrica Plc,REPD
+repd-7409,7409,England,Staffordshire,52.99587,-2.258635,Keele University,2022,PV,4.4,,solar farm,Keele University,REPD
+repd-7423,7423,England,Hereford and Worcester,52.07265,-2.144655,"Lower Strensham, Bourne Road (Extension)",2021,PV,8.0,,solar farm,NextEnergy Capital LLP,REPD
+repd-7425,7425,England,Hampshire,51.248273,-1.510197,Hatherden Farm,2025,PV,49.9,,solar farm,Nextpower SPV 10 Limited,REPD
+repd-7448,7448,England,Humberside,53.538991,-0.045784,Hewitts Avenue Tesco,2020,PV,0.5,,solar farm,Push Energy,REPD
+repd-7451,7451,England,Devon,50.823456,-3.372295,Langford Solar Farm,2025,PV,35.0,,solar farm,JBM Solar Projects,REPD
+repd-7478,7478,England,Devon,51.200751,-4.128069,Pall Europe Building,2021,PV,0.58,,solar farm,Ivy Link Partnership,REPD
+repd-7526,7526,Scotland,Aberdeenshire,57.201334,-2.221362,Iron Mountain Howe Moss Drive,2020,PV,0.3,,solar farm,Iron Mountain,REPD
+repd-7531,7531,Scotland,Fife,56.365524,-2.889928,Eden Campus,2021,PV,1.0,,solar farm,Eden Campus Consultancy,REPD
+repd-7541,7541,England,Kent,51.378053,1.389384,Queen Elizabeth The Queen Mothers Hospital,2020,PV,0.4,,solar farm,East Kent Hospitals University NHS Foundation Trust,REPD
+repd-7542,7542,England,Kent,51.141489,0.916209,William Harvey Hospital,2020,PV,0.4,,solar farm,East Kent Hospitals University NHS Foundation Trust,REPD
+repd-7559,7559,England,Humberside,54.062797,-0.219126,South Shore Holiday Village,2021,PV,0.4,,solar farm,East Riding of Yorkshire Council,REPD
+repd-7599,7599,England,Gloucestershire,51.688029,-1.921042,Duke Of Gloucester Barracks,2021,PV,1.4,,solar farm,Ministry of Defence,REPD
+repd-7604,7604,England,Cambridgeshire,52.297998,0.180004,Ely Road Waste Management Park,2022,PV,1.1,,solar farm,Alboro Developments,REPD
+repd-7646,7646,England,Norfolk,52.569907,0.828529,Tesco Superstore Thetford Road,2021,PV,0.2,,solar farm,Push Energy,REPD
+repd-7666,7666,England,Essex,52.078158,0.662809,Pentlow Hill,2024,PV,24.0,,solar farm,Nextpower SPV 11 Limited,REPD
+repd-7689,7689,England,Essex,51.784984,1.105316,Jaywick Water Recycling Centre,2019,PV,0.9,,solar farm,Anglian Water,REPD
+repd-7735,7735,England,West Yorkshire,53.60146,-1.270719,Elmsall Way Warehouse,2021,PV,2.4,,solar farm,Next Distribution,REPD
+repd-7745,7745,Scotland,East Lothian,55.895105,-2.807328,Howden Farm,2021,PV,0.2,,solar farm,Howden Eggs,REPD
+repd-7758,7758,Scotland,Strathclyde,55.83648,-4.281847,Hutchesons Grammar School,2021,PV,0.18,,solar farm,Hutchesons Educational Trust / Intelligent Alternatives,REPD
+repd-7763,7763,Scotland,Lothian,55.930727,-3.409028,Claylands Road,2022,PV,0.2,,solar farm,Scottish Fire and Rescue Service,REPD
+repd-7781,7781,England,Devon,50.754478,-3.8731,Two Post Lane,2022,PV,12.0,,solar farm,Solar South West,REPD
+repd-7782,7782,England,Lancashire,53.755865,-2.452975,ENWL Training Academy,2021,PV,0.3,,solar farm,Electricity North West,REPD
+repd-7795,7795,England,Somerset,51.324821,-2.696806,Lag Farm,2020,PV,1.0,,solar farm,Yeo Valley Farms,REPD
+repd-7819,7819,England,Leicestershire,52.599482,-1.080215,Harborough Road Store,2022,PV,0.2,,solar farm,Lidl UK,REPD
+repd-7834,7834,Wales,Flintshire,53.219592,-3.054216,Crumps Yard Solar Farm,2021,PV,1.6,,solar farm,Flintshire County Council,REPD
+repd-7840,7840,England,Hereford and Worcester,52.088397,-2.155536,Croome Airfield Solar Farm,2023,PV,49.9,,solar farm,Croome Airfield Solar,REPD
+repd-7883,7883,England,West Sussex,50.989952,-0.483331,Brinsbury Campus Stane,2021,PV,0.2,,solar farm,Solar Advanced Systems (SAS Energy),REPD
+repd-7915,7915,Scotland,Perth and Kinross,56.382651,-3.388309,Perth Wastewater Treatment Works (Extension),2021,PV,0.3,,solar farm,Scottish Water,REPD
+repd-7928,7928,England,Norfolk,52.759012,1.347006,H M Prison Bure,2021,PV,0.2,,solar farm,Arcadis / Ministry of Justice,REPD
+repd-7929,7929,England,Dorset,50.907637,-2.599758,Clifton Farm,2025,PV,35.0,,solar farm,Voltalia UK,REPD
+repd-7943,7943,Scotland,Lothian,55.95175,-3.183932,City of Edinburgh Council Buildings,2020,PV,0.2,,solar farm,Edinburgh Community Solar Co-op,REPD
+repd-7958,7958,England,Buckinghamshire,51.96259,-0.900705,Fox Covert Solar Farm,2023,PV,22.0,,solar farm,Low Carbon,REPD
+repd-7968,7968,England,Shropshire,52.682546,-2.418117,Ricoh UK Products,2021,PV,1.2,,solar farm,Push Energy,REPD
+repd-7971,7971,England,Leicestershire,52.719898,-1.453023,Lower Fields Mushroom Farm,2021,PV,0.3,,solar farm,Livesey Brothers,REPD
+repd-7972,7972,England,Cambridgeshire,52.231263,-0.138361,Fairview Farm,2021,PV,0.2,,solar farm,Bird Brothers,REPD
+repd-7976,7976,England,Lancashire,53.768001,-2.720498,Brookhouse Mill,2020,PV,0.3,,solar farm,Plumbs,REPD
+repd-8011,8011,England,Hampshire,51.113576,-1.347063,Three Maids Hill Solar Farm,2023,PV,25.0,,solar farm,Environmenta Asset Management,REPD
+repd-8023,8023,England,Essex,51.704379,0.660627,Maldon Wycke Solar Farm,2024,PV,25.0,,solar farm,Low Carbon UK,REPD
+repd-8030,8030,England,Greater Manchester,53.485464,-2.191998,The National Cycling Centre Velodrome,2023,PV,0.7,,solar farm,Manchester City Council,REPD
+repd-8051,8051,England,Gloucestershire,51.577938,-2.47741,Larks Green Solar Farm,2023,PV,70.0,,solar farm,Enso Energy / Iron Acton Green,REPD
+repd-8067,8067,Wales,Neath Port Talbot,51.618278,-3.878314,Swansea University Bay Campus,2023,PV,0.2,,solar farm,Swansea University Estates,REPD
+repd-8101,8101,England,Devon,51.045178,-4.120972,Litchardon Cross Solar Farm,2021,PV,49.9,,solar farm,Aura Power / Infinis Energy Services,REPD
+repd-8131,8131,England,North Yorkshire,54.411115,-1.698936,"Darlington Road, Skeeby",2024,PV,55.0,,solar farm,Atrato Onsite Energy / Harmony Energy,REPD
+repd-8136,8136,England,Gloucestershire,51.660349,-2.030341,Kemble Wick,2026,PV,49.9,,solar farm,Aura Power,REPD
+repd-8141,8141,England,Cumbria,54.352389,-2.758274,South Stilling Tanks Solar Farm,2021,PV,0.5,,solar farm,Ellergreen Energy,REPD
+repd-8146,8146,England,Shropshire,52.976018,-2.726045,Bubney Farm,2023,PV,40.0,,solar farm,AlphaReal,REPD
+repd-8165,8165,England,Lancashire,53.559207,-2.800217,Sanko Gosei Solar Panels,2021,PV,0.5,,solar farm,Sanko Gosei UK Limited,REPD
+repd-8178,8178,England,Worcestershire,52.285781,-1.892808,Heming Point Roof Mounted Solar Panels,2021,PV,0.2,,solar farm,TRT Lighting Limited,REPD
+repd-8201,8201,England,Devon,50.555435,-4.131095,Parkwood Road Rooftop Solar Array,2021,PV,0.15,,solar farm,Tamar Energy Community Limited,REPD
+repd-8202,8202,England,Northumberland,55.132747,-1.538999,Blyth Sewage Treatment Works,2021,PV,2.3,,solar farm,Northumbrian Water Limited Head Office,REPD
+repd-8203,8203,England,Norfolk,52.860694,1.075529,Stody Estate Solar Array,2021,PV,0.49,,solar farm,Stody Estate Limited,REPD
+repd-8204,8204,England,Cleveland,54.573523,-1.234574,Albert Road Rooftop Solar Panels,2021,PV,0.18,,solar farm,Ministry of Justice,REPD
+repd-8205,8205,Scotland,Fife,56.322576,-2.991893,Cupar Wastewater Treatment Works Solar Farm,2021,PV,0.62,,solar farm,Scottish Water (Dundee),REPD
+repd-8223,8223,England,Essex,51.919794,0.462831,Four Elms Solar Array,2021,PV,0.17,,solar farm,F H Nash Limited,REPD
+repd-8233,8233,Scotland,Angus,56.77494,-2.61372,Stracathro Hospital Solar,2021,PV,0.25,,solar farm,Tayside Primary Care NHS Trust,REPD
+repd-8251,8251,England,Essex,51.847062,0.846289,Layer Farm - Solar Farm,2024,PV,49.0,,solar farm,Layer Solar Farm Limited,REPD
+repd-8272,8272,England,Cambridgeshire,52.280628,-0.314467,Littleyhey Prison Solar Farm,2021,PV,0.5,,solar farm,Ministry of Justice,REPD
+repd-8357,8357,England,Essex,51.59002,0.376529,Crouch Solar Farm,2024,PV,49.9,,solar farm,Low Carbon Storage,REPD
+repd-8405,8405,England,West Sussex,51.105516,-0.158137,Oriel High School,2021,PV,0.19,,solar farm,West Sussex County Council,REPD
+repd-8408,8408,England,Cambridgeshire,52.487344,0.194217,Willow Farm,2022,PV,1.15,,solar farm,BeBa Energy UK Limited,REPD
+repd-8440,8440,England,Cumbria,54.356053,-2.761573,"Burneside Mill, Burneside",2021,PV,1.0,,solar farm,Burenside Community Energy Limited,REPD
+repd-8448,8448,England,Kent,51.261542,0.997519,Nickle Farm,2021,PV,0.35,,solar farm,Beba Energy,REPD
+repd-8457,8457,England,Kent,51.163213,0.433392,"Churn Lane, Horsmonden Solar Panels",2021,PV,0.5,,solar farm,Cottage Farms Limited,REPD
+repd-8479,8479,England,Cambridgeshire,52.291893,0.349211,Breach Farm - Solar farm,2023,PV,49.9,,solar farm,Octopus Renewables Infrastructure Trust,REPD
+repd-8799,8799,England,Oxfordshire,51.571157,-1.310129,Avon Road Car Park - Solar Photovoltaic Carport System,2022,PV,1.62,,solar farm,Science and Technology Facilities Council,REPD
+repd-8802,8802,England,Devon,50.79126,-4.419848,Derril Water Solar Farm - Solar Farm,2025,PV,42.0,,solar farm,Renewable Energy System Limited / Ripple Energy,REPD
+repd-8811,8811,England,Bedfordshire,52.069806,-0.630822,Cranfield University - Solar Farm,2021,PV,0.44,,solar farm,Cranfield University,REPD
+repd-8824,8824,England,Essex,52.007649,0.285522,Long Meadow Solar Farm,2025,PV,19.0,,solar farm,Low Carbon Solar Park 4 Limited,REPD
+repd-8855,8855,England,Worcestershire,52.081883,-1.861819,Plant Produce - Solar PV panels,2021,PV,0.15,,solar farm,Applevale Limited,REPD
+repd-8858,8858,England,Dorset,50.770082,-1.951138,Dorset Green Solar Farm,2023,PV,5.0,,solar farm,Canford Renewable Energy Limited,REPD
+repd-8928,8928,England,Cumbria,54.356053,-2.761573,Burneside Mill Solar Array - Phase 3,2021,PV,0.3,,solar farm,Burenside Community Energy Limited,REPD
+repd-9038,9038,England,Worcestershire,52.115782,-1.851361,Littleton Solar Farm,2026,PV,30.0,,solar farm,Stark Energy / SSE Renewables,REPD
+repd-9051,9051,Wales,Ceredigion,52.424984,-4.064553,Fferm Penglais - Solar Farm,2022,PV,2.5,,solar farm,Aberystwyth University,REPD
+repd-9110,9110,England,Somerset,50.942084,-2.649093,Westland Leisure Complex,2022,PV,0.22,,solar farm,Engie,REPD
+repd-9150,9150,England,Greater Manchester,53.469246,-2.199442,Outer Space Studios Solar Panels,2021,PV,0.6,,solar farm,Ameresco Limited,REPD
+repd-9157,9157,England,Worcestershire,52.355158,-2.072855,"Bumble Hole Lane, Dodford - Solar PV",2023,PV,0.67,,solar farm,Bumble Hole Foods Limited,REPD
+repd-9179,9179,England,East Riding of Yorkshire,53.770242,-0.449792,Cottingham - Solar Farm,2022,PV,5.0,,solar farm,Hull & East Yorkshire Hospitals NHS Trust,REPD
+repd-9190,9190,England,Cornwall,50.111997,-5.542429,Lidl Foodstore - Solar Panels,2022,PV,0.18,,solar farm,Lidl Great Britain,REPD
+repd-9198,9198,England,Kent,51.367468,1.388358,Continental Approach - Solar Panels,2021,PV,0.2,,solar farm,Roe Timber Frame Limited,REPD
+repd-9247,9247,England,Hereford and Worcester,52.065704,-2.628502,Larport - Solar Farm,2024,PV,45.0,,solar farm,Conrad Energy (Developments) Limited,REPD
+repd-9253,9253,England,Buckinghamshire,52.041046,-0.65605,Harvie Card Way - Solar panels,2022,PV,1.97,,solar farm,Zestec Asset Management,REPD
+repd-9272,9272,England,Greater Manchester,53.502534,-2.202463,Central Park - Solar photovaltics,2021,PV,0.15,,solar farm,Greater Manchester Police,REPD
+repd-9282,9282,England,Essex,51.865053,0.624242,Periwinkle Hall - Links Solar photovoltaic farm & Battery storage,2024,PV,35.0,,solar farm,Low Carbon Limited,REPD
+repd-9326,9326,England,Nottinghamshire,52.940221,-1.176709,Willow Road - Roof mounted solar panels,2021,PV,0.35,,solar farm,AC Gill Limited,REPD
+repd-9351,9351,England,Essex,51.605352,0.18112,Bower Park Academy - Solar Photovoltaic Panels,2021,PV,0.26,,solar farm,London Borough of Hounslow,REPD
+repd-9360,9360,England,Dorset,50.813188,-2.141475,South Farm Solar Park,2022,PV,40.0,,solar farm,Voltalia UK,REPD
+repd-9382,9382,England,West Sussex,51.059216,-0.34108,St Peters Hall,2021,PV,1.7,,solar farm,Peter Williams Locke King House,REPD
+repd-9420,9420,England,Cheshire,53.345248,-2.639281,Daresbury Science Park - Solar Array,2021,PV,0.56,,solar farm,Science and Technology Facilities Council,REPD
+repd-9631,9631,England,Warwickshire,52.211708,-1.568551,Newbold Pacey Solar Farm�,2024,PV,28.7,,solar farm,Innova Renewables / ISGRenewables,REPD
+repd-9632,9632,England,London,51.542363,-0.071229,Holly Street - Solar PV Panels,2021,PV,0.16,,solar farm,London Borough of Hackney,REPD
+repd-9664,9664,England,Devon,51.096962,-4.15295,"Perrigo,Wrafton - Solar Photovoltaic System",2021,PV,0.53,,solar farm,Perrigo,REPD
+repd-9671,9671,England,London,51.612134,-0.045596,Advent Way - Solar Panels,2021,PV,0.18,,solar farm,Big Yellow Group Plc,REPD
+repd-9749,9749,England,Kent,51.280241,0.38564,Kingshill Solar Farm,2024,PV,3.0,,solar farm,Kent County Council,REPD
+repd-9767,9767,England,Suffolk,52.239589,0.743629,Easlea Road - Solar Photovoltaic Panels,2022,PV,0.62,,solar farm,Vitec Production Solutions,REPD
+repd-9845,9845,England,Merseyside,53.48638,-2.847373,IBL Cold Stores - Solar Photovoltaics Panels,2022,PV,0.8,,solar farm,IBL Cold Stores,REPD
+repd-9951,9951,England,Surrey,51.401975,-0.398133,Hurst Road - Walton Solar PV Farm,2022,PV,0.55,,solar farm,Affinity Water Limited,REPD
+repd-10001,10001,England,Essex,51.809712,0.638551,Morrisons Witham - Solar Pv Panels,2022,PV,0.19,,solar farm,WM Morrisons Supermarkets Plc,REPD
+repd-10005,10005,England,Kent,51.085311,1.160994,Morrisons Store 148 Cheriton Road - Solar Array,2022,PV,0.29,,solar farm,WM Morrisons Supermarkets Plc,REPD
+repd-10016,10016,England,Warwickshire,52.19464,-1.484434,"Banbury Road, Gaydon - Solar Array",2025,PV,18.0,,solar farm,Jaguar Land Rover Manufacturing,REPD
+repd-10088,10088,England,Somerset,51.161475,-2.977854,Horsey Levels - Solar Farm,2022,PV,24.0,,solar farm,Enviromena Asset Management UK Limited,REPD
+repd-10149,10149,England,Derbyshire,52.976818,-1.320503,Manners Avenue - Solar Panels,2022,PV,0.62,,solar farm,Creed Food Service Limited,REPD
+repd-10296,10296,England,Kent,51.147986,0.875792,Station Road - Solar Array,2022,PV,0.17,,solar farm,Hollywood Bowl Group,REPD
+repd-10369,10369,England,Essex,51.51064,0.291917,Medebridge Road - Solar Farm,2025,PV,49.9,,solar farm,Medebridge Solar,REPD
+repd-10412,10412,England,Devon,51.011465,-4.192853,Chubb Road - Solar Photovoltaic,2022,PV,0.15,,solar farm,Advanced Pallet Systems,REPD
+repd-10415,10415,Wales,Dyfed,51.703335,-5.003145,Dragon Long Meadow  - Solar farm,2023,PV,9.9,,solar farm,Dragon LNG Limited / Anesco Limited,REPD
+repd-10422,10422,England,Greater Manchester,53.449114,-2.133503,"Denton Hall Farm Road, Denton - Solar Photovoltaic System",2023,PV,1.16,,solar farm,System 3 Limited,REPD
+repd-10443,10443,England,West Yorkshire,53.824577,-1.731273,"Morrisons, Bradford Road, Idle - Solar PV Panels",2022,PV,0.8,,solar farm,WM Morrisons Supermarkets Plc,REPD
+repd-10458,10458,England,County Durham,54.839029,-1.540965,Lumley Water Treatment Works - Solar Panels,2022,PV,1.9,,solar farm,Northumbrian Water Limited,REPD
+repd-10692,10692,England,Lancashire,53.790646,-2.342951,Altham Business Park - Solar Panels,2022,PV,1.18,,solar farm,The Senator Group Altham,REPD
+repd-10758,10758,England,London,51.50613,0.103087,Twin Tumps Way - Solar Panels,2022,PV,0.62,,solar farm,WM Morrisons Supermarkets Plc,REPD
+repd-10776,10776,England,Worcestershire,52.303406,-1.920747,Arthur Street - Solar Panels,2022,PV,0.19,,solar farm,Springmasters Limited,REPD
+repd-10780,10780,England,Norfolk,52.553385,0.861532,HMP Wayland - Solar Panels,2022,PV,0.34,,solar farm,Ministry of Justice,REPD
+repd-10790,10790,England,Northamptonshire,52.262129,-1.177731,Royal Oak Way South - Solar Array,2023,PV,1.66,,solar farm,Cummins Limited,REPD
+repd-10797,10797,England,Gloucestershire,51.90772,-2.34516,Highleadon - Solar Arrays & Battery Storage,2025,PV,49.9,,solar farm,RWE,REPD
+repd-10868,10868,England,Norfolk,52.37268,1.109214,Victoria Road - Solar Photovoltaic System,2022,PV,0.7,,solar farm,WM Morrisons Supermarkets Plc,REPD
+repd-11070,11070,England,South Yorkshire,53.587111,-0.964286,"Tudworth Field Road, Hatfield - Solar PV Panels",2023,PV,0.27,,solar farm,SJS Agriplant Limited,REPD
+repd-11155,11155,Scotland,Fife,56.11954,-3.148935,"Kirkcaldy W W T W, Nether Street- Solar Panels",2023,PV,0.65,,solar farm,Scottish Water,REPD
+repd-11271,11271,England,North Yorkshire,53.972733,-1.093334,Kingsway - Solar Panels,2022,PV,0.16,,solar farm,Solar Options For Schools Limited,REPD
+repd-11291,11291,England,Cheshire,53.406276,-2.173906,"Audi Stockport, Brinksway, Edgeley - Solar Panels",2022,PV,0.27,,solar farm,Smith Knight Fay,REPD
+repd-11330,11330,England,Northamptonshire,52.240932,-0.919208,"Cinch Stadium, Franklin�s Gardens - Solar",2022,PV,8.8,,solar farm,Solivus,REPD
+repd-11335,11335,England,Lincolnshire,53.557646,-0.498125,Atherton Way - Solar Panels,2022,PV,0.24,,solar farm,Rocal Limited,REPD
+repd-11423,11423,England,Northamptonshire,52.278837,-0.67071,"London Road, Irchester - Solar Farm",2022,PV,26.0,,solar farm,Atrato Onsite Energy,REPD
+repd-11486,11486,England,Essex,51.581358,0.405279,"Ford Research And Engineering Centre, Dunton - Solar Farm",2025,PV,5.2,,solar farm,Ford Motor Company Limited,REPD
+repd-11509,11509,Wales,Mid Glamorgan,51.744418,-3.553525,"Bryngolwg Farm, Hirwaun - Solar farm",2022,PV,8.94,,solar farm,Enviromena Asset Management UK Limited,REPD
+repd-11513,11513,England,Leicestershire,52.655548,-1.317658,"Desford Brick Works, Bagworth -  Solar Panels",2024,PV,2.6,,solar farm,Leicestershire County Council,REPD
+repd-11567,11567,England,Cheshire,53.260431,-2.885024,Longlooms Road East - Solar panels,2023,PV,0.22,,solar farm,Mercedes Benz (UK),REPD
+repd-11799,11799,England,West Midlands,52.617222,-2.271461,Pepperhill Solar Farm - Solar Farm & Battery Storage,2023,PV,23.0,,solar farm,Low Carbon,REPD
+repd-12050,12050,England,Derbyshire,52.768131,-1.545645,"Midland Lead, Kiln Way - Solar Photovoltaic Panels",2022,PV,0.24,,solar farm,Cactus Energy,REPD
+repd-12054,12054,England,West Yorkshire,53.803146,-1.533307,"Regent Street, Sheepscar - Solar Panels",2023,PV,0.22,,solar farm,Stokers Limited,REPD
+repd-12101,12101,England,Essex,51.859289,0.799304,Birch Solar Farm & Battery Storage,2023,PV,40.0,,solar farm,Low Carbon Solar Park 22 Limited,REPD
+repd-12137,12137,England,Warwickshire,52.197296,-1.430563,Feldon Vale Solar Farm,,PV,49.9,,solar farm,Low Carbon,REPD
+repd-12300,12300,England,Derbyshire,53.258496,-1.337095,"Inkersall Road, Staveley - Solar Photovoltaic Farm And Battery Storage",2021,PV,31.0,,solar farm,Low Carbon,REPD
+repd-12314,12314,England,Cumbria,54.749854,-2.704255,"Bells Of Lazonby, Edenholme Bakery - Solar Panels",2023,PV,0.63,,solar farm,Bells of Lazonby,REPD
+repd-12335,12335,England,Somerset,51.050273,-2.663131,"Tout Lane, Charlton Adam - Solar Photovoltaic System",2020,PV,0.3,,solar farm,S Morris Limited,REPD
+repd-12682,12682,England,Suffolk,52.075569,0.437598,Rookwood Way - Solar Farm,2024,PV,2.04,,solar farm,Sanofi UK,REPD
+repd-12728,12728,England,East Sussex,50.786969,0.271108,Eastbourne District General Hospital -  Energy Management,2023,PV,1.1,,solar farm,East Sussex Healthcare NHS Trust,REPD
+repd-12802,12802,England,Bedfordshire,52.068263,-0.634998,"University Way, Cranfield - Solar Array",2023,PV,0.88,,solar farm,Cranfield University,REPD
+repd-12934,12934,England,Northumberland,55.153342,-1.682424,"County Hall, Loansdean - Solar Array",2023,PV,0.8,,solar farm,Northumberland County Council,REPD
+repd-13025,13025,England,Essex,51.806979,0.753756,"Wilkin And Sons, Factory Hill - Solar Farm",2023,PV,6.15,,solar farm,Wilkin & Sons Limited,REPD
+repd-13104,13104,England,Surrey,51.395181,-0.54312,Chertsey Water Treatment Works,2022,PV,1.3,,solar farm,Affinity Water Limited,REPD
+repd-13131,13131,England,Cumbria,54.705037,-3.387406,"M Sport, Dovenby Hall Estate - Solar Panels",2023,PV,0.8,,solar farm,M-Sport Limited,REPD
+repd-13162,13162,England,Northamptonshire,52.220918,-0.865442,"Wieland Nemco, Pennard Close - Solar panels",2023,PV,0.15,,solar farm,Wieland Werke (UK) Limited,REPD
+repd-13251,13251,England,Leicestershire,52.433353,-1.213704,Northfield House Solar Farm,2023,PV,26.0,,solar farm,Lightsource BP,REPD
+repd-13370,13370,England,Lincolnshire,53.575053,-0.100687,"Grimsby West, Birchin Way - Solar Array",2024,PV,1.12,,solar farm,HSH Coldstores,REPD
+repd-13381,13381,England,Lincolnshire,53.575232,-0.121146,"HSH Coldstores, Estate Road - Solar Panels",2024,PV,1.08,,solar farm,HSH Coldstores,REPD
+repd-13443,13443,England,North Yorkshire,53.974464,-2.136963,"Souber Dairy, Bank Newton - Solar Panels",2022,PV,0.19,,solar farm,Dodgson Farms Limited,REPD
+repd-13475,13475,England,Nottinghamshire,52.945976,-1.135152,Eastcroft Municipal Depot,2023,PV,0.18,,solar farm,Nottingham City Council,REPD
+repd-14202,14202,Scotland,Tayside,56.768188,-3.844058,"Blair Castle Caravan Park, Blair Atholl - Solar Farm",2023,PV,0.16,,solar farm,Atholl Estates,REPD
+repd-14275,14275,England,Berkshire,51.52875,-0.725435,"Iomart, Clivemont Road - Solar Panels",2024,PV,0.29,,solar farm,3ti Energy Hubs Limited,REPD
+repd-14707,14707,England,West Yorkshire,53.783154,-1.525941,LVF Packaging - Solar Panel,2023,PV,0.3,,solar farm,LVF Packaging,REPD
+repd-14754,14754,England,Hampshire,51.283236,-0.776563,Farnborough Airport - Solar Panels,2024,PV,1.7,,solar farm,Farnborough Airport Limited,REPD
+repd-14774,14774,England,Hertfordshire,51.657627,-0.269673,"Elstree Film And TV Studios, Shenley Road - Solar Panels",2023,PV,3.0,,solar farm,Sky Studios,REPD
+repd-14810,14810,Wales,Flintshire,53.032826,-2.935187,F Lloyd Penley - Solar Panels,2023,PV,0.41,,solar farm,F Lloyd Penley Ltd,REPD
+repd-14982,14982,England,Nottinghamshire,52.891035,-1.205138,"Fairham Business Park, Foresters Avenue  - Roof Mounted Solar Panels",2023,PV,0.36,,solar farm,Scientific Laboratory Supplies,REPD
+repd-15002,15002,England,Cornwall,50.045512,-5.082375,Roskilly's - Solar Farm,2023,PV,0.21,,solar farm,Roskilly's,REPD
+repd-15091,15091,England,North Yorkshire,54.221053,-1.485928,"Heck Food, Lime Lane - Solar Panels",2024,PV,0.24,,solar farm,Duncan Renewables,REPD
+repd-15732,15732,England,Gloucestershire,51.449728,-2.464069,Hare Brewery - Solar Panels,2024,PV,0.25,,solar farm,St Austell Brewery,REPD
+repd-15915,15915,England,Gloucestershire,51.738269,-2.526324,Jones Food Company - Solar Farm,2024,PV,0.71,,solar farm,Jones Food Company / Zestec Renewable Energy,REPD
+repd-15973,15973,Scotland,Glasgow City,55.780183,-4.13423,"Allers Wastewater Treatment Works, Barrie Road - Solar Pv Array",2025,PV,0.24,,solar farm,Scottish Water National Operations Control Centre,REPD
+repd-16008,16008,England,Lincolnshire,52.75718,0.193144,Sutton Bridge Solar Farm,2024,PV,49.9,,solar farm,EDF Energy Renewables,REPD
+repd-16120,16120,Scotland,Strathclyde,55.955682,-4.304926,Mugdock Water Treatment Works - Solar panels,2025,PV,0.75,,solar farm,Scottish Water National Operations Control Centre,REPD
+repd-16367,16367,England,South Yorkshire,53.585191,-1.439216,"Premier Foods Bakery, Fish Dam Lane - Solar Farm",2025,PV,2.0,,solar farm,Premier Foods Plc,REPD
+repd-16426,16426,England,County Durham,54.856224,-1.844811,Derwentside Environmental Testing Servs Limited - Solar pv panels,2023,PV,0.38,,solar farm,Olympus Power,REPD
+repd-16871,16871,England,Gloucestershire,51.43999,-2.628088,Great Western Air Ambulance Charity - Solar Panels,2024,PV,0.25,,solar farm,Bristol Energy Cooperative,REPD
+repd-17782,17782,England,Hertfordshire,51.694949,-0.392846,Woodside Leisure Centre - Solar PV Panels,2025,PV,0.29,,solar farm,Watford Borough Council,REPD
+repd-18382,18382,England,Norfolk,52.545932,0.576997,"Hall Farm, West End Northwold - Solar Farm",2025,PV,10.0,,solar farm,Ampyr Solar Europe,REPD
+repd-19113,19113,England,Surrey,51.30427,-0.405869,Cobham Motorway Service Area -  Solar Photovoltaics,2025,PV,0.45,,solar farm,Extra MSA Cobham Limited,REPD
+repd-19627,19627,England,Hampshire,51.137905,-0.991812,Alton Sport Centre - Solar Panels,2025,PV,0.37,,solar farm,East Hampshire District Council,REPD

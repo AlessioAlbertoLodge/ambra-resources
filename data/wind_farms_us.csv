@@ -1,0 +1,1357 @@
+case_id,eia_id,p_state,p_county,ylat,xlong,p_name,p_year,p_tech_pri,p_cap_ac,p_cap_dc,p_type,utility_name
+1,1,AK,Aleutians East,55.339722,-160.497222,Sand Point,2011,WIND,1.0,,wind farm,"Sand Point Generating, LLC"
+90,90,AK,Nome,64.505331,-165.429814,Snake River,2013,WIND,1.8,,wind farm,Nome Joint Utility Systems
+508,508,CO,Prowers,38.033327,-102.537915,Lamar Plant,2004,WIND,6.0,,wind farm,City of Lamar - (CO)
+944,944,IL,Henry,41.451494,-90.148547,Geneseo,2009,WIND,3.0,,wind farm,City of Geneseo - (IL)
+1172,1172,IA,Mitchell,43.279722,-92.810556,Osage (IA),2009,WIND,1.6,,wind farm,City of Osage - (IA)
+1998,1998,MN,Cottonwood,43.9405,-94.9434,Mountain Lake,2007,WIND,1.2,,wind farm,City of Mountain Lake - (MN)
+2022,2022,MN,Kandiyohi,45.121705,-95.053236,Willmar,2009,WIND,4.0,,wind farm,Willmar Municipal Utilities
+2024,2024,MN,Nobles,43.63349,-95.609234,Worthington,2002,WIND,5.6,,wind farm,City of Worthington - (MN)
+6304,6304,AK,NORTHWEST ARCTIC,66.837778,-162.556944,Kotzebue Hybrid,1997,WIND,3.3,,wind farm,Kotzebue Electric Assn Inc
+7381,7381,VT,Bennington,42.8625,-72.9628,Searsburg Wind Turbine,1997,WIND,6.0,,wind farm,Green Mountain Power Corp
+7501,7501,MA,Worcester,42.4789,-71.9,Princeton Wind Farm,2010,WIND,3.0,,wind farm,Town of Princeton - (MA)
+7526,7526,CA,Solano,38.116415,-121.769031,Solano Wind,2006,WIND,300.5,,wind farm,Sacramento Municipal Util Dist
+7771,7771,NE,Keya Paha,42.82579,-99.777467,Springview,2011,WIND,3.0,,wind farm,Bluestem LLC
+7855,7855,MN,Clay,46.895,-96.7347,Moorhead Wind Turbine,1999,WIND,1.4,,wind farm,City of Moorhead - (MN)
+7886,7886,WI,Kewaunee,44.6694,-87.6333,Wind Turbine,1999,WIND,11.0,,wind farm,Madison Gas & Electric Co
+7927,7927,TN,Anderson,36.120994,-84.338733,Buffalo Mountain,2000,WIND,1.8,,wind farm,Tennessee Valley Authority
+7936,7936,WA,Benton,46.0958,-119.0964,Nine Canyon,2002,WIND,95.9,,wind farm,Energy Northwest
+7966,7966,IA,Kossuth,43.034722,-94.140556,Iowa Distributed Wind Generation Project,2000,WIND,2.3,,wind farm,City of Algona - (IA)
+10005,10005,CA,Merced,37.0478,-121.1708,Dinosaur Point,1988,WIND,17.4,,wind farm,International Turbine Res Inc
+10191,10191,CA,Kern,35.060556,-118.389722,Tehachapi Wind Resource I,1984,WIND,8.7,,wind farm,CalWind Resources Inc
+10586,10586,CA,Kern,35.075,-118.3158,Cameron Ridge LLC,1984,WIND,59.6,,wind farm,Terra-Gen Operating Co-Wind
+10597,10597,CA,Kern,35.0697,-118.3167,Ridgetop Energy LLC,1984,WIND,29.0,,wind farm,Terra-Gen Operating Co-Wind
+10718,10718,CA,Riverside,33.92194,-116.56222,Karen Avenue Wind Farm,1985,WIND,11.7,,wind farm,San Gorgonio Farms Inc
+10823,10823,MA,Suffolk,42.353333,-70.962778,Deer Island Treatment Plant,2009,WIND,1.2,,wind farm,Massachusetts Wtr Rauth-Deer I
+50281,50281,CA,Riverside,33.926111,-116.615,San Gorgonio Farms Wind Farm,1983,WIND,31.0,,wind farm,San Gorgonio Farms Inc
+50532,50532,CA,Kern,35.0686,-118.3833,Victory Garden (Tehachapi),1981,WIND,26.1,,wind farm,Wind Stream Operations LLC
+50533,50533,CA,Riverside,33.9369,-116.6183,Painted Hills Wind Park,2021,WIND,46.8,,wind farm,Terra-Gen Operating Co-Wind
+50535,50535,CA,Riverside,33.9461,-116.6769,Mesa Wind Power LLC,1984,WIND,33.6,,wind farm,Brookfield Renewable Trading and Marketing LP
+50536,50536,CA,Kern,35.2608,-118.2469,Sky River Wind Energy Center,2021,WIND,60.2,,wind farm,Sky River Wind LLC
+50552,50552,CA,Riverside,33.914986,-116.71026,Salka Cabazon Wind,1999,WIND,38.9,,wind farm,Salka Cabazon Wind LLC
+50553,50553,CA,Riverside,33.881667,-116.460278,Edom Hills Project 1 LLC,2008,WIND,20.0,,wind farm,Edom Hills Project 1 LLC
+50690,50690,CA,Riverside,33.934,-116.5781,San Gorgonio Westwinds II LLC,1999,WIND,43.4,,wind farm,Terra-Gen Operating Co-Wind
+50754,50754,CA,Kern,35.043889,-118.276388,Oak Creek Energy Systems I,1982,WIND,34.5,,wind farm,Terra-Gen Operating Co-Wind
+50820,50820,CA,Riverside,33.890913,-116.541515,East Winds Project,1985,WIND,3.0,,wind farm,Terra-Gen Operating Co-Wind
+50821,50821,CA,Kern,35.045,-118.2642,Mojave 16/17/18,1989,WIND,88.5,,wind farm,Terra-Gen Operating Co-Wind
+52142,52142,CA,Kern,35.0506,-118.2572,Mojave 3/4/5,1990,WIND,75.0,,wind farm,Terra-Gen Operating Co-Wind
+52162,52162,CA,Kern,35.095797,-118.324772,85 A,2021,WIND,21.3,,wind farm,Wind Wall 1 LLC
+52163,52163,CA,Kern,35.102577,-118.332533,85 B,2021,WIND,25.2,,wind farm,Wind Wall 1 LLC
+54298,54298,CA,Kern,35.0583,-118.3417,Coram Energy LLC (ECT),2005,WIND,7.5,,wind farm,Nextera Energy Resources
+54299,54299,CA,Kern,35.075,-118.3417,Coram Energy LLC,2005,WIND,3.0,,wind farm,Nextera Energy Resources
+54300,54300,CA,Kern,35.0583,-118.3083,Coram Energy LLC (4.5MW),1985,WIND,4.6,,wind farm,Nextera Energy Resources
+54453,54453,CA,Solano,38.1167,-121.8333,EDF Renewable Windfarm V Inc,1990,WIND,15.5,,wind farm,"EDF Renewable Asset Holdings, Inc."
+54454,54454,CA,Riverside,33.918395,-116.573906,San Gorgonio Windplant WPP1993,2011,WIND,49.5,,wind farm,"FPL Energy Operating Services, Inc."
+54647,54647,CA,Kern,35.05,-118.2572,TPC Windfarms LLC,1986,WIND,28.7,,wind farm,Terra-Gen Operating Co-Wind
+54686,54686,CA,Kern,35.0506,-118.1714,Difwind Farms Ltd VI,1987,WIND,27.1,,wind farm,Terra-Gen Operating Co-Wind
+54750,54750,CA,Kern,35.0663,-118.339444,Coram Tehachapi,1992,WIND,6.5,,wind farm,Nextera Energy Resources
+54793,54793,IA,Buena Vista,42.6878,-95.405,Storm Lake 1,1999,WIND,113.9,,wind farm,ALLETE Clean Energy
+54909,54909,CA,Kern,35.1061,-118.3114,Tehachapi Wind Resource II,1997,WIND,21.9,,wind farm,CalWind Resources Inc
+54931,54931,CA,Kern,35.074,-118.3153,Ridgetop,1994,WIND,46.8,,wind farm,Terra-Gen Operating Co-Wind
+54979,54979,TX,Howard,32.2075,-101.388333,Big Spring Wind Power Facility,1998,WIND,34.3,,wind farm,Terra-Gen Operating Co-Wind
+55125,55125,OR,Umatilla,45.936157,-118.65999,Vansycle,1998,WIND,25.0,,wind farm,ESI Vansycle Partners LP
+55208,55208,MN,Lincoln,44.2917,-96.375,Lake Benton I,1998,WIND,107.2,,wind farm,ALLETE Clean Energy
+55265,55265,MN,Pipestone,44.129369,-96.116971,Lake Benton II,1999,WIND,100.2,,wind farm,Northern States Power Co - Minnesota
+55287,55287,IA,Buena Vista,42.8417,-95.405,Storm Lake II,1999,WIND,80.2,,wind farm,ALLETE Clean Energy
+55339,55339,CA,Riverside,33.916667,-116.55,Phoenix Wind Power LLC,1999,WIND,2.1,,wind farm,Avangrid Power LLC
+55342,55342,MN,Pipestone,43.985833,-96.078611,Woodstock Windfarm,1999,WIND,9.2,,wind farm,Consolidated Edison Development Inc.
+55353,55353,MN,Lincoln,44.39956,-96.428367,Lakota Ridge LLC,1999,WIND,11.2,,wind farm,"Lakota Ridge, LLC (Longroad)"
+55354,55354,MN,Lincoln,44.421711,-96.434694,Shaokatan Hills LLC,1999,WIND,11.8,,wind farm,"Shaokatan Hills, LLC (Longroad)"
+55560,55560,WA,Walla Walla,46.06,-118.917,FPL Energy Vansycle LLC (WA),2001,WIND,176.9,,wind farm,FPL Energy Vansycle LLC
+55561,55561,MN,Lincoln,44.42,-96.4347,Tsar Nicholas LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55562,55562,MN,Lincoln,44.4289,-96.4358,Sun River LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55563,55563,MN,Lincoln,44.4231,-96.4458,Julia Hills LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55564,55564,MN,Lincoln,44.4278,-96.43,Jessica Mills LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55565,55565,MN,Lincoln,44.4233,-96.4411,Jack River LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55566,55566,MN,Lincoln,44.4131,-96.4325,Autumn Hills LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55567,55567,MN,Lincoln,44.2081,-96.1989,Winters Spawn LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55568,55568,MN,Lincoln,44.2258,-96.2789,Twin Lake Hills LLC,2000,WIND,1.9,,wind farm,CHI Operations Inc
+55569,55569,MN,Lincoln,44.2358,-96.2383,Spartan Hills LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55570,55570,MN,Lincoln,44.2364,-96.2331,Soliloquoy Ridge LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55571,55571,MN,Lincoln,44.2128,-96.2131,Ruthton Ridge LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55572,55572,MN,Lincoln,44.2275,-96.2192,Hope Creek LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55573,55573,MN,Lincoln,44.2253,-96.235,Hadley Ridge LLC,2000,WIND,1.9,,wind farm,CHI Operations Inc
+55574,55574,MN,Lincoln,44.2297,-96.225,Florence Hills LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55576,55576,MN,Clay,47.0053,-96.4356,Agassiz Beach LLC,2001,WIND,1.9,,wind farm,CHI Operations Inc
+55579,55579,TX,Carson,35.4677,-101.2533,Llano Estacado Wind Ranch,2001,WIND,80.0,,wind farm,Llano Estacado Wind Ranch
+55581,55581,TX,Upton,31.2092,-102.2417,King Mountain Wind Ranch 1,2001,WIND,278.0,,wind farm,FPL Energy Upton Wind LP
+55719,55719,CA,Riverside,33.9211,-116.5642,Mountain View I & II,2022,WIND,70.9,,wind farm,AES Distributed Energy
+55734,55734,KS,Gray,37.613256,-100.378197,Gray County Wind Energy,2001,WIND,112.2,,wind farm,Gray County Wind Energy LLC
+55739,55739,OR,Gilliam,45.2766,-120.2794,Condon Windpower LLC,2001,WIND,49.8,,wind farm,ALLETE Clean Energy
+55741,55741,CO,Logan,40.945911,-103.162028,Ridge Crest Wind Partners,2001,WIND,29.7,,wind farm,Terra-Gen Operating Co-Wind
+55742,55742,WI,Iowa,42.9625,-90.386667,Montfort Wind Energy Center,2002,WIND,30.0,,wind farm,Wisconsin Electric Power Co
+55747,55747,TX,Pecos,30.931467,-102.201433,NWP Indian Mesa Wind Farm,2001,WIND,82.5,,wind farm,NWP Indian Mesa Wind Farm LP
+55769,55769,NY,Madison,42.894722,-75.451666,Madison Windpower LLC,2000,WIND,11.5,,wind farm,Madison Windpower LLC
+55782,55782,MN,Nobles,43.754739,-95.853447,Noble Ridge LLC,2001,WIND,1.5,,wind farm,RENEW Energy Inc
+55790,55790,NY,Madison,42.988989,-75.762536,Fenner Wind,2001,WIND,30.0,,wind farm,CHI Energy Inc
+55795,55795,TX,Pecos,30.9514,-102.414067,Woodward Mountain II,2001,WIND,78.0,,wind farm,Pecos Wind II LP
+55796,55796,TX,Pecos,30.9514,-102.414067,Woodward Mountain I,2001,WIND,82.0,,wind farm,Pecos Wind I LP
+55803,55803,PA,Somerset,39.979167,-79.012778,Somerset Windpower LLC,2001,WIND,9.0,,wind farm,"Sequitur Renewables, LLC"
+55804,55804,IA,Worth,43.3833,-93.4167,"Old Gold Energy Center, LLC",2001,WIND,80.0,,wind farm,"Old Gold Energy Center, LLC"
+55805,55805,PA,Somerset,39.913408,-79.393644,Mill Run Windpower LLC,2001,WIND,15.0,,wind farm,"Sequitur Renewables, LLC"
+55809,55809,MN,Pipestone,44.0119,-96.1125,Kas Brothers Windfarm,2001,WIND,1.5,,wind farm,Kas Brothers Windfarm LLC
+55816,55816,IA,Cerro Gordo,43.047222,-93.4775,Hawkeye Power Partners LLC,1999,WIND,42.0,,wind farm,Hawkeye Power Partners LLC
+55871,55871,OR,Sherman,45.5563,-120.5507,Klondike Wind Power,2002,WIND,24.5,,wind farm,Avangrid Power LLC
+55968,55968,TX,Nolan,32.4301,-100.235652,Trent Wind Farm,2001,WIND,152.0,,wind farm,Trent Wind Farm LLC
+55986,55986,WV,Tucker,39.1828,-79.5372,Mountaineer Wind Energy Center,2002,WIND,66.0,,wind farm,"Sequitur Renewables, LLC"
+55989,55989,OR,Umatilla,46.01279,-118.816246,FPL Energy Vansycle LLC (OR),2001,WIND,122.8,,wind farm,FPL Energy Vansycle LLC
+55992,55992,TX,Pecos,30.9178,-102.0867,Desert Sky,2002,WIND,167.7,,wind farm,Desert Sky Wind Farm LP
+55995,55995,ND,Ward,48.021271,-101.280517,Minot Wind Project,2009,WIND,4.5,,wind farm,Basin Electric Power Coop
+56001,56001,PA,Wayne,41.5533,-75.4542,Waymart Wind,2003,WIND,64.5,,wind farm,"Sequitur Renewables, LLC"
+56002,56002,MN,Rock,43.5564,-96.303611,Minwind,2002,WIND,3.8,,wind farm,"Community Renewables, LLC"
+56010,56010,IA,Hancock,43.052758,-93.629956,Hancock County Wind Energy Center,2002,WIND,98.0,,wind farm,"FPL Energy Hancock County Wind, LLC"
+56011,56011,CA,Riverside,33.9172,-116.735,Cabazon Wind Partners,2002,WIND,41.0,,wind farm,Shell Wind Energy Inc.
+56012,56012,CA,Riverside,33.925,-116.617778,Whitewater Hill Wind Partners,2002,WIND,61.5,,wind farm,Shell Wind Energy Inc.
+56052,56052,PA,Somerset,39.790739,-79.002047,"Meyersdale Windpower, LLC",2003,WIND,30.0,,wind farm,"Sequitur Renewables, LLC"
+56054,56054,MN,Dodge,43.978486,-92.851078,G McNeilus Wind Farm Dodge Center,2002,WIND,43.0,,wind farm,Justin McNeilus
+56075,56075,CA,Solano,38.1381,-121.8053,High Winds LLC,2003,WIND,162.0,,wind farm,"FPLE High Winds, LLC"
+56081,56081,OK,Comanche,34.850781,-98.577311,Blue Canyon Windpower,2003,WIND,74.3,,wind farm,Blue Canyon Windpower LLC
+56092,56092,SD,Hyde,44.5492,-99.5,South Dakota Wind Energy Cente,2003,WIND,40.5,,wind farm,FPL Energy South Dakota Wind LLC
+56093,56093,WY,Uinta,41.2874,-110.5556,TransAlta Wyoming Wind,2003,WIND,144.0,,wind farm,TransAlta Wyoming Wind LLC
+56094,56094,OK,Woodward,36.603967,-99.340047,Oklahoma Wind Energy Center,2003,WIND,102.0,,wind farm,FPL Energy Oklahoma Wind LLC
+56097,56097,NM,Quay,34.63566,-104.04733,New Mexico Wind Energy Center,2003,WIND,204.0,,wind farm,FPL Energy New Mexico Wind LLC
+56099,56099,ND,LaMoure,46.327169,-98.898356,FPL Energy North Dakota Wind I/II,2003,WIND,61.5,,wind farm,FPL Energy North Dakota Wind LLC
+56106,56106,NE,Kimball,41.2736,-103.6983,Kimball Wind,2018,WIND,30.0,,wind farm,"Kimball Wind, LLC"
+56111,56111,TX,Scurry,32.94793,-101.147784,Brazos Wind Farm,2003,WIND,182.4,,wind farm,Shell Wind Energy Inc.
+56112,56112,CA,Riverside,33.9141,-116.5914,Mountain View III,2003,WIND,22.4,,wind farm,Avangrid Power LLC
+56160,56160,IL,Lee,41.7194,-89.0492,"Mendota Hills, LLC",2003,WIND,76.2,,wind farm,"Leeward Asset Management, LLC"
+56162,56162,NE,Brown,42.4489,-99.8917,Ainsworth Wind,2005,WIND,59.4,,wind farm,Nebraska Public Power District
+56172,56172,IA,Dickinson,43.3897,-95.2997,Flying Cloud Power Partners LLC,2003,WIND,43.5,,wind farm,Avangrid Power LLC
+56173,56173,CO,Prowers,37.7033,-102.6231,Colorado Green Holdings LLC,2003,WIND,162.0,,wind farm,Avangrid Power LLC
+56174,56174,MN,Pipestone,44.0667,-96.0667,Moraine Wind LLC,2003,WIND,51.0,,wind farm,Avangrid Power LLC
+56195,56195,OR,Umatilla,45.943,-118.591,Combine Hills I,2003,WIND,43.0,,wind farm,Eurus Combine Hills I LLC
+56199,56199,MN,Pipestone,43.9897,-96.2236,TG Windfarm LLC,2003,WIND,2.0,,wind farm,TG Windfarm LLC
+56200,56200,MN,Pipestone,43.9931,-96.2186,CG Windfarm LLC,2003,WIND,2.0,,wind farm,CG Windfarm LLC
+56201,56201,MN,Pipestone,43.984444,-96.219444,Bisson Windfarm LLC,2003,WIND,2.0,,wind farm,Bisson Windfarm LLC
+56202,56202,MN,Pipestone,43.980278,-96.223333,Tofteland Windfarm LLC,2003,WIND,2.0,,wind farm,Tofteland Windfarm LLC
+56203,56203,MN,Pipestone,43.988611,-96.215556,Westridge Windfarm LLC,2003,WIND,2.0,,wind farm,Westridge Windfarm LLC
+56204,56204,MN,Pipestone,44.0364,-96.0736,Fey Windfarm LLC,2003,WIND,2.0,,wind farm,Fey Windfarm LLC
+56205,56205,MN,Pipestone,44.0236,-96.0789,Windcurrent Farms LLC,2003,WIND,2.0,,wind farm,Windcurrent Farms LLC
+56206,56206,MN,Pipestone,44.0197,-96.1183,K-Brink Windfarm LLC,2003,WIND,2.0,,wind farm,"K-brink Windfarm, LLC"
+56207,56207,MN,Jackson,43.651389,-95.368611,DL Windy Acres LLC,2003,WIND,2.0,,wind farm,Brewster
+56208,56208,MN,Jackson,43.651389,-95.3825,S&P Windfarm LLC,2003,WIND,2.0,,wind farm,Brewster
+56209,56209,MN,Pipestone,44.05,-96.0933,Boeve Windfarm LLC,2003,WIND,2.0,,wind farm,Boeve Windfarm LLC
+56210,56210,MN,Jackson,43.651389,-95.3755,B&K Energy Systems LLC,2003,WIND,2.0,,wind farm,Brewster
+56211,56211,TX,Nolan,32.3606,-100.3389,Sweetwater Wind 1 LLC,2003,WIND,37.5,,wind farm,"Leeward Asset Management, LLC"
+56212,56212,TX,Nolan,32.3472,-100.3703,Sweetwater Wind 2 LLC,2005,WIND,98.8,,wind farm,"Leeward Asset Management, LLC"
+56215,56215,IA,Osceola,43.4,-95.6333,Allendorf,1998,WIND,5.8,,wind farm,E&E Enterprises LLC
+56226,56226,OH,Wood,41.3786,-83.7383,Bowling Green Wind,2003,WIND,7.2,,wind farm,"American Mun Power-Ohio, Inc"
+56240,56240,TX,Taylor,32.311556,-100.061589,Buffalo Gap Wind Farm,2006,WIND,120.6,,wind farm,AES Distributed Energy
+56251,56251,IA,Buena Vista,42.5539,-95.3283,Intrepid,2004,WIND,175.5,,wind farm,MidAmerican Energy Co
+56252,56252,IA,Hamilton,42.5644,-93.6369,Century,2005,WIND,201.2,,wind farm,MidAmerican Energy Co
+56255,56255,WA,Columbia,46.4211,-117.8331,Hopkins Ridge Wind,2005,WIND,156.6,,wind farm,Puget Sound Energy Inc
+56270,56270,TX,Taylor,32.303889,-100.021667,Callahan Divide Wind Energy Center,2005,WIND,114.0,,wind farm,"FPL Energy Callahan Wind, LLC"
+56271,56271,CA,Alameda,37.763653,-121.614392,Diablo Winds LLC,2004,WIND,18.0,,wind farm,"Sequitur Renewables, LLC"
+56273,56273,OK,Custer,35.5094,-98.7346,Weatherford Wind Energy Center,2005,WIND,147.0,,wind farm,"FPL Energy Weatherford, LLC"
+56275,56275,CA,Kern,35.0925,-118.3952,Helzel & Schwarzhoff 86,1986,WIND,2.4,,wind farm,Wind Stream Operations LLC
+56276,56276,CA,Kern,35.0772,-118.3811,ZCO,1985,WIND,1.6,,wind farm,Wind Stream Operations LLC
+56290,56290,NY,Lewis,43.7853,-75.5753,Maple Ridge Wind Farm,2005,WIND,321.2,,wind farm,"Flat Rock Windpower, LLC"
+56291,56291,TX,Taylor,32.214024,-100.05712,Horse Hollow Wind Energy Center,2005,WIND,735.5,,wind farm,FPL Energy Horse Hollow LLC
+56293,56293,NM,Quay,34.980556,-103.353889,Caprock Wind Farm,2004,WIND,100.0,,wind farm,"Leeward Asset Management, LLC"
+56295,56295,CA,San Diego,32.705556,-116.3425,Kumeyaay Wind,2005,WIND,50.0,,wind farm,"Leeward Asset Management, LLC"
+56296,56296,MN,Martin,43.7938,-94.8499,Trimont Area Wind Farm,2005,WIND,100.5,,wind farm,Avangrid Power LLC
+56297,56297,IL,Bureau,41.25,-89.5708,Crescent Ridge,2005,WIND,53.0,,wind farm,"Leeward Asset Management, LLC"
+56299,56299,PA,Luzerne,41.235278,-75.753056,Wind Park Bear Creek,2006,WIND,24.0,,wind farm,"Leeward Asset Management, LLC"
+56300,56300,NJ,Atlantic,39.382222,-74.4475,Jersey-Atlantic Wind Farm,2006,WIND,7.5,,wind farm,"Leeward Asset Management, LLC"
+56301,56301,ID,Bonneville,43.4195,-111.8294,Wolverine Creek,2006,WIND,64.5,,wind farm,Invenergy Services LLC
+56302,56302,CA,Kern,35.06094,-118.292406,Oasis Wind,2004,WIND,60.3,,wind farm,Terra-Gen Operating Co-Wind
+56303,56303,KS,Butler,37.5797,-96.5503,Elk River Wind,2005,WIND,150.0,,wind farm,Avangrid Power LLC
+56304,56304,NM,Roosevelt,33.9716,-103.8604,San Juan Mesa Wind Project LLC,2005,WIND,120.0,,wind farm,NRG Energy Gas & Wind Holdings Inc
+56307,56307,MN,Mower,43.554778,-92.724139,Adams Wind Farm,2003,WIND,23.3,,wind farm,Consolidated Edison Development Inc.
+56308,56308,ID,Gooding,42.858056,-114.949444,Fossil Gulch,2005,WIND,10.5,,wind farm,Greenbacker Renewable Energy Corporation
+56311,56311,TX,Nolan,32.290833,-100.4219,Sweetwater Wind 3 LLC,2005,WIND,135.0,,wind farm,"Leeward Asset Management, LLC"
+56320,56320,CO,Logan,40.983,-102.9647,Spring Canyon,2006,WIND,60.0,,wind farm,Invenergy Services LLC
+56322,56322,WA,Kittitas,47.036269,-120.206494,Wild Horse,2006,WIND,272.6,,wind farm,Puget Sound Energy Inc
+56335,56335,OK,Comanche,34.8661,-98.6056,Blue Canyon Windpower II,2005,WIND,151.4,,wind farm,Blue Canyon Windpower II LLC
+56336,56336,NM,Guadalupe,34.8147,-105.0108,Aragonne Wind LLC,2006,WIND,235.0,,wind farm,"Leeward Asset Management, LLC"
+56337,56337,TX,Nolan,32.3122,-100.5303,Sweetwater Wind 4 LLC,2007,WIND,241.0,,wind farm,"Leeward Asset Management, LLC"
+56338,56338,IL,McLean,40.4792,-88.7989,High Trail Wind Farm LLC,2007,WIND,210.9,,wind farm,High Trail Wind Farm LLC
+56347,56347,WI,Fond Du Lac,43.692647,-88.329742,Cedar Ridge,2008,WIND,67.7,,wind farm,Wisconsin Power & Light Co
+56351,56351,KS,Ford,37.8641,-99.7528,Spearville,2006,WIND,148.5,,wind farm,Evergy Metro
+56355,56355,IA,Franklin,42.630513,-93.206389,Whispering Willow Wind Farm - East,2009,WIND,199.7,,wind farm,Interstate Power and Light Co
+56357,56357,ND,Burleigh,47.1167,-100.7333,FPL Energy Burleigh County Wind,2005,WIND,49.5,,wind farm,FPL Energy Burleigh County Wind LLC
+56359,56359,OR,Sherman,45.571,-120.593,Klondike Windpower II,2005,WIND,75.0,,wind farm,Avangrid Power LLC
+56360,56360,OR,Gilliam,45.652457,-120.209783,Leaning Juniper,2006,WIND,110.4,,wind farm,PacifiCorp
+56361,56361,WA,Klickitat,45.8877,-120.2896,Big Horn Wind Project,2006,WIND,199.0,,wind farm,Avangrid Power LLC
+56362,56362,CA,Solano,38.12,-121.85,Shiloh I Wind Project,2006,WIND,150.0,,wind farm,Avangrid Power LLC
+56369,56369,PA,Somerset,39.85,-79.138,Casselman Wind Power Project,2007,WIND,34.5,,wind farm,Avangrid Power LLC
+56371,56371,CO,Weld,40.8944,-104.0206,Cedar Creek Wind,2007,WIND,300.5,,wind farm,"Leeward Asset Management, LLC"
+56372,56372,TX,Nolan,32.236944,-100.4833,Sweetwater Wind 5,2007,WIND,80.5,,wind farm,"Leeward Asset Management, LLC"
+56376,56376,IL,Pike,39.6189,-90.8461,Pike County Wind Power,2005,WIND,1.7,,wind farm,Illinois Rural Electric Coop
+56377,56377,MT,Wheatland,46.5725,-109.7531,Judith Gap Wind Energy Center,2005,WIND,135.0,,wind farm,Invenergy Services LLC
+56378,56378,HI,Hawaii,18.9742,-155.6914,Pakini Nui Wind Farm,2007,WIND,21.0,,wind farm,Apollo Energy Corp
+56379,56379,IA,Carroll,42.1169,-95.1292,Victory Wind Farm,2006,WIND,105.0,,wind farm,MidAmerican Energy Co
+56380,56380,OK,Harper,36.637733,-99.601869,Centennial Wind Farm,2006,WIND,120.0,,wind farm,Oklahoma Gas & Electric Co
+56383,56383,IA,Worth,43.3608,-93.2978,Northern Iowa Windpower II,2008,WIND,80.0,,wind farm,Avangrid Power LLC
+56386,56386,IA,Worth,43.3597,-93.3208,Top of Iowa Windfarm III,2008,WIND,29.7,,wind farm,Madison Gas & Electric Co
+56391,56391,WI,Fond Du Lac,43.8794,-88.2708,Blue Sky Green Field Wind Project,2008,WIND,145.2,,wind farm,Wisconsin Electric Power Co
+56392,56392,ND,Oliver,47.152847,-101.197716,FPL Energy Oliver Wind I LLC,2006,WIND,50.6,,wind farm,FPL Energy Oliver County Wind
+56394,56394,TX,Glasscock,32.039,-101.22,Forest Creek Wind Farm LLC,2006,WIND,124.2,,wind farm,"Big Sky Wind, LLC"
+56395,56395,TX,Shackelford,32.6256,-99.4928,Mesquite Wind Power LLC,2007,WIND,200.0,,wind farm,Mesquite Wind LLC
+56399,56399,NH,Sullivan,43.233,-72.1455,Lempster Wind LLC,2008,WIND,24.0,,wind farm,Avangrid Power LLC
+56408,56408,IL,Bureau,41.3017,-89.6236,Agriwind,2007,WIND,8.4,,wind farm,"Agriwind Holdings, LLC"
+56409,56409,MN,Pipestone,44.0256,-96.4303,Stahl Wind Energy,2004,WIND,1.7,,wind farm,"Stahl Wind Energy, LLC (Longroad)"
+56410,56410,MN,Pipestone,44.0247,-96.4369,Carstensen Wind,2004,WIND,1.7,,wind farm,"Carstensen Wind, LLC (Longroad)"
+56411,56411,MN,Pipestone,44.015,-96.4367,Northern Lights Wind LLC,2004,WIND,1.7,,wind farm,Northern Lights Wind LLC (Longroad)
+56412,56412,MN,Pipestone,44.0211,-96.4406,Lucky Wind,2004,WIND,1.7,,wind farm,"Lucky Wind, LLC (Longroad)"
+56413,56413,MN,Pipestone,44.0208,-96.4331,Greenback Energy,2004,WIND,1.7,,wind farm,"Greenback Energy, LLC (Longroad)"
+56414,56414,MN,Redwood,44.502778,-95.175,Redwood Falls Wind,2004,WIND,3.4,,wind farm,Southern Minnesota Mun P Agny
+56415,56415,MN,Martin,43.575,-94.446667,Fairmont Wind,2003,WIND,5.4,,wind farm,Southern Minnesota Mun P Agny
+56416,56416,MI,Huron,43.7092,-82.9633,Michigan Wind 1,2008,WIND,69.0,,wind farm,"Michigan Wind 1, LLC"
+56424,56424,MN,Mower,43.61407,-92.59882,Mower County Wind Energy Center,2006,WIND,98.9,,wind farm,Northern States Power Co - Minnesota
+56432,56432,TX,Oldham,35.291944,-102.303056,Wildorado Wind LLC,2007,WIND,161.0,,wind farm,"Wildorado Wind, LLC"
+56433,56433,CA,Kern,35.248006,-118.175356,Pine Tree Wind Power Project,2009,WIND,135.0,,wind farm,Los Angeles Department of Water & Power
+56434,56434,ID,Cassia,42.490341,-113.926605,Burley Butte Windpark,2011,WIND,21.3,,wind farm,Idaho Wind Partners 1 LLC
+56435,56435,ID,Cassia,42.436804,-113.925536,Golden Valley Wind Park LLC,2011,WIND,12.0,,wind farm,Idaho Wind Partners 1 LLC
+56437,56437,ID,Cassia,42.460629,-114.017297,Milner Dam Wind Park LLC,2011,WIND,19.5,,wind farm,Idaho Wind Partners 1 LLC
+56439,56439,ID,Twin Falls,42.840556,-114.989722,Oregon Trail Wind Park,2011,WIND,13.5,,wind farm,Idaho Wind Partners 1 LLC
+56440,56440,ID,Twin Falls,42.7975,-114.998611,Pilgrim Stage Wind Park,2011,WIND,10.5,,wind farm,Idaho Wind Partners 1 LLC
+56441,56441,ID,Twin Falls,42.681944,-114.989167,Salmon Falls Wind Park,2011,WIND,21.0,,wind farm,Idaho Wind Partners 1 LLC
+56442,56442,ID,Twin Falls,42.870278,-114.967778,Thousand Springs Wind Park,2011,WIND,12.0,,wind farm,Idaho Wind Partners 1 LLC
+56443,56443,ID,Twin Falls,42.836854,-114.969342,Tuana Gulch Wind Park,2011,WIND,10.5,,wind farm,Idaho Wind Partners 1 LLC
+56446,56446,CA,Contra Costa,37.805,-121.6672,Buena Vista Energy LLC,2006,WIND,38.0,,wind farm,"Leeward Asset Management, LLC"
+56447,56447,HI,Hawaii,20.257252,-155.850382,Hawi Wind Farm,2006,WIND,10.6,,wind farm,"EDF Renewable Asset Holdings, Inc."
+56448,56448,ME,Aroostook,46.54422,-67.8111,Mars Hill Wind Farm Project,2007,WIND,42.0,,wind farm,"Evergreen Wind, LLC"
+56449,56449,HI,Maui,20.81421,-156.551,Kaheawa Pastures Wind Farm Hybrid,2006,WIND,30.0,,wind farm,"Evergreen Wind, LLC"
+56450,56450,IL,Lee,41.643611,-89.173056,GSG LLC,2007,WIND,80.0,,wind farm,"Leeward Asset Management, LLC"
+56451,56451,PA,Cambria,40.383889,-78.579444,Allegheny Ridge Wind Farm,2007,WIND,80.0,,wind farm,"Leeward Asset Management, LLC"
+56457,56457,TX,Borden,32.92544,-101.219397,Post Wind Farm LP,2006,WIND,84.0,,wind farm,FPL Energy Red Canyon LLC
+56459,56459,MN,Lincoln,44.2667,-96.3444,MinnDakota Wind LLC,2008,WIND,150.0,,wind farm,Avangrid Power LLC
+56460,56460,CO,Bent,37.6735,-102.8622,Twin Buttes Wind Project,2007,WIND,75.0,,wind farm,Avangrid Power LLC
+56466,56466,WA,Columbia,46.3747,-117.7772,Marengo Wind Plant,2007,WIND,234.0,,wind farm,PacifiCorp
+56468,56468,OR,Sherman,45.5836,-120.5042,Klondike Windpower III,2007,WIND,297.5,,wind farm,Avangrid Power LLC
+56470,56470,PA,Schuylkill,40.855,-76.1292,Locust Ridge,2007,WIND,26.0,,wind farm,Avangrid Power LLC
+56479,56479,TX,Glasscock,31.991442,-101.302637,Sand Bluff Wind Farm,2007,WIND,89.5,,wind farm,"Big Sky Wind, LLC"
+56483,56483,TX,Shackelford,32.5144,-99.6564,Post Oak Wind LLC,2008,WIND,200.0,,wind farm,Mesquite Wind LLC
+56484,56484,TX,Nolan,32.318221,-100.176986,Buffalo Gap 2 Wind Farm,2007,WIND,232.5,,wind farm,AES Distributed Energy
+56485,56485,OR,Sherman,45.653745,-120.603414,Biglow Canyon Wind Farm,2007,WIND,449.7,,wind farm,Portland General Electric Co
+56487,56487,WA,Klickitat,45.815467,-120.341883,White Creek Wind Farm,2007,WIND,204.0,,wind farm,White Creek Wind 1 LLC
+56488,56488,KS,Lincoln,38.879936,-98.160159,Smoky Hills Wind Project Phase I,2008,WIND,100.8,,wind farm,Smoky Hills Wind Farm I LLC
+56494,56494,MN,Mower,43.6861,-92.6272,Prairie Star Wind Farm,2007,WIND,100.7,,wind farm,High Prairie Wind Farm II LLC
+56495,56495,WV,Grant,39.2175,-79.2094,NedPower Mount Storm,2008,WIND,264.0,,wind farm,Clearway Energy Operating LLC
+56501,56501,IA,Pocahontas,42.5842,-94.7467,Pomeroy Wind Farm,2007,WIND,286.4,,wind farm,MidAmerican Energy Co
+56506,56506,TX,Scurry,32.7204,-100.9952,Scurry County Wind LP,2007,WIND,130.5,,wind farm,Invenergy Services LLC
+56536,56536,MO,Atchison,40.4535,-95.4683,Cow Branch,2008,WIND,50.4,,wind farm,"Cow Branch Wind Power, LLC"
+56537,56537,MO,Nodaway,40.2572,-94.6722,Conception,2008,WIND,50.4,,wind farm,"CR Clearing, LLC"
+56538,56538,MO,Atchison,40.4144,-95.54,Loess Hills,2008,WIND,5.0,,wind farm,Loess Hills Wind Farm LLC
+56543,56543,MN,Murray,43.9358,-95.9222,Eastridge Wind Project,2006,WIND,10.4,,wind farm,Eastridge Wind Project
+56544,56544,MN,Cottonwood,43.9578,-95.1306,Windom Wind Project,2006,WIND,15.6,,wind farm,Midwest Power Partners LLC
+56555,56555,MO,Gentry,40.1006,-94.4869,Bluegrass Ridge,2007,WIND,56.7,,wind farm,"Wind Capital Holdings, LLC"
+56560,56560,TX,Hansford,36.4144,-101.3864,Porterhouse Wind (4) LLC,2008,WIND,79.8,,wind farm,UPC Power Solutions
+56561,56561,TX,Sherman,36.4453,-101.8761,Filet Wind (5) LLC,2006,WIND,10.0,,wind farm,UPC Power Solutions
+56562,56562,TX,Sherman,36.4669,-101.8222,Tenderloin Wind (6) LLC,2007,WIND,10.0,,wind farm,UPC Power Solutions
+56563,56563,CO,Logan,40.986,-103.436,Peetz Table Wind Energy,2007,WIND,199.5,,wind farm,FPL Peetz Table Wind Energy
+56570,56570,CA,Kern,35.1161,-118.3789,Terra-Gen VG Wind LLC,1984,WIND,7.4,,wind farm,Terra-Gen Operating Co-Wind
+56573,56573,ND,Oliver,47.152847,-101.197716,FPL Energy Oliver Wind II LLC,2007,WIND,48.0,,wind farm,FPL Energy Oliver County Wind II LLC
+56575,56575,NY,Erie,42.8167,-78.8675,Steel Winds Wind Farm,2007,WIND,20.0,,wind farm,"Evergreen Wind, LLC"
+56577,56577,MN,Pipestone,44.1508,-96.1361,Shane's Wind Machine,2006,WIND,1.3,,wind farm,Shane's Wind Machine LLC
+56580,56580,MN,Faribault,43.6558,-94.1536,Blue Breezes LLC,2006,WIND,1.3,,wind farm,Midwest Power Partners LLC
+56581,56581,MN,Faribault,43.6558,-94.1564,Blue Breezes II LLC,2006,WIND,1.3,,wind farm,Midwest Power Partners LLC
+56586,56586,MN,Nobles,43.5811,-95.78,Sunset Breeze LLC,2006,WIND,1.3,,wind farm,Midwest Power Partners LLC
+56587,56587,MN,Nobles,43.5833,-95.7781,Minnesota Breeze LLC,2006,WIND,1.3,,wind farm,Midwest Power Partners LLC
+56588,56588,MN,Nobles,43.586111,-95.776111,G Flow Wind LLC,2006,WIND,1.3,,wind farm,Midwest Power Partners LLC
+56589,56589,MN,Nobles,43.581111,-95.775833,Wolf Wind Enterprises LLC,2006,WIND,1.3,,wind farm,Midwest Power Partners LLC
+56590,56590,MN,Nobles,43.586111,-95.780278,Green Acres Breeze LLC,2006,WIND,1.3,,wind farm,Midwest Power Partners LLC
+56591,56591,MT,Cascade,47.4983,-111.4392,Horseshoe Bend Wind Park,2006,WIND,9.0,,wind farm,"Cycle Holdings, LLC"
+56592,56592,TX,Nolan,32.3983,-100.6481,Champion Wind Farm LLC,2008,WIND,126.5,,wind farm,"Big Sky Wind, LLC"
+56593,56593,TX,Nolan,32.4694,-100.6664,Roscoe Wind Farm LLC,2008,WIND,209.0,,wind farm,"Big Sky Wind, LLC"
+56594,56594,NY,Madison,42.9086,-75.5697,Munnsville Wind Farm LLC,2007,WIND,34.5,,wind farm,"Big Sky Wind, LLC"
+56605,56605,ND,Cavalier,48.63,-98.315,"Langdon Renewables, LLC",2007,WIND,118.5,,wind farm,FPL Energy Langdon Wind LLC
+56607,56607,ND,Ward,47.933621,-101.269189,Prairie Winds ND1,2009,WIND,115.5,,wind farm,Basin Electric Power Coop
+56608,56608,SD,Jerauld,43.886389,-98.7875,Prairie Winds SD1,2011,WIND,162.0,,wind farm,Basin Electric Power Coop
+56613,56613,CO,Logan,40.941,-103.259,Logan Wind Energy,2007,WIND,201.0,,wind farm,Logan Wind Energy LLC
+56614,56614,IL,McLean,40.4792,-88.7989,Old Trail Wind Farm,2007,WIND,213.8,,wind farm,Old Trail Wind Farm LLC
+56617,56617,MN,Murray,43.852778,-96.018333,Fenton Wind Farm,2007,WIND,205.5,,wind farm,"EDF Renewable Asset Holdings, Inc."
+56618,56618,NY,Clinton,44.8914,-74.0061,Clinton,2008,WIND,100.5,,wind farm,"Valcour Operating Services, LLC"
+56619,56619,NY,Clinton,44.8914,-74.0061,Ellenburg,2008,WIND,81.0,,wind farm,"Valcour Operating Services, LLC"
+56620,56620,NY,Wyoming,42.5367,-78.3047,Bliss (NY),2008,WIND,100.5,,wind farm,"Valcour Operating Services, LLC"
+56621,56621,OK,Harper,36.640278,-99.500556,Sleeping Bear LLC,2007,WIND,94.5,,wind farm,NRG Energy Gas & Wind Holdings Inc
+56622,56622,IL,Bureau,41.2294,-89.5572,Providence Heights Wind LLC,2008,WIND,72.0,,wind farm,Avangrid Power LLC
+56623,56623,OR,Union,45.085221,-117.816273,Elkhorn Valley Wind Farm,2007,WIND,100.7,,wind farm,Telocaset Wind Power Partners
+56626,56626,MN,Jackson,43.6181,-95.4172,"Ewington Energy Systems, LLC",2008,WIND,22.5,,wind farm,"Ewington Energy Systems, LLC"
+56630,56630,MN,St Louis,47.5747,-92.5917,Taconite Ridge 1 Wind Energy Center,2008,WIND,25.0,,wind farm,"ALLETE, Inc."
+56633,56633,NY,Steuben,42.5456,-77.4967,Dutch Hill Wind Project,2009,WIND,37.5,,wind farm,"Evergreen Wind, LLC"
+56634,56634,NY,Steuben,42.45,-77.52,Cohocton Wind Project,2009,WIND,87.5,,wind farm,"Evergreen Wind, LLC"
+56635,56635,MI,Huron,43.83,-83.2064,Harvest,2008,WIND,52.8,,wind farm,"Harvest Windfarm, LLC"
+56636,56636,ID,Elmore,43.0272,-115.4656,Mountain Home,2008,WIND,21.0,,wind farm,"Hot Springs Windfarm, LLC"
+56637,56637,ID,Elmore,43.0536,-115.4803,Bennett Creek Windfarm LLC - Mountain Home,2008,WIND,21.0,,wind farm,Bennett Creek Windfarm LLC
+56638,56638,TX,Nolan,32.2878,-100.1,Buffalo Gap 3 Wind Farm,2008,WIND,170.2,,wind farm,AES Distributed Energy
+56640,56640,IL,STARK,41.090583,-89.639811,Camp Grove Wind Farm,2007,WIND,150.0,,wind farm,Orion Energy Group LLC
+56644,56644,TX,Martin,32.2353,-101.8367,Stanton Wind Energy LLC,2008,WIND,120.0,,wind farm,Invenergy Services LLC
+56645,56645,IA,Osceola,43.4303,-95.4167,Osceola Windpower LLC,2008,WIND,98.2,,wind farm,Osceola Windpower LLC
+56647,56647,WI,Dodge,43.400278,-88.481111,Butler Ridge,2009,WIND,54.0,,wind farm,Butler Ridge Wind Energy Center
+56648,56648,TX,Carson,35.3919,-101.53,Majestic 1 Wind Farm,2009,WIND,79.5,,wind farm,NextEra Energy Majestic Wind
+56649,56649,TX,Nolan,32.4081,-100.1286,South Trent Wind Farm,2009,WIND,101.2,,wind farm,NRG Energy Inc
+56650,56650,SD,Jerauld,44.0025,-98.590833,Wessington Springs,2009,WIND,51.0,,wind farm,Wessington Wind
+56651,56651,PA,Blair,40.4381,-78.5436,North Allegheny Windpower Project,2009,WIND,75.0,,wind farm,Duke Energy Renewables Services
+56654,56654,CA,Shasta,40.8981,-121.8036,Hatchet Ridge Wind Project,2010,WIND,101.2,,wind farm,Pattern Operators LP
+56659,56659,MI,Sanilac,43.663056,-82.746944,Michigan Wind 2,2011,WIND,90.0,,wind farm,"Michigan Wind 2, LLC"
+56661,56661,TX,Kenedy,27.0011,-97.5994,Pattern Gulf Wind,2008,WIND,283.2,,wind farm,Pattern Operators LP
+56665,56665,OK,Roger Mills,35.529778,-99.814456,Dempsey Ridge Wind Farm,2012,WIND,132.0,,wind farm,Acciona Wind Energy USA LLC
+56666,56666,WA,Klickitat,45.781825,-120.521151,Goodnoe Hills,2008,WIND,103.4,,wind farm,PacifiCorp
+56669,56669,ND,Dickey,45.959325,-98.946325,Tatanka Wind Power LLC,2008,WIND,180.0,,wind farm,Acciona Wind Energy USA LLC
+56670,56670,ND,McHenry,48.083625,-100.9215,Velva Windfarm LLC,2005,WIND,11.9,,wind farm,Acciona Wind Energy USA LLC
+56673,56673,TX,Floyd,34.105,-101.0986,Whirlwind Energy Center,2007,WIND,59.8,,wind farm,Whirlwind Energy LLC
+56677,56677,IA,Floyd,43.0003,-92.62,Charles City Wind Farm,2008,WIND,80.0,,wind farm,MidAmerican Energy Co
+56679,56679,IN,Benton,40.695,-87.4886,Benton County Wind Farm,2008,WIND,130.5,,wind farm,Orion Energy Group LLC
+56699,56699,PA,Somerset,40.0853,-78.8633,Forward Windpower LLC,2008,WIND,29.4,,wind farm,"Forward Windpower, LLC"
+56700,56700,PA,Somerset,39.8794,-78.9183,Lookout Windpower LLC,2008,WIND,37.8,,wind farm,"Lookout Windpower, LLC"
+56702,56702,WA,Klickitat,45.8797,-120.8072,Tuolumne Wind Project,2009,WIND,136.3,,wind farm,Turlock Irrigation District
+56750,56750,MN,Cottonwood,44.057778,-95.2525,Jeffers Wind 20 LLC,2008,WIND,50.0,,wind farm,Northern States Power Co - Minnesota
+56751,56751,UT,Utah,40.071389,-111.582222,Spanish Fork Wind Park 2 LLC,2008,WIND,18.9,,wind farm,"Spanish Fork Wind Park 2, LLC"
+56752,56752,WY,Uinta,41.288056,-110.480741,Mountain Wind Power LLC,2008,WIND,61.0,,wind farm,Mountain Wind Power LLC
+56753,56753,WY,Uinta,41.263889,-110.544444,Mountain Wind Power II LLC,2008,WIND,80.0,,wind farm,Mountain Wind Power II LLC
+56754,56754,TX,Sterling,31.951944,-100.791389,Goat Wind LP,2008,WIND,149.6,,wind farm,Goat Wind LLC
+56755,56755,MN,Cottonwood,43.8953,-94.9142,Odin Wind Farm LLC,2008,WIND,20.0,,wind farm,"Aspenall Energies (Delaware), LLC"
+56763,56763,TX,Sterling,31.951958,-101.018936,Capricorn Ridge Wind LLC,2007,WIND,662.5,,wind farm,Capricorn Ridge Wind LLC
+56764,56764,IA,Winnebago,43.315,-93.77,Winnebago Wind Power Project,2008,WIND,20.0,,wind farm,Avangrid Power LLC
+56765,56765,IA,Worth,43.393,-93.091,Barton Windpower LLC,2009,WIND,158.0,,wind farm,Avangrid Power LLC
+56767,56767,MO,Atchison,40.575,-95.5228,Farmers City Wind LLC,2009,WIND,146.0,,wind farm,Avangrid Power LLC
+56770,56770,PA,Schuylkill,40.8411,-76.1547,Locust Ridge II LLC,2009,WIND,102.0,,wind farm,Avangrid Power LLC
+56771,56771,TX,Erath,32.338659,-98.476051,Silver Star I Wind Power Project,2008,WIND,52.8,,wind farm,Silver Star I Power Partners LLC
+56773,56773,TX,Dickens,33.752201,-100.967402,McAdoo Wind Energy LLC,2008,WIND,150.0,,wind farm,Invenergy Services LLC
+56774,56774,TX,Nolan,32.1981,-100.2686,Turkey Track Wind Energy LLC,2008,WIND,169.5,,wind farm,Invenergy Services LLC
+56775,56775,TX,Scurry,32.718056,-100.793333,Scurry County Wind II,2007,WIND,120.0,,wind farm,Invenergy Services LLC
+56776,56776,TX,Howard,32.240278,-101.473611,Gunsight Mountain Wind Energy LLC,2016,WIND,120.0,,wind farm,Invenergy Services LLC
+56777,56777,IN,Benton,40.583889,-87.3336,Fowler Ridge Wind Farm LLC,2009,WIND,588.3,,wind farm,AE Power Services LLC
+56782,56782,MT,Fallon,46.2753,-104.1836,Diamond Willow Wind Facility,2007,WIND,30.0,,wind farm,Montana-Dakota Utilities Co
+56783,56783,TX,Howard,32.1408,-101.3986,Elbow Creek Wind Project LLC,2008,WIND,121.9,,wind farm,Elbow Creek Wind Project LLC
+56784,56784,KS,Cloud,39.4375,-97.6644,Cloud County Wind Farm,2008,WIND,201.0,,wind farm,"Cloud County Windfarm, LLC"
+56789,56789,OR,Gilliam,45.7119,-120.125,Pebble Springs Wind LLC,2009,WIND,98.7,,wind farm,Avangrid Power LLC
+56790,56790,OR,Sherman,45.52,-120.5744,Hay Canyon Wind Power LLC,2009,WIND,100.8,,wind farm,Avangrid Power LLC
+56791,56791,CA,Riverside,33.9393,-116.5527,Dillon Wind LLC,2008,WIND,45.0,,wind farm,Avangrid Power LLC
+56792,56792,SD,Brookings,44.4328,-96.4779,Buffalo Ridge I LLC,2009,WIND,50.4,,wind farm,Avangrid Power LLC
+56793,56793,MN,Jackson,43.7542,-94.9497,Elm Creek Wind LLC,2008,WIND,99.0,,wind farm,Avangrid Power LLC
+56794,56794,MN,Pipestone,44.1238,-96.0784,Moraine II Wind LLC,2009,WIND,49.5,,wind farm,Avangrid Power LLC
+56795,56795,TX,Kenedy,27.022112,-97.498478,Penascal Wind Power LLC,2009,WIND,201.6,,wind farm,Avangrid Power LLC
+56796,56796,PA,Fayette,39.7513,-79.7271,South Chestnut LLC,2012,WIND,50.4,,wind farm,Avangrid Power LLC
+56797,56797,IA,Mitchell,43.4839,-92.6131,Pioneer Prairie Wind Farm,2008,WIND,300.0,,wind farm,"Pioneer Prairie Wind Farm I, LLC"
+56800,56800,MA,Plymouth,42.261111,-70.856389,Hull Wind II,2006,WIND,1.8,,wind farm,Hull Municipal Light Plant
+56804,56804,OK,Roger Mills,35.535,-99.3828,Red Hills Wind Project LLC,2008,WIND,123.0,,wind farm,Acciona Wind Energy USA LLC
+56805,56805,IL,Stephenson,42.451481,-89.878428,EcoGrove Wind LLC,2009,WIND,100.5,,wind farm,Acciona Wind Energy USA LLC
+56809,56809,IA,Carroll,42.1622,-94.93,Carroll Wind Farm,2008,WIND,159.1,,wind farm,MidAmerican Energy Co
+56810,56810,IA,Adair,41.4236,-94.665,Adair Wind Farm,2008,WIND,174.8,,wind farm,MidAmerican Energy Co
+56811,56811,IA,Pottawattamie,41.4517,-95.2383,Walnut Wind Farm,2008,WIND,165.2,,wind farm,MidAmerican Energy Co
+56818,56818,KS,Wichita,38.503167,-101.161472,Central Plains Wind Farm,2009,WIND,99.0,,wind farm,"Evergy Kansas Central, Inc"
+56819,56819,KS,Barber,37.369167,-98.460278,Flat Ridge Wind Farm,2009,WIND,50.0,,wind farm,"Evergy Kansas Central, Inc"
+56823,56823,TX,Shackelford,32.7683,-99.4228,Hackberry Wind Farm,2008,WIND,165.6,,wind farm,Hackberry Wind LLC
+56824,56824,MN,Lyon,44.3236,-95.8222,Marshall Wind 2 LLC,2007,WIND,4.2,,wind farm,"Marshall Wind Farm, LLC"
+56825,56825,MN,Lyon,44.3211,-95.7942,Marshall Wind 3 LLC,2007,WIND,4.2,,wind farm,"Marshall Wind Farm, LLC"
+56826,56826,MN,Lyon,44.3361,-95.8242,Marshall Wind 4 LLC,2007,WIND,4.2,,wind farm,"Marshall Wind Farm, LLC"
+56827,56827,MN,Lyon,44.3303,-95.8344,Marshall Wind 5 LLC,2007,WIND,2.1,,wind farm,"Marshall Wind Farm, LLC"
+56828,56828,MN,Lyon,44.3308,-95.8297,Marshall Wind 6 LLC,2007,WIND,2.1,,wind farm,"Marshall Wind Farm, LLC"
+56829,56829,ME,Franklin,45.3853,-70.5258,Kibby Wind Facility,2009,WIND,132.0,,wind farm,"Helix Maine Wind Development, LLC"
+56831,56831,IA,Howard,43.397778,-92.473611,Crane Creek Wind Energy Center,2009,WIND,99.0,,wind farm,Wisconsin Public Service Corp
+56835,56835,TX,Moore,35.8119,-101.9789,Ribeye Wind (11) LLC,2008,WIND,10.0,,wind farm,UPC Power Solutions
+56836,56836,TX,Moore,35.8081,-101.9986,T-Bone Wind (10) LLC,2008,WIND,8.8,,wind farm,UPC Power Solutions
+56837,56837,TX,Moore,35.9614,-101.8033,Tri-Tip Wind (9) LLC,2008,WIND,10.0,,wind farm,UPC Power Solutions
+56838,56838,TX,Moore,36.0075,-101.8614,Brisket Wind (8) LLC,2008,WIND,10.0,,wind farm,UPC Power Solutions
+56839,56839,TX,Moore,36.0264,-101.9,Flat Iron Wind (7) LLC,2008,WIND,10.0,,wind farm,UPC Power Solutions
+56840,56840,MN,Lyon,44.3253,-95.8142,Marshall Wind 1 LLC,2007,WIND,2.1,,wind farm,"Marshall Wind Farm, LLC"
+56841,56841,WY,Converse,43.0181,-105.835278,Glenrock,2008,WIND,165.6,,wind farm,PacifiCorp
+56842,56842,WY,Converse,43.0572,-105.8543,Rolling Hills,2009,WIND,115.8,,wind farm,PacifiCorp
+56843,56843,WY,Carbon,41.9203,-106.3758,Seven Mile Hill,2008,WIND,146.2,,wind farm,PacifiCorp
+56854,56854,OR,Gilliam,45.675804,-120.31832,Wheat Field Wind Power Project,2009,WIND,102.9,,wind farm,Wheat Field Wind Power Project LLC
+56855,56855,OR,Gilliam,45.7167,-120.2008,Arlington Wind Power Project,2008,WIND,102.9,,wind farm,Arlington Wind Power Project LLC
+56856,56856,IL,Tazewell,40.3692,-89.4022,Rail Splitter Wind Farm,2009,WIND,100.5,,wind farm,Rail Splitter Wind Farm LLC
+56857,56857,NY,Clinton,44.975833,-73.929722,Marble River Wind Farm,2012,WIND,215.3,,wind farm,"Marble River, LLC"
+56858,56858,WA,Kittitas,47.1356,-120.6872,Sagebrush Power Partners,2010,WIND,100.7,,wind farm,"Sagebrush Power Partners, LLC"
+56859,56859,IA,Palo Alto,43.0475,-94.9228,Crosswind Energy Project,2007,WIND,21.0,,wind farm,Junction Hilltop Management LLC
+56860,56860,IA,Greene,42.0822,-94.365,Hardin Hilltop Wind LLC,2007,WIND,14.7,,wind farm,Junction Hilltop Management LLC
+56874,56874,CA,Solano,38.1711,-121.8461,Shiloh Wind Project 2 LLC,2009,WIND,150.0,,wind farm,"EDF Renewable Asset Holdings, Inc."
+56876,56876,MN,Mower,43.8006,-92.6822,Wapsipinicon Wind Project,2009,WIND,100.5,,wind farm,"EDF Renewable Asset Holdings, Inc."
+56878,56878,IN,Benton,40.7178,-87.2631,Hoosier Wind Project LLC,2009,WIND,106.0,,wind farm,AES Indiana
+56879,56879,KS,Barber,37.3764,-98.4583,Flat Ridge Wind Energy LLC,2009,WIND,44.0,,wind farm,AE Power Services LLC
+56901,56901,NY,Clinton,44.8216,-73.6509,Altona,2009,WIND,97.5,,wind farm,"Valcour Operating Services, LLC"
+56902,56902,NY,Wyoming,42.6697,-78.2278,Wethersfield,2009,WIND,126.0,,wind farm,"Valcour Operating Services, LLC"
+56904,56904,NY,Franklin,44.8917,-74.0299,Chateaugay,2009,WIND,106.5,,wind farm,"Valcour Operating Services, LLC"
+56905,56905,TX,Hansford,36.4964,-101.3917,Great Plains Windpark LLC,2009,WIND,114.0,,wind farm,Great Plains Windpark Legacy LLC
+56912,56912,ND,Cavalier,48.6292,-98.3164,Langdon Wind II LLC,2008,WIND,40.5,,wind farm,FPL Energy Langdon Wind LLC
+56913,56913,IA,Osceola,43.4303,-95.4167,Osceola Windpower II,2008,WIND,49.6,,wind farm,Osceola Windpower II
+56919,56919,ND,Barnes,47.1294,-97.8853,FPL Energy Ashtabula Wind LLC,2008,WIND,148.5,,wind farm,FPL Energy Ashtabula Wind LLC
+56920,56920,TX,Howard,32.100823,-101.451385,Panther Creek Wind Farm I,2008,WIND,142.5,,wind farm,"Big Sky Wind, LLC"
+56921,56921,TX,Glasscock,31.9361,-101.2983,Panther Creek Wind Farm II,2008,WIND,115.5,,wind farm,"Big Sky Wind, LLC"
+56923,56923,IA,Hancock,43.2125,-93.8311,FPL Energy Crystal Lake Wind LLC,2008,WIND,150.0,,wind farm,FPL Energy Crystal Lake Wind LLC
+56924,56924,IA,Story,42.1044,-93.2722,FPL Energy Story Wind LLC,2008,WIND,150.0,,wind farm,FPL Energy Story Wind LLC
+56925,56925,IA,Hancock,43.273731,-93.800002,FPL Energy Crystal Lake Wind II LLC,2009,WIND,200.0,,wind farm,FPL Energy Crystal Lake Wind II LLC
+56933,56933,OR,Morrow,45.6758,-119.9375,Threemile Canyon,2009,WIND,9.9,,wind farm,"Threemile Canyon Wind I, LLC"
+56934,56934,ID,Twin Falls,42.8444,-115.0369,Cassia Wind,2009,WIND,8.4,,wind farm,"Cassia Wind Farm, LLC"
+56935,56935,ID,Twin Falls,42.8744,-115.0172,Cassia Gulch,2009,WIND,18.9,,wind farm,"Cassia Gulch Wind Park, LLC"
+56941,56941,IL,LaSalle,41.2269,-88.6836,Grand Ridge Wind Energy Center,2008,WIND,210.0,,wind farm,Invenergy Services LLC
+56942,56942,WI,Dodge,43.6161,-88.4969,Forward Wind Energy Center,2008,WIND,129.0,,wind farm,Wisconsin Public Service Corp
+56945,56945,NM,Torrance,34.466667,-105.9625,High Lonesome Mesa LLC,2009,WIND,100.0,,wind farm,"High Lonesome Mesa, LLC"
+56946,56946,OK,Harper,36.7767,-99.6353,Buffalo Bear LLC,2008,WIND,18.9,,wind farm,"Buffalo Bear, LLC"
+56947,56947,NE,Knox,42.6978,-97.6189,Elkhorn Ridge Wind LLC,2009,WIND,81.0,,wind farm,"Elkhorn Ridge Wind, LLC"
+56952,56952,OR,Morrow,45.6533,-119.9914,Willow Creek Energy Center,2009,WIND,72.0,,wind farm,Invenergy Services LLC
+56953,56953,NY,Wyoming,42.7794,-78.4269,High Sheldon Wind Farm,2009,WIND,112.5,,wind farm,Invenergy Services LLC
+56956,56956,TX,Borden,32.929014,-101.578617,Bull Creek Wind,2008,WIND,180.0,,wind farm,Bull Creek Wind LLC
+56959,56959,TX,Howard,32.1217,-101.3853,Ocotillo Windpower,2008,WIND,58.8,,wind farm,Duke Energy Renewables Services
+56960,56960,WY,Laramie,41.139722,-104.997778,Happy Jack Windpower Project,2008,WIND,29.4,,wind farm,Duke Energy Renewables Services
+56961,56961,TX,Ector,31.995,-102.828333,Notrees Windpower Hybrid,2009,WIND,152.5,,wind farm,Duke Energy Renewables Services
+56967,56967,OR,Umatilla,45.7017,-119.4222,Butter Creek Power LLC,2009,WIND,5.0,,wind farm,Odessa Energy Services LLC
+56968,56968,OR,Morrow,45.655,-119.4647,Big Top LLC,2009,WIND,1.7,,wind farm,Odessa Energy Services LLC
+56969,56969,OR,Umatilla,45.7286,-119.4181,Four Corners Windfarm LLC,2009,WIND,8.0,,wind farm,Echo 2
+56970,56970,OR,Morrow,45.6447,-119.4533,Four Mile Canyon Windfarm LLC,2009,WIND,10.0,,wind farm,Echo 2
+56971,56971,OR,Umatilla,45.7122,-119.4044,Oregon Trail Windfarm LLC,2009,WIND,9.9,,wind farm,Echo 1
+56972,56972,OR,Morrow,45.6542,-119.4869,Pacific Canyon Windfarm LLC,2009,WIND,8.3,,wind farm,Echo 1
+56973,56973,OR,Morrow,45.6447,-119.4767,Sand Ranch Windfarm LLC,2009,WIND,9.9,,wind farm,Echo 1
+56974,56974,OR,Morrow,45.6531,-119.4625,Wagon Trail LLC,2009,WIND,3.3,,wind farm,Odessa Energy Services LLC
+56975,56975,OR,Umatilla,45.6967,-119.4097,Ward Butte Windfarm LLC,2009,WIND,6.6,,wind farm,Echo 1
+56979,56979,TX,Sterling,31.9925,-101.1167,Panther Creek Wind Farm Three,2009,WIND,215.5,,wind farm,"Big Sky Wind, LLC"
+56980,56980,PA,Somerset,40.0311,-78.8153,Stony Creek Wind Farm LLC,2009,WIND,52.5,,wind farm,"Big Sky Wind, LLC"
+56981,56981,TX,Fisher,32.5886,-100.6728,Pyron Wind Farm LLC Hybrid,2009,WIND,249.0,,wind farm,"Big Sky Wind, LLC"
+56983,56983,TX,San Patricio,27.9386,-97.4586,Papalote Creek I LLC,2009,WIND,180.0,,wind farm,"Big Sky Wind, LLC"
+56984,56984,TX,Nolan,32.4969,-100.5797,Inadale Wind Farm LLC Hybrid,2009,WIND,197.0,,wind farm,"Big Sky Wind, LLC"
+56985,56985,KS,Lincoln,38.892653,-98.168876,Smoky Hills Wind Project Phase II,2009,WIND,148.5,,wind farm,Smoky Hills Wind Project II LLC
+56989,56989,ME,Washington,45.4822,-67.9944,Stetson Wind I,2009,WIND,57.0,,wind farm,"Evergreen Wind, LLC"
+56990,56990,ME,Penobscot,45.34598,-68.3802,Rollins Wind Project,2011,WIND,60.0,,wind farm,"Evergreen Wind, LLC"
+56991,56991,ME,Washington,45.61498,-67.971,Stetson Wind II,2010,WIND,25.5,,wind farm,"Evergreen Wind, LLC"
+56994,56994,MN,Mower,43.7189,-92.705,Grand Meadow,2008,WIND,100.5,,wind farm,Northern States Power Co - Minnesota
+57002,57002,ME,Aroostook,46.058056,-68.147222,Oakfield Wind Project,2015,WIND,148.0,,wind farm,Onward Energy
+57031,57031,ND,Steele,47.3272,-97.8975,Luverne Wind Energy Center,2009,WIND,49.5,,wind farm,Otter Tail Power Co
+57032,57032,ND,Barnes,47.1244,-97.8961,Ashtabula Wind Energy Center,2008,WIND,48.0,,wind farm,Otter Tail Power Co
+57033,57033,ND,Cavalier,48.6303,-98.3169,Langdon Wind Energy Center,2007,WIND,40.5,,wind farm,Otter Tail Power Co
+57038,57038,ND,Morton,46.98,-101.554722,Bison I Wind Energy Center,2010,WIND,81.8,,wind farm,"ALLETE, Inc."
+57039,57039,WY,Albany,41.7244,-105.9906,McFadden Ridge,2009,WIND,35.2,,wind farm,PacifiCorp
+57040,57040,WY,Albany,41.675052,-106.011124,High Plains,2009,WIND,122.1,,wind farm,PacifiCorp
+57044,57044,PA,Tioga,41.7619,-76.8553,Armenia Mountain Wind Farm,2009,WIND,100.5,,wind farm,ALLETE Clean Energy
+57045,57045,SD,Hand,44.477778,-99.133889,Rolling Thunder Wind Farm Hybrid,2009,WIND,25.0,,wind farm,AE Power Services LLC
+57047,57047,MN,Nobles,43.7036,-95.7131,Nobles Wind Project,2010,WIND,201.0,,wind farm,Northern States Power Co - Minnesota
+57048,57048,ND,McIntosh,46.1075,-99.0592,Merricourt Wind Energy Center,2020,WIND,150.0,,wind farm,Otter Tail Power Co
+57049,57049,MT,Toole,48.51,-112.1097,NaturEner Glacier Wind Energy 1,2008,WIND,106.5,,wind farm,NaturEner Glacier Wind Energy 1 LLC
+57050,57050,MT,Toole,48.5333,-112.1847,NaturEner Glacier Wind Energy 2,2009,WIND,103.5,,wind farm,NaturEner Glacier Wind Energy 2 LLC
+57078,57078,NY,Erie,42.8072,-78.8617,Steel Winds II,2012,WIND,15.0,,wind farm,"Evergreen Wind, LLC"
+57079,57079,UT,Beaver,38.53569,-112.935,Milford Wind Corridor I LLC,2009,WIND,203.5,,wind farm,"Milford Wind Corridor Phase I, LLC (Longroad)"
+57080,57080,VT,Caledonia,44.67598,-72.1013,Sheffield Wind,2011,WIND,40.0,,wind farm,"Evergreen Wind, LLC"
+57082,57082,HI,Maui,20.79467,-156.536,Kaheawa Wind Power II LLC,2012,WIND,21.0,,wind farm,"Evergreen Wind, LLC"
+57083,57083,ME,Hancock,44.723056,-68.2425,Bull Hill Wind Project,2012,WIND,34.5,,wind farm,"Evergreen Wind, LLC"
+57087,57087,HI,Honolulu,21.68097,-157.975,Kahuku Wind Power LLC,2011,WIND,30.0,,wind farm,"Evergreen Wind, LLC"
+57090,57090,WY,Converse,43.01455,-105.999,Campbell Hill Windpower,2009,WIND,99.0,,wind farm,Duke Energy Renewables Services
+57091,57091,WY,Laramie,41.12968,-105.024,Silver Sage Windpower,2009,WIND,42.0,,wind farm,Duke Energy Renewables Services
+57093,57093,WY,Natrona,42.884703,-106.221442,Casper Wind Farm,2009,WIND,17.0,,wind farm,Chevron USA
+57094,57094,IL,Livingston,40.9969,-88.49,Streator Cayuga Ridge South,2010,WIND,300.0,,wind farm,Avangrid Power LLC
+57095,57095,TX,Kenedy,27.122529,-97.557372,Penascal II Wind Project LLC,2010,WIND,201.6,,wind farm,Avangrid Power LLC
+57096,57096,OR,Sherman,45.51,-120.48,Star Point Wind Project LLC,2010,WIND,98.7,,wind farm,Avangrid Power LLC
+57097,57097,ND,Pierce,48.4968,-99.9513,Rugby Wind Power Project,2009,WIND,149.0,,wind farm,Avangrid Power LLC
+57098,57098,AZ,Navajo,34.6596,-110.2842,Dry Lake Wind LLC,2009,WIND,63.0,,wind farm,Avangrid Power LLC
+57106,57106,NM,Quay,35.17,-103.74,Mesalands Comm College Wind Turbine,2008,WIND,1.5,,wind farm,Mesalands Community College
+57107,57107,UT,Beaver,38.58523,-112.931,Milford Wind Corridor Stage II LLC,2011,WIND,102.0,,wind farm,Milford Wind Corridor Stage II LLC
+57108,57108,OK,Caddo,34.8217,-98.4525,Blue Canyon Windpower V LLC,2009,WIND,99.0,,wind farm,Blue Canyon Windpower V LLC
+57109,57109,IN,White,40.6275,-86.935,Meadow Lake Wind Farm LLC,2009,WIND,199.7,,wind farm,Meadow Lake Wind Farm LLC
+57110,57110,IL,Livingston,41.1508,-88.6233,Blackstone Wind Farm LLC,2009,WIND,106.0,,wind farm,Blackstone Wind Farm LLC
+57111,57111,IA,Dickinson,43.3456,-95.3233,Lost Lakes Wind Farm LLC,2009,WIND,100.0,,wind farm,Lost Lakes Wind Farm LLC
+57112,57112,IN,White,40.6431,-87.0242,Meadow Lake Wind Farm II LLC,2010,WIND,102.3,,wind farm,Meadow Lake Wind Farm II LLC
+57113,57113,IL,Livingston,41.1406,-88.53,Blackstone Wind Farm II LLC,2010,WIND,200.0,,wind farm,Blackstone Wind Farm II LLC
+57115,57115,IN,White,40.5986,-87.0194,Meadow Lake Wind Farm III LLC,2010,WIND,103.5,,wind farm,Meadow Lake Wind Farm III LLC
+57116,57116,WI,Lafayette,42.673333,-90.265277,Quilt Block Wind Farm LLC,2017,WIND,98.0,,wind farm,Quilt Block Wind Farm LLC
+57118,57118,KS,Kiowa,37.5499,-99.3444,Greensburg,2010,WIND,12.5,,wind farm,"Greensburg Wind Farm, LLC"
+57120,57120,ND,Burleigh,47.1333,-100.7011,Wilton Wind II LLC,2009,WIND,49.5,,wind farm,Wilton Wind II LLC
+57121,57121,ND,Steele,47.292437,-97.931692,Ashtabula Wind II LLC,2009,WIND,120.0,,wind farm,Ashtabula Wind II LLC
+57124,57124,ID,Twin Falls,42.825278,-115.010833,Payne's Ferry,2010,WIND,21.0,,wind farm,Idaho Wind Partners 1 LLC
+57125,57125,ID,Elmore,42.811944,-115.048889,Camp Reed,2010,WIND,22.5,,wind farm,Idaho Wind Partners 1 LLC
+57126,57126,ID,Twin Falls,42.770833,-114.988611,Yahoo Creek,2010,WIND,21.0,,wind farm,Idaho Wind Partners 1 LLC
+57130,57130,ME,Waldo,44.4967,-69.35,Beaver Ridge Wind,2008,WIND,4.5,,wind farm,CPV Beaver Ridge Wind LLC
+57131,57131,MI,Missaukee,44.19,-85.2983,Stoney Corners Wind Farm,2009,WIND,60.0,,wind farm,DTE Sustainable Generation
+57135,57135,IL,Bureau,41.599167,-89.456111,Big Sky Wind LLC,2011,WIND,239.4,,wind farm,Big Sky Wind LLC
+57136,57136,ID,Twin Falls,42.8925,-115.0164,Tuana Springs,2010,WIND,16.8,,wind farm,"Tuana Springs Energy, LLC"
+57137,57137,OR,Umatilla,45.943,-118.591,Eurus Combine Hills Turbine Ranch 2,2010,WIND,66.1,,wind farm,Eurus Combine Hills II LLC
+57139,57139,PA,Cambria,40.3042,-78.6908,Cambria Wind LLC,2009,WIND,62.5,,wind farm,Exus Pennsylvania Wind Holdings
+57151,57151,WV,Greenbrier,38.0878,-80.4925,Beech Ridge Energy LLC,2010,WIND,100.5,,wind farm,Invenergy Services LLC
+57152,57152,WA,Klickitat,45.8131,-120.3475,Harvest Wind Project,2009,WIND,98.9,,wind farm,Harvest Wind Project TIC
+57153,57153,TX,Tom Green,31.085435,-100.67882,Langford Wind Power,2009,WIND,150.0,,wind farm,Langford Wind Power LLC
+57156,57156,TX,Jack,33.052226,-98.328415,Barton Chapel Wind Farm,2009,WIND,120.0,,wind farm,Avangrid Power LLC
+57159,57159,WA,Klickitat,45.7269,-120.8339,Windy Flats Wind Project,2009,WIND,262.2,,wind farm,Windy Flats Partners LLC
+57171,57171,ND,Bowman,46.245556,-103.767222,Cedar Hills Wind Farm,2010,WIND,19.5,,wind farm,Montana-Dakota Utilities Co
+57174,57174,CO,Logan,40.756944,-102.743055,Colorado Highlands Wind,2012,WIND,96.1,,wind farm,Colorado Highlands Wind LLC
+57176,57176,DE,Sussex,38.782931,-75.164903,University of Delaware Wind Turbine,2010,WIND,2.0,,wind farm,First State Marine Wind
+57177,57177,IN,White,40.6778,-87.0328,Meadow Lake Wind Farm IV,2010,WIND,105.7,,wind farm,Meadow Lake Wind Farm IV LLC
+57182,57182,PA,Lancaster,39.959167,-76.455555,PPL Frey Farm Landfill Wind,2011,WIND,3.2,,wind farm,"NextEra Renewable Fuels, LLC"
+57187,57187,AK,Kodiak Island,57.7869,-152.4406,Pillar Mountain Wind Project Microgrid,2009,WIND,9.0,,wind farm,Kodiak Electric Assn Inc
+57188,57188,WA,Kittitas,46.9547,-120.1819,Vantage Wind Energy LLC,2010,WIND,90.0,,wind farm,Invenergy Services LLC
+57189,57189,MO,DeKalb,39.981389,-94.518056,Lost Creek Wind Energy Facility,2010,WIND,168.0,,wind farm,Pattern Operators LP
+57192,57192,NV,White Pine,39.104167,-114.492222,Spring Valley Wind Project,2012,WIND,150.0,,wind farm,Pattern Operators LP
+57194,57194,SD,Day,45.215,-97.9056,Day County Wind LLC,2010,WIND,99.0,,wind farm,Day County Wind LLC
+57195,57195,WA,Garfield,46.524167,-117.821666,Lower Snake River Wind Energy Project,2012,WIND,342.7,,wind farm,Puget Sound Energy Inc
+57198,57198,MN,Freeborn,43.724596,-93.450429,Bent Tree Wind Farm Phase 1,2011,WIND,201.3,,wind farm,Wisconsin Power & Light Co
+57199,57199,WI,Columbia,43.563889,-89.148056,Glacier Hills,2011,WIND,162.0,,wind farm,Wisconsin Electric Power Co
+57201,57201,CA,Solano,38.163581,-121.79661,FPL Energy Montezuma Winds LLC,2010,WIND,36.8,,wind farm,FPL Energy Montezuma Wind
+57210,57210,CO,Weld,40.9475,-103.783889,Cedar Creek II,2011,WIND,248.3,,wind farm,AE Power Services LLC
+57211,57211,ID,Bonneville,43.467057,-111.836381,Goshen Phase II,2010,WIND,124.5,,wind farm,AE Power Services LLC
+57212,57212,TX,San Patricio,27.9958,-97.2967,Papalote Creek II LLC,2010,WIND,200.1,,wind farm,"Big Sky Wind, LLC"
+57214,57214,IA,Bremer,42.7317,-92.4711,Waverly Community Wind Project,2001,WIND,2.7,,wind farm,Waverly Municipal Elec Utility
+57239,57239,MD,Garrett,39.254444,-79.467222,Roth Rock Wind Farm LLC,2011,WIND,40.0,,wind farm,Roth Rock Wind Farm LLC
+57240,57240,MD,Garrett,39.287222,-79.434444,"Roth Rock North Wind Farm, LLC",2011,WIND,10.0,,wind farm,Roth Rock Wind Farm LLC
+57244,57244,CO,Kit Carson,39.3383,-102.3533,Kit Carson Windpower,2010,WIND,51.0,,wind farm,Duke Energy Renewables Services
+57248,57248,MN,Martin,43.6825,-94.5892,Welcome Wind Turbine,2008,WIND,2.1,,wind farm,Federated Rural Electric Assn
+57251,57251,IA,Kossuth,43.3839,-94.1475,Lakota Wind Wind Farm,2009,WIND,10.5,,wind farm,Iowa Lakes Electric Coop
+57252,57252,IA,Dickinson,43.445,-94.980278,Iowa Lakes Superior Wind Farm,2009,WIND,10.5,,wind farm,Iowa Lakes Electric Coop
+57253,57253,MA,Barnstable,41.6647,-70.5942,MA Military Reservation Wind Project,2009,WIND,4.5,,wind farm,Air Force Civil Engineer Center
+57257,57257,IA,Emmet,43.385347,-94.815655,Iowa Lakes Community College Wind Farm,2005,WIND,1.7,,wind farm,Iowa Lakes Community College
+57260,57260,TX,Webb,27.576111,-98.905278,Cedro Hill Wind LLC,2010,WIND,300.0,,wind farm,"Cedro Hill Wind, LLC"
+57261,57261,OK,Dewey,35.855556,-98.968333,Taloga Wind LLC,2011,WIND,130.0,,wind farm,Taloga Wind LLC
+57262,57262,NE,Boone,41.880278,-98.023889,Laredo Ridge Wind LLC,2011,WIND,79.9,,wind farm,Laredo Ridge Wind LLC
+57263,57263,TX,Hutchinson,35.964272,-101.540238,Little Pringle I Wind Farm,2010,WIND,10.0,,wind farm,Everpoint Services Inc
+57264,57264,TX,Hutchinson,35.924858,-101.541363,Little Pringle II Wind Farm,2010,WIND,10.0,,wind farm,Everpoint Services Inc
+57268,57268,PA,Blair,40.522846,-78.476921,Chestnut Flats Wind Farm,2011,WIND,38.0,,wind farm,"EDF Renewable Asset Holdings, Inc."
+57274,57274,MN,Grant,45.8033,-95.8844,Grant County Wind LLC,2010,WIND,21.0,,wind farm,"Grant County Wind, LLC"
+57278,57278,NE,Knox,42.698333,-97.58,Crofton Bluffs Wind LLC,2012,WIND,40.0,,wind farm,"Crofton Bluffs Wind, LLC"
+57282,57282,CA,Kern,35.033725,-118.353422,Alta Wind Energy Center I,2011,WIND,150.0,,wind farm,"Alta Wind I, LLC"
+57283,57283,NE,Richardson,40.0011,-95.9289,Flat Water Wind Farm LLC,2010,WIND,60.0,,wind farm,Flat Water Wind Farm LLC
+57284,57284,IL,Woodford,40.888611,-88.997222,Minonk Wind Farm,2012,WIND,200.0,,wind farm,Algonquin Power Co
+57285,57285,PA,Blair,40.729207,-78.28735,Sandy Ridge Wind Farm,2012,WIND,50.0,,wind farm,Algonquin Power Co
+57286,57286,OK,Woodward,36.333803,-99.480144,OU Spirit Wind Farm,2009,WIND,101.2,,wind farm,Oklahoma Gas & Electric Co
+57287,57287,NY,Herkimer,43.112222,-74.878888,Hardscrabble Wind Power LLC,2011,WIND,74.0,,wind farm,Avangrid Power LLC
+57289,57289,MN,Faribault,43.612222,-94.191944,Big Blue,2012,WIND,36.0,,wind farm,Big Blue Wind Farm LLC (MN)
+57290,57290,CO,Logan,40.9881,-102.8969,Northern Colorado Wind LLC,2009,WIND,174.3,,wind farm,Northern Colorado Wind LLC
+57291,57291,CA,Kern,35.023889,-118.295278,Alta Wind Energy Center II,2011,WIND,150.0,,wind farm,"Alta Wind II, LLC"
+57292,57292,CA,Kern,35.023889,-118.295278,Alta Wind Energy Center III,2011,WIND,150.0,,wind farm,"Alta Wind III, LLC"
+57293,57293,CA,Kern,35.008611,-118.242222,Alta Wind Energy Center IV,2011,WIND,102.0,,wind farm,"Alta Wind IV, LLC"
+57294,57294,CA,Kern,35.008611,-118.242222,Alta Wind Energy Center V,2011,WIND,168.0,,wind farm,"Alta Wind V, LLC"
+57296,57296,MN,Rice,44.461908,-93.156387,Carleton College,2004,WIND,3.2,,wind farm,Carleton College
+57299,57299,WY,Carbon,42.043611,-106.160278,Dunlap,2010,WIND,129.5,,wind farm,PacifiCorp
+57300,57300,MD,GARRETT,39.4047,-79.29,Criterion,2010,WIND,70.0,,wind farm,Criterion Power Partners LLC
+57302,57302,CA,Riverside,33.9053,-116.5825,Garnet Wind Energy Center,2009,WIND,6.5,,wind farm,Terra-Gen Operating Co-Wind
+57303,57303,TX,Mitchell,32.4375,-100.7444,Loraine Windpark Project LLC,2009,WIND,150.0,,wind farm,Loraine Windpower Project
+57315,57315,CO,Lincoln,39.421787,-103.67814,Cedar Point Wind,2011,WIND,252.0,,wind farm,Cedar Point LLC
+57319,57319,WA,Klickitat,45.9192,-120.3039,Big Horn Wind II,2011,WIND,50.0,,wind farm,Avangrid Power LLC
+57320,57320,WA,Klickitat,45.9215,-120.2355,Juniper Canyon I Wind Project,2011,WIND,151.2,,wind farm,Avangrid Power LLC
+57325,57325,IL,DeKalb,41.7678,-88.8867,FPL Energy Illinois Wind LLC Hybrid,2009,WIND,217.5,,wind farm,FPL Energy Illinois Wind LLC
+57326,57326,TX,Moore,35.9454,-101.9005,Sunray Wind I,2009,WIND,49.5,,wind farm,Diamond Shamrock Refining Company LP
+57327,57327,WY,Converse,42.9258,-105.7872,Top of the World Windpower Project,2010,WIND,200.0,,wind farm,Duke Energy Renewables Services
+57332,57332,OK,Dewey,36.035,-98.722222,Crossroads Wind Farm,2012,WIND,227.5,,wind farm,Oklahoma Gas & Electric Co
+57333,57333,OR,Gilliam,45.651,-120.2598,Leaning Juniper Wind Power II,2011,WIND,199.2,,wind farm,Avangrid Power LLC
+57342,57342,IL,McLean,40.590833,-89.046666,White Oak Energy LLC,2011,WIND,150.0,,wind farm,White Oak Energy LLC
+57346,57346,OK,Roger Mills,35.4642,-99.8983,Elk City LLC,2009,WIND,198.1,,wind farm,Elk City LLC
+57347,57347,ND,Burleigh,47.1133,-100.7086,Baldwin Wind LLC,2010,WIND,102.4,,wind farm,Baldwin Wind LLC
+57351,57351,MN,Pipestone,43.9811,-96.4269,Uilk Wind LLC,2010,WIND,4.5,,wind farm,RENEW Energy Inc
+57354,57354,ME,Knox,44.094167,-68.865833,Fox Island Wind LLC,2009,WIND,4.5,,wind farm,Fox Island Wind LLC
+57357,57357,NM,Sandoval,35.2689,-107.3828,Red Mesa Wind LLC,2010,WIND,102.4,,wind farm,Red Mesa Wind LLC
+57358,57358,OK,Woodward,36.276111,-99.490833,Keenan II Renewable Energy Co LLC,2010,WIND,151.8,,wind farm,CPV Keenan II Renewable Energy Co LLC
+57374,57374,MN,Jackson,43.675,-95.156666,Lakefield Wind Project LLC,2011,WIND,205.5,,wind farm,"EDF Renewable Asset Holdings, Inc."
+57375,57375,MN,Meeker,44.916944,-94.735555,Adams Wind Generations LLC,2011,WIND,20.0,,wind farm,"BEAM US, LLC"
+57379,57379,AZ,Navajo,34.6062,-110.1734,"Poseidon Wind, LLC",2010,WIND,65.1,,wind farm,"Axium Arizona Renewables, LLC"
+57380,57380,MA,Berkshire,42.7297,-73.0236,New England Wind LLC,2012,WIND,28.5,,wind farm,Avangrid Power LLC
+57385,57385,MN,Lincoln,44.245556,-96.406389,Community Wind North LLC,2011,WIND,30.0,,wind farm,Northern States Power Co - Minnesota
+57386,57386,MN,Pipestone,44.018889,-96.065277,Ridgewind,2011,WIND,25.3,,wind farm,Ridgewind Power Partners LLC
+57387,57387,ND,Barnes,47.1242,-97.8956,Ashtabula Wind III LLC,2010,WIND,62.4,,wind farm,Otter Tail Power Co
+57396,57396,MN,Meeker,45.071667,-94.752222,Danielson Wind Farms LLC,2011,WIND,20.0,,wind farm,"BEAM US, LLC"
+57414,57414,MA,Barnstable,41.6083,-70.6089,Notus Wind 1,2010,WIND,1.7,,wind farm,Notus Clean Energy LLC
+57415,57415,TX,Pecos,30.772575,-102.505808,Sherbino II,2011,WIND,132.0,,wind farm,Sherbino II Wind Farm LLC
+57417,57417,IA,Delaware,42.583889,-91.370833,Elk Wind Farm,2011,WIND,40.8,,wind farm,Greenbacker Renewable Energy Corporation
+57421,57421,MI,Gratiot,43.433889,-84.4975,Gratiot Wind Park,2011,WIND,102.0,,wind farm,DTE Electric Company
+57424,57424,SD,Brookings,44.5281,-96.6267,Buffalo Ridge II LLC,2010,WIND,210.0,,wind farm,Avangrid Power LLC
+57427,57427,ID,Elmore,43.037147,-115.439731,Ryegrass Windfarm,2012,WIND,23.0,,wind farm,"Mountain Air Projects, LLC"
+57428,57428,ID,Elmore,43.006133,-115.463289,Hammett Hill Windfarm,2012,WIND,23.0,,wind farm,"Mountain Air Projects, LLC"
+57429,57429,ID,Elmore,43.04835,-115.412886,Mainline Windfarm,2012,WIND,23.0,,wind farm,"Mountain Air Projects, LLC"
+57430,57430,ID,Elmore,43.056622,-115.452025,Desert Meadow Windfarm,2012,WIND,23.0,,wind farm,"Mountain Air Projects, LLC"
+57431,57431,ID,Elmore,43.028056,-115.400469,Cold Springs Windfarm,2012,WIND,23.0,,wind farm,"Mountain Air Projects, LLC"
+57432,57432,MN,Steele,43.920556,-93.140555,Oak Glen Wind Farm,2011,WIND,44.0,,wind farm,Minnesota Municipal Power Agny
+57434,57434,MN,Murray,43.902753,-96.021744,Valley View Transmission LLC,2011,WIND,10.0,,wind farm,Consolidated Edison Development Inc.
+57444,57444,ID,Elmore,43.033781,-115.482592,Two Ponds Windfarm,2012,WIND,23.0,,wind farm,"Mountain Air Projects, LLC"
+57447,57447,WV,Barbour,39.0072,-79.8866,Laurel Mountain Hybrid,2011,WIND,97.6,,wind farm,AES Distributed Energy
+57449,57449,OH,Van Wert,40.931515,-84.561824,Blue Creek Wind Project,2011,WIND,302.0,,wind farm,Avangrid Power LLC
+57459,57459,CA,Riverside,33.8816,-116.5527,Mountain View IV,2012,WIND,49.0,,wind farm,AES Distributed Energy
+57463,57463,IL,Henry,41.215278,-90.120833,Bishop Hill Energy LLC,2012,WIND,200.0,,wind farm,SunEdison LLC
+57468,57468,IA,Winnebago,43.3192,-93.8836,Crystal Lake 3 LLC,2009,WIND,66.0,,wind farm,Crystal Lake 3 LLC
+57469,57469,IA,Hardin,42.224436,-93.373625,Garden Wind LLC,2009,WIND,150.0,,wind farm,Garden Wind LLC
+57474,57474,TX,Crosby,33.661111,-101.39,Ralls Wind Farm,2011,WIND,10.0,,wind farm,Ralls Wind Farm LLC
+57484,57484,CA,Kern,34.9349,-118.4612,Manzana Wind LLC,2012,WIND,189.0,,wind farm,Avangrid Power LLC
+57493,57493,IL,Iroquois,40.694444,-87.570833,Settlers Trail Wind Farm LLC,2011,WIND,150.4,,wind farm,"Big Sky Wind, LLC"
+57500,57500,IA,Marshall,41.883333,-92.933333,Laurel Wind Farm,2011,WIND,123.4,,wind farm,MidAmerican Energy Co
+57501,57501,IA,Cass,41.1973,-94.7744,Rolling Hills Wind Farm,2011,WIND,484.2,,wind farm,MidAmerican Energy Co
+57514,57514,CA,Imperial,32.752778,-116.044722,Ocotillo Express LLC,2012,WIND,265.4,,wind farm,Pattern Operators LP
+57517,57517,TX,Hansford,36.498514,-101.605278,DeWind Frisco,2012,WIND,20.0,,wind farm,DeWind Co.
+57520,57520,TX,Young,33.383611,-98.711944,Trinity Hills,2011,WIND,198.0,,wind farm,Trinity Hills Wind Farm LLC
+57526,57526,OR,Gilliam,45.731611,-120.083466,North Hurlburt Wind LLC,2012,WIND,265.0,,wind farm,Caithness Shepherds Flat LLC
+57529,57529,HI,Honolulu,21.610278,-158.040833,Kawailoa Wind,2012,WIND,69.0,,wind farm,Kawailoa Wind LLC
+57530,57530,WA,Whitman,47.155833,-117.364444,Palouse,2012,WIND,105.3,,wind farm,Onward Energy
+57531,57531,ME,Piscataquis,45.103333,-69.761944,Bingham Wind,2016,WIND,186.0,,wind farm,Onward Energy
+57547,57547,MN,Winona,44.1125,-91.924722,Winona County Wind LLC,2011,WIND,1.5,,wind farm,Winona County Wind LLC
+57549,57549,OR,Gilliam,45.706262,-120.079987,South Hurlburt Wind LLC,2012,WIND,290.0,,wind farm,Caithness Shepherds Flat LLC
+57550,57550,OR,Gilliam,45.58555,-120.008249,Horseshoe Bend Wind LLC,2012,WIND,290.0,,wind farm,Caithness Shepherds Flat LLC
+57553,57553,WI,Brown,44.3481,-87.9278,Shirley Wind,2010,WIND,20.0,,wind farm,Duke Energy Renewables Services
+57568,57568,ME,Oxford,44.633611,-70.627777,Record Hill Wind,2012,WIND,50.6,,wind farm,Record Hill Wind LLC
+57570,57570,OH,Van Wert,40.905833,-84.570277,Cooper Farms VW Project,2012,WIND,4.5,,wind farm,Cooper Hatchery Inc.
+57578,57578,OR,Sherman,45.613061,-120.616906,PaTu Wind Farm LLC,2010,WIND,9.0,,wind farm,PaTu Wind Farm LLC
+57586,57586,CA,Solano,38.169444,-121.846944,Shiloh III Wind Project LLC,2011,WIND,102.5,,wind farm,"EDF Renewable Asset Holdings, Inc."
+57590,57590,OK,Grady,35.280278,-97.975556,"Minco Wind I, LLC",2010,WIND,99.2,,wind farm,"FPLE Wind, LLC"
+57593,57593,NE,Custer,41.454722,-99.568056,Broken Bow Wind LLC,2012,WIND,79.9,,wind farm,Broken Bow Wind LLC
+57594,57594,CA,San Joaquin,37.6167,-121.3564,Teichert Materials-Teichert Vernalis,2010,WIND,1.0,,wind farm,"Foundation HA Energy Generation, LLC"
+57595,57595,WV,Mineral,39.445,-79.03,Pinnacle Wind Force LLC,2011,WIND,53.7,,wind farm,"Pinnacle Wind, LLC"
+57609,57609,IA,Crawford,42.159722,-95.439722,New Harvest Wind Project LLC,2011,WIND,100.0,,wind farm,Avangrid Power LLC
+57613,57613,OH,Cuyahoga,41.584444,-81.525555,LE Wind Turbine 1,2011,WIND,2.5,,wind farm,Lincoln Electric Company
+57614,57614,KS,Coffey,38.256944,-95.814166,Waverly Wind Farm LLC,2016,WIND,199.0,,wind farm,Waverly Wind Farm LLC
+57616,57616,OK,Caddo,34.910361,-98.5599,Blue Canyon Windpower VI LLC,2011,WIND,99.8,,wind farm,Blue Canyon Windpower VI LLC
+57617,57617,TX,Hidalgo,26.465556,-98.411111,Hidalgo Wind Farm LLC,2016,WIND,250.0,,wind farm,Hidalgo Wind Farm LLC
+57620,57620,OH,Paulding,41.025278,-84.779166,Paulding Wind Farm II,2011,WIND,99.0,,wind farm,Paulding Wind Farm II LLC
+57621,57621,CA,Kern,35.0775,-118.218333,Rising Tree Wind Farm,2015,WIND,79.2,,wind farm,Rising Tree Wind Farm LLC
+57623,57623,IL,McLean,40.701241,-88.701054,Bright Stalk Wind Farm I,2019,WIND,205.2,,wind farm,Lexington Chenoa Wind Farm LLC
+57626,57626,CA,San Joaquin,37.714167,-121.521666,Foundation ST,2011,WIND,2.0,,wind farm,"Foundation HA Energy Generation, LLC"
+57628,57628,IN,White,40.716111,-87.021111,Meadow Lake Wind Farm V LLC,2017,WIND,100.0,,wind farm,Meadow Lake Wind Farm V LLC
+57631,57631,IA,Adair,41.3931,-94.4447,Wolverine,2010,WIND,1.5,,wind farm,"Wolverine Wind Energy, LLC"
+57632,57632,IA,Adair,41.2258,-94.4406,Bulldog,2010,WIND,1.5,,wind farm,"Bulldog Wind Energy, LLC"
+57635,57635,WA,Klickitat,45.744171,-120.783568,Linden Wind Energy Project,2010,WIND,50.0,,wind farm,Los Angeles Department of Water & Power
+57639,57639,KS,Ford,37.81828,-99.7754,Ironwood Wind,2012,WIND,167.9,,wind farm,Duke Energy Renewables Services
+57643,57643,CO,Pueblo,38.1728,-104.62,"Vestas Towers America, Inc.",2010,WIND,1.8,,wind farm,"CS Wind America, Inc."
+57644,57644,MN,Rock,43.828217,-96.321567,Prairie Rose Wind Farm,2012,WIND,200.0,,wind farm,"Enel Green Power NA, Inc."
+57648,57648,NY,Ontario,42.886944,-76.968333,Henkel U.S. Operations Corporation,2012,WIND,3.4,,wind farm,Henkel U.S. Operations Corporation
+57649,57649,MN,Martin,43.6848,-94.8799,Elm Creek Wind II LLC,2010,WIND,148.8,,wind farm,Avangrid Power LLC
+57663,57663,KS,Gray,37.90133,-100.372,Cimarron Windpower II,2012,WIND,131.0,,wind farm,Duke Energy Renewables Services
+57675,57675,IL,Iroquois,40.46405,-88.021517,"Pioneer Trail Wind Farm, LLC",2011,WIND,150.4,,wind farm,"Big Sky Wind, LLC"
+57678,57678,KS,Ellsworth,38.841667,-98.299444,"Post Rock Wind Power Project, LLC",2012,WIND,201.0,,wind farm,Pattern Operators LP
+57700,57700,CA,Contra Costa,37.790833,-121.718055,Vasco Winds,2011,WIND,78.2,,wind farm,"Vasco Winds, LLC"
+57701,57701,CA,Solano,38.116667,-121.821944,Montezuma Wind II,2012,WIND,78.2,,wind farm,"NextEra Energy Montezuma Wind II, LLC"
+57721,57721,MA,Berkshire,42.586667,-73.275,Berkshire Wind Power Project,2011,WIND,19.6,,wind farm,Massachusetts Mun Wholes Electric Co
+57725,57725,CA,Solano,38.137488,-121.855342,Shiloh IV Wind Project LLC,2012,WIND,102.5,,wind farm,"EDF Renewable Asset Holdings, Inc."
+57732,57732,MN,Stevens,45.5897,-95.877033,UMM Wind Turbine,2011,WIND,1.7,,wind farm,University of Minnesota Morris Campus
+57744,57744,PA,Lycoming,41.5323,-77.0296,Laurel Hill Wind,2012,WIND,69.0,,wind farm,Duke Energy Renewables Services
+57748,57748,MT,Meagher,46.411944,-110.337777,Gordon Butte Wind LLC,2012,WIND,17.7,,wind farm,Gordon Butte Wind LLC
+57749,57749,ID,Elmore,42.982222,-115.393333,Sawtooth Wind Project,2011,WIND,22.4,,wind farm,Idaho Winds LLC
+57751,57751,TX,Cameron,26.33072,-97.5857,Los Vientos Wind 1A,2012,WIND,200.0,,wind farm,Duke Energy Renewables Services
+57752,57752,TX,Cameron,26.34892,-97.6668,Los Vientos Wind 1B,2012,WIND,201.6,,wind farm,Duke Energy Renewables Services
+57755,57755,NE,Boone,41.864583,-97.961194,TPW Petersburg,2011,WIND,40.5,,wind farm,TPW Petersburg LLC
+57756,57756,WA,Grays Harbor,46.793581,-124.065412,Coastal Energy Project,2010,WIND,6.0,,wind farm,Coastal Community Action Program
+57757,57757,CA,Kern,34.891389,-118.4325,Pacific Wind LLC,2012,WIND,151.7,,wind farm,"EDF Renewable Asset Holdings, Inc."
+57760,57760,ID,Power,42.703333,-112.757778,Power County Wind Park South,2011,WIND,22.5,,wind farm,Power County Wind Park South LLC
+57761,57761,ID,Power,42.738889,-112.748611,Power County Wind Park North,2011,WIND,22.5,,wind farm,Power County Wind Park North LLC
+57762,57762,KS,Gray,37.873889,-100.280277,Cimarron Wind Energy LLC,2012,WIND,165.6,,wind farm,Cimarron Wind Energy LLC
+57766,57766,ID,Power,42.674722,-112.901944,Rockland Wind Farm,2011,WIND,79.2,,wind farm,Ridgeline Energy LLC
+57767,57767,IL,Brown,39.973333,-90.699166,Brown County Wind Turbine,2011,WIND,1.5,,wind farm,Adams Electric Cooperative
+57769,57769,PA,Wyoming,41.420556,-76.049167,Mehoopany Wind Energy LLC,2012,WIND,140.8,,wind farm,AE Power Services LLC
+57774,57774,CA,Kern,35.054167,-118.354722,Windstar 1,2012,WIND,120.0,,wind farm,Nextera Energy Resources
+57775,57775,AZ,Mohave,35.145833,-114.0675,Kingman 1,2011,WIND,10.0,,wind farm,Brookfield Renewable Trading and Marketing LP
+57787,57787,KS,Kingman,37.366509,-98.261077,Flat Ridge 2 Wind Energy LLC,2012,WIND,470.4,,wind farm,AE Power Services LLC
+57791,57791,CA,Solano,38.232222,-122.092778,Foundation AB,2011,WIND,1.5,,wind farm,"Foundation HA Energy Generation, LLC"
+57792,57792,CA,San Bernardino,34.084722,-117.529444,Foundation IE,2011,WIND,1.0,,wind farm,"Foundation HA Energy Generation, LLC"
+57800,57800,ND,Morton,46.98,-101.554722,Bison 2 Wind Energy Center,2012,WIND,105.0,,wind farm,"ALLETE, Inc."
+57801,57801,ND,Morton,46.98,-101.554722,Bison 3 Wind Energy Center,2012,WIND,105.0,,wind farm,"ALLETE, Inc."
+57802,57802,TX,Willacy,26.475278,-97.691111,Magic Valley Wind Farm I LLC,2012,WIND,203.0,,wind farm,"Big Sky Wind, LLC"
+57803,57803,OR,Baker,44.396944,-117.271944,Lime Wind,2011,WIND,3.0,,wind farm,Lime Wind LLC
+57813,57813,MN,Winona,43.991667,-91.877777,GL Wind,2011,WIND,5.0,,wind farm,GL Wind LLC
+57823,57823,MN,Stevens,45.589722,-95.876944,WCROC Wind Farm,2005,WIND,1.7,,wind farm,University of Minnesota WCROC
+57830,57830,IA,Greene,42.006111,-94.237778,Rippey Wind Farm,2012,WIND,50.0,,wind farm,Greenbacker Renewable Energy Corporation
+57832,57832,IA,Bremer,42.948889,-92.062222,Hawkeye Wind Farm,2012,WIND,35.0,,wind farm,Greenbacker Renewable Energy Corporation
+57833,57833,CA,Kern,35.030855,-118.293188,Mustang Hills LLC,2012,WIND,150.0,,wind farm,"Mustang Hills, LLC (Longroad)"
+57834,57834,CA,Kern,35.043411,-118.211835,Pinyon Pine I,2012,WIND,168.0,,wind farm,"Pinyon Pines Wind I, LLC"
+57835,57835,CA,Kern,35.026683,-118.234811,Alta Wind VIII,2012,WIND,150.0,,wind farm,Nextera Energy Resources
+57837,57837,CA,Kern,35.026759,-118.223333,Pinyon Pine II,2012,WIND,132.0,,wind farm,"Pinyon Pines Wind II, LLC"
+57844,57844,IA,Franklin,42.606737,-93.336453,Franklin County Wind Farm,2012,WIND,99.0,,wind farm,Interstate Power and Light Co
+57851,57851,MI,Huron,43.850833,-82.783611,Sigel Wind Park,2012,WIND,64.0,,wind farm,DTE Electric Company
+57852,57852,MI,Sanilac,43.67,-82.758611,Minden Wind Park,2012,WIND,32.0,,wind farm,DTE Electric Company
+57853,57853,MI,Huron,43.871944,-83.241388,McKinley Wind Park,2012,WIND,14.4,,wind farm,DTE Electric Company
+57855,57855,MA,Essex,42.716389,-70.841944,Ipswich Wind Turbine,2011,WIND,1.6,,wind farm,Town of Ipswich - (MA)
+57858,57858,KS,Elk,37.46,-96.42,Caney River Wind Project,2012,WIND,200.0,,wind farm,Caney River Wind Project
+57862,57862,IN,Tipton,40.349444,-85.843056,"Wildcat Wind Farm I, LLC",2012,WIND,200.0,,wind farm,"Big Sky Wind, LLC"
+57866,57866,TX,Oldham,35.243611,-102.21,Golden Spread Panhandle Wnd Rch,2011,WIND,78.2,,wind farm,"Golden Spread Electric Cooperative, Inc"
+57867,57867,NY,Steuben,42.315278,-77.538333,Howard Wind Farm,2011,WIND,55.4,,wind farm,Howard Wind LLC (Longroad)
+57873,57873,IA,Guthrie,41.554651,-94.685004,Eclipse Wind Farm,2012,WIND,207.1,,wind farm,MidAmerican Energy Co
+57874,57874,IA,Marshall,42.159444,-92.776111,Vienna Wind Farm,2012,WIND,150.2,,wind farm,MidAmerican Energy Co
+57875,57875,IA,Adair,41.454241,-94.575056,Morning Light Wind Farm,2012,WIND,110.9,,wind farm,MidAmerican Energy Co
+57880,57880,MN,Dakota,44.728333,-93.048056,Eolos Wind Energy Research Field Station,2011,WIND,2.5,,wind farm,Regents of the University of Minnesota
+57887,57887,NM,Lea,32.952778,-103.285278,Wildcat Wind,2012,WIND,27.3,,wind farm,"Wildcat Wind, LLC"
+57888,57888,MI,Huron,43.8556,-83.1669,Harvest 2,2012,WIND,59.4,,wind farm,"Harvest II Windfarm, LLC"
+57890,57890,ID,Bonneville,43.386389,-111.726389,"Horse Butte Wind I, LLC",2012,WIND,57.6,,wind farm,Utah Associated Mun Power Sys
+57913,57913,CA,San Diego,32.663889,-116.289722,Tule Wind LLC,2017,WIND,143.0,,wind farm,Avangrid Power LLC
+57927,57927,TX,Kenedy,27.184652,-97.59818,Baffin Wind,2014,WIND,188.0,,wind farm,Avangrid Power LLC
+57935,57935,AK,Denali,64.058333,-148.9,Eva Creek Wind,2013,WIND,24.6,,wind farm,Golden Valley Elec Assn Inc
+57947,57947,NM,Luna,32.55434,-107.50929,Macho Springs Power I,2011,WIND,50.4,,wind farm,Capital Power Corporation
+57956,57956,OK,Grady,35.325278,-98.071389,"Minco Wind II, LLC",2011,WIND,100.8,,wind farm,"FPLE Wind, LLC"
+57962,57962,CA,Kern,35.008333,-118.241389,Brookfield Tehachapi 1,2012,WIND,102.0,,wind farm,"Coram California Development, L.P."
+57963,57963,MT,Wheatland,46.275278,-109.482778,Musselshell Wind Project,2012,WIND,10.0,,wind farm,Musselshell Wind Project LLC
+57964,57964,IL,Lee,41.666944,-89.059722,Shady Oaks Wind Farm,2012,WIND,109.5,,wind farm,Algonquin Power Co
+57965,57965,MT,Wheatland,46.275278,-109.482778,Musselshell Wind Project Two LLC,2012,WIND,10.0,,wind farm,Musselshell Wind Project Two LLC
+57968,57968,WI,Monroe,43.733889,-90.805,Cashton Greens Wind Farm,2012,WIND,5.0,,wind farm,Cashton Greens Wind Farm LLC
+57973,57973,TX,Oldham,35.2375,-102.203056,Spinning Spur Wind LLC,2012,WIND,161.0,,wind farm,"EDF Renewable Asset Holdings, Inc."
+57974,57974,TX,Archer,33.493056,-98.581944,Bobcat Bluff Wind Project LLC,2012,WIND,161.0,,wind farm,"EDF Renewable Asset Holdings, Inc."
+57975,57975,KS,Ford,37.851111,-99.838056,Spearville 3 LLC,2012,WIND,108.0,,wind farm,"EDF Renewable Asset Holdings, Inc."
+57976,57976,IA,Pocahontas,42.568056,-94.658056,Pocahontas Prairie Wind Farm,2012,WIND,80.0,,wind farm,MidAmerican Energy Co
+57979,57979,VT,Orleans,44.748333,-72.425278,Kingdom Community Wind,2012,WIND,65.0,,wind farm,Green Mountain Power Corp
+57980,57980,CO,Huerfano,37.801111,-104.491944,Busch Ranch Wind Energy,2012,WIND,29.0,,wind farm,"Black Hills Colorado Electric, LLC"
+57981,57981,TX,Jack,33.205801,-98.365069,Senate Wind LLC,2012,WIND,150.0,,wind farm,Algonquin Power Co
+57983,57983,TX,Borden,32.926389,-101.647778,Stephens Ranch Wind Energy LLC,2014,WIND,376.0,,wind farm,Stephens Ranch Wind Energy LLC
+57984,57984,MI,Mason,43.871944,-86.334722,Lake Winds Energy Park,2012,WIND,100.8,,wind farm,Consumers Energy Co - (MI)
+57987,57987,OK,Canadian,35.629722,-98.024722,Canadian Hills Wind,2012,WIND,293.7,,wind farm,Canadian Hills Wind LLC
+57991,57991,PA,Cambria,40.319561,-78.680633,Highland North Wind Farm,2012,WIND,75.0,,wind farm,Exus Pennsylvania Wind Holdings
+57995,57995,MT,Toole,48.820278,-112.103333,NaturEner Rim Rock Energy,2012,WIND,189.0,,wind farm,NaturEner Rim Rock Energy LLC
+57996,57996,HI,Maui,20.596,-156.318,Auwahi Wind Energy Hybrid,2012,WIND,24.0,,wind farm,Auwahi Wind Energy LLC
+57998,57998,PA,Somerset,39.760556,-78.874722,Twin Ridges Wind Farm,2012,WIND,139.4,,wind farm,Exus Pennsylvania Wind Holdings
+57999,57999,PA,Cambria,40.63067,-78.696078,Patton Wind Farm,2012,WIND,30.0,,wind farm,Exus Pennsylvania Wind Holdings
+58000,58000,TX,Kinney,29.234722,-100.209167,"Anacacho Wind Farm, LLC",2012,WIND,99.8,,wind farm,"Big Sky Wind, LLC"
+58004,58004,NH,Coos,44.704444,-71.2925,Granite Reliable Power,2012,WIND,99.0,,wind farm,NexteraEnergy
+58008,58008,IL,Vermilion,40.211667,-87.878333,California Ridge Wind Energy LLC,2012,WIND,217.0,,wind farm,SunEdison LLC
+58018,58018,KS,Kiowa,37.518889,-99.446389,Shooting Star,2012,WIND,104.0,,wind farm,"Shooting Star Power Partners, LLC"
+58019,58019,ID,Twin Falls,42.88,-115.036667,High Mesa,2012,WIND,40.0,,wind farm,"High Mesa Energy, LLC"
+58020,58020,MI,Gratiot,43.256944,-84.499722,Beebe 1A,2012,WIND,81.6,,wind farm,"Beebe Renewable Energy, LLC"
+58021,58021,TX,Webb,27.488056,-99.005278,Whitetail,2012,WIND,92.0,,wind farm,"Whitetail Wind Energy, LLC"
+58025,58025,MA,Worcester,42.588583,-71.984194,Mt Wachusett Community College,2011,WIND,3.4,,wind farm,Mt Wachusett Community College
+58026,58026,ME,Oxford,44.415587,-70.559814,Spruce Mountain WInd,2011,WIND,20.0,,wind farm,CPV Spruce Mountain Wind LLC
+58035,58035,RI,Washington,41.114722,-71.521111,Block Island Wind Farm,2016,WIND-OFFSHORE,30.0,,wind farm,Deepwater Wind Block Island LLC
+58038,58038,IA,Mitchell,43.385833,-92.759444,Buffalo Center Wind LLC,2011,WIND,1.5,,wind farm,Buffalo Center Wind LLC
+58041,58041,OK,Garfield,36.574722,-97.673611,Chisholm View Wind Project,2012,WIND,300.0,,wind farm,Chisholm View Wind Project
+58044,58044,IA,Cedar,41.850833,-91.234167,"Anchor Wind, LLC",2012,WIND,6.0,,wind farm,"Acciona Energy USA Global, LLC"
+58045,58045,MN,Nobles,43.713611,-95.802778,Community Wind South,2012,WIND,30.0,,wind farm,Greenbacker Renewable Energy Corporation
+58048,58048,TX,Kent,32.969722,-100.524167,BayWa r.e Mozart LLC,2012,WIND,30.0,,wind farm,"Chopin Wind, LLC"
+58065,58065,MA,Suffolk,42.391389,-71.070833,Charlestown Wind Turbine,2011,WIND,1.5,,wind farm,MWRA Charlestown
+58071,58071,IA,Worth,43.384722,-93.221389,Windwalkers LLC,2011,WIND,1.6,,wind farm,Consolidated Edison Development Inc.
+58078,58078,OK,Kiowa,35.135556,-99.003056,Rocky Ridge Wind Project,2012,WIND,148.8,,wind farm,Rocky Ridge Wind Project LLC
+58080,58080,TX,Cooke,33.733006,-97.428406,Wolf Ridge Wind,2008,WIND,112.5,,wind farm,NextEra Wolf Ridge LLC
+58088,58088,NY,Wyoming,42.767614,-78.415843,Stony Creek Wind Farm NY,2013,WIND,94.4,,wind farm,Invenergy Services LLC
+58089,58089,IA,Worth,43.297222,-93.283333,Roeder Family Wind Farm LLC,2011,WIND,1.6,,wind farm,Consolidated Edison Development Inc.
+58098,58098,NM,Torrance,34.651111,-105.461667,El Cabo Wind,2017,WIND,298.0,,wind farm,Avangrid Power LLC
+58099,58099,OR,Gilliam,45.5857,-120.0904,Montague Wind Power Facility LLC,2019,WIND,200.0,,wind farm,Avangrid Power LLC
+58101,58101,CA,San Bernardino,34.561944,-117.307222,Foundation Cemex River Plant,2012,WIND,3.2,,wind farm,Foundation CA Fund VI Manager LLC
+58102,58102,CA,San Bernardino,34.623056,-117.1125,Foundation Cemex BMQ,2012,WIND,3.0,,wind farm,Foundation CA Fund VI Manager LLC
+58103,58103,MI,Delta,45.795556,-86.533889,Heritage Garden Wind Farm I LLC,2012,WIND,28.0,,wind farm,DTE Sustainable Generation
+58104,58104,CA,Solano,38.42,-121.818056,Foundation Superior Farms,2012,WIND,1.0,,wind farm,Foundation CA Fund VI Manager LLC
+58105,58105,CA,Tehama,40.111111,-122.193889,Foundation Wal-Mart Red Bluff,2012,WIND,1.0,,wind farm,Foundation CA Fund VI Manager LLC
+58106,58106,ID,Bonneville,43.524429,-111.803921,Meadow Creek Project Company,2012,WIND,119.7,,wind farm,Ridgeline Energy LLC
+58111,58111,IL,Henry,41.2325,-90.174167,Bishop Hill II Wind Farm,2012,WIND,81.0,,wind farm,"Bishop Hill Energy II, LLC"
+58112,58112,CA,Yolo,38.692778,-121.9325,Foundation Cemex Madison,2012,WIND,1.0,,wind farm,"Foundation CA Fund V Manager, LLC"
+58113,58113,CA,Riverside,33.917222,-116.815,Foundation RRM,2012,WIND,2.0,,wind farm,"Foundation CA Fund V Manager, LLC"
+58114,58114,CA,Riverside,33.914167,-116.749167,Foundation NWNA,2012,WIND,5.1,,wind farm,"Foundation CA Fund V Manager, LLC"
+58121,58121,MI,Huron,43.8825,-83.161389,Echo Wind Park,2014,WIND,162.0,,wind farm,DTE Electric Company
+58126,58126,CO,Lincoln,39.380975,-103.573236,Limon Wind I,2012,WIND,200.0,,wind farm,Limon
+58127,58127,CO,Lincoln,39.341389,-103.581111,Limon Wind II,2012,WIND,200.0,,wind farm,Limon
+58137,58137,KS,Gray,37.614473,-100.278666,Ensign Wind LLC,2012,WIND,98.9,,wind farm,NextEra Energy Resources Ensign Wind
+58141,58141,NH,Grafton,43.7681,-71.8189,Groton Wind LLC,2012,WIND,48.0,,wind farm,Avangrid Power LLC
+58154,58154,CA,Kern,35.347778,-118.186389,North Sky River Energy LLC,2012,WIND,162.0,,wind farm,North Sky River Energy LLC
+58155,58155,AZ,Coconino,35.415556,-112.271111,Perrin Ranch Wind LLC,2012,WIND,99.2,,wind farm,Perrin Ranch Wind LLC
+58162,58162,TX,Lynn,33.033056,-101.6875,Cirrus Wind 1 LLC,2012,WIND,61.2,,wind farm,Cirrus Wind 1 LLC
+58203,58203,OK,Caddo,35.372359,-98.182731,"Minco Wind III, LLC",2012,WIND,100.8,,wind farm,"FPLE Wind, LLC"
+58209,58209,OK,Kay,36.846667,-97.4175,"NextEra-Blackwell Wind, LLC",2012,WIND,59.8,,wind farm,"Blackwell Wind, LLC"
+58218,58218,MT,Judith Basin,47.333333,-110.639167,Spion Kop Wind Farm,2012,WIND,40.0,,wind farm,NorthWestern Energy (MT wind/thermal)
+58220,58220,OH,Paulding,41.016111,-84.5875,Haviland Plastic Products,2013,WIND,4.5,,wind farm,Haviland Plastic Products Co
+58233,58233,CA,Riverside,33.908889,-116.555556,Wagner Wind LLC,2012,WIND,6.0,,wind farm,Greenbacker Renewable Energy Corporation
+58238,58238,VT,Chittenden,44.661667,-73.07,Georgia Mountain Community Wind Farm,2012,WIND,10.0,,wind farm,Greenbacker Renewable Energy Corporation
+58242,58242,TX,Carson,35.4275,-101.253056,Pattern Panhandle Wind LLC,2014,WIND,218.0,,wind farm,Pattern Operators LP
+58321,58321,TX,Mills,31.383333,-98.466667,Goldthwaite Wind Energy Facility,2013,WIND,150.0,,wind farm,Invenergy Services LLC
+58322,58322,NE,Antelope,41.951667,-98.076667,Prairie Breeze,2014,WIND,206.5,,wind farm,SunEdison LLC
+58324,58324,OR,Umatilla,45.899167,-118.591389,Vansycle II Wind Energy Center,2009,WIND,102.3,,wind farm,FPL Energy Stateline II Inc
+58351,58351,MI,Tuscola,43.525278,-83.65,Tuscola Bay Wind,2012,WIND,120.0,,wind farm,Tuscola Bay Wind LLC
+58363,58363,TX,Carson,35.386038,-101.578572,Majestic II Wind,2012,WIND,79.6,,wind farm,NextEra Energy Majestic Wind
+58372,58372,TX,Wilbarger,34.292913,-99.367734,Blue Summit Wind LLC,2012,WIND,135.4,,wind farm,Blue Summit Wind LLC
+58394,58394,CA,Kern,35.06,-118.2,Alta Wind X,2014,WIND,138.0,,wind farm,"Alta Wind X, LLC"
+58395,58395,CA,Kern,35.065,-118.39,Alta Wind XI,2014,WIND,90.0,,wind farm,"Alta Wind XI, LLC"
+58404,58404,TX,Carson,35.322778,-101.5325,Pantex,2014,WIND,11.5,,wind farm,Pantex (NNSA)
+58407,58407,IA,Winneshiek,43.326944,-91.810833,Luther College Wind Project,2011,WIND,1.6,,wind farm,Luther College Wind Energy Project LLC
+58414,58414,IA,Henry,40.955,-91.394444,NLMU Wind,2011,WIND,1.5,,wind farm,New London Municipal Utilities
+58416,58416,IN,Randolph,40.066667,-85.013333,Headwaters Wind Farm LLC,2014,WIND,200.0,,wind farm,Headwaters Wind Farm LLC
+58425,58425,AK,Anchorage,61.13,-150.243611,Fire Island Wind,2012,WIND,18.0,,wind farm,Fire Island Wind LLC
+58441,58441,WA,Kittitas,47.139167,-120.753056,Swauk Wind LLC,2012,WIND,4.3,,wind farm,Gamesa Wind US LLC
+58444,58444,IA,Greene,42.098889,-94.269167,Junction Hilltop Wind Farm,2012,WIND,8.0,,wind farm,Junction Hilltop Management LLC
+58456,58456,IA,Adair,41.226944,-94.434722,Cumberland Rose,2012,WIND,1.6,,wind farm,"Cumberland Rose Wind Energy, LLC"
+58457,58457,IA,Adair,41.338889,-94.57,Fontanelle,2012,WIND,1.6,,wind farm,"Forward Fontanelle Power, LLC"
+58458,58458,IA,Adair,41.29,-94.485,Greenfield Wind,2012,WIND,1.6,,wind farm,"Greenfield Wind Power, LLC"
+58459,58459,IA,Adair,41.39,-94.445833,Meadow Ridge,2012,WIND,1.6,,wind farm,"Meadow Ridge Wind Energy, LLC"
+58460,58460,IA,Adair,41.29,-94.485,Sky Volt,2012,WIND,1.6,,wind farm,"Sky Volt, LLC"
+58461,58461,IA,Cass,41.391944,-94.876389,Wiota,2012,WIND,1.6,,wind farm,"Wiota Wind Energy, LLC #1"
+58464,58464,NM,Curry,34.746944,-103.325,Broadview Energy Prime LLC,2014,WIND,9.9,,wind farm,"Chopin Wind, LLC"
+58465,58465,NM,Curry,34.728056,-103.305,Broadview Energy Prime 2 LLC,2014,WIND,9.9,,wind farm,"Chopin Wind, LLC"
+58474,58474,KS,Haskell,37.620833,-101.076111,Buffalo Dunes Wind Project,2013,WIND,249.8,,wind farm,Buffalo Dunes Wind Project LLC
+58511,58511,AK,Southeast Fairbanks,64.013889,-145.596667,Delta Wind Farm,2008,WIND,1.9,,wind farm,Alaska Environmental Power
+58548,58548,CO,Huerfano,37.772222,-104.832222,Huerfano River Wind,2013,WIND,8.0,,wind farm,"Huerfano River Wind, LLC"
+58571,58571,WA,Columbia,46.421111,-118.026944,Tucannon River Wind Farm,2014,WIND,266.8,,wind farm,Portland General Electric Co
+58580,58580,MI,Huron,43.757778,-83.297778,Pheasant Run Wind LLC,2013,WIND,74.8,,wind farm,Pheasant Run Wind LLC
+58587,58587,MI,Tuscola,43.526944,-83.566944,Tuscola Wind II LLC,2013,WIND,100.3,,wind farm,Tuscola Wind II LLC
+58594,58594,NE,Jefferson,40.048889,-96.952222,Steele Flats Wind Project LLC,2013,WIND,74.8,,wind farm,Steele Flats Wind Project LLC
+58596,58596,TX,Carson,35.238333,-101.310833,"Grandview Wind Farm, LLC",2014,WIND,211.2,,wind farm,"Big Sky Wind, LLC"
+58608,58608,ME,Franklin,44.593333,-70.381111,Saddleback Ridge Wind Farm,2014,WIND,34.2,,wind farm,"CPV Saddleback Ridge Wind, LLC"
+58614,58614,TX,Nueces,27.580489,-97.640077,Patriot Wind Farm,2019,WIND,226.1,,wind farm,Avangrid Power LLC
+58620,58620,ME,Oxford,44.514722,-70.303056,Canton Mountain Wind,2017,WIND,22.8,,wind farm,CPV Canton Mountain Wind LLC
+58630,58630,OH,Logan,40.449444,-83.893333,RP Wind,2013,WIND,3.4,,wind farm,Consolidated Edison Solutions Inc.
+58657,58657,MN,Cottonwood,43.853333,-94.931944,Odell Wind Farm,2016,WIND,200.0,,wind farm,Algonquin Power Co
+58658,58658,ND,Stutsman,47.179722,-98.594722,Courtenay Wind Farm,2016,WIND,200.0,,wind farm,Northern States Power Co - Minnesota
+58661,58661,MA,Barnstable,41.7525,-70.538889,Cape Cod Air Force Station - 6 SWS,2014,WIND,3.4,,wind farm,US Air Force
+58666,58666,KS,Rush,38.424722,-99.5075,Alexander Wind Farm LLC,2015,WIND,50.7,,wind farm,SRIV Partnership LLC
+58677,58677,MI,Gratiot,43.408056,-84.462222,Gratiot County Wind LLC,2012,WIND,110.4,,wind farm,Invenergy Services LLC
+58681,58681,TX,Carson,35.205278,-101.434167,Route 66 Wind Plant,2015,WIND,150.0,,wind farm,Onward Energy
+58683,58683,OK,Osage,36.706944,-96.700278,"Osage Wind, LLC",2015,WIND,150.4,,wind farm,"Enel Green Power NA, Inc."
+58686,58686,ME,Hancock,44.760833,-68.146944,Hancock Wind Plant,2016,WIND,51.0,,wind farm,Onward Energy
+58690,58690,MI,Huron,43.815032,-83.315002,Apple Blossom Wind Farm,2017,WIND,100.0,,wind farm,"Apple Blossom Wind, LLC"
+58691,58691,MN,Jackson,43.587283,-95.375119,South Fork Wind Farm,2016,WIND,13.8,,wind farm,"South Fork Wind, LLC"
+58692,58692,MN,Stearns,45.660833,-95.012778,Black Oak Wind Farm,2016,WIND,78.0,,wind farm,"Black Oak Wind, LLC"
+58694,58694,IL,Bureau,41.496667,-89.580278,Walnut Ridge Wind Farm,2018,WIND,212.0,,wind farm,"BHE Renewables, LLC"
+58695,58695,NE,Holt,42.608056,-98.428333,Grande Prairie Wind Farm,2016,WIND,400.0,,wind farm,"BHE Renewables, LLC"
+58719,58719,MI,Huron,43.757778,-83.297778,Brookfield,2014,WIND,74.8,,wind farm,DTE Electric Company
+58720,58720,TX,Carson,35.442778,-101.372778,Pattern Panhandle Wind 2 LLC,2014,WIND,181.7,,wind farm,Pattern Operators LP
+58765,58765,TX,Roberts,35.653889,-100.538611,Miami Wind Energy Center,2014,WIND,288.6,,wind farm,Invenergy Services LLC
+58766,58766,TX,Crosby,33.825,-101.099722,Wake Wind Energy Center,2016,WIND,257.3,,wind farm,Southern Power Co
+58767,58767,KS,Ellis,39.003873,-99.414161,Buckeye Wind Energy Center,2015,WIND,200.5,,wind farm,Invenergy Services LLC
+58768,58768,NY,Steuben,42.163889,-77.528889,Marsh Hill Wind Farm,2014,WIND,16.2,,wind farm,Invenergy Services LLC
+58769,58769,CO,Logan,40.964167,-103.077222,Spring Canyon Expansion Wind Energy Ctr,2014,WIND,62.6,,wind farm,Spring Canyon Expansion LLC
+58771,58771,NM,Roosevelt,33.926111,-103.511111,Roosevelt County,2015,WIND,250.0,,wind farm,Boralex US Operations LLC
+58772,58772,TX,Briscoe,34.311111,-101.251111,Longhorn Wind,2015,WIND,200.0,,wind farm,Boralex US Operations LLC
+58773,58773,TX,Deaf Smith,34.748056,-102.174444,TX Hereford Wind,2014,WIND,200.0,,wind farm,Boralex US Operations LLC
+58774,58774,TX,Oldham,35.276944,-102.682778,Spinning Spur Wind II,2014,WIND,161.0,,wind farm,"EDF Renewable Asset Holdings, Inc."
+58775,58775,TX,Oldham,35.295,-102.721111,Spinning Spur Wind III,2015,WIND,194.0,,wind farm,Boralex US Operations LLC
+58777,58777,NY,Chautauqua,42.338333,-79.195556,Cassadaga Wind Farm,2021,WIND,124.0,,wind farm,"Big Sky Wind, LLC"
+58780,58780,OH,Logan,40.561389,-83.736389,Scioto Ridge Wind Farm,2021,WIND,249.8,,wind farm,"Big Sky Wind, LLC"
+58830,58830,MI,Tuscola,43.610278,-83.485556,Cross Winds Energy Park,2014,WIND,230.9,,wind farm,Consumers Energy Co - (MI)
+58833,58833,AZ,Cochise,32.286111,-110.088056,Red Horse 2,2015,WIND,30.0,,wind farm,Red Horse 2
+58836,58836,MN,Clay,46.718056,-96.211944,Lakeswind Power Partners,2014,WIND,51.8,,wind farm,Lakeswind Power Partners
+58837,58837,HI,Honolulu,21.666944,-157.97,Na Pua Makani Wind Project,2020,WIND,27.6,,wind farm,Na Pua Makani Power Partners LLC
+58838,58838,TX,Jack,33.143056,-98.161111,Keechi Wind,2015,WIND,110.0,,wind farm,"Keechi Wind, LLC"
+58872,58872,ND,Morton,46.98,-101.554722,Bison 4 Wind Energy Center,2015,WIND,205.0,,wind farm,"ALLETE, Inc."
+58883,58883,IA,O'Brien,43.080278,-95.656111,Highland Wind Project (IA),2015,WIND,502.0,,wind farm,MidAmerican Energy Co
+58884,58884,IA,Webster,42.334722,-94.170833,Lundgren Wind Project,2014,WIND,251.0,,wind farm,MidAmerican Energy Co
+58885,58885,IA,Madison,41.209167,-94.103611,Macksburg Wind Project,2014,WIND,119.6,,wind farm,MidAmerican Energy Co
+58886,58886,IA,Grundy,42.390833,-92.966667,Wellsburg Wind Project,2014,WIND,140.8,,wind farm,MidAmerican Energy Co
+58887,58887,IL,Lee,41.660278,-89.249722,Com Adam 1WF-1,2007,WIND,5.0,,wind farm,FPC Services Inc.
+58891,58891,MI,Huron,43.850833,-82.7825,"Big Turtle Wind Farm, LLC",2014,WIND,20.0,,wind farm,DTE Sustainable Generation
+58898,58898,IL,Kankakee,40.999169,-88.056247,Pilot Hill Wind Farm,2015,WIND,175.0,,wind farm,"EDF Renewable Asset Holdings, Inc."
+58900,58900,OK,Beaver,36.518056,-100.847222,Balko Wind LLC,2015,WIND,299.7,,wind farm,Balko Wind LLC
+58902,58902,OK,Kingfisher,35.770278,-97.799722,Kingfisher Wind LLC,2016,WIND,298.0,,wind farm,Kingfisher Wind LLC
+58904,58904,MD,Garrett,39.641111,-79.011111,Fourmile Ridge,2014,WIND,40.0,,wind farm,"Fourmile Wind Energy, LLC"
+58908,58908,MI,Gratiot,43.256944,-84.499722,Beebe 1B,2014,WIND,50.4,,wind farm,"Beebe 1B Renewable Energy, LLC"
+58924,58924,IL,Logan,40.074167,-89.291944,Sugar Creek Wind One LLC,2020,WIND,202.0,,wind farm,Sugar Creek Wind One LLC
+58925,58925,IL,Sangamon,39.821944,-89.955833,Lincoln Land Wind,2021,WIND,302.0,,wind farm,"Lincoln Land Wind, LLC"
+58927,58927,IA,Story,42.208056,-93.599444,Story City Wind Project,2010,WIND,1.5,,wind farm,Hamilton Wind Energy LLC
+58932,58932,IA,Tama,42.161389,-92.4425,Traer Wind Project,2010,WIND,1.5,,wind farm,City of Traer - (IA)
+58938,58938,OK,Murray,34.446111,-97.269722,Origin Wind,2014,WIND,150.0,,wind farm,"Enel Green Power NA, Inc."
+58939,58939,NM,Chaves,33.029444,-103.855833,Anderson Wind I,2014,WIND,5.0,,wind farm,"Chopin Wind, LLC"
+58940,58940,NM,Chaves,33.013889,-103.865,Anderson Wind II,2014,WIND,10.0,,wind farm,"Chopin Wind, LLC"
+58958,58958,MA,Plymouth,41.925278,-70.64,Camelot Wind LLC,2012,WIND,1.5,,wind farm,Camelot Wind LLC
+58965,58965,ND,Adams,46.075,-102.563333,"Thunder Spirit Wind, LLC",2015,WIND,155.5,,wind farm,Montana-Dakota Utilities Co
+58966,58966,MT,Teton,47.723333,-111.965278,Fairfield Wind,2014,WIND,10.0,,wind farm,Greenbacker Renewable Energy Corporation
+58979,58979,NY,Lewis,43.913056,-75.698611,Copenhagen Wind Farm,2018,WIND,79.9,,wind farm,"EDF Renewable Asset Holdings, Inc."
+58981,58981,NE,Custer,41.323889,-99.323056,"Broken Bow Wind II, LLC",2014,WIND,73.1,,wind farm,Consolidated Edison Development Inc.
+58992,58992,MA,Worcester,42.572222,-71.944722,Dept of Corrections NCCI Wind,2013,WIND,3.4,,wind farm,Dept of Corrections NCCI Wind
+58994,58994,OK,Garfield,36.476944,-97.685556,Breckinridge Wind Project LLC,2015,WIND,98.8,,wind farm,NextEra Energy Resources Breckinridge
+58995,58995,MN,Rice,44.462222,-93.192778,St. Olaf Wind Turbine,2006,WIND,1.6,,wind farm,St. Olaf College
+58998,58998,OK,Texas,36.541389,-101.565556,Goodwell Wind Project LLC,2015,WIND,200.0,,wind farm,"Enel Green Power NA, Inc."
+58999,58999,OK,Washita,35.194722,-98.907222,Little Elk Wind Project LLC,2015,WIND,74.0,,wind farm,"Enel Green Power NA, Inc."
+59003,59003,MT,Wheatland,46.449444,-110.087222,Two Dot Wind Farm,2014,WIND,9.7,,wind farm,NorthWestern Energy (MT wind/thermal)
+59005,59005,TX,Parmer,34.6675,-102.577778,Mariah del Norte,2016,WIND,230.4,,wind farm,"BHE Renewables, LLC"
+59021,59021,IL,Vermilion,40.399722,-87.799167,Hoopeston Wind LLC,2015,WIND,98.0,,wind farm,Hoopeston Wind LLC
+59024,59024,OH,Cuyahoga,41.602222,-81.496944,"Euclid Farm, Stamco N-54",2012,WIND,1.0,,wind farm,Case Western Reserve University
+59034,59034,TX,Clay,33.509722,-98.360833,Shannon Wind,2015,WIND,204.0,,wind farm,Shannon Wind LLC
+59053,59053,IA,Story,42.019,-93.514,Michelangelo Wind 3 LLC,2017,WIND,3.0,,wind farm,Michelangelo Wind 3 LLC
+59061,59061,IL,Dewitt,40.011111,-89.047222,Radfords Run Wind Farm,2017,WIND,278.0,,wind farm,"Big Sky Wind, LLC"
+59063,59063,TX,Kenedy,26.941667,-97.6425,Stella Wind Farm,2018,WIND,201.0,,wind farm,"Big Sky Wind, LLC"
+59065,59065,OK,Grady,34.827778,-97.957222,Drift Sand Wind Project LLC,2016,WIND,108.0,,wind farm,"Enel Green Power NA, Inc."
+59066,59066,TX,Willacy,26.522222,-97.691111,Bruennings Breeze Wind Farm,2017,WIND,228.0,,wind farm,"Big Sky Wind, LLC"
+59068,59068,TX,Carson,35.254184,-101.186622,"Colbeck's Corner, LLC",2016,WIND,200.0,,wind farm,"Big Sky Wind, LLC"
+59070,59070,NH,Coos,44.466944,-71.225,Jericho Power,2016,WIND,14.3,,wind farm,Jericho Power LLC
+59071,59071,IA,Carroll,41.94143,-94.8861,Carroll Area Wind Farm,2015,WIND,20.7,,wind farm,SRIV Partnership LLC
+59076,59076,OR,Umatilla,45.88,-118.463333,Chopin Wind LLC,2016,WIND,10.0,,wind farm,"Chopin Wind, LLC"
+59083,59083,CO,Lincoln,39.353333,-103.474167,Limon III Wind LLC,2014,WIND,200.6,,wind farm,Limon
+59084,59084,KS,Marshall,39.701111,-96.360833,Marshall Wind Farm,2016,WIND,73.8,,wind farm,"BHE Renewables, LLC"
+59118,59118,TX,Cameron,26.195278,-97.466111,Cameron Wind 1 LLC,2015,WIND,165.0,,wind farm,Cameron Wind 1 LLC
+59147,59147,MD,Garrett,39.404564,-79.291143,Fair Wind,2015,WIND,30.0,,wind farm,"Fair Wind Power Partners, LLC"
+59187,59187,SD,Bon Homme,43.16,-98.08,Beethoven Wind,2015,WIND,80.0,,wind farm,NorthWestern Energy - (SD)
+59193,59193,TX,Nueces,27.5925,-97.500833,Chapman Ranch Wind I,2017,WIND,236.0,,wind farm,Chapman Ranch Wind LLC
+59200,59200,ND,Rolette,48.964722,-99.613889,Border Winds Wind Farm,2015,WIND,150.0,,wind farm,Northern States Power Co - Minnesota
+59201,59201,MN,Mower,43.805,-92.769722,Pleasant Valley Wind Farm,2015,WIND,200.0,,wind farm,Northern States Power Co - Minnesota
+59222,59222,ME,Penobscot,45.07,-68.21,Passadumkeag Windpark LLC,2016,WIND,42.9,,wind farm,Southern Power Co
+59223,59223,IA,Story,42.014,-93.518056,Optimum Wind 5 LLC,2017,WIND,3.0,,wind farm,Optimum Wind 5 LLC
+59224,59224,IA,Story,42.006944,-93.523611,Optimum Wind 6 LLC,2017,WIND,3.0,,wind farm,Optimum Wind 6 LLC
+59225,59225,IA,Story,42.028333,-93.430278,Optimum Wind 7 LLC,2017,WIND,3.0,,wind farm,Optimum Wind 7 LLC
+59226,59226,IA,Story,42.016389,-93.515833,Optimum Wind 4 LLC,2017,WIND,3.0,,wind farm,Optimum Wind 4 LLC
+59227,59227,IA,Story,42.019167,-93.513611,Optimum Wind 3 LLC,2017,WIND,3.0,,wind farm,Optimum Wind 3 LLC
+59228,59228,IA,Hardin,42.498056,-93.367778,Leonardo Wind 1 LLC,2016,WIND,3.0,,wind farm,Leonardo Wind 1 LLC
+59230,59230,IA,Poweshiek,41.741944,-92.672222,Venus Wind 3 LLC,2017,WIND,3.0,,wind farm,Venus Wind 3 LLC
+59231,59231,IA,Story,41.881,-93.623056,Michelangelo Wind 1 LLC,2017,WIND,3.0,,wind farm,Michelangelo Wind 1 LLC
+59232,59232,IA,Boone,41.978,-93.700556,Michelangelo Wind 4 LLC,2016,WIND,3.0,,wind farm,Michelangelo Wind 4 LLC
+59234,59234,OK,Murray,34.386944,-97.136944,Arbuckle Mountain Wind Farm LLC,2015,WIND,100.0,,wind farm,Arbuckle Mountain Wind Farm LLC
+59235,59235,CA,Kern,35.088889,-118.206389,Rising Tree Wind Farm II,2015,WIND,19.8,,wind farm,Rising Tree Wind Farm II LLC
+59236,59236,CA,Kern,35.060556,-118.243333,Rising Tree Wind Farm III,2015,WIND,99.0,,wind farm,Rising Tree Wind Farm III LLC
+59238,59238,TX,Archer,33.495278,-98.5,Windthorst-2,2014,WIND,67.6,,wind farm,"EDF Renewable Asset Holdings, Inc."
+59244,59244,TX,Crosby,33.699167,-101.524722,Lorenzo Wind,2018,WIND,80.0,,wind farm,"Lorenzo Wind, LLC"
+59245,59245,TX,Scurry,32.931944,-101.143611,Fluvanna,2017,WIND,155.4,,wind farm,TC Energy
+59246,59246,TX,Armstrong,35.093889,-101.326111,Goodnight,2024,WIND,265.5,,wind farm,"FGE Goodnight I, LLC"
+59247,59247,TX,Hale,33.927778,-101.742222,Hale Community Wind Farm,2019,WIND,478.0,,wind farm,Southwestern Public Service Co
+59284,59284,OK,Dewey,35.978889,-98.710278,Mammoth Plains,2014,WIND,199.0,,wind farm,Mammoth Plains Wind Project
+59292,59292,NE,Dixon,42.375,-96.829,Rattlesnake Creek Wind Project,2018,WIND,318.1,,wind farm,"Rattlesnake Creek Wind Project, LLC"
+59295,59295,RI,Washington,41.581667,-71.486667,WED NK Green,2012,WIND,1.5,,wind farm,WED NK Green LLC
+59296,59296,OH,Paulding,41.016944,-84.593611,Northwest Ohio Wind,2018,WIND,105.0,,wind farm,"Northwest Ohio Wind, LLC"
+59301,59301,RI,Kent,41.675833,-71.7075,WED Coventry 1,2016,WIND,1.5,,wind farm,"WED Coventry One, LLC"
+59302,59302,RI,Kent,41.6725,-71.705833,WED Coventry 2,2016,WIND,4.5,,wind farm,"WED Coventry Two, LLC"
+59305,59305,RI,Kent,41.695556,-71.720833,WED Coventry 3,2016,WIND,1.5,,wind farm,"WED Coventry Three, LLC"
+59306,59306,RI,Kent,41.686389,-71.728333,WED Coventry 4,2016,WIND,1.5,,wind farm,"WED Coventry Four, LLC"
+59311,59311,OK,Dewey,36.1225,-98.992222,Seiling Wind I,2014,WIND,199.0,,wind farm,NextEra Energy Seiling Wind
+59312,59312,OK,Dewey,36.1225,-98.992222,Seiling Wind II,2014,WIND,98.6,,wind farm,NextEra Energy Seiling Wind
+59313,59313,RI,Kent,41.659722,-71.699722,WED Coventry 5,2017,WIND,1.5,,wind farm,Greenbacker Renewable Energy Corporation
+59314,59314,RI,Kent,41.669722,-71.708333,WED Coventry 6,2016,WIND,4.5,,wind farm,Greenbacker Renewable Energy Corporation
+59320,59320,TX,Starr,26.388611,-98.806111,Los Vientos Windpower III,2015,WIND,200.0,,wind farm,Duke Energy Renewables Services
+59321,59321,TX,Starr,26.380556,-98.818333,Los Vientos Windpower IV,2016,WIND,200.0,,wind farm,Duke Energy Renewables Services
+59328,59328,CA,San Diego,32.702107,-116.354587,Golden Acorn Casino,2014,WIND,1.0,,wind farm,"Foundation HA Energy Generation, LLC"
+59329,59329,CA,Monterey,36.421111,-121.340278,City of Soledad Water Reclamation,2014,WIND,1.0,,wind farm,"Foundation HA Energy Generation, LLC"
+59330,59330,CA,Monterey,36.505,-121.451667,Taylor Farms,2014,WIND,1.0,,wind farm,"Foundation HA Energy Generation, LLC"
+59331,59331,CA,Solano,38.233611,-122.0925,Anheuser-Busch #2,2014,WIND,1.6,,wind farm,"Foundation HA Energy Generation, LLC"
+59332,59332,TX,Dawson,32.7,-101.741111,Mesquite Creek Wind,2015,WIND,211.2,,wind farm,Duke Energy Renewables Services
+59384,59384,TX,Floyd,34.080556,-101.323611,South Plains Wind Phase I,2015,WIND,200.0,,wind farm,"Evergreen Wind, LLC"
+59417,59417,TX,Crosby,33.738889,-101.485,Pleasant Hill Wind Energy Project,2015,WIND,20.0,,wind farm,Pleasant Hill Wind Energy LLC
+59435,59435,SD,Clark,44.933333,-97.741389,Oak Tree Energy,2014,WIND,19.5,,wind farm,Consolidated Edison Development Inc.
+59442,59442,TX,Comanche,31.8225,-98.690556,Logans Gap Wind LLC,2015,WIND,200.1,,wind farm,Pattern Operators LP
+59448,59448,WI,Racine,42.709444,-87.885278,Waxdale,2012,WIND,3.0,,wind farm,"S.C. Johnson & Son, Inc."
+59460,59460,OK,Kay,36.984167,-97.133611,"Kay Wind, LLC",2015,WIND,299.0,,wind farm,Southern Power Co
+59475,59475,TX,Ochiltree,36.243889,-101.001389,Palo Duro Wind,2014,WIND,249.9,,wind farm,Palo Duro Wind
+59490,59490,OR,Baker,44.425,-117.273889,Jett Creek Windfarm (Burnt River),2017,WIND,10.0,,wind farm,Jett Creek
+59491,59491,OR,Baker,44.366944,-117.343889,Benson Creek Windfarm (Burnt River),2017,WIND,10.0,,wind farm,Benson Creek
+59492,59492,OR,Baker,44.353056,-117.323056,Durbin Creek Windfarm (Burnt River),2017,WIND,10.0,,wind farm,Durbin Creek
+59493,59493,OR,Baker,44.418056,-117.255,Prospector Windfarm (Burnt River),2017,WIND,10.0,,wind farm,Prospector
+59494,59494,OR,Baker,44.381944,-117.273056,Willow Spring Windfarm (Burnt River),2017,WIND,10.0,,wind farm,Willow Spring
+59547,59547,IN,Benton,40.620556,-87.378056,Fowler Ridge IV Wind Farm LLC,2016,WIND,150.0,,wind farm,Pattern Operators LP
+59621,59621,TX,Deaf Smith,34.72,-102.253333,TX Jumbo Road Wind,2015,WIND,299.7,,wind farm,"TX Jumbo Road Wind, LLC"
+59622,59622,MA,Plymouth,41.774444,-70.615833,Future Generation Wind,2016,WIND,8.0,,wind farm,Consolidated Edison Solutions Inc.
+59629,59629,NY,Franklin,44.888889,-74.103333,Jericho Rise Wind Farm LLC,2016,WIND,77.7,,wind farm,Jericho Rise Wind Farm LLC
+59637,59637,IA,Adams,40.92,-94.671667,Adams Wind,2015,WIND,154.3,,wind farm,MidAmerican Energy Co
+59639,59639,MA,Bristol,41.745556,-71.117222,"631-56 Airport Owner, LLC",2012,WIND,2.0,,wind farm,"631-56 Airport Owner, LLC"
+59654,59654,TX,Jim Hogg,27.18,-98.916667,Sendero,2015,WIND,78.0,,wind farm,"Sendero Wind Energy, LLC"
+59655,59655,SD,Campbell,45.753333,-100.275,Campbell County Wind Farm,2015,WIND,94.3,,wind farm,Consolidated Edison Development Inc.
+59684,59684,ND,Williams,48.533,-102.933,"Lindahl Wind Project, LLC",2017,WIND,150.0,,wind farm,"Enel Green Power NA, Inc."
+59692,59692,RI,Providence,41.79413,-71.38919,NBC Field's Point Wind Farm,2012,WIND,4.5,,wind farm,Narragansett Bay Commission
+59693,59693,VA,Virginia Beach,36.89155,-75.4916,Coastal Virginia Offshore Wind (CVOW) Pi,2021,WIND-OFFSHORE,12.0,,wind farm,Virginia Electric & Power Co
+59712,59712,TX,Cameron,26.125979,-97.377599,"San Roman Wind I, LLC",2017,WIND,95.3,,wind farm,"Acciona Energy USA Global, LLC"
+59724,59724,MA,Plymouth,42.175083,-70.728467,Scituate Wind,2012,WIND,1.5,,wind farm,Scituate Wind LLC
+59725,59725,MA,Bristol,41.639061,-70.873372,Fairhaven Wind,2012,WIND,3.0,,wind farm,Fairhaven Wind LLC
+59732,59732,TX,Baylor,33.628222,-99.411169,Green Pastures Wind I,2015,WIND,150.0,,wind farm,"Green Pastures Wind I, LLC"
+59733,59733,TX,Knox,33.645964,-99.532944,Green Pastures Wind II,2015,WIND,150.0,,wind farm,"Green Pastures Wind II, LLC"
+59734,59734,TX,Briscoe,34.432267,-101.237233,Briscoe Wind Farm,2015,WIND,150.0,,wind farm,"Briscoe Wind Farm, LLC"
+59735,59735,IA,Linn,41.916558,-91.650897,Kirkwood Wind Turbine,2012,WIND,2.5,,wind farm,Kirkwood Community College
+59736,59736,NE,Cherry,42.859103,-100.592439,"Valentine Wind, LLC",2014,WIND,1.9,,wind farm,"Valentine Wind, LLC"
+59757,59757,MT,Carbon,45.165525,-108.693138,Pryor Mountain Wind,2021,WIND,239.8,,wind farm,PacifiCorp
+59776,59776,IL,McLean,40.537,-89.019,Heartland Community College,2012,WIND,1.7,,wind farm,Heartland Community College
+59797,59797,NJ,Hudson,40.652778,-74.117778,Bayonne MUA- Leitner-Poma Wind Turbine,2012,WIND,1.5,,wind farm,"SUEZ North America, Inc."
+59817,59817,UT,Tooele,40.50303,-112.37059,Tooele Army Depot(CSG),2010,WIND,3.2,,wind farm,Tooele Army Depot
+59837,59837,KS,Sumner,37.1146,-97.2376,Slate Creek Wind Project LLC,2015,WIND,150.0,,wind farm,"EDF Renewable Asset Holdings, Inc."
+59838,59838,NM,Roosevelt,33.901781,-103.34675,Milo Wind Project LLC,2016,WIND,50.0,,wind farm,Boralex US Operations LLC
+59888,59888,KS,Ford,37.4863,-99.9247,Bloom Wind,2017,WIND,178.2,,wind farm,CP Bloom Wind LLC
+59902,59902,IL,McDonough,40.588568,-90.751828,Cardinal Point Wind,2020,WIND,150.0,,wind farm,Cardinal Point LLC
+59903,59903,ND,McHenry,47.861531,-100.947664,New Frontier Wind,2018,WIND,100.0,,wind farm,Meadowlark Wind I LLC
+59943,59943,TX,Glasscock,31.74325,-101.493407,Rattlesnake Den,2015,WIND,207.2,,wind farm,SunEdison LLC
+59953,59953,NH,Hillsborough,43.06435,-72.00635,Antrim Wind,2019,WIND,28.8,,wind farm,Antrim Wind Energy LLC
+59965,59965,UT,San Juan,37.886706,-109.36839,Latigo Wind Park,2016,WIND,62.1,,wind farm,AES Distributed Energy
+59968,59968,NC,Perquimans,36.31,-76.42,"Desert Wind Farm, LLC",2016,WIND,208.0,,wind farm,Avangrid Power LLC
+59972,59972,TX,Glasscock,31.727237,-101.582,Bearkat,2018,WIND,196.7,,wind farm,"Bearkat Wind Energy 1, LLC"
+59974,59974,CO,El Paso,38.935,-104.212,Golden West Power Partners LLC,2015,WIND,250.0,,wind farm,"Golden West Power Partners, LLC"
+59975,59975,CO,Kit Carson,39.334,-102.173,Carousel Wind Farm LLC,2015,WIND,150.0,,wind farm,"Carousel Wind Farm, LLC"
+60013,60013,OK,Grant,36.927071,-97.696331,"Grant Wind, LLC",2016,WIND,151.8,,wind farm,Southern Power Co
+60015,60015,OH,Hancock,41.101219,-83.644394,Findlay Wind Farm,2015,WIND,3.0,,wind farm,Findlay Wind Farm
+60049,60049,CA,Alameda,37.713311,-121.640353,Golden Hills Wind,2015,WIND,85.9,,wind farm,"Golden Hills Wind, LLC"
+60059,60059,TX,Starr,26.411689,-98.571554,Los Vientos V Wind Power,2015,WIND,110.0,,wind farm,Duke Energy Renewables Services
+60069,60069,KS,Ness,38.697606,-99.729289,"Cedar Bluff Wind, LLC",2015,WIND,198.6,,wind farm,"Cedar Bluff Wind, LLC"
+60087,60087,TX,Floyd,34.196962,-101.381494,South Plains II,2016,WIND,300.0,,wind farm,Onward Energy
+60088,60088,ND,Morton,46.837569,-102.07455,Sunflower Wind Project,2016,WIND,104.0,,wind farm,Onward Energy
+60104,60104,TX,Webb,27.32,-99.0,"Javelina Wind Energy, LLC",2015,WIND,249.7,,wind farm,"Javelina Wind Energy, LLC"
+60126,60126,OH,Wyandot,40.718292,-83.22865,Harpster Wind,2016,WIND,1.5,,wind farm,"OEE XVII, LLC"
+60128,60128,OH,Hancock,41.096111,-83.641381,Zephyr Wind,2015,WIND,4.5,,wind farm,"OEE XIX, LLC"
+60132,60132,WV,Grant,39.200639,-79.140639,New Creek Wind,2016,WIND,103.0,,wind farm,"New Creek Wind, LLC"
+60143,60143,CO,Huerfano,37.710444,-104.505464,Peak View Wind Farm,2016,WIND,60.8,,wind farm,"Black Hills Colorado Electric, LLC"
+60145,60145,NM,Curry,34.734179,-103.108047,"Broadview Energy JN, LLC",2017,WIND,181.7,,wind farm,Pattern Operators LP
+60152,60152,NM,Curry,34.727007,-103.166771,"Broadview Energy KW, LLC",2017,WIND,142.6,,wind farm,Pattern Operators LP
+60210,60210,TX,Floyd,34.060333,-101.187628,Cotton Plains Wind Farm,2017,WIND,50.4,,wind farm,"Cotton Plains Wind I, LLC"
+60217,60217,TX,Val Verde,29.72753,-100.79431,Rocksprings,2017,WIND,149.3,,wind farm,"Rocksprings Val Verde Wind, LLC"
+60218,60218,OK,Kay,36.838884,-97.181015,Frontier Windpower,2016,WIND,200.0,,wind farm,Duke Energy Renewables Services
+60256,60256,OK,Beaver,36.552151,-100.587557,Bluestem,2016,WIND,198.0,,wind farm,"Bluestem Wind Energy, LLC"
+60259,60259,WY,Converse,42.728198,-105.866765,"Pioneer Wind Park, LLC",2016,WIND,80.0,,wind farm,AES Distributed Energy
+60262,60262,NE,Antelope,41.987656,-98.210401,Prairie Breeze II,2015,WIND,73.4,,wind farm,Invenergy Services LLC
+60270,60270,TX,Bailey,34.03821,-102.665242,Blue Cloud Wind Energy LLC,2018,WIND,148.4,,wind farm,TC Energy
+60271,60271,TX,Scurry,32.631073,-101.008494,"Canyon Wind Project, LLC",2024,WIND,308.8,,wind farm,"Canyon Wind Project, LLC"
+60314,60314,NE,Antelope,41.987656,-98.210401,Prairie Breeze III,2016,WIND,35.8,,wind farm,Invenergy Services LLC
+60317,60317,NM,Curry,34.734142,-103.092227,"Grady Wind Energy Center, LLC",2019,WIND,220.5,,wind farm,Pattern Operators LP
+60326,60326,IA,O'Brien,43.200421,-95.624313,O'Brien Wind,2016,WIND,250.3,,wind farm,MidAmerican Energy Co
+60329,60329,PA,Somerset,39.744722,-79.188056,"Ringer Hill Wind Farm, LLC",2016,WIND,39.9,,wind farm,Ringer Hill Wind LLC
+60338,60338,TX,Wilbarger,34.102943,-99.118746,Electra Wind Farm,2016,WIND,230.0,,wind farm,"Electra Wind, LLC"
+60339,60339,TX,Haskell,33.35,-99.54,Horse Creek Wind Farm,2016,WIND,230.0,,wind farm,"Horse Creek Wind, LLC"
+60342,60342,IA,Ida,42.355721,-95.42038,Ida Grove Wind,2016,WIND,301.1,,wind farm,MidAmerican Energy Co
+60354,60354,ND,Stark,46.611515,-102.78821,Brady II Wind Energy Center,2016,WIND,150.0,,wind farm,"Brady Wind II, LLC"
+60355,60355,ND,Stark,46.646471,-102.765089,Brady Wind Energy Center,2016,WIND,150.0,,wind farm,"Brady Wind, LLC"
+60366,60366,TX,Floyd,34.060333,-101.187628,Old Settler Wind,2017,WIND,151.2,,wind farm,"Old Settler Wind, LLC"
+60404,60404,ME,Penobscot,44.777337,-68.523419,Pisgah Mountain Wind,2016,WIND,9.1,,wind farm,"Pisgah Mountain, LLC"
+60414,60414,TX,Castro,34.575311,-102.474698,Bethel Wind Farm LLC,2017,WIND,276.0,,wind farm,Southern Power Co
+60470,60470,OH,Paulding,41.121,-84.751,Paulding Wind Farm III,2016,WIND,100.8,,wind farm,Paulding Wind Farm III LLC
+60471,60471,IL,Lee,41.620264,-89.557033,Green River Wind Farm,2019,WIND,194.3,,wind farm,"Green River Wind Farm Phase 1, LLC"
+60486,60486,MT,Teton,47.723,-111.963,Greenfield Wind - MT,2016,WIND,25.0,,wind farm,Greenbacker Renewable Energy Corporation
+60502,60502,TX,Cooke,33.703851,-97.372009,"Tyler Bluff Wind Project, LLC",2016,WIND,125.6,,wind farm,Southern Power Co
+60503,60503,SD,Codington,45.154947,-96.836839,Crowned Ridge Wind Energy Center,2019,WIND,200.1,,wind farm,"Crowned Ridge Wind, LLC"
+60504,60504,MN,Lincoln,44.544137,-96.36824,Blazing Star Wind Farm 1,2020,WIND,200.0,,wind farm,Northern States Power Co - Minnesota
+60505,60505,SD,Clark,45.051544,-97.826423,Crocker Wind Farm,2019,WIND,200.0,,wind farm,"Crocker Wind Farm, LLC"
+60541,60541,IA,Adair,41.469985,-94.339357,Wind GEM,2015,WIND,1.9,,wind farm,"Wind GEM, LLC"
+60545,60545,OK,Grant,36.9708,-97.7053,"Grant Plains Wind, LLC",2016,WIND,147.2,,wind farm,Southern Power Co
+60551,60551,PA,Potter,41.869326,-77.665939,Big Level Wind,2019,WIND,90.0,,wind farm,Big Level Wind LLC
+60574,60574,OK,Ellis,36.166503,-99.596006,"Great Western Wind Energy, LLC",2016,WIND,225.0,,wind farm,"EDF Renewable Asset Holdings, Inc."
+60587,60587,IL,Ford,40.9675,-88.1975,Kelly Creek Wind Project,2016,WIND,184.0,,wind farm,"EDF Renewable Asset Holdings, Inc."
+60592,60592,OK,Stephens,34.682883,-97.829283,Rush Springs Wind,2016,WIND,249.9,,wind farm,Rush Springs Wind Project
+60594,60594,CA,Kern,35.046061,-118.28273,Voyager Wind I,2019,WIND,131.1,,wind farm,Terra-Gen Operating Co-Wind
+60596,60596,NY,Steuben,42.375,-77.593,Baron Winds Farm,2023,WIND,130.0,,wind farm,"Big Sky Wind, LLC"
+60619,60619,CO,Elbert,39.172111,-103.845358,Rush Creek Wind,2018,WIND,600.0,,wind farm,Public Service Co of Colorado
+60620,60620,KS,Pratt,37.586714,-98.579264,"Ninnescah Wind Energy, LLC",2016,WIND,208.3,,wind farm,Ninnescah Wind Energy LLC
+60639,60639,KS,Pratt,37.586714,-98.579264,Kingman Wind,2016,WIND,214.8,,wind farm,"Kingman Wind Energy, LLC"
+60645,60645,TX,Webb,27.44,-98.91,"Javelina Wind Energy II, LLC",2016,WIND,200.0,,wind farm,"Javelina Wind Energy II, LLC"
+60655,60655,MO,Atchison,40.4,-95.2,Rock Creek Wind Project,2017,WIND,300.0,,wind farm,"Enel Green Power NA, Inc."
+60657,60657,TX,Donley,35.18172,-100.934408,"Salt Fork Wind Project, LLC",2016,WIND,174.0,,wind farm,Southern Power Co
+60672,60672,MO,DeKalb,39.747699,-94.473482,Osborn Wind Energy,2016,WIND,200.9,,wind farm,Osborn Wind Energy LLC
+60687,60687,KS,Clark,37.355,-99.991,"Cimarron Bend Wind Project I, LLC",2016,WIND,200.0,,wind farm,"Cimarron Bend Wind Project I, LLC"
+60688,60688,KS,Clark,37.355,-99.991,"Cimarron Bend Wind Project II, LLC",2017,WIND,200.0,,wind farm,"Cimarron Bend Wind Project II, LLC"
+60689,60689,KS,Ford,37.854801,-99.67981,Western Plains Wind Farm,2017,WIND,280.6,,wind farm,"Evergy Kansas Central, Inc"
+60700,60700,CT,Litchfield,41.961067,-73.140779,Wind Colebrook South,2015,WIND,5.0,,wind farm,Wind Colebrook South
+60743,60743,TX,McCulloch,31.360331,-99.551356,"Rattlesnake Power, LLC",2018,WIND,160.0,,wind farm,"Rattlesnake Power, LLC"
+60856,60856,TX,Randall,34.769544,-102.052422,Astra Wind Farm,2017,WIND,163.0,,wind farm,Astra Wind LLC
+60865,60865,MA,Essex,42.625649,-70.656489,Equity Industrial Turbines,2012,WIND,4.0,,wind farm,Equity Industrial Turbines
+60873,60873,IA,Mahaska,41.4369,-92.703817,Prairie Wind Farm,2018,WIND,168.0,,wind farm,MidAmerican Energy Co
+60883,60883,MI,Huron,43.941851,-82.898675,"Deerfield Wind Energy, LLC",2017,WIND,149.0,,wind farm,"Deerfield Wind Energy, LLC"
+60901,60901,TX,Haskell,33.345366,-99.624257,Willow Springs Wind Farm,2017,WIND,250.0,,wind farm,"Willow Springs Windfarm, LLC"
+60902,60902,TX,Scurry,32.863769,-100.975128,Dermott Wind,2017,WIND,253.0,,wind farm,"Dermott Wind, LLC"
+60905,60905,ND,Morton,46.9571,-101.1681,"Oliver Wind III, LLC",2017,WIND,99.3,,wind farm,"Oliver Wind III, LLC"
+60911,60911,IA,Cass,41.373,-94.754,Green Energy Machine,2016,WIND,1.7,,wind farm,"Green Energy Machine, LLC"
+60931,60931,NE,Adams,40.57,-98.334,CCC Hastings Wind Turbine,2016,WIND,1.7,,wind farm,"CCC Hastings Renewable Energy, LLC"
+60932,60932,NE,Platte,41.678,-97.386,Creston Ridge Wind Farm,2015,WIND,6.8,,wind farm,"Creston Ridge, LLC"
+60983,60983,TX,Erath,32.371306,-98.377389,Buckthorn Wind,2017,WIND,100.5,,wind farm,"Buckthorn Wind Project, LLC"
+60987,60987,TX,Reagan,31.181377,-101.318787,Santa Rita Wind Energy,2018,WIND,300.0,,wind farm,"BHE Renewables, LLC"
+60991,60991,NM,Lea,33.3596,-103.25058,Sterling I Wind Farm,2017,WIND,29.9,,wind farm,AEM Wind LLC
+60999,60999,KS,Lyon,38.475,-95.9655,Reading Wind Project,2020,WIND,200.1,,wind farm,Southern Power Co
+61001,61001,TX,Concho,31.112474,-100.028142,Cactus Flats Wind Energy Project,2018,WIND,148.4,,wind farm,Southern Power Co
+61002,61002,RI,Newport,41.612027,-71.249262,"WED Portsmouth One, LLC",2016,WIND,1.5,,wind farm,Greenbacker Renewable Energy Corporation
+61004,61004,OH,Putnam,41.002764,-84.033742,Whirlpool Corporation - Ottawa Wind Farm,2018,WIND,1.5,,wind farm,OEE XXIV LLC
+61005,61005,OH,Marion,40.591154,-83.178491,Whirlpool Corporation - Marion Wind Farm,2017,WIND,4.5,,wind farm,OEE XXIII LLC
+61032,61032,TX,McCulloch,31.242177,-99.421266,Heart of Texas Wind Project,2020,WIND,180.0,,wind farm,Scout Clean Energy LLC
+61039,61039,VT,Bennington,42.877215,-72.993721,Deerfield Wind LLC,2017,WIND,30.0,,wind farm,Avangrid Power LLC
+61040,61040,CO,Prowers,37.773,-102.546,Twin Buttes II Wind,2017,WIND,75.0,,wind farm,Avangrid Power LLC
+61041,61041,NY,Lewis,43.709597,-75.616219,"Roaring Brook, LLC",2021,WIND,79.7,,wind farm,Avangrid Power LLC
+61044,61044,NM,Torrance,34.81,-105.74,La Joya NM,2021,WIND,306.2,,wind farm,Avangrid Power LLC
+61046,61046,SD,Deuel,44.592,-96.576,Tatanka Ridge,2021,WIND,154.0,,wind farm,Tatanka Ridge LLC
+61047,61047,SD,Brookings,44.45,-96.55,Coyote Ridge,2019,WIND,97.4,,wind farm,Coyote Ridge LLC
+61056,61056,NE,Seward,40.895,-97.1951,Seward Wind Farm,2017,WIND,1.7,,wind farm,Seward Wind LLC
+61066,61066,CA,Los Angeles,34.691,-118.221,Foundation CDCR LAC,2017,WIND,1.9,,wind farm,"Foundation CA Fund VIII Manager, LLC"
+61067,61067,CA,Monterey,36.274508,-121.191589,Foundation Scheid Vineyards,2017,WIND,1.9,,wind farm,"Foundation CA Fund VIII Manager, LLC"
+61070,61070,IA,Howard,43.448855,-92.280725,Saratoga Wind Farm,2019,WIND,66.0,,wind farm,Madison Gas & Electric Co
+61077,61077,IA,Adair,41.202447,-94.417197,Orient Wind Farm,2018,WIND,500.8,,wind farm,MidAmerican Energy Co
+61079,61079,IA,Boone,42.106964,-94.164636,Beaver Creek Wind,2017,WIND,340.0,,wind farm,MidAmerican Energy Co
+61100,61100,ND,Burke,48.754492,-102.637766,"Burke Wind, LLC",2020,WIND,199.4,,wind farm,Burke Wind LLC
+61106,61106,MI,Isabella,43.524324,-84.696781,Pine River Wind Park,2019,WIND,161.3,,wind farm,DTE Electric Company
+61155,61155,MT,Sweet Grass,45.855428,-109.649167,Big Timber Wind Farm,2018,WIND,25.0,,wind farm,Consolidated Edison Development Inc.
+61161,61161,IL,Douglas,39.83188,-88.072302,Harvest Ridge Wind Farm,2020,WIND,202.0,,wind farm,Harvest Ridge Wind Farm
+61212,61212,TX,Mills,31.684511,-98.603358,Flat Top Wind I,2018,WIND,200.0,,wind farm,"BHE Renewables, LLC"
+61221,61221,OK,Grady,35.290759,-97.854,Redbed Plains Wind Farm,2017,WIND,99.1,,wind farm,Redbed Plains Wind Farm LLC
+61222,61222,CA,Alameda,37.769189,-121.630163,Golden Hills North Wind Energy Center,2017,WIND,46.0,,wind farm,"Golden Hills Interconnection Wind, LLC"
+61261,61261,OK,Kay,36.927165,-97.4271,Rock Falls Wind Farm LLC,2017,WIND,154.5,,wind farm,Public Service Co of Oklahoma
+61269,61269,OK,Noble,36.522,-97.145,Thunder Ranch Wind Project,2017,WIND,297.8,,wind farm,"Thunder Ranch Wind Project, LLC"
+61270,61270,OK,Kingfisher,36.051,-97.784,Red Dirt Wind Project,2017,WIND,299.3,,wind farm,"Red Dirt Wind Project, LLC"
+61303,61303,IN,Jay,40.319,-84.9769,Bluff Point Wind Facility,2017,WIND,119.7,,wind farm,"Bluff Point Wind, LLC"
+61330,61330,OH,Hardin,40.793073,-83.728714,Hog Creek Wind Project,2017,WIND,66.0,,wind farm,Hog Creek Wind Project LLC
+61343,61343,TX,San Patricio,28.170179,-97.817507,Karankawa Wind LLC,2019,WIND,307.1,,wind farm,Avangrid Power LLC
+61344,61344,IL,LaSalle,41.055385,-88.993862,Otter Creek Wind Farm LLC,2020,WIND,150.0,,wind farm,Avangrid Power LLC
+61356,61356,OH,Hancock,41.084329,-83.644131,Valfilm Wind Project,2018,WIND,3.0,,wind farm,OEE XXV LLC
+61357,61357,MN,Lincoln,44.478,-96.1538,Red Pine Wind Project,2017,WIND,200.0,,wind farm,"EDF Renewable Asset Holdings, Inc."
+61402,61402,TX,Foard,33.915315,-99.740278,Foard City Wind,2019,WIND,352.8,,wind farm,"Foard City Wind, LLC"
+61407,61407,NE,Webster,40.240168,-98.405956,Cottonwood Wind Energy Center,2017,WIND,89.7,,wind farm,Cottonwood Wind Project
+61417,61417,TX,Borden,32.875073,-101.208955,Gopher Creek Wind Farm,2019,WIND,158.0,,wind farm,Fluvanna Wind Energy LLC
+61442,61442,CA,Monterey,36.464,-121.382,Foundation California Training Facility,2018,WIND,1.8,,wind farm,"Foundation CA Fund IX Manager, LLC"
+61443,61443,CA,Monterey,36.504,-121.454,Foundation Mann Packing,2019,WIND,1.8,,wind farm,"Foundation CA Fund IX Manager, LLC"
+61444,61444,CA,Monterey,36.474,-121.371,Foundation SaIinas Valley State Prison,2018,WIND,1.8,,wind farm,"Foundation CA Fund IX Manager, LLC"
+61540,61540,KS,Ellis,38.874316,-99.405214,Fort Hays State University Wind Farm,2013,WIND,4.0,,wind farm,Fort Hays State University
+61564,61564,IA,Clay,43.207406,-95.349397,Upland Prairie,2019,WIND,299.3,,wind farm,Interstate Power and Light Co
+61565,61565,IA,Poweshiek,41.57,-92.40718,English Farms,2019,WIND,171.5,,wind farm,Interstate Power and Light Co
+61582,61582,CA,Kern,35.073377,-118.268616,Voyager Wind II,2018,WIND,128.7,,wind farm,Terra-Gen Operating Co-Wind
+61583,61583,CA,Kern,35.060768,-118.264734,Voyager Wind III,2018,WIND,43.2,,wind farm,Terra-Gen Operating Co-Wind
+61584,61584,CA,Kern,35.077872,-118.2497,Voyager Wind IV,2018,WIND,21.6,,wind farm,Terra-Gen Operating Co-Wind
+61589,61589,TX,Randall,34.966012,-101.78412,UL Advanced Wind Turbine Test Facility,2016,WIND,3.5,,wind farm,West Texas A&M University
+61609,61609,IA,Audubon,41.71138,-94.80199,"Heartland Divide Wind Project, LLC",2018,WIND,103.5,,wind farm,"Heartland Divide Wind Project, LLC"
+61638,61638,IA,Mitchell,43.429604,-92.839506,Turtle Creek Wind Farm LLC,2018,WIND,199.2,,wind farm,Turtle Creek Wind Farm LLC
+61644,61644,IA,Taylor,40.764914,-94.475628,August Wind Farm,2017,WIND,1.8,,wind farm,"August Wind Energy, LLC"
+61650,61650,MN,Lincoln,44.445293,-96.35276,Blazing Star 2 Wind Farm,2021,WIND,200.0,,wind farm,Northern States Power Co - Minnesota
+61660,61660,OH,Darke,40.131293,-84.609857,Whirlpool Corp-Greenville Wind Farm,2018,WIND,4.5,,wind farm,OEE XXVI LLC
+61668,61668,NE,Platte,41.677,-97.391,"Creston Ridge II, LLC",2017,WIND,6.9,,wind farm,"Creston Ridge II, LLC"
+61673,61673,NY,Chautauqua,42.414911,-79.242681,Arkwright Summit Wind Farm LLC,2018,WIND,78.4,,wind farm,Arkwright Summit Wind Farm LLC
+61674,61674,TX,Cochran,33.5296,-102.9619,Wildcat Ranch Wind Project,2018,WIND,150.0,,wind farm,"Wildcat Ranch Wind Project, LLC"
+61677,61677,NE,Fillmore,40.631872,-97.642708,Perennial Windfarm,2018,WIND,6.9,,wind farm,"Perennial Wind, LLC"
+61734,61734,NY,Erie,42.5809,-79.1027,Seneca Nation Cattaraugus Wind Turbine,2017,WIND,1.5,,wind farm,Seneca Nation
+61735,61735,IL,Logan,40.03,-89.381,Hilltopper Wind Project,2018,WIND,185.0,,wind farm,"Hilltopper Wind Project, LLC"
+61745,61745,SD,Aurora,43.730833,-98.764167,Aurora County Wind,2018,WIND,20.0,,wind farm,Consolidated Edison Development Inc.
+61746,61746,SD,Brule,43.717,-98.922,Brule County Wind,2018,WIND,20.0,,wind farm,Consolidated Edison Development Inc.
+61747,61747,ND,Dickey,46.098211,-98.880073,"Foxtail Wind, LLC",2020,WIND,150.0,,wind farm,"Foxtail Wind, LLC"
+61756,61756,IN,Benton,40.692552,-87.127011,Meadow Lake Wind Farm VI LLC,2018,WIND,200.4,,wind farm,Meadow Lake Wind Farm VI LLC
+61773,61773,TX,Cameron,26.288889,-97.496389,"Palmas Wind, LLC",2020,WIND,144.9,,wind farm,"Acciona Energy USA Global, LLC"
+61775,61775,MA,Berkshire,42.225765,-73.025764,Town of Otis Wind Energy Project,2018,WIND,1.5,,wind farm,Town of Otis
+61776,61776,TX,San Patricio,27.954976,-97.300202,"Midway Wind, LLC",2019,WIND,162.9,,wind farm,"Midway Wind, LLC"
+61782,61782,TX,Schleicher,31.048557,-100.623114,Live Oak Wind Project,2019,WIND,199.5,,wind farm,Engie North America
+61784,61784,NE,Antelope,42.184336,-97.964978,Upstream Wind Energy LLC,2018,WIND,202.5,,wind farm,Invenergy Services LLC
+61787,61787,IL,Henry,41.211057,-90.276024,Bishop Hill III,2018,WIND,119.0,,wind farm,Invenergy Services LLC
+61788,61788,MN,Pipestone,43.912882,-96.193221,Hilltop Power,2008,WIND,2.0,,wind farm,"Hilltop Power, LLC"
+61789,61789,KS,Marion,38.551,-97.193,"Diamond Vista Wind Project, LLC",2018,WIND,299.3,,wind farm,"Enel Green Power Diamond Vista Wind Project, LLC"
+61836,61836,OK,Canadian,35.381047,-98.269562,"Minco Wind IV, LLC",2018,WIND,130.0,,wind farm,"Minco Wind IV, LLC"
+61858,61858,MT,Stillwater,45.86584,-109.476647,"Stillwater Wind, LLC",2018,WIND,79.7,,wind farm,Pattern Operators LP
+61865,61865,TX,Starr,26.649,-99.0387,"Rio Bravo Windpower, LLC",2019,WIND,237.6,,wind farm,"Rio Bravo Windpower, LLC"
+61866,61866,OK,Pushmataha,34.591031,-95.191808,Wildhorse Mountain Wind Facility,2019,WIND,100.0,,wind farm,Southern Power Co
+61876,61876,OK,Woodward,36.174278,-99.349164,"Persimmon Creek Wind Farm 1, LLC",2018,WIND,198.6,,wind farm,"Evergy Kansas Central, Inc"
+61889,61889,NE,Wayne,42.3119,-97.3647,Sholes Wind Energy Center,2019,WIND,160.0,,wind farm,"Sholes Wind Energy Center, LLC"
+61911,61911,IA,Grundy,42.33327,-92.946436,Ivester Wind Farm,2018,WIND,90.8,,wind farm,MidAmerican Energy Co
+61916,61916,MI,Tuscola,43.452003,-83.50721,Pegasus Wind,2019,WIND,178.0,,wind farm,"Pegasus Wind, LLC"
+61921,61921,TX,Lynn,33.150904,-101.679188,Tahoka Wind,2018,WIND,300.0,,wind farm,"Tahoka Wind, LLC"
+61925,61925,NM,Quay,34.604989,-103.966089,Casa Mesa Wind Energy Center Hybrid,2018,WIND,50.9,,wind farm,"Casa Mesa Wind, LLC"
+61926,61926,OK,Garfield,36.300964,-97.567042,"Armadillo Flats Wind Project, LLC",2018,WIND,247.3,,wind farm,"Armadillo Flats Wind Project, LLC"
+61957,61957,KS,Pratt,37.55,-98.8,"Pratt Wind, LLC",2018,WIND,243.5,,wind farm,"Pratt Wind, LLC"
+61969,61969,TX,Webb,27.614411,-98.7945,"Torrecillas Wind Energy, LLC",2019,WIND,300.0,,wind farm,"Torrecillas Wind Energy, LLC"
+61970,61970,TX,Wilbarger,34.225882,-99.477986,Blue Summit II Wind,2019,WIND,99.4,,wind farm,"Blue Summit II Wind, LLC"
+61984,61984,KS,Thomas,39.306,-101.0744,"Solomon Forks Wind Project, LLC",2019,WIND,275.6,,wind farm,Engie North America
+61990,61990,IL,Champaign,40.089797,-88.243573,TAC-Distributed Energy Resource Hybrid,2017,WIND,0.1,,wind farm,Ameren Illinois
+62035,62035,IA,Cherokee,42.862,-95.772,Glaciers Edge Wind Project,2019,WIND,211.7,,wind farm,"EDF Renewable Asset Holdings, Inc."
+62038,62038,TX,Irion,31.207988,-101.110787,Santa Rita East,2019,WIND,302.4,,wind farm,Invenergy Services LLC
+62079,62079,IA,Franklin,42.774955,-93.418067,Whispering Willow North,2020,WIND,201.3,,wind farm,Interstate Power and Light Co
+62080,62080,IA,Sac,42.363152,-95.2263,Richland (IA),2020,WIND,130.9,,wind farm,Interstate Power and Light Co
+62081,62081,IA,Winnebago,43.430639,-94.016407,Golden Plains,2020,WIND,199.8,,wind farm,Interstate Power and Light Co
+62103,62103,IA,Kossuth,42.994681,-94.128733,Kossuth,2020,WIND,152.2,,wind farm,Wisconsin Power & Light Co
+62106,62106,RI,Providence,41.79785,-71.529736,"WED Green Hill, LLC",2019,WIND,3.0,,wind farm,"WED Green Hill, LLC"
+62107,62107,RI,Providence,41.794583,-71.539967,"WED Plainfield II, LLC",2019,WIND,3.0,,wind farm,"WED Plainfield II, LLC"
+62108,62108,RI,Providence,41.793519,-71.530622,"WED Plainfield III, LLC",2019,WIND,3.0,,wind farm,"WED Plainfield III, LLC"
+62109,62109,RI,Providence,41.796078,-71.535825,"WED Plainfield, LLC",2019,WIND,3.0,,wind farm,"WED Plainfield, LLC"
+62110,62110,RI,Providence,41.798456,-71.540656,"WED Shun I, LLC",2019,WIND,3.0,,wind farm,"WED Shun I, LLC"
+62111,62111,RI,Providence,41.800111,-71.536189,"WED Shun II, LLC",2019,WIND,3.0,,wind farm,"WED Shun II, LLC"
+62112,62112,RI,Providence,41.799078,-71.549331,"WED Shun III, LLC",2019,WIND,3.0,,wind farm,"WED Shun III, LLC"
+62113,62113,CA,Santa Barbara,34.579835,-120.56428,Strauss Wind Farm,2023,WIND,95.3,,wind farm,Strauss Wind LLC
+62130,62130,IA,Cass,41.370997,-94.753929,Roseman,2017,WIND,1.8,,wind farm,"Roseman Energy, LLC"
+62132,62132,IA,Adair,41.404231,-94.261358,Arbor Hill Wind Farm,2018,WIND,310.0,,wind farm,MidAmerican Energy Co
+62133,62133,IA,Poweshiek,41.642776,-92.499064,North English,2018,WIND,340.0,,wind farm,MidAmerican Energy Co
+62142,62142,TX,Fisher,32.96736,-100.56428,Amadeus Wind Farm,2020,WIND,250.0,,wind farm,Amadeus Wind LLC
+62161,62161,WI,Dane,43.101605,-89.331855,Galactic Wind,2012,WIND,9.9,,wind farm,Galactic Wind
+62172,62172,IA,Taylor,40.767636,-94.474375,Birch,2017,WIND,1.8,,wind farm,Birch Power LLC
+62207,62207,TX,Zapata,27.03028,-99.388388,Reloj del Sol Wind Farm,2021,WIND,209.4,,wind farm,Reloj del Sol Wind Farm LLC
+62220,62220,KS,Thomas,39.306,-101.0744,"East Fork Wind Project, LLC",2020,WIND,195.8,,wind farm,Engie North America
+62227,62227,TX,Baylor,33.57824,-99.1921,"Seymour Hills Wind Project, LLC",2019,WIND,30.2,,wind farm,Engie North America
+62247,62247,SD,Yankton,43.039,-97.526,Prevailing Wind Park,2020,WIND,220.0,,wind farm,AES Distributed Energy
+62258,62258,TX,Starr,26.523692,-98.745522,Mesteno,2019,WIND,201.6,,wind farm,Duke Energy Renewables Services
+62259,62259,TX,Crockett,30.594908,-101.453021,Ranchero Wind Farm LLC,2019,WIND,300.0,,wind farm,Ranchero Wind Farm LLC
+62269,62269,MN,Pipestone,44.104377,-96.126733,"Stoneray Power Partners, LLC",2019,WIND,100.0,,wind farm,"EDF Renewable Asset Holdings, Inc."
+62290,62290,MI,Gratiot,43.262611,-84.499838,Polaris Wind Park,2020,WIND,168.6,,wind farm,DTE Electric Company
+62291,62291,MN,Chippewa,44.857694,-95.568888,"Palmer's Creek Wind Farm, LLC",2018,WIND,44.6,,wind farm,"Palmer's Creek Wind Farm, LLC"
+62333,62333,NE,Polk,41.165278,-97.570194,"Polk County Renewables, LLC",2018,WIND,2.5,,wind farm,"Polk County Renewables, LLC"
+62356,62356,TX,Wilbarger,34.072251,-99.264676,Lockett Windfarm,2019,WIND,183.8,,wind farm,"Lockett Windfarm, LLC"
+62364,62364,MN,Nobles,43.789636,-95.852766,Nobles 2 Wind Project,2020,WIND,250.0,,wind farm,"Nobles 2 Power Partners, LLC"
+62380,62380,ND,Emmons,46.373013,-100.051111,"Emmons-Logan Wind, LLC",2019,WIND,200.0,,wind farm,"Emmons-Logan Wind, LLC"
+62411,62411,TX,Knox,33.609313,-99.58229,Griffin Trail Wind,2021,WIND,225.6,,wind farm,"Griffin Trail Wind, LLC"
+62416,62416,TX,Refugio,28.197778,-97.444953,Cranell Wind Farm LLC,2022,WIND,220.0,,wind farm,"Big Sky Wind, LLC"
+62417,62417,TX,Matagorda,28.8433,-95.8631,Peyton Creek Wind Farm LLC,2020,WIND,151.2,,wind farm,"Big Sky Wind, LLC"
+62431,62431,SD,Butte,44.825883,-103.207412,Willow Creek Wind Power LLC,2020,WIND,105.0,,wind farm,Willow Creek Wind Power LLC
+62442,62442,MN,Otter Tail,46.505052,-96.157281,"Lake Region Community Hybrid, LLC",2018,WIND,2.0,,wind farm,"Lake Region Community Hybrid, LLC"
+62445,62445,CO,Huerfano,37.766416,-104.42945,Busch Ranch II Wind Farm,2019,WIND,59.4,,wind farm,Black Hills Electric Generation LLC
+62475,62475,MO,Lawrence,37.269858,-94.05271,Kings Point Wind Energy Center,2021,WIND,149.4,,wind farm,Empire District Electric Co
+62478,62478,MO,Barton,37.38999,-94.51027,North Fork Ridge Wind Energy Center,2020,WIND,149.4,,wind farm,Empire District Electric Co
+62481,62481,KS,Neosho,37.485357,-95.37673,Neosho Ridge Wind Energy Center,2021,WIND,301.0,,wind farm,Empire District Electric Co
+62482,62482,WV,Greenbrier,38.112222,-80.613055,Beech Ridge II Wind Energy Center,2020,WIND,56.2,,wind farm,Southern Power Co
+62488,62488,KS,Allen,37.9788,-95.2244,Prairie Queen Wind Farm,2019,WIND,199.3,,wind farm,Prairie Queen Wind Farm LLC
+62489,62489,CO,Kit Carson,39.046623,-102.822377,Crossing Trails Wind Power Project LLC.,2021,WIND,104.0,,wind farm,EDP Renewables North America LLC
+62494,62494,OK,Garfield,36.521428,-98.03436,Skeleton Creek Energy Center Hybrid,2020,WIND,250.0,,wind farm,Skeleton Creek Energy Center
+62516,62516,WY,Carbon,42.177245,-106.234141,TB Flats,2021,WIND,503.2,,wind farm,PacifiCorp
+62562,62562,TX,Upton,31.171652,-101.881147,"High Lonesome Wind Power, LLC Hybrid",2023,WIND,499.5,,wind farm,"High Lonesome Wind Power, LLC"
+62563,62563,MO,Schuyler,40.398244,-92.518612,High Prairie Wind Farm,2020,WIND,400.0,,wind farm,Union Electric Co - (MO)
+62566,62566,TX,Hardeman,34.170488,-99.563436,Blue Summit III Wind,2019,WIND,200.2,,wind farm,"Blue Summit III Wind, LLC"
+62570,62570,MA,Berkshire,42.543748,-73.292632,Jiminy Peak Wind QF,2007,WIND,1.5,,wind farm,"Jiminy Peak Mountain Resort, LLC"
+62587,62587,TX,Nolan,32.255978,-100.320309,Mesquite Star,2020,WIND,418.9,,wind farm,Mesquite Star Special LLC
+62591,62591,WY,Carbon,41.932405,-106.35843,Ekola Flats,2020,WIND,250.9,,wind farm,PacifiCorp
+62592,62592,IN,Randolph,40.051694,-85.206694,Headwaters Wind Farm II LLC,2021,WIND,200.0,,wind farm,EDP Renewables North America LLC
+62606,62606,IL,Logan,39.929,-89.19,Whitney Hill Wind Power LLC,2020,WIND,65.0,,wind farm,Whitney Hill Wind Power LLC
+62618,62618,TX,Hidalgo,26.492862,-98.448267,Hidalgo Wind Farm II,2020,WIND,50.4,,wind farm,Hidalgo Wind Farm II LLC
+62620,62620,TX,Lynn,33.303497,-101.65722,Sage Draw Wind,2021,WIND,338.4,,wind farm,"Sage Draw Wind, LLC"
+62624,62624,MO,Nodaway,40.254993,-94.972184,"White Cloud Wind Project, LLC",2020,WIND,236.5,,wind farm,"White Cloud Wind Project, LLC"
+62630,62630,TX,Andrews,32.386,-102.949,Jumbo Hill Wind Project,2020,WIND,160.7,,wind farm,Engie North America
+62642,62642,TX,Lubbock,33.59145,-102.056875,GE-Lubbock,2014,WIND,8.7,,wind farm,GE Wind Energy LLC
+62653,62653,OH,Hancock,41.093078,-83.637778,Zephyr Wind Project - 2.0,2020,WIND,4.5,,wind farm,OEE XXX LLC
+62654,62654,CA,Monterey,36.459294,-121.350083,Foundation Dole Fresh Vegetables,2022,WIND,5.6,,wind farm,Foundation CA Fund X Manager LLC
+62711,62711,NE,Wayne,42.16159,-97.203789,Plum Creek Wind Project (NE),2020,WIND,230.0,,wind farm,"Plum Creek Wind, LLC"
+62715,62715,TX,Cooke,33.54915,-97.32958,Wildcat Creek Wind Farm LLC,2021,WIND,175.3,,wind farm,Wildcat Creek Wind Farm LLC
+62736,62736,NY,Wayne,43.22731,-77.364092,Harbec Energy,2001,WIND,1.2,,wind farm,Harbec Energy
+62745,62745,OR,Morrow,45.55975,-119.6338,Wheatridge Hybrid,2020,WIND,200.0,,wind farm,"Wheatridge Wind Holdings, LLC"
+62752,62752,OH,Paulding,41.192377,-84.61256,LafargeHolcim - Paulding Wind Project,2020,WIND,4.5,,wind farm,OEE XXVIII LLC
+62765,62765,TX,Knox,33.732181,-99.726392,El Campo Wind,2020,WIND,242.8,,wind farm,"El Campo Wind, LLC (Longroad)"
+62783,62783,TX,Bee,28.2078,-97.522673,Blackjack Creek Wind Farm,2023,WIND,239.6,,wind farm,"Big Sky Wind, LLC"
+62795,62795,IA,Ida,42.326854,-95.458818,Ida Grove II,2019,WIND,201.0,,wind farm,MidAmerican Energy Co
+62809,62809,TX,Callahan,32.28938,-99.291596,BMP Wind (TX),2021,WIND,340.0,,wind farm,BMP Wind LLC
+62815,62815,MI,Delta,45.683618,-86.645742,Fairbanks Wind Park,2022,WIND,72.8,,wind farm,DTE Electric Company
+62836,62836,TX,Nolan,32.199366,-100.491908,Maryneal Windpower,2021,WIND,182.4,,wind farm,Duke Energy Renewables Services
+62837,62837,OK,Kay,36.82478,-97.029777,Frontier Windpower II,2021,WIND,351.8,,wind farm,Duke Energy Renewables Services
+62840,62840,CO,Weld,40.960618,-104.003174,"Mountain Breeze Wind, LLC",2020,WIND,171.7,,wind farm,"Leeward Asset Management, LLC"
+62853,62853,TX,Concho,31.262546,-99.843961,Maverick Creek Wind,2022,WIND,491.6,,wind farm,Algonquin Power Co
+62855,62855,TX,Willacy,26.376651,-97.993045,West Raymond Wind Farm LLC,2021,WIND,239.8,,wind farm,"Big Sky Wind, LLC"
+62857,62857,ME,Oxford,44.6148,-70.6176,RoxWind,2021,WIND,15.3,,wind farm,RoxWind LLC
+62871,62871,OK,Woodward,36.546545,-99.357603,Boiling Springs Wind Farm,2020,WIND,148.4,,wind farm,"Big Sky Wind, LLC"
+62891,62891,IN,White,40.770899,-86.875007,Rosewater Wind Farm,2020,WIND,102.0,,wind farm,Rosewater Wind Farm LLC
+62897,62897,MA,Hampden,42.212535,-72.871262,Holiday Hill Community Wind,2019,WIND,5.0,,wind farm,Greenbacker Renewable Energy Corporation
+62909,62909,TX,Willacy,26.364153,-97.780439,"Raymond Wind Farm, LLC",2021,WIND,200.2,,wind farm,"Big Sky Wind, LLC"
+62935,62935,OR,Morrow,45.38,-119.3332,"Orchard Windfarm 1, LLC",2020,WIND,10.0,,wind farm,"Orchard Windfarm, LLC"
+62936,62936,WA,Adams,46.941015,-118.567136,Rattlesnake Flat,2020,WIND,144.0,,wind farm,"Rattlesnake Flat, LLC"
+62938,62938,ND,Morton,46.964077,-101.816495,Glen Ullin Energy Center,2019,WIND,106.7,,wind farm,ALLETE Clean Energy
+62939,62939,MT,Judith Basin,47.329911,-110.614592,South Peak Wind,2020,WIND,80.0,,wind farm,ALLETE Clean Energy
+62943,62943,SD,Deuel,44.863583,-96.534631,Deuel Harvest Wind Energy LLC,2021,WIND,300.0,,wind farm,Southern Power Co
+62944,62944,OH,Paulding,41.121,-84.751,Timber Road IV,2020,WIND,125.1,,wind farm,Paulding Wind Farm IV LLC
+62952,62952,CO,Cheyenne,39.016944,-102.2113,Cheyenne Ridge Wind Farm,2020,WIND,498.4,,wind farm,Public Service Co of Colorado
+62956,62956,NE,Antelope,42.062002,-98.238961,Thunderhead Wind Energy LLC,2022,WIND,300.0,,wind farm,Invenergy Services LLC
+63003,63003,IL,Henry,41.269197,-89.995022,Midland Wind,2023,WIND,105.5,,wind farm,Avangrid Power LLC
+63025,63025,MO,Nodaway,40.369799,-94.892014,Clear Creek Wind,2020,WIND,242.0,,wind farm,"Clear Creek Wind, LLC"
+63030,63030,TX,Deaf Smith,35.200164,-102.315517,"Canadian Breaks, LLC",2019,WIND,210.1,,wind farm,Canadian Breaks LLC
+63053,63053,IA,Palo Alto,43.206691,-94.548094,Palo Alto Wind Farm,2020,WIND,340.0,,wind farm,MidAmerican Energy Co
+63100,63100,TX,Limestone,31.549868,-96.904072,Prairie Hill Wind Project,2020,WIND,300.0,,wind farm,Engie North America
+63101,63101,TX,Zapata,26.69842,-99.05745,Las Lomas Wind Project,2020,WIND,201.6,,wind farm,Engie North America
+63102,63102,SD,Grant,45.267621,-97.103982,Dakota Range III Wind Project,2021,WIND,153.6,,wind farm,Engie North America
+63103,63103,SD,Hyde,44.40104,-99.603836,Triple H Wind Project,2020,WIND,250.2,,wind farm,Engie North America
+63104,63104,OK,Garfield,36.400148,-97.477464,King Plains Wind Project,2020,WIND,248.2,,wind farm,Engie North America
+63114,63114,AZ,Mohave,35.791142,-114.504504,Mohave County Wind Farm,2020,WIND,350.0,,wind farm,Mohave County Wind Farm
+63132,63132,ME,Hancock,44.722519,-68.163611,Weaver Wind,2020,WIND,72.6,,wind farm,"Weaver Wind, LLC (Longroad)"
+63133,63133,WY,Laramie,41.095126,-105.107423,Roundhouse Wind Energy Project,2020,WIND,226.0,,wind farm,"Roundhouse Renewable Energy, LLC"
+63205,63205,WA,Thurston,46.85074,-122.664447,Skookumchuck Wind Facility,2020,WIND,136.0,,wind farm,Southern Power Co
+63209,63209,TX,Coke,31.79261,-100.69729,Aviator Wind,2021,WIND,525.0,,wind farm,"Aviator Wind, LLC"
+63251,63251,IL,Bureau,41.203214,-89.601872,"Lone Tree Wind, LLC",2020,WIND,79.0,,wind farm,"Leeward Asset Management, LLC"
+63258,63258,ND,Williams,48.5,-103.1,Aurora Wind Project,2021,WIND,298.8,,wind farm,"Aurora Wind Project, LLC"
+63269,63269,SD,Codington,45.0054,-96.929945,Crowned Ridge Wind II Energy Center,2020,WIND,200.6,,wind farm,Northern States Power Co - Minnesota
+63287,63287,IA,Cerro Gordo,43.061204,-93.453642,Cerro Gordo Wind Farm,2020,WIND,42.0,,wind farm,Cerro Gordo Wind Farm
+63327,63327,OK,Johnston,34.487369,-96.780459,"Diamond Spring, LLC",2020,WIND,303.5,,wind farm,ALLETE Clean Energy
+63384,63384,IL,Marshall,40.96038,-89.085363,Bennington Wind,2021,WIND,93.0,,wind farm,Minonk Stewardship Wind LLC
+63389,63389,IN,Warren,40.381614,-87.399818,"Jordan Creek Wind Farm, LLC",2020,WIND,398.6,,wind farm,"Jordan Creek Wind Farm, LLC"
+63393,63393,NE,Cuming,42.019972,-96.861833,"Cuming County Renewables, LLC",2019,WIND,2.5,,wind farm,Cuming County Renewables. LLC
+63431,63431,MN,Jackson,43.6256,-95.3725,Cisco,2008,WIND,8.4,,wind farm,ALLETE Clean Energy
+63432,63432,MN,Lincoln,44.287778,-96.433333,Lincoln Heights I,2006,WIND,5.2,,wind farm,ALLETE Clean Energy
+63433,63433,MN,Lincoln,44.315537,-96.331677,Lincoln Heights II,2006,WIND,3.9,,wind farm,ALLETE Clean Energy
+63436,63436,WY,Laramie,41.1133,-104.984011,Corriedale Wind Energy,2020,WIND,52.5,,wind farm,Black Hills Service Company LLC
+63460,63460,MN,Rock,43.641928,-96.262481,"Rock County Wind Fuel, LLC",2020,WIND,5.0,,wind farm,"Rock County Wind Fuel, LLC"
+63479,63479,OK,Custer,35.710953,-98.834712,"Traverse Wind Project, LLC",2022,WIND,999.0,,wind farm,Southwestern Electric Power Co
+63482,63482,CA,Kern,35.080833,-118.361389,Point Wind,2021,WIND,64.5,,wind farm,Terra-Gen Operating Co-Wind
+63489,63489,OK,Woods,36.5597,-98.7492,"Sundance Wind Project, LLC",2021,WIND,199.0,,wind farm,Public Service Co of Oklahoma
+63494,63494,OK,Major,36.293919,-98.164671,"Maverick Wind Project, LLC",2021,WIND,288.0,,wind farm,Public Service Co of Oklahoma
+63502,63502,NM,Lea,32.9323,-103.6664,Oso Grande Wind Farm,2021,WIND,249.8,,wind farm,Tucson Electric Power Co
+63521,63521,IA,Cerro Gordo,43.140697,-93.098483,CED Mason City Wind,2020,WIND,7.5,,wind farm,Consolidated Edison Development Inc.
+63574,63574,MO,Atchison,40.531283,-95.354881,Atchison County Wind,2021,WIND,299.0,,wind farm,Union Electric Co - (MO)
+63578,63578,NM,Roosevelt,33.938421,-103.184611,Sagamore Wind,2020,WIND,522.0,,wind farm,Southwestern Public Service Co
+63590,63590,OK,Beaver,36.555532,-100.668949,Ponderosa Wind Energy Center,2020,WIND,200.0,,wind farm,"Ponderosa Wind, LLC"
+63601,63601,MI,Isabella,43.684092,-84.788455,Isabella Wind Park,2021,WIND,383.5,,wind farm,DTE Electric Company
+63624,63624,TX,Cameron,26.249888,-97.511842,"La Chalupa, LLC",2021,WIND,198.5,,wind farm,"Acciona Energy USA Global, LLC"
+63639,63639,IA,Taylor,40.667406,-94.831625,Contrail Wind Farm,2020,WIND,112.4,,wind farm,MidAmerican Energy Co
+63640,63640,IA,Union,41.1113,-94.4667,Southern Hills Wind Farm,2021,WIND,254.1,,wind farm,MidAmerican Energy Co
+63641,63641,IA,Iowa,41.6744,-92.1642,Diamond Trail Wind Farm,2020,WIND,252.5,,wind farm,MidAmerican Energy Co
+63655,63655,TX,Scurry,32.84879,-100.866458,Coyote Wind LLC,2021,WIND,242.5,,wind farm,"EDF Renewable Asset Holdings, Inc."
+63666,63666,IN,Jay,40.360533,-85.113149,"Bitter Ridge Wind Farm, LLC",2020,WIND,130.0,,wind farm,"Bitter Ridge Wind Farm, LLC"
+63686,63686,MI,Hillsdale,41.935,-84.477,Crescent Wind Park,2021,WIND,150.0,,wind farm,Consumers Energy Co - (MI)
+63687,63687,MI,Montcalm,43.1695,-84.8653,Gratiot Farms Wind Project,2020,WIND,150.0,,wind farm,Consumers Energy Co - (MI)
+63689,63689,MN,Red Lake,47.869258,-96.318964,Red Lake Falls Community Hybrid,2020,WIND,4.6,,wind farm,Consolidated Edison Development Inc.
+63710,63710,OR,Sherman,45.562715,-120.708464,Golden Hill Wind,2022,WIND,201.3,,wind farm,Avangrid Power LLC
+63738,63738,TX,Bee,28.621959,-97.937625,Helena Wind,2022,WIND,268.2,,wind farm,"Helena Wind, LLC"
+63739,63739,TX,Willacy,26.364843,-97.545341,Las Majadas Wind Farm,2021,WIND,272.6,,wind farm,"Las Majadas Wind Farm, LLC"
+63803,63803,CO,Kit Carson,39.088845,-103.025074,"Bronco Plains Wind, LLC",2020,WIND,300.0,,wind farm,"Bronco Plains Wind, LLC"
+63914,63914,WY,Converse,43.019714,-105.472139,Cedar Springs I,2020,WIND,200.0,,wind farm,"Cedar Springs Wind, LLC"
+63915,63915,WY,Converse,42.969007,-105.365616,Cedar Springs II,2020,WIND,200.0,,wind farm,PacifiCorp
+63916,63916,WY,Converse,43.076692,-105.584352,Cedar Springs III,2020,WIND,133.0,,wind farm,"Cedar Springs Wind III, LLC"
+63941,63941,CA,Kern,35.059166,-118.291944,Oasis Alta,2021,WIND,14.4,,wind farm,Terra-Gen Operating Co-Wind
+63981,63981,NM,Lincoln,34.274062,-105.42291,Red Cloud Wind LLC,2021,WIND,350.0,,wind farm,Pattern Operators LP
+63988,63988,IL,Livingston,40.661079,-88.395079,Blooming Grove Wind Energy Center,2020,WIND,250.0,,wind farm,Invenergy Services LLC
+64003,64003,KS,Ford,37.64875,-99.98094,Iron Star Wind Project,2021,WIND,297.6,,wind farm,Engie North America
+64047,64047,OK,Caddo,34.985072,-98.383823,Caddo Wind,2022,WIND,303.2,,wind farm,ALLETE Clean Energy
+64051,64051,OR,Morrow,45.38,-119.3332,"Orchard Windfarm 2, LLC",2020,WIND,10.0,,wind farm,"Orchard Windfarm, LLC"
+64052,64052,OR,Morrow,45.38,-119.3332,"Orchard Windfarm 3, LLC",2020,WIND,10.0,,wind farm,"Orchard Windfarm, LLC"
+64053,64053,OR,Morrow,45.38,-119.33322,"Orchard Windfarm 4, LLC",2020,WIND,10.0,,wind farm,"Orchard Windfarm, LLC"
+64054,64054,NM,Torrance,34.35655,-105.43676,Clines Corners Wind Farm LLC,2021,WIND,325.0,,wind farm,Pattern Operators LP
+64057,64057,OR,Morrow,45.55975,-119.6338,Wheatridge 1,2020,WIND,100.0,,wind farm,Portland General Electric Co
+64065,64065,NM,Lincoln,34.390679,-105.492126,Duran Mesa LLC,2021,WIND,105.0,,wind farm,Pattern Operators LP
+64066,64066,NM,Lincoln,34.36,-105.44,Tecolote Wind LLC,2021,WIND,272.0,,wind farm,Pattern Operators LP
+64074,64074,KS,Clark,37.371,-99.994,Cimarron Bend III,2020,WIND,198.8,,wind farm,"Enel Kansas, LLC"
+64088,64088,IL,DeWitt,40.1972,-89.067655,"Alta Farms II Wind Project, LLC",2023,WIND,200.5,,wind farm,"Alta Farms II Wind Project, LLC"
+64130,64130,MN,Freeborn,43.582,-93.305,"REG Juhl Glenville Wind, LLC",2020,WIND,2.5,,wind farm,"REG Juhl Glenville Wind, LLC"
+64138,64138,KS,Marshall,39.699456,-96.425143,Irish Creek Wind,2021,WIND,300.6,,wind farm,"Irish Creek Wind, LLC"
+64139,64139,NE,Wayne,42.26303,-97.19566,"Haystack Wind Project, LLC",2022,WIND,298.0,,wind farm,"Haystack Wind Project, LLC"
+64149,64149,TX,Wilbarger,33.85245,-99.06509,"Western Trail Wind, LLC",2022,WIND,366.6,,wind farm,Orsted Onshore North America
+64164,64164,TX,Throckmorton,33.169139,-99.266006,"Azure Sky Wind Project, LLC Hybrid",2024,WIND,350.2,,wind farm,"Azure Sky Wind Project, LLC"
+64165,64165,TX,Mills,31.5481,-98.49491,Priddy Wind Project,2022,WIND,302.4,,wind farm,Engie North America
+64172,64172,OK,Murray,34.419553,-97.285448,"Rockhaven Wind Project, LLC",2021,WIND,140.0,,wind farm,"Rockhaven Wind Project, LLC"
+64177,64177,IA,Delaware,42.469289,-91.473933,CED Manchester Wind,2022,WIND,7.9,,wind farm,Consolidated Edison Development Inc.
+64178,64178,IA,Appanoose,40.70991,-92.84835,CED Centerville Wind,2021,WIND,7.9,,wind farm,Consolidated Edison Development Inc.
+64183,64183,IA,Delaware,42.431604,-91.568638,Independence Wind Farm,2021,WIND,55.4,,wind farm,Independence Wind Energy LLC
+64230,64230,IN,White,40.6631,-86.8695,Indiana Crossroads Wind Farm LLC,2021,WIND,302.4,,wind farm,Indiana Crossroads Wind Farms LLC
+64309,64309,KS,Nemaha,39.6572,-96.0294,Soldier Creek Wind,2020,WIND,300.0,,wind farm,Soldier Creek Wind LLC
+64323,64323,CA,Riverside,33.9077,-116.5797,Coachella Hills Wind,2021,WIND,61.2,,wind farm,Terra-Gen Operating Co-Wind
+64326,64326,CA,Alameda,37.761151,-121.69067,Summit Winds,2021,WIND,57.5,,wind farm,Greenbacker Renewable Energy Corporation
+64332,64332,MT,Yellowstone,46.10265,-108.806609,Two Dot Wind Broadview East LLC,2018,WIND,1.8,,wind farm,Two Dot Wind Broadview East LLC
+64336,64336,NE,Webster,40.284421,-98.407586,"Little Blue Wind Project, LLC",2021,WIND,250.7,,wind farm,"Little Blue Wind Project, LLC"
+64339,64339,OK,Logan,35.989377,-97.589513,Horizon Hill Wind Project,2024,WIND,201.5,,wind farm,"Horizon Hill Wind, LLC"
+64340,64340,OK,Caddo,34.96684,-98.25689,White Rock West Wind Project,2023,WIND,99.5,,wind farm,"White Rock Wind West, LLC"
+64341,64341,OK,Caddo,34.97427,-98.185161,White Rock East Wind Project,2024,WIND,201.5,,wind farm,"White Rock Wind East, LLC"
+64377,64377,NE,Saline,40.478624,-97.220567,Milligan 1 Wind Farm,2020,WIND,300.0,,wind farm,"Milligan 1 Wind, LLC"
+64381,64381,IL,Mason,40.261377,-89.700876,"Glacier Sands Wind Power, LLC",2021,WIND,185.0,,wind farm,"Glacier Sands Wind Power, LLC"
+64407,64407,KS,Kingman,37.446969,-98.400225,Flat Ridge 3,2021,WIND,128.0,,wind farm,Invenergy Services LLC
+64433,64433,WV,Mineral,39.366803,-79.108263,Black Rock Wind,2022,WIND,115.0,,wind farm,"Black Rock Wind Force, LLC"
+64544,64544,TX,Callahan,32.308524,-99.164198,Ranchland Wind Project II,2024,WIND,148.0,,wind farm,"Ranchland Wind Project II, LLC"
+64551,64551,TX,Callahan,32.308524,-99.164498,Ranchland Wind Project I,2024,WIND,114.9,,wind farm,"Ranchland Wind Project I, LLC"
+64591,64591,TX,San Patricio,27.992706,-97.743983,"El Algodon Alto Wind Farm, LLC",2022,WIND,200.2,,wind farm,"El Algodon Alto Wind Farm, LLC"
+64623,64623,MN,Freeborn,43.513056,-93.188617,Freeborn Wind Farm,2021,WIND,218.0,,wind farm,Northern States Power Co - Minnesota
+64638,64638,NM,Catron,34.159842,-108.894458,"Borderlands Wind, LLC",2021,WIND,100.0,,wind farm,"Borderlands Wind, LLC"
+64639,64639,TX,Knox,33.746323,-99.665516,TG East,2022,WIND,336.0,,wind farm,TG East Wind Project LLC
+64661,64661,IA,Audubon,41.720323,-94.928422,Heartland Divide II,2022,WIND,200.0,,wind farm,Heartland Divide II
+64662,64662,IA,Sac,42.421154,-94.995083,"Sac County Wind, LLC",2021,WIND,80.0,,wind farm,Sac County Wind
+64665,64665,TX,Hansford,36.3075,-101.53222,Great Prairie Wind,2022,WIND,1027.0,,wind farm,Great Prairie Wind LLC
+64688,64688,IA,Plymouth,42.842969,-95.941257,Plymouth Wind,2022,WIND,202.7,,wind farm,MidAmerican Energy Co
+64710,64710,TX,Crockett,30.91,-101.263,White Mesa Wind,2021,WIND,500.6,,wind farm,"White Mesa Wind, LLC"
+64750,64750,OK,Murray,34.514165,-96.915909,Glass Sands Wind Facility,2021,WIND,117.0,,wind farm,Southern Power Co
+64872,64872,CO,Weld,40.952057,-103.907562,"Panorama Wind, LLC",2022,WIND,145.0,,wind farm,"Leeward Asset Management, LLC"
+65048,65048,TX,Limestone,31.77471,-96.828196,Hubbard Wind,2021,WIND,300.0,,wind farm,Hubbard Wind LLC
+65059,65059,CO,Logan,40.613364,-102.9526,"Niyol Wind, LLC",2021,WIND,205.6,,wind farm,"Niyol Wind, LLC"
+65129,65129,KS,Crawford,37.704461,-95.029817,Jayhawk Wind Energy Center,2022,WIND,197.4,,wind farm,Invenergy Services LLC
+65143,65143,MI,Huron,43.919558,-82.794428,Big Turtle Wind Farm 2,2016,WIND,29.4,,wind farm,DTE Electric Company
+65162,65162,TX,Sterling,31.729906,-101.29894,Lacy Creek Wind Energy Center,2022,WIND,301.3,,wind farm,"Lacy Creek Wind, LLC"
+65282,65282,WI,Grant,42.951448,-90.4407,Red Barn Energy,2023,WIND,91.6,,wind farm,Wisconsin Public Service Corp
+65306,65306,TX,Navarro,31.85346,-96.624458,Limestone Wind Project,2022,WIND,299.2,,wind farm,"Limestone Wind Project, LLC"
+65311,65311,ID,Bingham,43.327609,-112.057718,"Cedar Creek Wind, LLC",2024,WIND,160.0,,wind farm,"Cedar Creek Wind, LLC"
+65316,65316,IL,DeWitt,40.2945,-88.584553,Sapphire Sky Wind Energy LLC,2023,WIND,259.8,,wind farm,Invenergy Services LLC
+65328,65328,MI,Gratiot,43.461967,-84.33982,Meridian Wind Park,2023,WIND,225.0,,wind farm,DTE Electric Company
+65335,65335,TX,Upton,31.157269,-101.831603,Appaloosa Run Wind,2022,WIND,171.8,,wind farm,"Appaloosa Run Wind, LLC"
+65350,65350,IL,Ford,40.556285,-88.349491,Ford County Wind Farm LLC,2022,WIND,121.3,,wind farm,Ford Ridge
+65390,65390,IA,Kossuth,43.430082,-94.106954,"Ledyard Windpower, LLC",2022,WIND,207.0,,wind farm,Duke Energy Renewables Services
+65403,65403,WY,Albany,41.919,-105.869,Boswell Wind,2024,WIND,329.8,,wind farm,"Boswell Wind, LLC"
+65478,65478,RI,Providence,41.789486,-71.384771,"Green Providence Wind I, LLC",2021,WIND,1.5,,wind farm,"Green Providence Wind I, LLC"
+65479,65479,RI,Providence,41.786045,-71.385542,"Green Providence Wind II, LLC",2021,WIND,3.0,,wind farm,"Green Providence Wind II, LLC"
+65484,65484,KS,Gove,39.122,-100.733,Western Plains Wind,2021,WIND,2.7,,wind farm,"Western Plains Wind, LLC"
+65495,65495,NY,Chautauqua,42.265261,-79.072522,"Ball Hill Wind Energy, LLC",2023,WIND,107.5,,wind farm,"Ball Hill Wind Energy, LLC"
+65496,65496,NY,Broome,42.111758,-75.457779,"Bluestone Wind, LLC",2023,WIND,111.8,,wind farm,"Bluestone Wind, LLC"
+65511,65511,OK,Ellis,36.487,-99.739,25 Mile Creek,2023,WIND,250.0,,wind farm,"Enel Green Power NA, Inc."
+65522,65522,NY,Lewis,43.839599,-75.569885,Number Three Wind Project,2023,WIND,106.0,,wind farm,Invenergy Services LLC
+65546,65546,TX,Haskell,33.186882,-99.595332,Inertia Wind Project,2023,WIND,301.0,,wind farm,"Inertia Wind Project, LLC"
+65561,65561,NY,Suffolk,41.09,-71.13,South Fork Wind,2024,WIND-OFFSHORE,130.0,,wind farm,Orsted Wind Power North America LLC
+65577,65577,MT,Rosebud,46.81771,-106.378853,Clearwater Wind I,2022,WIND,365.5,,wind farm,Clearwater Energy Resources LLC
+65713,65713,MN,Murray,44.022721,-96.052322,Rock Aetna Power Partners,2022,WIND,20.0,,wind farm,Northern States Power Co - Minnesota
+65714,65714,MN,Murray,44.011,-96.0446,Northern Wind,2023,WIND,100.0,,wind farm,Northern States Power Co - Minnesota
+65715,65715,IA,Hamilton,42.214126,-93.876685,Great Pathfinder Wind,2023,WIND,224.4,,wind farm,Great Pathfinder Wind
+65725,65725,IA,Kossuth,42.986667,-94.133611,Kossuth County Wind,2022,WIND,70.0,,wind farm,"Kossuth County Wind, LLC"
+65737,65737,OR,Umatilla,45.90676,-118.4973,Schumann Wind Farm,2022,WIND,8.0,,wind farm,"Chopin Wind, LLC"
+65738,65738,KS,Marion,38.23161,-97.04718,"Sunflower Energy Center, LLC",2023,WIND,200.6,,wind farm,"Sunflower Energy Center, LLC"
+65741,65741,PA,Blair,40.745335,-78.222305,"Sandy Ridge Wind 2, LLC",2023,WIND,87.6,,wind farm,Algonquin Power Co
+65742,65742,MI,Huron,43.928665,-82.873511,Deerfield Wind Energy 2,2023,WIND,112.1,,wind farm,"Deerfield Wind Energy 2, LLC"
+65761,65761,MN,Lincoln,44.423056,-96.297222,Buffalo Ridge Wind,2022,WIND,106.0,,wind farm,"Buffalo Ridge Wind, LLC"
+65763,65763,TX,Young,33.119213,-98.852577,Young Wind,2022,WIND,500.0,,wind farm,"Young Wind, LLC"
+65764,65764,MN,Rock,43.638056,-96.390556,Walleye Wind,2022,WIND,110.0,,wind farm,"Walleye Wind, LLC"
+65790,65790,TX,Mills,31.39376,-98.35936,Castle Gap Wind,2023,WIND,196.8,,wind farm,"Castle Gap Wind Power, LLC"
+65971,65971,OK,Washita,35.218328,-99.103992,"Seven Cowboy Wind Project, LLC",2023,WIND,301.7,,wind farm,"Seven Cowboy Wind Project, LLC"
+66000,66000,MS,Coahoma,34.469231,-90.392699,Delta Wind Farm (MS),2024,WIND,184.5,,wind farm,AES Clean Energy
+66001,66001,AZ,Coconino,34.681496,-110.801732,Chevelon Butte Wind Farm,2023,WIND,238.2,,wind farm,AES Clean Energy
+66014,66014,CO,Kit Carson,39.184,-102.97,"Bronco Plains Wind II, LLC",2023,WIND,200.0,,wind farm,"Bronco Plains Wind II, LLC"
+66052,66052,NY,Steuben,42.101642,-77.701111,Eight Point Wind,2023,WIND,101.2,,wind farm,"Eight Point Wind, LLC"
+66093,66093,IL,Mason,40.170889,-89.895111,Moraine Sands Wind Power,2023,WIND,171.0,,wind farm,"Moraine Sands Wind Power, LLC"
+66110,66110,AZ,Coconino,35.627731,-111.867942,Babbitt Ranch Energy Center,2024,WIND,163.0,,wind farm,"Babbitt Ranch Energy Center, LLC"
+66155,66155,OK,Beaver,36.589452,-100.803735,Ponderosa Wind II,2024,WIND,100.0,,wind farm,"Ponderosa Wind II, LLC"
+66156,66156,KS,Republic,39.815978,-97.431043,High Banks Wind,2023,WIND,643.4,,wind farm,"High Banks Wind, LLC"
+66183,66183,MT,Custer,46.789608,-106.002086,Clearwater Wind East,2024,WIND,207.9,,wind farm,"Clearwater Wind East, LLC"
+66184,66184,MT,Rosebud,46.818828,-106.194583,Clearwater Wind II,2023,WIND,102.8,,wind farm,"Clearwater Wind II, LLC"
+66192,66192,MI,Gratiot,43.213889,-84.633056,Heartland Farms,2024,WIND,200.0,,wind farm,Consumers Energy Co - (MI)
+66195,66195,NE,Franklin,40.313772,-98.960279,"SPPW1, LLC",2022,WIND,5.6,,wind farm,"SPPW1, LLC"
+66261,66261,OH,Sandusky,41.466,-83.367,Martin Marietta Wind Project,2023,WIND,4.5,,wind farm,OEE XXXIII LLC
+66283,66283,ME,Penobscot,44.7821,-68.5201,Silver Maple,2022,WIND,20.0,,wind farm,WEB Silver Maple Wind LLC
+66321,66321,TX,Haskell,33.268,-99.468,"King Creek Wind Farm 1, LLC",2022,WIND,184.0,,wind farm,"King Creek Wind Farm 1, LLC"
+66323,66323,TX,Throckmorton,33.182414,-99.389888,"King Creek Wind Farm 2, LLC",2022,WIND,209.0,,wind farm,"King Creek Wind Farm 2, LLC"
+66496,66496,SD,Hand,44.386814,-98.801075,"Sweetland Wind Farm, LLC",2023,WIND,200.0,,wind farm,"Sweetland Wind Farm, LLC"
+66531,66531,TX,Midland,31.7983,-101.9043,Pioneer Hutt Wind Energy,2024,WIND,140.0,,wind farm,"Pioneer Hutt Wind Energy, LLC"
+66540,66540,TX,Crockett,30.936,-101.607,Shamrock Wind,2023,WIND,223.9,,wind farm,Shamrock Wind LLC
+66568,66568,IL,Lee,41.666523,-89.059804,Shady Oaks Wind 2,2023,WIND,108.3,,wind farm,"Shady Oaks Wind 2, LLC"
+66668,66668,IA,Chickasaw,43.14014,-92.32443,Chickasaw Wind Farm,2023,WIND,202.4,,wind farm,MidAmerican Energy Co
+66811,66811,MT,Rosebud,46.818828,-106.194583,Clearwater Wind III,2024,WIND,100.0,,wind farm,"Clearwater Wind III, LLC"
+66861,66861,IN,White,40.779357,-87.042107,Indiana Crossroads Wind Farm II,2024,WIND,201.6,,wind farm,Indiana Crossroads Wind Farm II LLC
+66902,66902,TX,Eastland,32.437418,-99.108907,Roadrunner Wind Farm,2024,WIND,256.0,,wind farm,"Roadrunner Crossing Wind Farm, LLC"
+66952,66952,IA,Adams,41.121034,-94.605133,Prescott Wind Farm,2024,WIND,38.7,,wind farm,Prescott Wind Energy LLC
+67002,67002,SD,Hyde,44.377333,-99.6601,"North Bend Wind Project, LLC",2023,WIND,200.0,,wind farm,"North Bend Wind Project, LLC"
+67026,67026,WY,Laramie,41.054692,-104.995383,Roundhouse Renewable Energy II,2023,WIND,105.7,,wind farm,"Roundhouse Renewable Energy II, LLC"
+67160,67160,CO,Baca,37.21444,-102.3933,Springfield Wind,2004,WIND,1.5,,wind farm,Arkansas River Power Authority
+67176,67176,AZ,Coconino,34.6821,-110.803,Chevelon Butte Phase 2,2024,WIND,216.0,,wind farm,AES Clean Energy
+67193,67193,WY,Natrona,43.146077,-106.347251,Anticline Wind,2024,WIND,124.3,,wind farm,"Anticline Wind, LLC"
+67247,67247,CA,Riverside,33.9461,-116.6769,Mesa Wind Repower,2024,WIND,30.0,,wind farm,Mesa Wind Repower
+67425,67425,TX,Eastland,32.428686,-99.159114,"Century Oak Wind Project, LLC",2024,WIND,151.5,,wind farm,"Century Oak Wind Project, LLC"
+67502,67502,ND,Oliver,47.124272,-101.61236,Oliver Wind IV,2024,WIND,198.8,,wind farm,"Oliver Wind IV, LLC"
+67601,67601,TX,Baylor,33.719262,-99.023013,Diversion Wind Energy LLC,2024,WIND,200.6,,wind farm,Southwestern Electric Power Co
+67910,67910,NC,Chowan,36.151863,-76.60104,"Timbermill Wind, LLC",2024,WIND,189.0,,wind farm,Timbermill Wind
+67916,67916,WY,Carbon,41.6283,-106.2013,Foote Creek Rim,2024,WIND,134.8,,wind farm,PacifiCorp
+68318,68318,SD,Grant,45.223652,-97.023144,Dakota Range Wind,2022,WIND,304.0,,wind farm,Northern States Power Co - Minnesota
+68844,68844,CA,Kern,35.035989,-118.340011,CalPortland Company Mojave Wind,2024,WIND,23.5,,wind farm,CalPortland Company
+69003,69003,MN,Murray,43.960767,-95.979189,Windshare LLC,2006,WIND,5.4,,wind farm,Greenbacker Renewable Energy Corporation

@@ -1,0 +1,824 @@
+case_id,eia_id,p_state,p_county,ylat,xlong,p_name,p_year,p_tech_pri,p_cap_ac,p_cap_dc,p_type,utility_name,source
+repd-2479,2479,Scotland,Offshore,57.507463,-1.442575,Hywind Scotland Pilot Park (Hywind 2) Demonstrator,2017,WIND-OFFSHORE,30.0,,wind farm,Statoil,REPD
+repd-2485,2485,Scotland,Offshore,58.252812,-2.888431,Beatrice Demonstrator,2007,WIND-OFFSHORE,10.0,,wind farm,Talisman Energy,REPD
+repd-2487,2487,England,Offshore,53.488183,-3.184923,Burbo Bank,2007,WIND-OFFSHORE,90.0,,wind farm,Orsted (formerly Dong Energy),REPD
+repd-2488,2488,England,Offshore,51.703009,1.191906,Gunfleet Sands - (Demo) Extension,2013,WIND-OFFSHORE,12.0,,wind farm,Orsted (formerly Dong Energy),REPD
+repd-2489,2489,England,Offshore,51.727189,1.245925,Gunfleet Sands II�,2009,WIND-OFFSHORE,64.8,,wind farm,Orsted (formerly Dong Energy),REPD
+repd-2490,2490,England,Offshore,51.730818,1.218012,Gunfleet Sands Offshore Wind Scheme,2009,WIND-OFFSHORE,108.0,,wind farm,Orsted (formerly Dong Energy),REPD
+repd-2491,2491,England,Offshore,53.187967,0.446519,Inner Dowsing�,2008,WIND-OFFSHORE,97.2,,wind farm,XceCo,REPD
+repd-2492,2492,England,Offshore,51.460612,1.093817,Kentish Flats�,2005,WIND-OFFSHORE,90.0,,wind farm,Vattenfall,REPD
+repd-2493,2493,England,Offshore,53.135634,0.451527,Lynn,2008,WIND-OFFSHORE,97.2,,wind farm,XceCo,REPD
+repd-2494,2494,Wales,Offshore,53.417246,-3.448573,North Hoyle�,2003,WIND-OFFSHORE,60.0,,wind farm,Greencoat (formerly Npower Renewables),REPD
+repd-2495,2495,Wales,Offshore,53.377587,-3.640151,Rhyl Flats�,2009,WIND-OFFSHORE,90.0,,wind farm,RWE Npower,REPD
+repd-2496,2496,Scotland,Offshore,54.764194,-3.695519,Robin Rigg East,2010,WIND-OFFSHORE,84.0,,wind farm,E.ON UK,REPD
+repd-2497,2497,Scotland,Offshore,54.747305,-3.729306,Robin Rigg West,2009,WIND-OFFSHORE,90.0,,wind farm,E.ON UK,REPD
+repd-2498,2498,England,Offshore,52.643946,1.788903,Scroby Sands�,2004,WIND-OFFSHORE,60.0,,wind farm,E.ON UK,REPD
+repd-2499,2499,England,Offshore,51.429932,1.633411,Thanet�,2010,WIND-OFFSHORE,300.0,,wind farm,Vattenfall,REPD
+repd-2500,2500,England,Offshore,54.039449,-3.515789,Walney�1,2011,WIND-OFFSHORE,183.6,,wind farm,Orsted (formerly Dong Energy),REPD
+repd-2502,2502,England,Offshore,53.959998,1.539986,Hornsea 2 - Optimus and Breesea,2022,WIND-OFFSHORE,1320.0,,wind farm,Orsted (formerly Dong Energy),REPD
+repd-2504,2504,England,Offshore,51.449994,1.079999,Kentish Flats 2,2015,WIND-OFFSHORE,49.5,,wind farm,Vattenfall,REPD
+repd-2505,2505,Scotland,Offshore,57.1462,-2.072812,European Offshore Wind Deployment Centre (EOWDC) (Aberdeen Bay - Demonstration site),2018,WIND-OFFSHORE,96.8,,wind farm,Vattenfall,REPD
+repd-2506,2506,England,Offshore,54.080736,-3.608967,Walney�2,2012,WIND-OFFSHORE,183.6,,wind farm,Orsted (formerly Dong Energy),REPD
+repd-2509,2509,England,Offshore,54.088872,-3.43859,Ormonde Offshore,2012,WIND-OFFSHORE,150.0,,wind farm,Vattenfall,REPD
+repd-2510,2510,England,Offshore,51.917645,1.92842,Greater Gabbard Wind Farm,2012,WIND-OFFSHORE,504.0,,wind farm,Airtricity / Fluor Ltd,REPD
+repd-2511,2511,England,Offshore,51.621679,1.495832,London Array�Phase 1,2013,WIND-OFFSHORE,630.0,,wind farm,Siemens Gamesa Renewable Energy,REPD
+repd-2512,2512,England,Offshore,53.135319,1.147922,Sheringham Shoal�,2012,WIND-OFFSHORE,317.0,,wind farm,Equinor,REPD
+repd-2513,2513,England,Offshore,53.184172,0.498077,Centrica (Lincs),2013,WIND-OFFSHORE,270.0,,wind farm,�rsted,REPD
+repd-2514,2514,England,Offshore,54.645296,-1.095464,Teeside Offshore Wind Farm,2013,WIND-OFFSHORE,62.0,,wind farm,EDF Energy - Northern Offshore Windfarm Ltd,REPD
+repd-2515,2515,England,Offshore,53.135974,0.589174,Race Bank (Phase 1),2017,WIND-OFFSHORE,289.8,,wind farm,Orsted (formerly Dong Energy)/ Macquarie Group,REPD
+repd-2519,2519,England,Offshore,53.98515,-3.462007,West of Duddon Sands,2014,WIND-OFFSHORE,389.0,,wind farm,Scottish Power Renewables & Orsted (formerly Dong Energy),REPD
+repd-2520,2520,England,Offshore,50.639994,-0.180003,Rampion Offshore Wind Farm (Hastings Zone),2017,WIND-OFFSHORE,400.0,,wind farm,E.ON UK,REPD
+repd-2521,2521,Scotland,Offshore,58.088229,-2.950157,Beatrice,2019,WIND-OFFSHORE,588.0,,wind farm,Scottish & Southern Energy (SSE) / Repsol / CIP,REPD
+repd-2522,2522,Scotland,Offshore,56.27,-2.250001,Neart na Gaoithe,2025,WIND-OFFSHORE,450.0,,wind farm,EDF Renewables Power,REPD
+repd-2523,2523,England,Offshore,55.166953,-1.36436,Blyth Offshore�Wind Test Site,2017,WIND-OFFSHORE,41.5,,wind farm,EDF Energy Renewables,REPD
+repd-2525,2525,England,Offshore,53.681542,1.42074,Hornsea 1 - Heron & Njord,2019,WIND-OFFSHORE,1218.0,,wind farm,Orsted (formerly Dong Energy),REPD
+repd-2528,2528,Scotland,Offshore,56.160694,-2.957962,Levenmouth demonstration turbine (Fife Energy Park),2014,WIND-OFFSHORE,7.0,,wind farm,Catapult,REPD
+repd-2532,2532,England,Offshore,53.212272,0.861639,Triton Knoll�,2022,WIND-OFFSHORE,857.0,,wind farm,Innogy,REPD
+repd-2533,2533,England,Offshore,54.089995,-3.740011,Walney 3,2018,WIND-OFFSHORE,659.0,,wind farm,Orsted (formerly Dong Energy),REPD
+repd-2534,2534,Scotland,Offshore,57.967325,-2.790537,Moray East,2022,WIND-OFFSHORE,950.0,,wind farm,"Diamond Green Limited, CTG & Ocean Winds",REPD
+repd-2538,2538,England,Offshore,53.11746,0.613468,Dudgeon East�,2017,WIND-OFFSHORE,402.0,,wind farm,Statoil / Statkraft,REPD
+repd-2539,2539,England,Offshore,53.479992,-3.27,Burbo Bank Extension (Burbo Bank 2),2017,WIND-OFFSHORE,258.0,,wind farm,Orsted (formerly Dong Energy),REPD
+repd-2540,2540,Scotland,Offshore,56.635512,-1.926621,Seagreen,2023,WIND-OFFSHORE,1075.0,,wind farm,SSE / Seagreen Wind Energy Ltd,REPD
+repd-2543,2543,Wales,Offshore,53.454003,-3.626649,Gwynt y Mor�,2015,WIND-OFFSHORE,576.0,,wind farm,RWE,REPD
+repd-2544,2544,England,Offshore,53.387463,0.500644,Humber Gateway A,2015,WIND-OFFSHORE,219.0,,wind farm,E.ON Humber Wind Ltd/ Balfour Beatty Investments and Equitix.,REPD
+repd-2545,2545,England,Offshore,53.09773,0.561481,Westermost Rough A,2015,WIND-OFFSHORE,210.0,,wind farm,Orsted (formerly Dong Energy),REPD
+repd-2546,2546,England,Offshore,53.991462,-3.298284,Barrow�,2006,WIND-OFFSHORE,90.0,,wind farm,Orsted (formerly Dong Energy),REPD
+repd-2555,2555,England,Norfolk,52.709894,1.654462,South Beach Wind Turbine (Somerton),2000,WIND,1.5,,wind farm,Ecotricity,REPD
+repd-2556,2556,England,Norfolk,52.656729,0.683267,Swaffham 1 - Ecotech Wind Park,1999,WIND,1.5,,wind farm,LRZ Ltd (Taken over by NOVERA),REPD
+repd-2559,2559,Wales,Dyfed,52.466297,-3.971001,Mynydd Gorddu Wind Farm,1998,WIND,10.2,,wind farm,Cynllun Trydan Gwynt,REPD
+repd-2563,2563,Wales,Dyfed,52.405028,-3.750691,Cefn Croes Wind Farm,2005,WIND,58.5,,wind farm,"Renewable Development Company Ltd, KENTECH Ltd",REPD
+repd-2564,2564,Wales,Powys,52.549433,-3.608163,Carno 'B' Wind Farm,1996,WIND,16.8,,wind farm,RWE npower,REPD
+repd-2565,2565,Wales,Powys,52.542306,-3.579191,Carno 'A' Wind Farm,1996,WIND,16.8,,wind farm,RWE npower,REPD
+repd-2566,2566,Wales,Powys,52.657911,-3.672068,Cemmaes 'B' Wind Farm,2002,WIND,3.4,,wind farm,Vestas,REPD
+repd-2567,2567,Wales,Gwynedd,53.37476,-4.346466,Trysglwyn Wind Farm,1996,WIND,5.6,,wind farm,RWE npower,REPD
+repd-2568,2568,Wales,Clwyd,52.996202,-3.588256,Hafoty Ucha '2' and '3' Wind Turbine,2002,WIND,2.6,,wind farm,Private Developer,REPD
+repd-2574,2574,England,Merseyside,53.465214,-3.03931,Royal Seaforth Dock Wind Farm,1999,WIND,3.0,,wind farm,Mersey Docks and Harbour Company and Windcluster Limited,REPD
+repd-2576,2576,Wales,Powys,52.639897,-3.674336,Cemmaes 'C' Wind Farm,2002,WIND,15.3,,wind farm,Vestas,REPD
+repd-2582,2582,Wales,Gwynedd,53.354376,-4.465566,Llanbabo Wind Farm,1997,WIND,20.4,,wind farm,MANWEB Generation Holdings,REPD
+repd-2586,2586,England,County Durham,54.763804,-1.8228,Tow Law Wind Farm,2001,WIND,2.6,,wind farm,RWE npower,REPD
+repd-2587,2587,England,Northumberland,55.086539,-1.989004,Kirkheaton Wind Farm,2000,WIND,1.8,,wind farm,Border Wind Farms Ltd /AMEC,REPD
+repd-2591,2591,England,Tyne and Wear,54.827285,-1.427158,Great Eppleton Wind Farm,1997,WIND,3.0,,wind farm,Border Windfarm Limited / AMEC,REPD
+repd-2613,2613,England,Cumbria,54.870632,-3.07204,Great Orton Wind Farm (Extension),2000,WIND,2.3,,wind farm,Great Orton Wind Farms (II) Ltd,REPD
+repd-2617,2617,England,Cumbria,54.20488,-3.146715,Harlock Hill Wind Farm,1997,WIND,2.5,,wind farm,The Wind Company,REPD
+repd-2618,2618,England,Cumbria,54.723081,-3.274645,Wharrels Hill Wind Farm,2007,WIND,10.4,,wind farm,Wharrels Hill Windfarm Ltd/ National Windpower,REPD
+repd-2624,2624,England,Cumbria,54.674125,-3.542956,Siddick Wind Farm,1996,WIND,4.2,,wind farm,Windprospect / Windcluster,REPD
+repd-2625,2625,England,Cumbria,54.659574,-3.556357,Oldside Wind Farm,1996,WIND,5.4,,wind farm,Windprospect / Windcluster,REPD
+repd-2626,2626,England,Cumbria,54.203954,-3.324533,Haverigg Extension Wind Farm,1998,WIND,2.4,,wind farm,The Wind Company,REPD
+repd-2630,2630,Wales,Dyfed,51.997111,-4.441253,Blaen Bowi Wind Farm,2002,WIND,3.9,,wind farm,WINDJEN POWER LTD,REPD
+repd-2636,2636,Wales,Dyfed,51.75693,-4.529708,Parc-Cynog Wind Farm,2001,WIND,3.6,,wind farm,Micon Wind Turbines (UK) Limited,REPD
+repd-2653,2653,Wales,Gwynedd,53.136342,-3.724976,Moel Maelogen A,2003,WIND,2.6,,wind farm,John Laing Environmental Assets Group,REPD
+repd-2659,2659,England,Humberside,53.668854,0.099446,Out Newton Wind Farm,2002,WIND,9.0,,wind farm,Powergen Renewables Developments Ltd,REPD
+repd-2672,2672,Scotland,Borders,55.866598,-2.287907,Brockholes Wind Cluster,2013,WIND,2.4,,wind farm,Brockholes Farm,REPD
+repd-2673,2673,Scotland,Highland,57.992386,-3.978663,Kilbraur Windfarm Farlary - Extension,2011,WIND,20.0,,wind farm,Falck Renewables,REPD
+repd-2674,2674,Wales,West Glamorgan,51.736476,-3.659554,Maesgwyn,2011,WIND,26.0,,wind farm,Pennant Wind Energy Ventures,REPD
+repd-2680,2680,England,South Yorkshire,53.536754,-1.692163,Spicer Hill Wind Farm,2013,WIND,6.9,,wind farm,J G Pears Limited,REPD
+repd-2683,2683,England,London,51.528679,0.150449,Ford Motor Company Ltd (Extension),2011,WIND,2.0,,wind farm,Unknown,REPD
+repd-2687,2687,Scotland,Fife,56.056442,-3.446595,FMC Technologies,2011,WIND,1.5,,wind farm,FMC Technologies,REPD
+repd-2691,2691,Scotland,Grampian,57.660665,-2.65182,Boyndie Airfield Extension,2010,WIND,2.3,,wind farm,Boyndie Wind Farm,REPD
+repd-2694,2694,England,Essex,51.86309,1.004215,Blue Gates Farm,2010,WIND,1.5,,wind farm,M H Leyland Ltd,REPD
+repd-2695,2695,England,Humberside,53.676967,-1.084133,Celcon Blocks Ltd,2016,WIND,2.0,,wind farm,Ecotricity / Next Generation,REPD
+repd-2697,2697,Scotland,Orkney Islands,59.095737,-3.072661,Hammar's Hill,2010,WIND,4.3,,wind farm,Hammers Hill Energy Ltd,REPD
+repd-2704,2704,Scotland,Fife,56.05398,-3.444335,"F M C Land, Pitreavie Business Park",2011,WIND,1.5,,wind farm,FMC Corp UK Ltd,REPD
+repd-2708,2708,Scotland,Grampian,57.626167,-2.58113,Strath of Brydock - Extension,2009,WIND,2.3,,wind farm,Green Cat Renewables,REPD
+repd-2711,2711,Scotland,Strathclyde,55.362804,-4.126283,Hare Hill (East Ayrshire),2000,WIND,13.2,,wind farm,Scottish Power Renewables,REPD
+repd-2713,2713,England,Cumbria,54.257491,-3.135725,Kirkby Moor,1993,WIND,4.8,,wind farm,Npower Renewables,REPD
+repd-2715,2715,England,Lincolnshire,53.321284,0.238425,Bambers II,2006,WIND,4.6,,wind farm,Ecotricity Limited,REPD
+repd-2723,2723,Scotland,Highland,57.155227,-4.883641,Millennium Extension II,2011,WIND,15.0,,wind farm,West Coast Energy Ltd/Falck Renewables,REPD
+repd-2724,2724,Scotland,Grampian,57.315278,-2.813708,Cairnmore Farm,2010,WIND,2.6,,wind farm,Private Developer,REPD
+repd-2741,2741,Scotland,Grampian,57.571979,-1.911111,St Fergus Moss Wind Farm,2012,WIND,6.0,,wind farm,Greenspan Electric St Fergus Ltd,REPD
+repd-2742,2742,Scotland,Orkney Islands,58.826968,-3.123092,"West Hill, Flotta",2010,WIND,2.0,,wind farm,Scotrenewables (Scotland) Ltd,REPD
+repd-2747,2747,England,North Yorkshire,53.962432,-1.914154,Chelker Reservoir (Retention of Turbines),2004,WIND,1.2,,wind farm,Yorkshire Water,REPD
+repd-2757,2757,Scotland,Strathclyde,55.639428,-4.31763,Whitelee Windfarm Extension phase 2,2013,WIND,109.0,,wind farm,Scottish Power,REPD
+repd-2758,2758,Scotland,Grampian,57.47237,-2.241041,Hill of Balquhindachy extension,2010,WIND,1.7,,wind farm,Private Developer,REPD
+repd-2776,2776,Wales,Mid Glamorgan,51.569388,-3.464813,Taff Ely Wind Farm,1993,WIND,9.0,,wind farm,Npower Renewables,REPD
+repd-2780,2780,Scotland,Fife,56.090521,-3.317699,Mossmorran Wind Farm,2015,WIND,4.6,,wind farm,Airvolution Energy,REPD
+repd-2782,2782,Scotland,Grampian,57.391981,-2.260958,Courtstone Wind Turbine,2009,WIND,2.3,,wind farm,Private Developer,REPD
+repd-2796,2796,Scotland,Highland,58.00273,-4.3487,Lairg Wind Farm,2012,WIND,7.5,,wind farm,ABO Wind,REPD
+repd-2804,2804,Wales,South Glamorgan,51.506662,-3.104215,G24 Innovations Turbine,2011,WIND,2.3,,wind farm,G24 Innovations Limited,REPD
+repd-2822,2822,Scotland,Grampian,57.659859,-2.646158,Mornflake Oats Wind Turbine,2012,WIND,2.3,,wind farm,Mornflake Oats/ Hamlyns Oats,REPD
+repd-2830,2830,Northern Ireland,Co. Antrim,54.687922,-6.0196,Wind Turbine 1,2011,WIND,2.3,,wind farm,Brett Martin Ltd,REPD
+repd-2839,2839,Scotland,Grampian,56.933476,-2.290609,Clochnahill Wind Farm,2012,WIND,5.2,,wind farm,Private Developer,REPD
+repd-2866,2866,Northern Ireland,Co. Antrim,54.879502,-6.233153,Ballymena Wind Park Limited,2013,WIND,4.7,,wind farm,White Young Green Planning,REPD
+repd-2867,2867,Scotland,Grampian,56.89355,-2.272424,St John Hill,2013,WIND,7.7,,wind farm,Auquhirie Land Company Ltd,REPD
+repd-2873,2873,Wales,Powys,52.419559,-3.59427,Bryn Blaen Wind Farm,2019,WIND,13.8,,wind farm,Njord Energy,REPD
+repd-2875,2875,England,Cambridgeshire,52.571339,0.121478,MARCH SEWAGE TREATMENT WORKS - WIND TURBINE,2012,WIND,2.0,,wind farm,TCI Renewables,REPD
+repd-2888,2888,Northern Ireland,Co. Derry / Londonderry,54.899112,-6.869209,Brockaghboy Wind Farm - extension,2017,WIND,10.0,,wind farm,Greencoat,REPD
+repd-2902,2902,Scotland,Clackmannanshire,56.209111,-3.772785,Burnfoot Hill,2010,WIND,26.0,,wind farm,EDF Energies Nouvelles,REPD
+repd-2921,2921,England,North Yorkshire,53.962432,-1.914154,Chelker Reservoir,1992,WIND,1.3,,wind farm,Yorkshire Water,REPD
+repd-2922,2922,Scotland,Grampian,57.626167,-2.58113,Strath of Brydock,2009,WIND,4.6,,wind farm,Green Cat Renewables,REPD
+repd-2923,2923,Scotland,Grampian,57.621927,-2.042509,House O'Hill,2010,WIND,5.0,,wind farm,Green Cat Renewables,REPD
+repd-2927,2927,Northern Ireland,Co. Tyrone,54.806554,-7.334086,Owenreagh Extension,2008,WIND,5.1,,wind farm,EF Energy,REPD
+repd-2928,2928,England,Humberside,53.627705,-0.667198,Bagmoor,2009,WIND,16.0,,wind farm,Munich Re (previously Wind Prospect),REPD
+repd-2932,2932,England,Humberside,53.682332,-1.007208,Croda Chemicals Europe,2008,WIND,3.0,,wind farm,Croda Chemicals,REPD
+repd-2935,2935,England,Cumbria,54.671151,-3.540129,"Eastman Chemicals, Workington",2006,WIND,4.0,,wind farm,Unknown,REPD
+repd-2938,2938,England,Nottinghamshire,53.117504,-1.151602,Lindhurst Wind Farm,2010,WIND,15.0,,wind farm,Npower Renewables,REPD
+repd-2940,2940,Scotland,Stirling,56.054259,-4.049665,Craigengelt,2010,WIND,20.0,,wind farm,Scotia Wind Ltd,REPD
+repd-2942,2942,England,Humberside,53.74439,-0.236486,Saltend Wind Turbine,2007,WIND,1.3,,wind farm,Yorkshire Water,REPD
+repd-2943,2943,England,Humberside,53.756789,-0.937654,Loftsome Bridge,2008,WIND,1.3,,wind farm,Yorkshire Water,REPD
+repd-2944,2944,England,Tyne and Wear,54.913886,-1.48076,Nissan Wind Farm,2005,WIND,4.0,,wind farm,Nissan Manufacturing UK,REPD
+repd-2950,2950,Wales,Dyfed,51.759181,-4.533746,Parc Cynog Extension,2009,WIND,8.4,,wind farm,Nuon,REPD
+repd-2952,2952,England,Cambridgeshire,52.512668,0.031375,Ranson Moor (phase 1),2007,WIND,6.0,,wind farm,Fenpower Limited,REPD
+repd-2953,2953,England,Cambridgeshire,52.510588,0.037321,Ranson Moor Wind Farm (Phase 2),2007,WIND,4.0,,wind farm,EcoGen Projects / Fenpower,REPD
+repd-2955,2955,England,County Durham,54.763792,-1.81503,West Durham Wind Farm,2009,WIND,24.0,,wind farm,ESBI,REPD
+repd-2956,2956,Wales,Dyfed,51.911181,-4.590719,Dyffryn Brodyn Wind Farm,1994,WIND,5.5,,wind farm,Renewable Energy Systems (RES),REPD
+repd-2965,2965,Scotland,Grampian,57.587639,-2.009101,North Red Bog,2008,WIND,1.6,,wind farm,Green Cat Renewables,REPD
+repd-2968,2968,England,Buckinghamshire,52.132794,-0.686544,Milton Keynes Wind Farm,2010,WIND,14.0,,wind farm,Gravis Capital Management,REPD
+repd-2983,2983,England,County Durham,54.750218,-1.760716,Broom Hill Farm,2009,WIND,8.0,,wind farm,EDF Energy,REPD
+repd-2986,2986,England,Cumbria,54.642349,-3.496812,Winscales Moor,2009,WIND,6.0,,wind farm,Gravis Capital Management,REPD
+repd-2988,2988,England,Suffolk,52.414794,1.702834,Wind Farm Africa Alive,2011,WIND,4.1,,wind farm,SLP Energy,REPD
+repd-2991,2991,Scotland,Highland,57.788225,-4.248151,Beinn Tharsuinn Extension (Beinn nan Oighrean),2009,WIND,4.6,,wind farm,Midefearn Renewables,REPD
+repd-2999,2999,Scotland,Grampian,57.426621,-2.325199,St John's Well,2009,WIND,2.4,,wind farm,Green Cat Renewables,REPD
+repd-3002,3002,England,Cumbria,54.853283,-3.34752,Hellrigg Wind farm,2011,WIND,9.2,,wind farm,Npower Renewables,REPD
+repd-3015,3015,Wales,Powys,52.367165,-3.565592,Bryn titli Windfarm,1994,WIND,9.9,,wind farm,Innogy,REPD
+repd-3019,3019,England,Cornwall,50.637751,-4.705306,Delabole (Repowering),2011,WIND,9.2,,wind farm,Good Energy Generation,REPD
+repd-3021,3021,England,Cambridgeshire,52.557963,-0.17193,Whittlesey,2008,WIND,9.0,,wind farm,REG Windpower (previously Cornwall Light and Power),REPD
+repd-3028,3028,England,South Yorkshire,53.387571,-1.377869,Advanced Manufacturing Research Centre,2009,WIND,2.6,,wind farm,Unknown,REPD
+repd-3034,3034,Wales,Gwent,51.566581,-2.962616,Solutia UK Ltd,2009,WIND,5.0,,wind farm,Solutia / Vestas,REPD
+repd-3050,3050,England,County Durham,54.787512,-1.431219,High Haswell Wind Farm,2011,WIND,4.0,,wind farm,Hallam Land Management,REPD
+repd-3057,3057,Wales,Powys,52.442104,-3.430831,Llandinam Windfarm,1993,WIND,31.0,,wind farm,CELTPOWER LTD,REPD
+repd-3061,3061,England,Cornwall,50.050362,-5.200213,Goonhilly Downs Wind Farm Repower,2010,WIND,12.0,,wind farm,REG Windpower (previously  Cornwall Light & Power),REPD
+repd-3068,3068,England,Northumberland,55.103496,-1.622166,MSD Cramlington,2011,WIND,4.0,,wind farm,Unknown,REPD
+repd-3075,3075,Scotland,Grampian,57.420826,-2.189754,Skelmonae Wind Farm,2009,WIND,3.2,,wind farm,Private Developer,REPD
+repd-3077,3077,England,Cornwall,50.179906,-5.187462,Carn Vean,2008,WIND,10.0,,wind farm,Unknown,REPD
+repd-3078,3078,England,Lancashire,53.888256,-2.78595,Dewlay Cheese Wind Turbine,2010,WIND,2.0,,wind farm,Dewlay Cheese Company,REPD
+repd-3079,3079,England,Lancashire,53.749662,-2.149984,Coal Clough Wind Farm,1993,WIND,9.6,,wind farm,Renewable Energy Systems (RES),REPD
+repd-3090,3090,Scotland,Strathclyde,55.691858,-4.279044,Myres Hill,2001,WIND,1.8,,wind farm,National Energy Laboratories (NEL),REPD
+repd-3092,3092,England,County Durham,54.840327,-1.337535,High Sharpley Wind Farm,2006,WIND,2.6,,wind farm,REG Windpower (previously Cornwall Light & Power),REPD
+repd-3093,3093,Scotland,Strathclyde,55.69068,-4.284385,National Wind Turbine Test Site,2001,WIND,4.7,,wind farm,NEL,REPD
+repd-3096,3096,England,Kent,50.963823,0.822737,Little Cheyne Court Wind Farm,2009,WIND,59.8,,wind farm,RWE npower,REPD
+repd-3097,3097,Northern Ireland,Co. Tyrone,54.703951,-7.440459,Bessy Bell Wind Farm,1995,WIND,5.0,,wind farm,"Colham Energy Ltd, plus Airtricty extrension",REPD
+repd-3101,3101,England,Cambridgeshire,52.573098,0.089303,Long Hill Road,2005,WIND,2.0,,wind farm,Snow Mountain Investment Ltd,REPD
+repd-3103,3103,Northern Ireland,Co. Antrim,55.043563,-6.287311,Corkey Wind Farm,1994,WIND,5.0,,wind farm,B9 Energy Services Ltd/ ScottishPower Renewables,REPD
+repd-3105,3105,England,Suffolk,52.480418,1.761016,Ness point Wind Turbine 1,2004,WIND,2.3,,wind farm,SLP Energy,REPD
+repd-3106,3106,Northern Ireland,Co. Antrim,54.738933,-6.118967,Elliot's Hill Wind Farm,1995,WIND,5.0,,wind farm,B9 Energy Services Ltd/ ScottishPower Renewables,REPD
+repd-3108,3108,Scotland,Highland,58.44347,-3.085423,Causeymire,2004,WIND,48.3,,wind farm,Innogy (formerly RWE npower),REPD
+repd-3109,3109,Scotland,Strathclyde,55.256823,-4.731907,Hadyard Hill,2006,WIND,120.0,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-3110,3110,England,County Durham,54.761581,-1.415109,Hare Hill (B),2004,WIND,2.7,,wind farm,Powergen,REPD
+repd-3112,3112,Northern Ireland,Co. Derry / Londonderry,55.021854,-6.819826,Rigged Hill Wind Farm,1994,WIND,5.0,,wind farm,B9 Energy Services Ltd/ ScottishPower Renewables,REPD
+repd-3113,3113,Northern Ireland,Co. Tyrone,54.641364,-7.605366,Bin Mountain,2007,WIND,9.0,,wind farm,Greencoat UK Wind,REPD
+repd-3114,3114,Scotland,Borders,55.88295,-2.507506,Crystal Rig Phase 1,2004,WIND,62.5,,wind farm,Fred Olsen Renewables,REPD
+repd-3116,3116,Scotland,Strathclyde,55.762189,-3.762567,Black Law,2004,WIND,124.0,,wind farm,Scottish Power Renewables,REPD
+repd-3117,3117,Scotland,Strathclyde,55.6439,-4.806141,Ardrossan,2003,WIND,24.0,,wind farm,Airtricity,REPD
+repd-3118,3118,Northern Ireland,Co. Tyrone,54.809684,-7.339019,Owenreagh Wind Farm,1997,WIND,5.0,,wind farm,EF Energy,REPD
+repd-3119,3119,Scotland,Stirling,56.269829,-4.058937,Braes O'Doune,2006,WIND,72.0,,wind farm,Greencoat UK Wind,REPD
+repd-3120,3120,Scotland,Orkney Islands,59.113109,-3.143828,Thorfinn Wind Farm - NM1500,2000,WIND,1.5,,wind farm,Vestas,REPD
+repd-3122,3122,Northern Ireland,Co. Fermanagh,54.190281,-7.6284,Slieve Rushen Phase 1 Wind Farm,1995,WIND,5.0,,wind farm,Sean Quinn Group,REPD
+repd-3126,3126,Scotland,Highland,58.299937,-3.443354,Boulfruich,2005,WIND,13.0,,wind farm,Private Developer,REPD
+repd-3128,3128,England,Lincolnshire,52.937945,-0.217815,Bicker Fen,2008,WIND,26.7,,wind farm,Wind Prospect,REPD
+repd-3129,3129,England,Cambridgeshire,52.569769,0.123291,Stags Holt,2007,WIND,18.0,,wind farm,Powergen / Wind Prospects,REPD
+repd-3130,3130,Northern Ireland,Co. Fermanagh,54.547136,-7.69558,Tappaghan,2005,WIND,19.5,,wind farm,Greencoat UK Wind,REPD
+repd-3132,3132,England,Cambridgeshire,52.518561,-0.108803,Glass Moor,2005,WIND,16.0,,wind farm,Fenland Windfarms Ltd,REPD
+repd-3133,3133,England,Lincolnshire,52.836168,0.106778,Gedney Marsh,2008,WIND,12.0,,wind farm,Wind Prospect,REPD
+repd-3135,3135,Scotland,Highland,57.429808,-6.458341,Ben Aketil,2007,WIND,23.0,,wind farm,RDC Scotland (Renewable Development Co.),REPD
+repd-3147,3147,England,North Yorkshire,53.999036,-1.649575,Knabs Ridge Windfarm,2008,WIND,16.0,,wind farm,RWE npower,REPD
+repd-3149,3149,Scotland,Strathclyde,55.756261,-4.80624,Kelburn,2012,WIND,28.0,,wind farm,Renewable Energy Systems (RES),REPD
+repd-3155,3155,England,Cambridgeshire,52.446888,-0.106297,Ramsey 1,2008,WIND,1.8,,wind farm,REG Windpower,REPD
+repd-3157,3157,England,Lincolnshire,53.321284,0.238425,Bambers Farm,2004,WIND,9.6,,wind farm,Ecotricity,REPD
+repd-3158,3158,England,London,51.51869,0.150829,Ford Wind Park - Dagenham,2004,WIND,5.9,,wind farm,Ecotricity,REPD
+repd-3159,3159,England,Norfolk,52.657682,0.700702,Swaffham Plashes II,2003,WIND,1.8,,wind farm,Ecotricity,REPD
+repd-3161,3161,England,Somerset,51.254369,-2.58344,Shooters Bottom Wind Park,2008,WIND,2.0,,wind farm,Ecotricity,REPD
+repd-3168,3168,Northern Ireland,Co. Tyrone,54.705036,-7.426539,Bessy Bell Extension,2008,WIND,9.0,,wind farm,Bessy Bell Windfarm,REPD
+repd-3171,3171,England,Lancashire,54.069821,-2.654016,Caton Moor Windfarm Repowering,2006,WIND,16.0,,wind farm,Hainsford Energy,REPD
+repd-3172,3172,Wales,Gwynedd,53.136342,-3.724976,Moel Maelogen A Phase 2,2008,WIND,11.7,,wind farm,John Laing Environmental Assets Group,REPD
+repd-3177,3177,England,Lancashire,53.668977,-2.267859,Scout Moor Windfarm,2008,WIND,65.0,,wind farm,Munich Re (previously Peel),REPD
+repd-3179,3179,England,Hereford and Worcester,52.128976,-2.318412,The Haven,2003,WIND,1.2,,wind farm,Private Developer,REPD
+repd-3186,3186,England,Lincolnshire,53.143019,0.241106,The Hollies,2008,WIND,2.6,,wind farm,National Wind Power,REPD
+repd-3190,3190,Scotland,Grampian,56.96391,-2.210758,Tullo Farm,2010,WIND,17.5,,wind farm,West Coast Energy (agents for Tullo Wind Ltd and GE Wind),REPD
+repd-3191,3191,Northern Ireland,Co. Antrim,55.001758,-6.564868,Garves Mountain Farm,2009,WIND,15.0,,wind farm,Gravis Capital Management,REPD
+repd-3194,3194,England,Avon,51.514206,-2.705702,Avonmouth Port,2007,WIND,6.0,,wind farm,Bristol Port Authority,REPD
+repd-3200,3200,Scotland,Grampian,57.451104,-2.691512,Dummuie,2007,WIND,12.3,,wind farm,Tetro Energy Ltd (ECO2),REPD
+repd-3201,3201,Scotland,Stirling,56.070806,-4.095514,Earlsburn,2007,WIND,37.5,,wind farm,Falck Renewables,REPD
+repd-3202,3202,Scotland,Highland,58.040402,-4.058805,Kilbraur Windfarm,2008,WIND,47.5,,wind farm,Renewable Development Company (RDC),REPD
+repd-3205,3205,Scotland,Highland,58.001948,-4.500008,Achany Wind Farm,2010,WIND,38.0,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-3207,3207,Scotland,Highland,58.448835,-3.249833,Bilbster Wind Farm,2008,WIND,3.9,,wind farm,Private Developer,REPD
+repd-3210,3210,England,Berkshire,51.418998,-0.985526,Green Park,2005,WIND,2.0,,wind farm,Ecotricity / Prudential,REPD
+repd-3214,3214,Scotland,Borders,55.764776,-3.017557,Carcant Windfarm,2010,WIND,6.0,,wind farm,Greencoat UK Wind,REPD
+repd-3218,3218,England,County Durham,54.663581,-1.396906,Butterwick Moor,2011,WIND,20.5,,wind farm,E.ON UK,REPD
+repd-3220,3220,Scotland,Strathclyde,55.566604,-3.920318,Hagshaw Hill Wind Farm Extension,2008,WIND,26.0,,wind farm,Scottish Power Renewables,REPD
+repd-3223,3223,England,County Durham,54.722178,-1.43485,Southern Law,2008,WIND,5.2,,wind farm,EDF Energy,REPD
+repd-3229,3229,Wales,Dyfed,52.306855,-4.029156,Llangwyryfon,2004,WIND,9.4,,wind farm,Westbury Windfarms,REPD
+repd-3232,3232,Scotland,Lothian,55.816386,-3.611318,Pates Hill,2010,WIND,14.0,,wind farm,Your Energy,REPD
+repd-3233,3233,England,Cornwall,50.177279,-5.131646,Roskrow Wind Turbines,2007,WIND,1.7,,wind farm,REG Windpower (previously Cornwall Light and Power),REPD
+repd-3236,3236,Scotland,Strathclyde,55.911994,-3.903216,Greendykeside,2007,WIND,4.0,,wind farm,A7 Energy,REPD
+repd-3241,3241,Northern Ireland,Co. Antrim,55.018794,-6.285712,Gruig Wind Farm,2009,WIND,25.0,,wind farm,Foresight Group,REPD
+repd-3242,3242,Northern Ireland,Co. Antrim,54.804297,-6.08061,Wolf Bog Wind Farm,2007,WIND,8.8,,wind farm,B9 Energy / RES,REPD
+repd-3243,3243,Northern Ireland,Co. Derry / Londonderry,54.929298,-7.3167,Curryfree Wind Farm,2011,WIND,15.0,,wind farm,ESB,REPD
+repd-3244,3244,Northern Ireland,Co. Derry / Londonderry,54.970189,-6.999555,Altahullion Phase II,2007,WIND,11.7,,wind farm,B9 Energy / RES,REPD
+repd-3245,3245,Northern Ireland,Co. Tyrone,54.508597,-7.1064,Slieve Divena Phase 1 Wind Farm,2009,WIND,30.0,,wind farm,Greencoat (formerly Infinis/SSE),REPD
+repd-3247,3247,England,South Yorkshire,53.314486,-1.235961,Loscar Farm,2011,WIND,4.5,,wind farm,REG Windpower (previously Cornwall Light and Power),REPD
+repd-3248,3248,England,County Durham,54.823737,-1.6758,Langley Moor,2008,WIND,8.0,,wind farm,EDF Energy,REPD
+repd-3251,3251,Northern Ireland,Co. Tyrone,54.686295,-7.088607,Land approx 75m South of 141,2007,WIND,20.0,,wind farm,Private Developer,REPD
+repd-3253,3253,Northern Ireland,Co. Tyrone,54.438995,-7.341508,Hunter's Hill,2010,WIND,20.0,,wind farm,Wind Farm Developments  / RES UK & Ireland,REPD
+repd-3258,3258,Scotland,South Ayrshire,55.068785,-4.797054,Arecleoch Windfarm,2011,WIND,120.0,,wind farm,Scottish Power Renewables,REPD
+repd-3260,3260,Scotland,Strathclyde,55.128373,-4.74631,Mark Hill,2011,WIND,56.0,,wind farm,Force 9 Energy,REPD
+repd-3263,3263,Northern Ireland,Co. Tyrone,54.462398,-7.3329,Screggagh,2011,WIND,19.5,,wind farm,Screggagh Windfarm,REPD
+repd-3264,3264,England,Oxfordshire,51.615777,-1.666063,Westmill Wind Farm,2008,WIND,6.5,,wind farm,Private Developer,REPD
+repd-3272,3272,Wales,Dyfed,51.726298,-5.060933,Lodge Farm 1,2006,WIND,1.0,,wind farm,Private Developer,REPD
+repd-3277,3277,Wales,Powys,52.542306,-3.579191,"Carno 'A'and 'B' Wind Farm, (Extension)",2009,WIND,15.6,,wind farm,RWE npower,REPD
+repd-3285,3285,Scotland,Highland,58.438518,-3.201506,Achairn,2009,WIND,6.2,,wind farm,Messrs James and Ronald Innes,REPD
+repd-3290,3290,England,County Durham,54.763691,-1.757528,High Hedley Hope 2 (Extension),2008,WIND,5.2,,wind farm,EDF Energy,REPD
+repd-3292,3292,Scotland,Strathclyde,55.573171,-5.587353,Beinn an Tuirc,2001,WIND,29.7,,wind farm,CRE Energy/ Scottish Power,REPD
+repd-3294,3294,Scotland,Strathclyde,55.580026,-5.568137,Cnoc Donn Arnicle,2001,WIND,15.0,,wind farm,CRE Energy/ Scottish Power,REPD
+repd-3295,3295,Scotland,Strathclyde,56.382347,-5.297714,Beinn Ghlas Wind Farm,1999,WIND,7.8,,wind farm,RWE npower,REPD
+repd-3296,3296,Scotland,Highland,57.7055,-4.426656,"Bendealt Wind Farm, Highland",1997,WIND,9.0,,wind farm,RWE npower,REPD
+repd-3297,3297,Scotland,Highland,57.709987,-4.426956,Meall an Tuirc Wind Farm,1997,WIND,17.0,,wind farm,RWE npower,REPD
+repd-3298,3298,Scotland,Strathclyde,56.218665,-5.219367,An Suidhe,2010,WIND,19.3,,wind farm,RWE npower,REPD
+repd-3299,3299,Scotland,Borders,55.704596,-3.06771,Bowbeat Emly Bank / Rough Side,2002,WIND,31.2,,wind farm,PowerGen and Natural Power,REPD
+repd-3301,3301,Scotland,Strathclyde,55.555284,-3.920083,Hagshaw Hill Wind Farm,1995,WIND,7.8,,wind farm,Trigen,REPD
+repd-3306,3306,Scotland,Western Isles,58.176638,-6.438324,Arnish Moor,2006,WIND,3.9,,wind farm,Arnish Electric Ltd / Farm Energy,REPD
+repd-3307,3307,Scotland,Orkney Islands,59.117552,-3.149216,Burgar Hill,2006,WIND,5.0,,wind farm,Orkney Sustainable Energy,REPD
+repd-3308,3308,Scotland,Orkney Islands,59.109008,-3.140374,Thorfinn Wind Farm - NM2000,2000,WIND,2.3,,wind farm,Vestas,REPD
+repd-3309,3309,Scotland,Highland,58.602359,-3.688136,Hill of Lybster,2003,WIND,4.9,,wind farm,Fivestone Ltd (subsidiary of Abbey Produce),REPD
+repd-3310,3310,Scotland,Shetland,60.164754,-1.236053,Burradale Hill,2000,WIND,3.7,,wind farm,Shetland Aerogenerators,REPD
+repd-3311,3311,Scotland,Grampian,57.425345,-2.636075,Glens of Foudland,2005,WIND,26.0,,wind farm,Green Investment Bank  (Blackrock),REPD
+repd-3313,3313,Wales,Dyfed,51.720033,-5.012796,Castle Pill - Repowering,2009,WIND,3.2,,wind farm,John Laing Environmental Assets Group,REPD
+repd-3321,3321,Scotland,Orkney Islands,58.913298,-2.868907,New Holland,2014,WIND,1.0,,wind farm,Windflow UK,REPD
+repd-3354,3354,England,Norfolk,52.695256,1.091544,Weston Airfield Wind Turbines,2015,WIND,3.6,,wind farm,Bernard Matthews,REPD
+repd-3359,3359,England,Cumbria,54.868971,-3.006706,Orton Park Farm,2017,WIND,1.6,,wind farm,Orton Park Wind Energy,REPD
+repd-3361,3361,England,Merseyside,53.511331,-2.737805,PROMISED LAND FARM,2014,WIND,1.0,,wind farm,Private Developer,REPD
+repd-3368,3368,England,Devon,50.744253,-4.335361,Nethercott Farm,2016,WIND,1.5,,wind farm,Private Developer,REPD
+repd-3370,3370,Scotland,Fife,56.259437,-2.746686,Bonerbo Wind Turbines,2014,WIND,1.5,,wind farm,"Messrs Stevenson, Watson and Brunton",REPD
+repd-3378,3378,Wales,Dyfed,51.77195,-4.684424,Princes Gate Spring Water,2014,WIND,1.6,,wind farm,Princes Gate Spring Water,REPD
+repd-3380,3380,Scotland,Highland,58.535593,-4.194695,Phase 1 Bettyhill Wind Farm,2013,WIND,5.0,,wind farm,North British Windpower Ltd,REPD
+repd-3382,3382,England,Derbyshire,53.090938,-1.628381,Sibelco Brassington,2016,WIND,2.3,,wind farm,Sibelco/ Golconda,REPD
+repd-3390,3390,England,Cumbria,54.336285,-2.635139,Lambrigg Wind Farm,2001,WIND,6.5,,wind farm,Lambrigg Windfarm Ltd,REPD
+repd-3391,3391,England,Cumbria,54.183872,-3.181378,Askam,1999,WIND,4.6,,wind farm,Cannock Renewables,REPD
+repd-3392,3392,England,Cornwall,50.470291,-4.955627,Bears Down Wind Farm,2001,WIND,9.8,,wind farm,Natural Power,REPD
+repd-3396,3396,Scotland,Tayside,56.63697,-3.279416,Welton Of Creuchies,2018,WIND,9.2,,wind farm,Green Cat Renewables,REPD
+repd-3398,3398,Scotland,Grampian,56.922903,-2.400671,Droop Hill Wind Farm x,2014,WIND,4.6,,wind farm,Macphie Of Glenbervie Ltd,REPD
+repd-3403,3403,Scotland,Grampian,57.411156,-2.341025,Denhill,2011,WIND,2.3,,wind farm,Private Developer,REPD
+repd-3404,3404,Scotland,Grampian,57.428723,-2.307599,Haddo,2011,WIND,4.6,,wind farm,Private Developer,REPD
+repd-3405,3405,Scotland,Grampian,57.593592,-2.424048,Gairnieston Farm,2010,WIND,2.3,,wind farm,Private Developer,REPD
+repd-3408,3408,Scotland,Orkney Islands,59.117552,-3.149216,"Burgar Hill (land Near), Evie",2009,WIND,2.3,,wind farm,Unknown,REPD
+repd-3415,3415,Scotland,Falkirk,56.032493,-3.862117,Tod Hill Farm Wind Turbines,2015,WIND,12.0,,wind farm,Falkirk Tod Hill Wind Limited,REPD
+repd-3429,3429,Scotland,Borders,55.903903,-2.250838,Moorhouse Farm,2018,WIND,1.0,,wind farm,Urban Wind,REPD
+repd-3432,3432,England,South Yorkshire,53.532199,-1.669566,Royd Moor,1993,WIND,5.9,,wind farm,Unknown,REPD
+repd-3433,3433,Scotland,Highland,58.571904,-3.136971,Stroupster Wind Farm - additional turbine,2015,WIND,2.3,,wind farm,Greencoat UK Wind/Bay Wa .r.e/ SunGift,REPD
+repd-3435,3435,Scotland,Highland,58.08822,-3.958862,Gordonbush (extension),2021,WIND,47.0,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-3437,3437,England,Essex,51.522483,0.277635,Little Belhus Restoration Site,2016,WIND,1.0,,wind farm,Constantine Wind Energy,REPD
+repd-3440,3440,Scotland,Borders,55.899481,-2.529311,Crystal Rig Wind Farm Phase 2a,2010,WIND,138.0,,wind farm,Fred Olsen Renewables,REPD
+repd-3448,3448,Scotland,Strathclyde,56.288093,-4.94289,Clachan Flats Wind Farm,2008,WIND,15.0,,wind farm,AMEC/ Border Winds,REPD
+repd-3449,3449,England,Lincolnshire,53.42328,0.069039,Fen Farm,2008,WIND,16.0,,wind farm,Ecotricity,REPD
+repd-3450,3450,England,Devon,50.971864,-4.11894,Darracott Moor,2011,WIND,2.6,,wind farm,Gresham House,REPD
+repd-3453,3453,Scotland,Strathclyde,55.69593,-3.982349,Lochhead Farm,2009,WIND,6.0,,wind farm,A7 Energy / Green Energy,REPD
+repd-3457,3457,Scotland,Borders,55.768553,-2.877391,Toddleburn,2010,WIND,27.6,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-3458,3458,England,Cornwall,50.911927,-4.488146,Crimp Wind Farm,2011,WIND,2.4,,wind farm,Crimp Power Ltd (West Coast Energy),REPD
+repd-3466,3466,England,County Durham,54.763691,-1.757528,Hedley Hope,2001,WIND,2.4,,wind farm,Border Wind,REPD
+repd-3467,3467,Scotland,Strathclyde,55.495291,-5.666585,Tangy Wind Farm/Tangy 1,2002,WIND,12.8,,wind farm,Border Wind / Scottish and Southern (SSE),REPD
+repd-3479,3479,England,Cambridgeshire,52.602962,0.114914,Coldham Hall,2005,WIND,14.0,,wind farm,Co-op,REPD
+repd-3480,3480,England,Cambridgeshire,52.592565,0.140634,Whitemill Wind Farm,2012,WIND,14.0,,wind farm,Co-operative Energy,REPD
+repd-3487,3487,Scotland,Tayside,56.249231,-3.666258,Green Knowes,2008,WIND,27.0,,wind farm,CRE Energy/ Scottish Power,REPD
+repd-3489,3489,Scotland,Strathclyde,55.681207,-4.279061,Whitelee,2007,WIND,322.0,,wind farm,CRE Energy/ Scottish Power,REPD
+repd-3491,3491,England,Cumbria,54.871489,-3.076738,Great Orton,1999,WIND,4.0,,wind farm,Cumbria Wind Farms,REPD
+repd-3492,3492,England,Cumbria,54.628777,-3.504059,Winscales Phase I and II,2004,WIND,8.8,,wind farm,Cumbria Wind Farms,REPD
+repd-3494,3494,England,County Durham,54.84708,-1.677606,Holmside Hall,2004,WIND,2.8,,wind farm,E.ON UK,REPD
+repd-3495,3495,England,Cleveland,54.693617,-1.30027,High Volts Wind Farm,2003,WIND,5.5,,wind farm,E.ON UK,REPD
+repd-3496,3496,England,County Durham,54.761581,-1.415109,Hare Hill,2004,WIND,1.3,,wind farm,E.ON UK,REPD
+repd-3503,3503,Scotland,East Ayrshire,55.267185,-4.311967,Benbrack Wind Farm,2025,WIND,67.1,,wind farm,E.ON Renewables / Red Rock Power Limited,REPD
+repd-3504,3504,England,Tyne and Wear,54.827285,-1.427158,Great Eppleton Farm Repowering,2010,WIND,8.2,,wind farm,E.ON UK,REPD
+repd-3507,3507,England,County Durham,54.765778,-1.409609,Haswell Moor,2010,WIND,10.0,,wind farm,E.ON UK Renewables Developments Ltd,REPD
+repd-3510,3510,England,Nottinghamshire,53.299752,-1.075746,Worksop - B&Q,2009,WIND,2.0,,wind farm,Ecotricity,REPD
+repd-3511,3511,England,Cornwall,50.645509,-4.546749,Cold Northcott,2002,WIND,6.6,,wind farm,Otter Power,REPD
+repd-3524,3524,Scotland,Grampian,57.406367,-2.059766,Upper Ardgrain Wind Farm,2010,WIND,2.4,,wind farm,Green Cat Renewables,REPD
+repd-3529,3529,Scotland,Orkney Islands,59.097253,-2.660079,Rothiesholm,2002,WIND,2.7,,wind farm,Longearth Ltd / Farm Energy,REPD
+repd-3532,3532,Scotland,Grampian,57.376106,-2.393281,Hill of Easterton,2005,WIND,2.5,,wind farm,Mackies,REPD
+repd-3533,3533,England,Merseyside,53.449598,-3.004958,Port of Liverpool - wind,2009,WIND,10.0,,wind farm,Mersey Docks and Harbour Company,REPD
+repd-3534,3534,Scotland,Grampian,57.537264,-3.362958,Rothes Wind (Cairn Uish),2004,WIND,50.6,,wind farm,Natural Power Consultants,REPD
+repd-3536,3536,Scotland,Borders,55.912887,-2.545492,Crystal Rig Extension II,2010,WIND,20.7,,wind farm,Natural Power Consultants,REPD
+repd-3538,3538,Scotland,Borders,55.538523,-3.420495,Glenkerie Wind Farm,2012,WIND,22.0,,wind farm,Novera Energy,REPD
+repd-3539,3539,England,Humberside,54.007076,-0.288528,Lissett Airfield Wind Farm,2009,WIND,30.0,,wind farm,Novera Energy,REPD
+repd-3548,3548,Scotland,Grampian,57.427615,-2.243111,Methlick Farmers Wind Energy Project,2011,WIND,12.0,,wind farm,Orkney Sustainable Energy,REPD
+repd-3552,3552,Wales,Dyfed,52.407581,-3.877228,Rheidol Wind Farm,1997,WIND,2.4,,wind farm,Powergen,REPD
+repd-3554,3554,Scotland,Strathclyde,55.629281,-5.54401,Deucheran Hill,2001,WIND,15.8,,wind farm,Powergen Renewables,REPD
+repd-3556,3556,Wales,Powys,52.414658,-3.706961,Bryn Du,2005,WIND,16.4,,wind farm,Renewable Development Company Ltd,REPD
+repd-3566,3566,Northern Ireland,Co. Tyrone,54.393837,-7.148896,Lendrum's Bridge Wind Farm ( Extension 2),2002,WIND,7.3,,wind farm,Renewable Energy Systems (RES),REPD
+repd-3568,3568,Northern Ireland,Co. Tyrone,54.392654,-7.183398,Lendrum's Bridge Wind Farm,2000,WIND,5.9,,wind farm,Renewable Energy Systems (RES),REPD
+repd-3570,3570,Scotland,Borders,55.806457,-2.846032,Dun Law,2000,WIND,17.2,,wind farm,Renewable Energy Systems (RES),REPD
+repd-3574,3574,Scotland,Borders,55.799228,-2.432244,Black Hill (Borders),2007,WIND,28.6,,wind farm,Renewable Energy Systems (RES),REPD
+repd-3575,3575,Northern Ireland,Co. Derry / Londonderry,54.962579,-7.034106,Altahullion,2003,WIND,26.0,,wind farm,Renewable Energy Systems (RES) / BP Energy,REPD
+repd-3578,3578,England,Cornwall,50.288943,-5.137361,Four Burrows Wind Farm,1998,WIND,4.5,,wind farm,Renewable Energy Systems (RES),REPD
+repd-3579,3579,Scotland,Borders,55.786796,-2.842304,Dun Law Extension,2009,WIND,29.8,,wind farm,Renewable Energy Systems (RES),REPD
+repd-3581,3581,Scotland,Tayside,56.30541,-3.432879,Lochelbank Wind Farm II,2011,WIND,9.6,,wind farm,RWE npower,REPD
+repd-3585,3585,Scotland,Strathclyde,56.039043,-5.15593,Cruach Mhor,2004,WIND,33.3,,wind farm,Scottish Power Renewables,REPD
+repd-3592,3592,Wales,Clwyd,53.025468,-3.405932,Wern Ddu Wind Farm,2010,WIND,9.2,,wind farm,Tegni,REPD
+repd-3593,3593,Scotland,Strathclyde,55.55537,-3.920325,Hagshaw Hill Wind Farm,1995,WIND,7.8,,wind farm,Trigen,REPD
+repd-3594,3594,Scotland,Grampian,57.61136,-2.724395,Muirake,2011,WIND,4.6,,wind farm,Vento Ludens,REPD
+repd-3598,3598,Scotland,Highland,57.1502,-4.891171,Millennium Extension,2008,WIND,10.0,,wind farm,West Coast Energy /Falck Renewables,REPD
+repd-3602,3602,England,North Yorkshire,53.730275,-0.948023,Rusholme Wind Farm,2010,WIND,24.0,,wind farm,EDF/China General Nuclear Power Corporation,REPD
+repd-3605,3605,Scotland,Borders,55.669161,-2.827469,Longpark,2009,WIND,38.0,,wind farm,Wind Prospect,REPD
+repd-3606,3606,England,County Durham,54.663581,-1.396906,Walkway,2008,WIND,14.0,,wind farm,Wind Prospect,REPD
+repd-3607,3607,England,Cambridgeshire,52.597245,0.095088,Coldham,2005,WIND,16.0,,wind farm,Wind Prospect / TXU,REPD
+repd-3608,3608,England,Cambridgeshire,52.430533,-0.029243,Red Tile,2006,WIND,24.0,,wind farm,Wind Prospect Developments,REPD
+repd-3609,3609,England,Lincolnshire,52.732592,-0.225684,Deeping St Nicholas Wind Farm,2006,WIND,16.4,,wind farm,Wind Prospect Developments,REPD
+repd-3611,3611,England,Cumbria,54.597368,-3.571011,Lowca Wind Farm,2000,WIND,4.7,,wind farm,Windprospect,REPD
+repd-3613,3613,England,Cumbria,54.578772,-3.520381,Fairfield Farm,2011,WIND,6.5,,wind farm,Windprospect,REPD
+repd-3614,3614,England,Cumbria,54.203954,-3.324533,Haverigg Repowering (Haverigg II),2004,WIND,1.2,,wind farm,Windprospect,REPD
+repd-3619,3619,Scotland,Highland,57.095606,-4.965481,Beinneun Windfarm Extension,2017,WIND,23.8,,wind farm,Octopus Investments/Blue Energy,REPD
+repd-3627,3627,Scotland,Dumfries and Galloway,55.107092,-3.333869,Ewe Hill (extension),2017,WIND,36.8,,wind farm,Scottish Power Renewables,REPD
+repd-3645,3645,England,Humberside,53.714399,-0.538916,Melton Common Wind Cluster,2017,WIND,5.0,,wind farm,Seneca Global Energy,REPD
+repd-3647,3647,Scotland,Highland,57.388834,-4.048801,Moy Wind Farm (2nd Application),2016,WIND,66.0,,wind farm,Eneco,REPD
+repd-3651,3651,Scotland,Stirling,56.054983,-3.828063,Rosehill Wind Turbines,2015,WIND,2.4,,wind farm,Green Cat Renewables,REPD
+repd-3657,3657,England,Humberside,53.608184,-0.905036,Twin Rivers,2016,WIND,28.7,,wind farm,NTR,REPD
+repd-3659,3659,England,Northumberland,55.125438,-1.495191,Blyth Harbour Wind Farm,1992,WIND,2.7,,wind farm,Border Wind Farms Ltd,REPD
+repd-3660,3660,Wales,Mid Glamorgan,51.651114,-3.45117,Penrhys Wind Farm/Ferndale Power Factory,2011,WIND,6.4,,wind farm,John Laing Environmental Assets Group,REPD
+repd-3662,3662,Scotland,Highland,58.059495,-3.959051,Gordonbush,2012,WIND,70.0,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-3664,3664,England,Avon,51.511527,-2.673497,Avonmouth Wind Power,2014,WIND,8.2,,wind farm,Wessex Water Engineering Services,REPD
+repd-3666,3666,Scotland,Grampian,57.461921,-2.482761,Gordonstown Hill Wind Farm,2013,WIND,12.5,,wind farm,Ventient (formerly Infinis),REPD
+repd-3667,3667,Scotland,Strathclyde,55.72466,-3.96062,The Rosti Factory,2013,WIND,2.2,,wind farm,Branna Industrial & Technical Services Ltd,REPD
+repd-3668,3668,Scotland,Highland,57.429808,-6.458341,Ben Aketil Extension,2011,WIND,4.6,,wind farm,Ben Aketil Wind Energy Ltd,REPD
+repd-3670,3670,Scotland,Western Isles,57.233745,-7.347881,Lochcarnan Community Windfarm,2013,WIND,6.9,,wind farm,Storas Uibhist,REPD
+repd-3671,3671,England,Lincolnshire,52.750618,0.166157,The Grange Wind Farm,2013,WIND,14.0,,wind farm,Renewable Energy Systems (RES),REPD
+repd-3672,3672,England,Suffolk,52.336687,1.126625,Humphrey Group,2013,WIND,5.0,,wind farm,Roy Humphrey Group,REPD
+repd-3673,3673,England,Staffordshire,52.702419,-2.117223,Rodbaston,2017,WIND,4.0,,wind farm,REG Windpower,REPD
+repd-3674,3674,England,County Durham,54.847809,-1.928207,Boundary Lane,2013,WIND,6.0,,wind farm,EDF,REPD
+repd-3676,3676,Scotland,Strathclyde,55.599495,-3.921592,Nutberry Wind Farm,2013,WIND,15.0,,wind farm,Renantis Falck Renewables Limited,REPD
+repd-3677,3677,England,South Yorkshire,53.383422,-1.297496,Penny Hill Lane,2013,WIND,19.8,,wind farm,Banks Renewables,REPD
+repd-3678,3678,Northern Ireland,Co. Derry / Londonderry,54.769045,-6.647716,Magherafelt,2015,WIND,1.0,,wind farm,Tobermore Concrete Products,REPD
+repd-3680,3680,Northern Ireland,Co. Antrim,54.872806,-6.19862,The Michelin Tyre Factory - Ballymena,2013,WIND,4.6,,wind farm,Ecotricity,REPD
+repd-3681,3681,Scotland,Grampian,57.493779,-2.026777,West Knock Wind Cluster,2011,WIND,2.4,,wind farm,West Knock Farm,REPD
+repd-3682,3682,England,Leicestershire,52.502397,-1.179164,Low Spinney Wind Farm,2011,WIND,8.0,,wind farm,"Infinis, previously Broadview Energy Developments",REPD
+repd-3684,3684,Scotland,Fife,56.145285,-3.29493,Westfield,2013,WIND,10.0,,wind farm,Ventient (formerly Infinis),REPD
+repd-3685,3685,England,Leicestershire,52.411883,-1.16632,Swinford Wind Farm,2012,WIND,22.0,,wind farm,Nuon UK,REPD
+repd-3686,3686,England,Cambridgeshire,52.537253,-0.033727,Burnt House Farm,2013,WIND,6.0,,wind farm,Fivestone Ltd,REPD
+repd-3688,3688,Scotland,Strathclyde,55.637436,-4.211863,Calder Water Community Wind Farm,2013,WIND,28.0,,wind farm,Community Windpower (Community Wind Power),REPD
+repd-3690,3690,Scotland,Strathclyde,55.730722,-4.775047,Millour Hill Community Windfarm,2012,WIND,18.0,,wind farm,Community Windpower,REPD
+repd-3691,3691,Scotland,Grampian,57.60275,-2.855897,Netherton of Windyhills,2014,WIND,4.6,,wind farm,Strathdee Energy,REPD
+repd-3693,3693,Scotland,Orkney Islands,59.276562,-2.982183,Gallowhill,2013,WIND,1.8,,wind farm,Private Developer,REPD
+repd-3694,3694,England,Cheshire,53.300618,-2.768859,Frodsham Marsh,2016,WIND,50.4,,wind farm,Foresight/Belltown,REPD
+repd-3695,3695,Wales,Dyfed,51.960642,-4.123373,Brechfa Forest West,2018,WIND,57.4,,wind farm,RWE Npower Renewables,REPD
+repd-3698,3698,Scotland,Grampian,57.594611,-2.201065,Greenhill Croft,2012,WIND,4.6,,wind farm,Green Cat Renewables,REPD
+repd-3699,3699,England,Leicestershire,52.698047,-1.117877,Severn Trent STW,2014,WIND,2.5,,wind farm,Severn Trent Water,REPD
+repd-3700,3700,England,Humberside,53.795218,-0.799775,Spaldington Airfield,2016,WIND,12.5,,wind farm,Falck Renewables,REPD
+repd-3701,3701,Scotland,Grampian,56.955195,-3.177208,Hillhead of Auquhirie,2013,WIND,6.9,,wind farm,Octopus Investements/Blue Energy (previously Auquhirie Land Company Ltd),REPD
+repd-3702,3702,Scotland,Strathclyde,55.775137,-4.342616,Middleton Wind Farm,2013,WIND,12.0,,wind farm,Scottish Power Renewables,REPD
+repd-3703,3703,England,Lancashire,53.900138,-2.865679,Orchard End,2013,WIND,4.0,,wind farm,Renewable Energy Generation,REPD
+repd-3705,3705,Wales,Mid Glamorgan,51.714712,-3.509847,Mynydd Bwllfa Wind Farm - Resubmission,2015,WIND,22.5,,wind farm,Pennant Walters,REPD
+repd-3707,3707,Wales,Powys,52.610508,-3.479102,Tirgwynt,2017,WIND,24.6,,wind farm,Foresight,REPD
+repd-3711,3711,Wales,Powys,52.413068,-3.284068,Garreg Lwyd,2017,WIND,34.0,,wind farm,Renewables Infrastructure Group (TRIG),REPD
+repd-3713,3713,Northern Ireland,Co. Tyrone,54.614493,-6.955172,Crockbrack,2017,WIND,2.0,,wind farm,Gaelectric Developments/ CGN Europe Energy,REPD
+repd-3716,3716,Northern Ireland,Co. Antrim,54.766053,-6.307106,Connaught Road,2012,WIND,1.7,,wind farm,Lowlands Health & Energy Ltd�,REPD
+repd-3717,3717,Northern Ireland,Co. Tyrone,54.55157,-7.009024,Crockagarron Ext,2012,WIND,2.5,,wind farm,Northern Wind Power�,REPD
+repd-3718,3718,Scotland,Grampian,57.282763,-2.447685,Castle of Auchry Farm,2013,WIND,2.4,,wind farm,Green Cat Renewables,REPD
+repd-3722,3722,Scotland,Grampian,57.606986,-2.290094,Little Byth,2012,WIND,4.5,,wind farm,Lovie Ltd,REPD
+repd-3723,3723,Scotland,Grampian,57.430837,-1.941896,Yonderton Farm,2014,WIND,1.0,,wind farm,Green Cat Renewables,REPD
+repd-3726,3726,Wales,Gwent,51.686915,-3.171394,Oakdale Business Park,2013,WIND,4.0,,wind farm,Resonance,REPD
+repd-3732,3732,England,Northamptonshire,52.174164,-1.279318,Boddington Reservoir,2014,WIND,1.5,,wind farm,Unknown,REPD
+repd-3733,3733,England,Kent,51.394958,0.850876,HMP Standford Hill,2013,WIND,4.6,,wind farm,Resonance,REPD
+repd-3734,3734,England,Gloucestershire,51.722972,-2.480935,Sharpness Docks,2017,WIND,2.0,,wind farm,Partnerships for Renewables/AGR,REPD
+repd-3735,3735,England,Humberside,53.845123,-0.609929,Sancton Hill,2012,WIND,10.0,,wind farm,REG Windpower (previously Cornwall Light and Power),REPD
+repd-3738,3738,England,Kent,51.443046,0.747873,Port of Sheerness Wind Farm (was Lappel Bank),2016,WIND,8.2,,wind farm,Peel Energy,REPD
+repd-3739,3739,England,Nottinghamshire,53.151058,-1.014568,Stonish Hill (Bilsthorpe),2013,WIND,10.3,,wind farm,REG Power Management (John Laing/Peel Energy),REPD
+repd-3741,3741,England,Cambridgeshire,52.569769,0.123291,Stags Holt Extension,2010,WIND,2.0,,wind farm,E.ON UK,REPD
+repd-3745,3745,Scotland,Shetland,60.666108,-1.005165,North Yell Wind Farm (Garth Community Wind Farm),2017,WIND,4.5,,wind farm,Garth Wind (North Yell Development Council),REPD
+repd-3746,3746,Scotland,Highland,57.279083,-4.751102,Glenurquhart and Strathglass Wind Farm project,2013,WIND,10.0,,wind farm,Corrimony Energy Ltd & Soirbheas,REPD
+repd-3747,3747,Scotland,Strathclyde,55.853908,-3.933494,Damhead Farm,2013,WIND,2.5,,wind farm,Private Developer,REPD
+repd-3748,3748,England,Lancashire,53.714313,-2.388997,Hyndburn Wind Farm,2012,WIND,24.0,,wind farm,Energiekontor UK,REPD
+repd-3749,3749,England,Humberside,53.752281,-0.026523,Tedder Hill Wind cluster,2013,WIND,7.5,,wind farm,Ventient (formerly Infinis),REPD
+repd-3752,3752,England,Northumberland,55.201582,-1.539634,Lynemouth Windfarm (Resubmission),2012,WIND,26.0,,wind farm,Scottish Power Renewables,REPD
+repd-3754,3754,England,Northumberland,55.275254,-1.796388,Wingates Wind Farm,2013,WIND,15.0,,wind farm,Ventient (formerly Infinis),REPD
+repd-3757,3757,Scotland,Highland,58.439286,-3.225685,Wathegar wind farm,2013,WIND,10.0,,wind farm,Private Developer,REPD
+repd-3758,3758,Scotland,Strathclyde,55.933435,-5.477371,Allt Dearg Wind Farmers LLP,2012,WIND,10.8,,wind farm,Ormsary and Stronachullin Estates (Allt Dearg Wind Farmers LLP),REPD
+repd-3761,3761,England,Lancashire,53.770998,-2.306226,Hameldon Hill extension,2013,WIND,7.5,,wind farm,RWE NPower Renewables,REPD
+repd-3764,3764,England,Leicestershire,52.806497,-1.034257,Dalby,2016,WIND,7.2,,wind farm,Ecotricity,REPD
+repd-3765,3765,England,Cambridgeshire,52.518561,-0.108803,Glass moor Extension,2013,WIND,12.0,,wind farm,EDF/China General Nuclear Power Corporation,REPD
+repd-3772,3772,Scotland,Strathclyde,55.680679,-5.484929,Cour Wind Farm,2016,WIND,20.5,,wind farm,Octopus Investments/Blue Energy,REPD
+repd-3776,3776,Scotland,Grampian,57.323327,-2.875245,Upper Wheedlemont Farm,2017,WIND,1.7,,wind farm,J & A�Wilson Ltd,REPD
+repd-3784,3784,Scotland,Grampian,57.499776,-2.54196,Shielburn Farm,2013,WIND,6.9,,wind farm,Green Cat Renewables,REPD
+repd-3787,3787,Scotland,Highland,57.095606,-4.965481,Beinneun,2017,WIND,85.0,,wind farm,Octopus Investments/Blue Energy,REPD
+repd-3791,3791,England,Cleveland,54.495867,-1.262396,Seamer Wind Farm - Hambleton,2012,WIND,4.0,,wind farm,"Infinis, previously Broadview Energy",REPD
+repd-3792,3792,England,Lancashire,54.037924,-2.871899,Fanny House Farm/Heysham Moss,2015,WIND,1.5,,wind farm,Blue Energy,REPD
+repd-3793,3793,England,Nottinghamshire,52.998773,-1.297927,Newthorpe Wind Turbine,2014,WIND,2.5,,wind farm,Severn Trent Water,REPD
+repd-3795,3795,England,Northamptonshire,52.30764,-0.537293,Chelveston Renewable Energy Park Wind Farm (Bedford),2014,WIND,10.0,,wind farm,Chelveston Renewable Energy Ltd,REPD
+repd-3799,3799,Scotland,Strathclyde,55.871799,-3.74608,Torrance Farm,2013,WIND,9.0,,wind farm,Future Spectrum Ltd,REPD
+repd-3802,3802,Scotland,Grampian,57.582237,-1.899263,Land at Overside and Greenwellheads Farms,2013,WIND,9.2,,wind farm,Greenside Wind Energy Ltd,REPD
+repd-3803,3803,England,Lancashire,54.007218,-2.77954,Lancaster University (wind),2013,WIND,2.0,,wind farm,Lancaster University,REPD
+repd-3804,3804,Scotland,Grampian,57.598977,-2.84254,Myreton Crossroads,2013,WIND,1.6,,wind farm,Seren Energy,REPD
+repd-3806,3806,Scotland,Grampian,57.581357,-2.646839,Auchinderran Wind Farm,2014,WIND,2.4,,wind farm,Green Cat Renewables,REPD
+repd-3807,3807,England,Humberside,53.751754,-0.234828,The Limes Wind Turbines,2015,WIND,1.7,,wind farm,Broadview Energy,REPD
+repd-3809,3809,Scotland,Grampian,57.620403,-2.419054,Milton of Fisherie Wind Cluster,2016,WIND,4.6,,wind farm,LocoGen,REPD
+repd-3810,3810,Scotland,Strathclyde,55.741606,-4.090001,Blantyre Muir Wind Farm,2013,WIND,9.0,,wind farm,Blantyre Muir Wind Energy Ltd�,REPD
+repd-3814,3814,England,Northamptonshire,52.394249,-1.166917,Lilbourne Wind Farm,2014,WIND,10.0,,wind farm,Cetis,REPD
+repd-3818,3818,Scotland,Grampian,56.843998,-2.410122,Tullo Wind Farm North Extension (Shiels Wind Farm),2014,WIND,7.5,,wind farm,Eneco,REPD
+repd-3819,3819,Scotland,Grampian,57.66065,-2.417507,Easter Melrose Wind Energy Project,2015,WIND,1.5,,wind farm,Melrose Farms,REPD
+repd-3827,3827,England,Lincolnshire,53.509288,0.00901,Newton Marsh Wind Project,2014,WIND,4.6,,wind farm,TCI Renewables,REPD
+repd-3828,3828,England,Norfolk,52.625564,0.733509,North Pickenham Airfield,2014,WIND,4.0,,wind farm,Bernard Matthews Green Energy,REPD
+repd-3832,3832,England,Cumbria,54.674125,-3.523089,Wythegill Wind Turbine,2015,WIND,2.3,,wind farm,Airvolution Energy,REPD
+repd-3835,3835,England,Humberside,53.751753,-0.0697,Roos Wind Farm (Resubmission),2013,WIND,17.1,,wind farm,Renewable Energy Systems (RES),REPD
+repd-3836,3836,Scotland,Grampian,57.587015,-2.416646,Backhill of Yonderton Wind Cluster,2014,WIND,4.6,,wind farm,Private Developer,REPD
+repd-3837,3837,Scotland,Orkney Islands,59.189295,-2.692517,Spurness Wind Farm Repowering,2012,WIND,10.0,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-3840,3840,Scotland,Grampian,57.418241,-2.33528,St Johns Wells Wind Cluster Extension,2015,WIND,3.2,,wind farm,Green Cat Renewables,REPD
+repd-3841,3841,Scotland,Strathclyde,55.597915,-4.633876,GlaxoSmithKline Wind Project,2013,WIND,7.5,,wind farm,Glaxosmithkline,REPD
+repd-3842,3842,England,Norfolk,52.771175,0.385746,K L Technologies Wind Turbine,2013,WIND,1.5,,wind farm,KL Technology Limited,REPD
+repd-3846,3846,Scotland,Highland,57.769619,-4.373161,Coire Na Cloiche Wind Farm,2020,WIND,29.9,,wind farm,RockbySea,REPD
+repd-3850,3850,Northern Ireland,Co. Antrim,55.084655,-6.257751,Altaveedan Wind Farm,2017,WIND,17.9,,wind farm,NTR PLC,REPD
+repd-3852,3852,Northern Ireland,Co. Antrim,55.044496,-6.27972,Corkey Wind Farm Extension,2017,WIND,2.5,,wind farm,Northern Ireland Renewables,REPD
+repd-3855,3855,Scotland,Strathclyde,55.710151,-4.252092,Ardoch and Over Enoch Wind Farm (Over Enoch),2014,WIND,4.3,,wind farm,2020 Renewables/ NTR,REPD
+repd-3856,3856,Wales,Gwynedd,53.39381,-4.40031,Ystgellog Farm Wind Farm,2013,WIND,4.6,,wind farm,Airvolution Energy,REPD
+repd-3857,3857,Scotland,Strathclyde,55.75413,-4.466721,NEILSTON WIND FARM,2013,WIND,9.2,,wind farm,Renewables Infrastructure Group,REPD
+repd-3859,3859,England,County Durham,54.84971,-1.748665,Greencroft Estate Turbines,2013,WIND,4.0,,wind farm,Lanchester Properties,REPD
+repd-3862,3862,England,London,51.502168,0.142126,Crossness Sewage Works Turbine,2014,WIND,2.5,,wind farm,Thames Water Utilities,REPD
+repd-3873,3873,Scotland,Strathclyde,55.758392,-3.605546,Muirhall Extension,2014,WIND,6.8,,wind farm,Muirhall Energy,REPD
+repd-3877,3877,Northern Ireland,Co. Derry / Londonderry,54.967892,-7.312911,Clondermot Turbines,2015,WIND,4.6,,wind farm,Energia Renewables,REPD
+repd-3886,3886,Scotland,Strathclyde,55.777011,-5.470639,Freasdail Wind Farm,2017,WIND,22.5,,wind farm,The Renewables Infrastructure Group (TRIG),REPD
+repd-3887,3887,Wales,Gwent,51.551108,-2.959073,Nash Waste Water Treatment Works Turbine,2017,WIND,2.5,,wind farm,Welsh Water,REPD
+repd-3890,3890,England,Bedfordshire,52.064658,-0.535397,Marston Vale Country Park Wind Turbine,2014,WIND,1.5,,wind farm,Blue Energy,REPD
+repd-3893,3893,England,Humberside,53.758535,-0.3304,Energy Works Hull - Wind Turbine,2018,WIND,3.0,,wind farm,Spencer Group,REPD
+repd-3896,3896,Wales,West Glamorgan,51.778401,-3.847239,Mynydd Y Gwrhyd Windfarm,2017,WIND,4.7,,wind farm,Awel Aman Tawe Community Energy,REPD
+repd-3897,3897,England,Nottinghamshire,52.975779,-1.043966,Severn Trent Water - Stoke Bardolph Wind Turbine,2015,WIND,1.5,,wind farm,Severn Trent Water,REPD
+repd-3902,3902,Scotland,Orkney Islands,58.921718,-2.715649,Barns of Ayre Wind Turbines (2),2013,WIND,1.8,,wind farm,Ayre Energy/Aquatera Ltd,REPD
+repd-3904,3904,Wales,Mid Glamorgan,51.502231,-3.66901,Newton Down,2016,WIND,5.0,,wind farm,Renewable Energy Partnerships Ltd,REPD
+repd-3905,3905,England,Northumberland,55.265035,-1.624774,North Steads Wind Farm,2016,WIND,18.45,,wind farm,Ventient (formerly Infinis),REPD
+repd-3911,3911,Scotland,Grampian,57.344133,-2.610361,Hill of Tillymorgan (Kirkton Farm) Wind turbines,2016,WIND,9.6,,wind farm,LocoGen/ Green Cat Renewables,REPD
+repd-3915,3915,Scotland,Strathclyde,55.649464,-3.922116,LADEHEAD FARM - WIND TURBINES,2016,WIND,2.4,,wind farm,PI Renewables 2 Ltd,REPD
+repd-3917,3917,England,Cornwall,50.306936,-4.885055,Garlenick Estate 2 - Wind Turbines,2015,WIND,4.0,,wind farm,Airvolution Energy,REPD
+repd-3918,3918,England,Cornwall,50.349671,-4.960596,Goonabarn Farm Wind Turbines,2016,WIND,1.0,,wind farm,George Richards Farms Partnership,REPD
+repd-3924,3924,England,Norfolk,52.706978,1.664421,Bloodhills - repowering,2015,WIND,1.0,,wind farm,The Farm Energy Partnership LLP,REPD
+repd-3925,3925,Scotland,Strathclyde,55.719981,-4.253709,Ardoch and Over Enoch Wind Farm (Ardoch),2014,WIND,7.2,,wind farm,2020 Renewables/ NTR,REPD
+repd-3927,3927,England,Avon,51.538338,-2.673864,Avonmouth Port II,2013,WIND,5.0,,wind farm,Bristol City Council - Energy Management Unit,REPD
+repd-3928,3928,England,South Yorkshire,53.622302,-0.93559,Tween Bridge Windfarm,2012,WIND,44.0,,wind farm,E.ON Renewables,REPD
+repd-3931,3931,Wales,Mid Glamorgan,51.556395,-3.459736,Mynydd Portref,2012,WIND,9.4,,wind farm,Gresham House,REPD
+repd-3932,3932,Wales,Mid Glamorgan,51.606492,-3.495957,Fforch Nest Wind Farm pt2,2013,WIND,17.5,,wind farm,Pennant Walters,REPD
+repd-3933,3933,Northern Ireland,Co. Tyrone,54.544,-7.019701,Gortfinbar,2016,WIND,15.0,,wind farm,Energia Renewables,REPD
+repd-3934,3934,Northern Ireland,Co. Antrim,54.731297,-5.911801,Carn Hill,2013,WIND,13.8,,wind farm,Gaelectric Developments/ CGN Europe Energy,REPD
+repd-3935,3935,England,Cambridgeshire,52.166011,0.316047,Wadlow Wind Farm,2012,WIND,26.0,,wind farm,DIF,REPD
+repd-3936,3936,England,Essex,51.709835,0.821043,Bradwell Wind Farm (Repower),2013,WIND,20.0,,wind farm,Npower Renewables,REPD
+repd-3937,3937,England,South Yorkshire,53.53159,-1.731198,Hazlehead,2011,WIND,6.0,,wind farm,Banks Renewables,REPD
+repd-3938,3938,England,Northumberland,54.885965,-1.914391,Kiln Pit Hill Windfarm,2012,WIND,12.0,,wind farm,Npower Renewables,REPD
+repd-3941,3941,England,Cornwall,50.684892,-4.610327,Otterham Down Wind Farm,2011,WIND,3.2,,wind farm,Otter Power,REPD
+repd-3942,3942,England,Humberside,53.737986,-0.811382,Sixpenny Wood Windfarm,2013,WIND,33.0,,wind farm,Greencoat UK Wind,REPD
+repd-3943,3943,England,Essex,51.809184,1.110898,Earl's Hall,2013,WIND,10.3,,wind farm,Greencoat UK Wind,REPD
+repd-3944,3944,England,Lancashire,53.633476,-2.780298,Mawdesley Moss,2012,WIND,2.3,,wind farm,Private Developer,REPD
+repd-3946,3946,England,Northamptonshire,52.301185,-0.536596,Chelveston Renewable Energy Park Wind Farm (East Northamptonshire),2014,WIND,12.5,,wind farm,Chelveston Renewable Energy,REPD
+repd-3947,3947,England,Northumberland,55.215224,-1.557158,Bewick Drift,2013,WIND,2.3,,wind farm,Harworth Power,REPD
+repd-3948,3948,England,Humberside,53.873665,-0.360879,Hall Farm Routh,2013,WIND,24.6,,wind farm,John Laing Environmental Assets Group/REG Power Management,REPD
+repd-3951,3951,Scotland,Grampian,57.537264,-3.362958,Rothes Wind Farm (Extension) (II),2013,WIND,41.4,,wind farm,Fred Olsen Renewables,REPD
+repd-3953,3953,Northern Ireland,Co. Derry / Londonderry,54.975993,-7.029609,Slieve Kirk (formerly Glenconway),2013,WIND,18.4,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-3955,3955,Northern Ireland,Co. Derry / Londonderry,54.970478,-7.034783,Slieve Kirk (formerly Altahullion Phase III & Glenconway 2),2013,WIND,27.6,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-3956,3956,Wales,Mid Glamorgan,51.611004,-3.494661,Fforch Nest Wind Farm pt1,2013,WIND,10.0,,wind farm,Pennant Walters,REPD
+repd-3957,3957,England,South Yorkshire,53.576582,-1.254957,Hampole Wind Farm,2014,WIND,8.0,,wind farm,Good Energy (previously nPower Renewables),REPD
+repd-3958,3958,England,South Yorkshire,53.543315,-1.706225,Blackstone Edge,2013,WIND,7.5,,wind farm,Ventient (formerly Infinis),REPD
+repd-3961,3961,Northern Ireland,Co. Antrim,55.010092,-6.412421,Glenbuck,2017,WIND,2.3,,wind farm,Energia Renewables,REPD
+repd-3962,3962,Northern Ireland,Co. Antrim,55.010092,-6.412421,Glenbuck,2017,WIND,6.9,,wind farm,Energia Renewables,REPD
+repd-3963,3963,England,South Yorkshire,53.533035,-1.239714,Marr Windfarm,2012,WIND,8.0,,wind farm,Banks Renewables,REPD
+repd-3964,3964,England,Tyne and Wear,54.913886,-1.48076,Nissan Motors Plant Extn,2008,WIND,2.0,,wind farm,TNEI Services Ltd,REPD
+repd-3968,3968,Scotland,Grampian,57.310892,-2.109625,Hill of Fiddes,2010,WIND,6.9,,wind farm,"Infinis, previously Broadview Energy",REPD
+repd-3969,3969,Northern Ireland,Co. Derry / Londonderry,55.068728,-6.888954,Dunmore,2013,WIND,21.0,,wind farm,TCI Renewables,REPD
+repd-3971,3971,England,Cambridgeshire,52.26153,-0.195239,Cotton Farm,2013,WIND,20.0,,wind farm,Greencoat UK Wind,REPD
+repd-3972,3972,England,Cumbria,54.687074,-3.513971,Land at Flimby Hall Farm,2013,WIND,6.2,,wind farm,Flimby Wind Energy Ltd,REPD
+repd-3976,3976,England,Cornwall,50.35088,-5.030587,Carland Cross Wind Farm Repowering,2013,WIND,20.0,,wind farm,Scottish Power Renewables,REPD
+repd-3978,3978,England,Northamptonshire,52.37478,-1.15111,Yelvertoft Wind Farm,2013,WIND,16.0,,wind farm,Greencoat UK Wind,REPD
+repd-3980,3980,Scotland,Grampian,57.615296,-2.066688,Mains of Hatton,2012,WIND,2.4,,wind farm,Eco2 /GreenCAT,REPD
+repd-3981,3981,Scotland,Strathclyde,55.677154,-4.286778,Whitelee Windfarm Extension Phase 1,2012,WIND,108.0,,wind farm,Scottish Power Renewables,REPD
+repd-3982,3982,England,Essex,51.457287,0.336849,Tilbury Docks,2013,WIND,12.0,,wind farm,Scottish Equity Partners,REPD
+repd-3984,3984,England,County Durham,54.494172,-1.258521,Seamer Windfarm - Stockton on Tees,2012,WIND,6.0,,wind farm,Broadview Energy,REPD
+repd-3985,3985,England,County Durham,54.84042,-1.402214,South Sharpley Wind Farm (Revised),2013,WIND,7.5,,wind farm,REG Windpower (previously  Cornwall Light & Power),REPD
+repd-3986,3986,England,Cumbria,54.27605,-2.63882,Armistead Wind Farm,2013,WIND,12.0,,wind farm,Banks Renewables,REPD
+repd-3987,3987,England,Humberside,53.845686,-0.172566,Withernwick,2013,WIND,18.0,,wind farm,Energiekontor UK,REPD
+repd-3988,3988,Scotland,Western Isles,58.383556,-6.493021,Loch Sminig Wind Project,2015,WIND,2.7,,wind farm,Urras Oighreachd Ghabhsainn,REPD
+repd-3992,3992,England,Humberside,53.749196,-0.113482,Burton Pidsea (Wadworth Hill) Wind Farm,2014,WIND,10.2,,wind farm,Aeolian Holderness Ltd,REPD
+repd-4006,4006,Scotland,Highland,58.408651,-3.271514,Camster,2013,WIND,50.0,,wind farm,E.ON UK,REPD
+repd-4008,4008,Scotland,Orkney Islands,59.097253,-2.660079,Bu Farm,2002,WIND,2.7,,wind farm,Longearth Ltd/ Farm Energy,REPD
+repd-4009,4009,Scotland,Tayside,56.622246,-3.232012,Drumderg,2008,WIND,36.8,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4011,4011,Scotland,Strathclyde,55.441634,-3.542734,Clyde Wind Farm,2012,WIND,350.0,,wind farm,Scottish and Southern Energy (SSE)/ Greencoat UK Wind,REPD
+repd-4013,4013,Scotland,Highland,57.709987,-4.426956,Novar Wind Farm (Extension),2012,WIND,36.8,,wind farm,RWE npower,REPD
+repd-4014,4014,Scotland,Grampian,57.622841,-3.341046,Hill of Towie (Drummuir),2012,WIND,48.0,,wind farm,Renewable Energy Systems (RES),REPD
+repd-4015,4015,Scotland,Dumfries and Galloway,55.107092,-3.333869,Ewe Hill,2016,WIND,13.8,,wind farm,Scottish Power Renewables,REPD
+repd-4019,4019,England,Northumberland,55.498639,-1.767838,Middlemoor,2013,WIND,54.0,,wind farm,Npower Renewables,REPD
+repd-4021,4021,Scotland,Highland,58.567921,-3.677021,Baillie Wind Farm,2013,WIND,52.5,,wind farm,Baillie Windfarm Ltd,REPD
+repd-4022,4022,Wales,Gwynedd,52.595094,-3.957584,Braich Ddu,2007,WIND,3.9,,wind farm,REG Windpower (previously Cornwall Light and Power),REPD
+repd-4023,4023,Scotland,Borders,55.897887,-2.261929,Drone Hill,2012,WIND,28.6,,wind farm,Greencoat UK Wind,REPD
+repd-4024,4024,Scotland,Strathclyde,55.478615,-5.53046,Tangy Wind Farm Extension/Tangy 2,2011,WIND,6.0,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4026,4026,England,Northumberland,55.182219,-2.071422,Ray Wind Farm,2017,WIND,54.4,,wind farm,Vattenfall,REPD
+repd-4027,4027,Scotland,Tayside,56.627679,-3.876078,Calliachar,2013,WIND,32.2,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4028,4028,Scotland,Tayside,56.581223,-3.733752,Griffin Wind farm,2012,WIND,156.0,,wind farm,Greenpower (Griffin) Ltd,REPD
+repd-4029,4029,England,Cumbria,54.789536,-3.191198,High Pow Farm,2007,WIND,3.9,,wind farm,REG Windpower (previously Cornwall Light and Power),REPD
+repd-4031,4031,Scotland,Grampian,56.888573,-2.27242,St. Johns Hill,2013,WIND,7.65,,wind farm,K E Projects AF,REPD
+repd-4032,4032,Scotland,Dumfries and Galloway,55.119912,-4.032118,Blackcraig,2018,WIND,52.9,,wind farm,Blue Energy,REPD
+repd-4033,4033,England,Devon,51.156946,-4.102656,Fullabrook Down Wind Farm,2012,WIND,66.0,,wind farm,Devon Wind Power Ltd,REPD
+repd-4034,4034,Scotland,Fife,56.119354,-3.252159,Little Raith Farm,2012,WIND,25.0,,wind farm,Renewables Infrastructure Group,REPD
+repd-4039,4039,Wales,Mid Glamorgan,51.612859,-3.505035,Pant y wal,2013,WIND,25.0,,wind farm,Pennant Wind Energy Ventures (PWEV),REPD
+repd-4041,4041,Northern Ireland,Co. Tyrone,54.639867,-7.752575,Crighshane,2012,WIND,32.2,,wind farm,Greencoat (formerly Energia Renewables),REPD
+repd-4042,4042,Northern Ireland,Co. Derry / Londonderry,54.894895,-7.199704,Townlands of Carrickatane,2013,WIND,20.7,,wind farm,Northern Wind Power,REPD
+repd-4044,4044,England,Northumberland,55.132302,-2.12701,Green Rigg,2012,WIND,36.0,,wind farm,EDF/China General Nuclear Power Corporation,REPD
+repd-4047,4047,Northern Ireland,Co. Tyrone,54.653997,-7.712815,Church Hill,2012,WIND,18.4,,wind farm,Greencoat (formerly Energia Renewables),REPD
+repd-4048,4048,Northern Ireland,Co. Tyrone,54.550194,-7.016811,Crockagarran,2010,WIND,15.0,,wind farm,ESB,REPD
+repd-4051,4051,Scotland,Highland,57.995625,-4.54695,Rosehall Hill Forest Windfarm,2013,WIND,24.7,,wind farm,E.ON UK,REPD
+repd-4053,4053,Northern Ireland,Co. Tyrone,54.606396,-7.559611,Thornog Windfarm,2014,WIND,9.2,,wind farm,Energia Renewables,REPD
+repd-4054,4054,Northern Ireland,Co. Tyrone,54.508597,-7.1064,Slieve Divena Phase 2 Wind Farm,2017,WIND,18.8,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4055,4055,Scotland,Strathclyde,55.578272,-4.134221,Bankend Rig,2013,WIND,14.3,,wind farm,I & H Brown Ltd,REPD
+repd-4056,4056,Scotland,Grampian,57.376106,-2.393281,Hill of Easterton Extension,2007,WIND,2.0,,wind farm,Mackies,REPD
+repd-4057,4057,England,Devon,50.971688,-3.689113,Batsworthy Cross,2016,WIND,18.0,,wind farm,Blackrock Real Assets,REPD
+repd-4058,4058,Northern Ireland,Co. Tyrone,54.9203,-7.288903,Slieve Kirk,2011,WIND,27.6,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4059,4059,Scotland,Borders,55.831308,-2.688028,Fallago Rig,2013,WIND,144.0,,wind farm,EDF Energy Renewables,REPD
+repd-4060,4060,Scotland,Strathclyde,55.797127,-4.215311,Cathkin Braes Wind Farm (Castlemilk),2013,WIND,3.0,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4061,4061,Wales,Dyfed,51.772825,-3.929036,Mynydd y Betws,2013,WIND,34.5,,wind farm,ESB (Cambrian Renewable Energy Ltd / Betws Common Holdings Ltd),REPD
+repd-4062,4062,Scotland,Tayside,56.570924,-3.048058,Ark Hill,2013,WIND,6.4,,wind farm,Green Cat Renewables,REPD
+repd-4063,4063,Scotland,Western Isles,58.257196,-6.510774,Pentland Road Wind Farm,2013,WIND,13.8,,wind farm,Arnish Electric Ltd / Farm Energy Ltd,REPD
+repd-4065,4065,Northern Ireland,Co. Tyrone,54.635493,-7.56924,Slieveglass,2018,WIND,6.9,,wind farm,Slieveglass wind farm (Energia),REPD
+repd-4066,4066,Northern Ireland,Co. Fermanagh,54.197921,-7.636503,Molly Mountain,2014,WIND,15.0,,wind farm,Erne Concrete Pumping,REPD
+repd-4067,4067,England,Essex,51.651503,0.867761,Turncole Wind Farm,2016,WIND,17.5,,wind farm,RES/ Aviva,REPD
+repd-4068,4068,England,Derbyshire,52.908146,-1.413127,Derby Sewage Treatment Works,2014,WIND,5.0,,wind farm,Severn Trent Water,REPD
+repd-4069,4069,England,Humberside,53.637919,-0.700121,Grange,2015,WIND,12.3,,wind farm,Octopus Investements/Blue Energy,REPD
+repd-4070,4070,England,Humberside,53.676779,-0.886802,Goole Fields ll Wind Farm,2016,WIND,34.9,,wind farm,RWE Npower Renewables,REPD
+repd-4072,4072,Scotland,Grampian,57.505676,-2.962534,Edintore Wind Farm,2016,WIND,18.0,,wind farm,Vento Ludens,REPD
+repd-4073,4073,Scotland,Strathclyde,55.249771,-4.806171,Tralorg Wind Farm,2020,WIND,20.0,,wind farm,RPMI Railpen (formerly BayWa),REPD
+repd-4075,4075,Scotland,Shetland,60.192426,-1.167118,Gremista Wind Farm,2015,WIND,3.0,,wind farm,Shetland Aerogenerators,REPD
+repd-4076,4076,England,Cambridgeshire,52.277348,-0.287708,Common Barn Wind Farm,2019,WIND,6.2,,wind farm,TCI Renewables,REPD
+repd-4078,4078,Scotland,Fife,56.117714,-3.252636,Clentrie Wind Farm (Gevens),2016,WIND,6.9,,wind farm,Rev Ltd,REPD
+repd-4081,4081,Northern Ireland,Co. Tyrone,54.606396,-7.559611,Thornog Windfarm Extension,2014,WIND,9.2,,wind farm,Energia Renewables,REPD
+repd-4084,4084,England,Northamptonshire,52.402839,-0.959765,Kelmarsh Wind Farm (Resubmission),2016,WIND,12.5,,wind farm,Blue Energy,REPD
+repd-4085,4085,Scotland,Strathclyde,55.876565,-3.745239,Torrance Farm Wind Park Extension,2015,WIND,5.7,,wind farm,Capital Dynamics,REPD
+repd-4088,4088,Scotland,Fife,56.086361,-3.320257,Goathill Quarry Turbine,2015,WIND,2.0,,wind farm,Collier Quarrying Group,REPD
+repd-4093,4093,Scotland,Fife,56.166507,-3.159339,Skeddoway Farm Wind Turbine,2014,WIND,1.5,,wind farm,Clenergy,REPD
+repd-4094,4094,Scotland,Fife,56.1537,-3.164491,Middle Balbeggie Wind Turbines,2016,WIND,6.4,,wind farm,Capital Dynamics,REPD
+repd-4097,4097,England,Suffolk,52.366491,1.531133,Upper Holton Wind Farm,2016,WIND,11.5,,wind farm,Temporis Capital,REPD
+repd-4104,4104,England,Cumbria,54.706881,-3.3595,Tallentire Hill,2013,WIND,12.0,,wind farm,The Renewables Infrastructure Group (TRIG),REPD
+repd-4107,4107,Northern Ireland,Co. Tyrone,54.568311,-7.441023,Pollnalaght (Cornavarrow),2018,WIND,38.4,,wind farm,Energia,REPD
+repd-4108,4108,Northern Ireland,Co. Tyrone,54.633332,-6.300005,Seegronan,2016,WIND,13.8,,wind farm,Seegronan Windfarm,REPD
+repd-4109,4109,Scotland,Grampian,57.018818,-2.278314,Meikle Carewe,2013,WIND,10.0,,wind farm,The Renewables Infrastructure Group (TRIG),REPD
+repd-4110,4110,Scotland,Strathclyde,55.509326,-3.846264,Andershaw,2016,WIND,36.0,,wind farm,Statkraft UK,REPD
+repd-4111,4111,Northern Ireland,Co. Tyrone,54.550551,-6.942958,Eshmore,2016,WIND,6.9,,wind farm,Energia Renewables,REPD
+repd-4112,4112,Northern Ireland,Co. Tyrone,54.630891,-7.587211,Castlecraig,2018,WIND,25.0,,wind farm,Renewable Energy Systems (RES),REPD
+repd-4113,4113,England,Leicestershire,52.826198,-1.342652,East Midlands Airport,2011,WIND,1.0,,wind farm,Wind Direct,REPD
+repd-4114,4114,Scotland,Grampian,57.225297,-2.702931,Kildrummy Windfarm,2013,WIND,18.4,,wind farm,Greencoat UK Wind/Bay Wa .r.e/ SunGift,REPD
+repd-4116,4116,England,Bedfordshire,52.236272,-0.608879,Airfield Farm (Podington),2017,WIND,8.6,,wind farm,Airvolution Energy,REPD
+repd-4118,4118,Scotland,Highland,57.25148,-4.255802,Dunmaglass Wind Farm,2016,WIND,94.0,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4119,4119,Scotland,Dumfries and Galloway,55.239029,-3.574198,Harestanes,2014,WIND,136.0,,wind farm,Scottish Power Renewables,REPD
+repd-4120,4120,Scotland,Highland,57.668726,-4.773018,Corriemoillie,2017,WIND,54.4,,wind farm,EDF Energy Renewables,REPD
+repd-4121,4121,Scotland,Highland,58.579265,-3.132377,Hill of Stroupster Windfarm,2015,WIND,29.9,,wind farm,Greencoat UK Wind,REPD
+repd-4122,4122,Scotland,Highland,58.356759,-3.203854,Burn of Whilk,2015,WIND,22.5,,wind farm,RWE npower,REPD
+repd-4123,4123,Scotland,Highland,57.654594,-4.816701,Lochluichart,2014,WIND,51.0,,wind farm,Eneco,REPD
+repd-4124,4124,Northern Ireland,Co. Tyrone,54.705,-7.591006,Tievenameenta,2017,WIND,34.5,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4125,4125,Scotland,Stirling,55.912078,-3.774835,Burnhead,2016,WIND,26.0,,wind farm,Wind Prospect Developments/ EDF,REPD
+repd-4133,4133,Scotland,Grampian,57.157039,-2.621905,Easter Tolmauds,2016,WIND,1.6,,wind farm,Frank A Smart & Son Ltd,REPD
+repd-4138,4138,Wales,Mid Glamorgan,51.697775,-3.517936,Maerdy,2013,WIND,24.0,,wind farm,Greencoat UK Wind,REPD
+repd-4139,4139,Northern Ireland,Co. Tyrone,54.522197,-7.094612,Altamuskin,2017,WIND,7.1,,wind farm,Altamuskin Windfarm (Energia),REPD
+repd-4140,4140,England,Cornwall,50.425317,-4.814113,Woodlands Barton Wind Project,2014,WIND,4.6,,wind farm,Private Developer,REPD
+repd-4141,4141,England,Cumbria,54.779502,-3.346309,Westnewton,2014,WIND,6.2,,wind farm,Broadview Energy Limited,REPD
+repd-4142,4142,Northern Ireland,Co. Derry / Londonderry,55.08043,-6.888612,Windyhill Road (Dunbeg) Wind Farm,2014,WIND,42.0,,wind farm,Gaelectric Developments/ CGN Europe Energy,REPD
+repd-4143,4143,Northern Ireland,Co. Antrim,55.118492,-6.395822,Cloonty Wind Farm,2016,WIND,12.0,,wind farm,Gaelectric Developments/ CGN Europe Energy,REPD
+repd-4151,4151,Northern Ireland,Co. Tyrone,54.577826,-7.514138,Curraghamulkin (Dooish Wind Farm),2018,WIND,30.0,,wind farm,DW Consultancy,REPD
+repd-4152,4152,Northern Ireland,Co. Fermanagh,54.303101,-7.398529,Teiges,2018,WIND,11.0,,wind farm,Energia,REPD
+repd-4155,4155,Northern Ireland,Co. Derry / Londonderry,54.979139,-7.134075,Monnaboy Wind Farm,2015,WIND,12.0,,wind farm,Gaelectric Developments/ CGN Europe Energy,REPD
+repd-4156,4156,Northern Ireland,Co. Derry / Londonderry,54.739481,-6.771874,Crockandun,2017,WIND,15.0,,wind farm,Brookfield Renewable Energy Group,REPD
+repd-4157,4157,Scotland,Strathclyde,55.362804,-4.126283,Hare Hill Extension,2016,WIND,29.8,,wind farm,Scottish Power Renewables,REPD
+repd-4159,4159,England,Avon,51.502909,-2.698799,Avonmouth Port - extension,2014,WIND,9.0,,wind farm,Bristol Port Company,REPD
+repd-4163,4163,England,Northumberland,55.637293,-2.025088,Barmoor South Wind Farm,2015,WIND,13.8,,wind farm,EDF,REPD
+repd-4164,4164,England,Northamptonshire,52.365747,-1.062238,Winwick,2016,WIND,12.3,,wind farm,Blue Energy,REPD
+repd-4167,4167,England,Northumberland,55.249874,-1.618247,Sisters,2016,WIND,8.2,,wind farm,Infinis (formerly Novera Energy),REPD
+repd-4168,4168,England,Devon,50.917269,-4.4465,East Youlstone Wind Farm,2015,WIND,4.0,,wind farm,Airvolution Energy,REPD
+repd-4170,4170,Scotland,Grampian,57.45345,-2.164744,Hill of Skilmafilly Cloffrickford (Denmore) Wind Farm,2015,WIND,6.9,,wind farm,SAC Environment And Design,REPD
+repd-4174,4174,England,Lancashire,54.034244,-2.864982,Heysham South Wind Farm,2015,WIND,7.5,,wind farm,Banks Renewables,REPD
+repd-4175,4175,England,Cambridgeshire,52.33985,-0.307959,Woolley Hill Wind Farm,2014,WIND,10.0,,wind farm,Aviva,REPD
+repd-4177,4177,England,Cumbria,54.209141,-3.147585,Furness Wind Farm/High Winds (Harlock Repowering),2016,WIND,11.5,,wind farm,Baywind Co-op & Energy4All & Belltown Power,REPD
+repd-4178,4178,Scotland,Strathclyde,55.504143,-3.547902,Clyde Wind Farm Extension (Clyde 2),2017,WIND,172.8,,wind farm,Scottish and Southern Energy (SSE)/ GIB,REPD
+repd-4179,4179,Scotland,Borders,55.8674,-2.352659,Quixwood Moor,2017,WIND,29.9,,wind farm,NTR PLC,REPD
+repd-4184,4184,Scotland,Strathclyde,55.544659,-5.660194,Auchadaduie Wind Farm,2018,WIND,6.9,,wind farm,Fyne Futures,REPD
+repd-4189,4189,Scotland,Strathclyde,55.180607,-4.909576,Dalquhandy Windfarm,2023,WIND,42.0,,wind farm,Dalquhandy Wind Farm Limited,REPD
+repd-4193,4193,Wales,Neath Port Talbot,51.58298,-3.745739,Mynydd Brombil Wind Farm,2017,WIND,8.0,,wind farm,REG Windpower,REPD
+repd-4194,4194,Wales,Mid Glamorgan,51.560369,-3.449606,Mynydd Portref Wind Farm extension,2017,WIND,12.0,,wind farm,REG Windpower,REPD
+repd-4196,4196,Wales,Gwent,51.563309,-3.747885,Longlands Lane,2014,WIND,1.5,,wind farm,Renewable Energy Systems (RES),REPD
+repd-4200,4200,Scotland,Strathclyde,55.918487,-4.728912,Inverclyde Wind Farm (Corlic Hill),2021,WIND,24.0,,wind farm,BayWa r.e. (formerly Forsa),REPD
+repd-4206,4206,England,Derbyshire,53.091608,-1.621357,Ryder Point Quarry Wind Turbines,2015,WIND,5.0,,wind farm,Longcliffe Quarries,REPD
+repd-4210,4210,England,Northamptonshire,52.361554,-0.65184,Burton Wold Wind Farm - Northern Extension,2014,WIND,14.4,,wind farm,John Laing Environmental Assets Group,REPD
+repd-4211,4211,Scotland,Lothian,55.820522,-3.562406,Pearie Law Wind Farm,2016,WIND,19.2,,wind farm,EDF Energy Renewables,REPD
+repd-4213,4213,Scotland,Strathclyde,55.901073,-3.912007,Greengairs East Wind Farm,2023,WIND,24.0,,wind farm,Muirhall Energy,REPD
+repd-4215,4215,Scotland,Borders,55.926413,-2.53448,Crystal Rig Wind Farm Phase III,2016,WIND,13.8,,wind farm,Fred Olsen Renewables,REPD
+repd-4218,4218,Scotland,Lothian,55.90429,-3.778974,Drumduff,2017,WIND,8.5,,wind farm,Green Breeze Energy Ltd,REPD
+repd-4223,4223,Scotland,Clackmannanshire,56.20421,-3.782393,Rhodders Wind Farm,2016,WIND,12.0,,wind farm,EDF/Wind Prospect,REPD
+repd-4225,4225,Scotland,Lothian,55.808681,-3.532172,Harburnhead Wind Farm,2016,WIND,51.7,,wind farm,Gresham House,REPD
+repd-4227,4227,England,Devon,50.807875,-4.259697,Dunsland Cross Wind Farm,2017,WIND,7.5,,wind farm,Temporis Capital,REPD
+repd-4233,4233,England,Cumbria,54.602725,-3.503098,Potato Pot Wind Farm,2016,WIND,6.0,,wind farm,Capital Dynamics,REPD
+repd-4235,4235,Scotland,Strathclyde,55.735821,-4.780906,Millour Hill Community Windfarm (Extension),2016,WIND,6.4,,wind farm,Community Windpower,REPD
+repd-4240,4240,Scotland,Strathclyde,55.741606,-4.090001,Blantyre Muir Wind Farm extension,2014,WIND,7.5,,wind farm,West Coast Energy,REPD
+repd-4244,4244,Scotland,Grampian,57.350899,-3.131681,Dorenell Wind Farm (Previously Site A and B Scaut Hill),2018,WIND,177.0,,wind farm,EDF Energy Renewables/ Infinergy,REPD
+repd-4245,4245,Northern Ireland,Co. Tyrone,54.566897,-7.009606,Inishative,2017,WIND,13.8,,wind farm,Gaelectric Developments/ CGN Europe Energy,REPD
+repd-4246,4246,Northern Ireland,Co. Antrim,54.790191,-6.177805,Corby Knowe,2017,WIND,5.0,,wind farm,Gaelectric Developments/ CGN Europe Energy,REPD
+repd-4247,4247,Scotland,Stirling,56.08901,-4.123058,Earlsburn North (Kingsburn) Wind Farm,2016,WIND,22.5,,wind farm,Falck Renewables,REPD
+repd-4248,4248,England,Cambridgeshire,52.642193,-0.032319,Wryde Croft,2016,WIND,26.0,,wind farm,Renewable Energy Systems (RES),REPD
+repd-4249,4249,Northern Ireland,Co. Derry / Londonderry,54.980571,-6.765028,Brockaghboy Wind Farm,2017,WIND,37.5,,wind farm,Greencoat,REPD
+repd-4250,4250,England,Northumberland,55.519613,-1.764167,Wandylaw,2013,WIND,20.5,,wind farm,Blue Energy,REPD
+repd-4253,4253,Scotland,Strathclyde,55.762189,-3.762567,Black Law Extension - 1a,2016,WIND,48.4,,wind farm,Scottish Power Renewables,REPD
+repd-4255,4255,Northern Ireland,Co. Tyrone,54.552971,-7.047742,Crockbaravally Wind Farm,2017,WIND,7.5,,wind farm,Golden Square Energy,REPD
+repd-4256,4256,England,Lincolnshire,53.509919,-0.000732,Bishopthorpe,2017,WIND,16.4,,wind farm,Greencoat UK (formerly BayWa r.e.),REPD
+repd-4260,4260,England,Humberside,53.611796,-0.763685,Keadby Wind Farm,2015,WIND,68.0,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4261,4261,Scotland,Grampian,57.446611,-3.475393,Berry Burn,2014,WIND,66.7,,wind farm,Statkraft,REPD
+repd-4262,4262,Scotland,Strathclyde,55.3116,-4.174283,Afton Wind Farm,2018,WIND,50.0,,wind farm,InfraRed Capital Partners/ E.on,REPD
+repd-4263,4263,Scotland,Lothian,55.804809,-3.672109,Tormywheel,2017,WIND,30.75,,wind farm,BlackRock (formerly Muirhall Energy),REPD
+repd-4264,4264,Northern Ireland,Co. Tyrone,54.883795,-7.213614,Eglish Mountain,2017,WIND,13.8,,wind farm,ESB (Northern Wind Power),REPD
+repd-4266,4266,England,Devon,50.780124,-3.866607,Den Brook,2016,WIND,18.0,,wind farm,Aviva,REPD
+repd-4269,4269,Scotland,Strathclyde,55.304257,-4.488218,Dersalloch,2016,WIND,69.0,,wind farm,Scottish Power Renewables,REPD
+repd-4272,4272,Scotland,Western Isles,58.207946,-6.480677,Point Wind / Beinn Ghrideag Farm,2015,WIND,9.0,,wind farm,Point Power & Energy Ltd / SgurrEnergy,REPD
+repd-4281,4281,Scotland,Strathclyde,55.758392,-3.605546,Muirhall South,2016,WIND,8.3,,wind farm,Muirhall Energy,REPD
+repd-4295,4295,England,Bedfordshire,51.951908,-0.634328,Double Arches Quarry Wind Turbine,2014,WIND,1.5,,wind farm,Arnold White Estates (AWE Renewables),REPD
+repd-4297,4297,Northern Ireland,Co. Derry / Londonderry,54.995238,-6.801057,Craiggore windfarm,2015,WIND,23.5,,wind farm,Renewable Energy Systems (RES),REPD
+repd-4299,4299,Scotland,Highland,58.595069,-3.262944,Lochend Wind Farm,2017,WIND,9.2,,wind farm,Wind Harvest,REPD
+repd-4300,4300,Scotland,Highland,58.219301,-4.51121,Creag Riabhach Wind Farm,2023,WIND,92.4,,wind farm,ERG,REPD
+repd-4307,4307,Scotland,Strathclyde,55.836294,-3.76496,West Benhar wind farm,2023,WIND,27.2,,wind farm,EDF Energy Renewables,REPD
+repd-4316,4316,England,Cumbria,55.009571,-2.915342,Hallburn Farm,2018,WIND,13.2,,wind farm,REG Windpower/ BlackRock,REPD
+repd-4320,4320,Northern Ireland,Co. Tyrone,54.568891,-7.049404,Crockdun,2017,WIND,12.5,,wind farm,ESB (Northern Wind Power),REPD
+repd-4321,4321,England,Lancashire,53.749662,-2.149984,Coal Clough Wind Farm Repowering,2015,WIND,16.0,,wind farm,Coal Clough Wind Farm,REPD
+repd-4325,4325,Northern Ireland,Co. Tyrone,54.476618,-7.089966,Shantavny Scotch,2017,WIND,16.1,,wind farm,Tyrone Wind Energy Ltd,REPD
+repd-4326,4326,England,East Sussex,50.829478,0.270884,Shepham Lane,2017,WIND,7.5,,wind farm,Foresight,REPD
+repd-4327,4327,England,Humberside,53.834947,-0.596741,Sober Hill Wind Farm,2013,WIND,15.0,,wind farm,West Coast Energy,REPD
+repd-4328,4328,Scotland,Strathclyde,55.934101,-5.480522,Srondoire Community Wind Farm,2015,WIND,6.0,,wind farm,Srondoire Wind Farmers LLP,REPD
+repd-4330,4330,Scotland,Highland,58.448921,-3.454593,Achlachan Wind Farm,2019,WIND,10.0,,wind farm,Whirlwind Renewables,REPD
+repd-4331,4331,Scotland,Strathclyde,56.152768,-5.310216,A'Chruach (Phase 1),2016,WIND,48.3,,wind farm,Infinis (formerly Novera Energy),REPD
+repd-4332,4332,Scotland,Lothian,55.917209,-2.490066,"Aikengall II, Wester Dod Community Wind Farm",2017,WIND,60.8,,wind farm,Community Windpower,REPD
+repd-4335,4335,England,Avon,51.572297,-2.499918,Alveston Wind Park,2017,WIND,6.9,,wind farm,Ecotricity,REPD
+repd-4337,4337,Scotland,Strathclyde,55.624003,-3.984211,Auchrobert Wind Farm,2017,WIND,36.0,,wind farm,Falck Renewables,REPD
+repd-4345,4345,England,Cambridgeshire,52.535073,0.060602,Boardinghouse Wind Farm,2015,WIND,10.3,,wind farm,Ecogen,REPD
+repd-4346,4346,Scotland,Grampian,57.566264,-2.299949,Bogenlea Farm,2014,WIND,2.3,,wind farm,Eco2,REPD
+repd-4348,4348,Scotland,Grampian,56.839909,-2.379147,BROWNIELEYS - 3 WIND TURBINES,2017,WIND,7.5,,wind farm,Brownieleys Renewables/Muirden Energy,REPD
+repd-4350,4350,Scotland,Grampian,57.463869,-2.89924,Cairnborrow,2017,WIND,10.0,,wind farm,Engie (GDF Suez),REPD
+repd-4354,4354,England,Greater Manchester,53.668146,-2.111659,Crook Hill (Calderdale MBC) 1 of 2,2015,WIND,13.6,,wind farm,Infrared Capital Partners,REPD
+repd-4360,4360,Scotland,Grampian,57.590657,-2.615707,Deuchries,2017,WIND,6.9,,wind farm,Force 9 Energy / Catamount Energy/ Green Cat,REPD
+repd-4361,4361,Northern Ireland,Co. Derry / Londonderry,54.811216,-6.708159,Draperstown (Brackagh) Wind Farm,2017,WIND,6.0,,wind farm,Renewable Energy Generation (REG),REPD
+repd-4362,4362,Scotland,Strathclyde,55.608587,-4.097747,Dungavel Hill,2015,WIND,29.9,,wind farm,John Laing Environmental Assets Group,REPD
+repd-4363,4363,Scotland,Fife,56.173657,-3.081323,Earlseat,2014,WIND,18.4,,wind farm,The Renewables Infrastructure Group (TRIG),REPD
+repd-4365,4365,Scotland,Grampian,56.83639,-2.395698,Easter Tulloch Wind Farm (Tullo Extension),2014,WIND,25.0,,wind farm,N R Gammie Partnership,REPD
+repd-4368,4368,Scotland,Strathclyde,55.539575,-3.975422,Galawhistle,2017,WIND,66.0,,wind farm,Ventient (formerly Infinis),REPD
+repd-4369,4369,England,Lincolnshire,53.362638,0.166,Gayton Le Marsh Wind Farm,2016,WIND,16.4,,wind farm,Energiekontor UK,REPD
+repd-4370,4370,Scotland,Strathclyde,55.592867,-4.618189,GlaxoSmithKline Wind Project (Turbine 4),2014,WIND,2.5,,wind farm,GlaxoSmithKline,REPD
+repd-4371,4371,Scotland,Highland,57.320732,-4.08565,Glen Kyllachy Wind Farm,2022,WIND,48.5,,wind farm,Greencoat UK Wind,REPD
+repd-4373,4373,England,Humberside,53.665926,-0.889283,Goole Fields,2014,WIND,32.8,,wind farm,RWE npower,REPD
+repd-4374,4374,England,Cambridgeshire,52.520671,-0.00459,Greenvale AP Wind Turbine,2014,WIND,1.5,,wind farm,Greenvale AP,REPD
+repd-4381,4381,Scotland,Grampian,57.51052,-3.615587,Hill of Glaschyle Wind Farm,2016,WIND,27.6,,wind farm,Muirden Energy,REPD
+repd-4386,4386,Scotland,Dumfries and Galloway,54.988453,-4.801716,Kilgallioch wind farm,2017,WIND,239.0,,wind farm,Scottish Power Renewables,REPD
+repd-4390,4390,England,County Durham,54.546208,-1.326261,Lambs Hill,2017,WIND,8.0,,wind farm,Banks Renewables,REPD
+repd-4395,4395,Scotland,Highland,57.680113,-4.841364,Lochluichart (Extension),2014,WIND,18.0,,wind farm,Infinergy,REPD
+repd-4399,4399,England,Northamptonshire,52.161721,-0.861655,M1 Wind Farm,2014,WIND,7.2,,wind farm,Wind Prospect Developments,REPD
+repd-4403,4403,England,Kent,51.396041,0.86325,New Rides Wind Farm,2018,WIND,8.8,,wind farm,Airvolution Energy,REPD
+repd-4404,4404,Scotland,Fife,56.164073,-3.159266,Noble Foods,2014,WIND,1.5,,wind farm,Wind Direct,REPD
+repd-4408,4408,England,West Yorkshire,53.778922,-1.933254,Ovenden Moor (Repower),2017,WIND,18.0,,wind farm,Yorkshire Windpower,REPD
+repd-4409,4409,Wales,Mid Glamorgan,51.587228,-3.522043,Pant y wal extension,2017,WIND,20.0,,wind farm,Pennant Walters (PYWX),REPD
+repd-4410,4410,England,South Yorkshire,53.573974,-1.402109,Park Spring Wind Farm,2015,WIND,8.6,,wind farm,EDF Energy Renewables,REPD
+repd-4411,4411,Scotland,Grampian,56.814732,-2.37185,Brotherton (formerly Paul Matthew Hill wind turbines),2017,WIND,4.6,,wind farm,Renewable Energy Ventures,REPD
+repd-4412,4412,Wales,Mid Glamorgan,51.774852,-3.275913,Pen Bryn Oer Wind Farm,2018,WIND,4.0,,wind farm,REG Windpower/ BlackRock,REPD
+repd-4414,4414,England,Cambridgeshire,52.468139,-0.122389,Ramsey Wind Farm Extension,2015,WIND,8.0,,wind farm,REG Windpower,REPD
+repd-4415,4415,England,Cleveland,54.646767,-1.32057,Red Gap Moor Wind Farm,2017,WIND,12.5,,wind farm,Capital Dynamics,REPD
+repd-4419,4419,England,West Yorkshire,53.700629,-2.159003,Todmorden Moor,2014,WIND,12.3,,wind farm,Todmorden Moor Wind Farm Ltd,REPD
+repd-4420,4420,Scotland,Highland,57.392883,-3.891705,Tom Nan Clach,2019,WIND,39.0,,wind farm,Infinergy,REPD
+repd-4422,4422,Scotland,Grampian,56.827422,-2.404894,Tullo Wind Farm South (Ext.),2014,WIND,10.0,,wind farm,Eneco,REPD
+repd-4424,4424,England,Northamptonshire,52.326518,-1.106942,Watford Lodge,2015,WIND,12.5,,wind farm,Broadview Energy,REPD
+repd-4425,4425,Scotland,Highland,58.435158,-3.215899,Wathegar 2 Wind Farm,2017,WIND,18.5,,wind farm,BayWa r.e.,REPD
+repd-4427,4427,Scotland,Strathclyde,55.658992,-4.209136,West Browncastle,2014,WIND,30.0,,wind farm,Falck Renewables,REPD
+repd-4431,4431,Scotland,Dumfries and Galloway,55.292208,-4.203149,Brochloch Rig (formerly Windy Standard II),2017,WIND,90.0,,wind farm,Fred Olsen Renewables,REPD
+repd-4432,4432,England,Humberside,53.859019,-0.165629,Withernwick extension,2019,WIND,8.2,,wind farm,Energiekontor UK,REPD
+repd-4434,4434,Scotland,Lothian,55.821848,-2.833022,Pogbie Wind Farm 1,2019,WIND,5.1,,wind farm,Mongoose (formerly Energy Law Unlimited),REPD
+repd-4435,4435,Scotland,Dumfries and Galloway,54.865699,-4.787907,Barlockhart Moor,2013,WIND,8.1,,wind farm,West Coast Energy,REPD
+repd-4437,4437,Scotland,Dumfries and Galloway,55.248768,-3.514802,Minnygap,2017,WIND,25.0,,wind farm,Minnygap (formerly RES),REPD
+repd-4440,4440,Scotland,Strathclyde,55.512886,-3.804017,Middle Muir Wind Farm,2019,WIND,51.0,,wind farm,Banks Renewables,REPD
+repd-4441,4441,Scotland,Dumfries and Galloway,55.344177,-4.04657,Sanquhar Community Windfarm,2018,WIND,32.4,,wind farm,Community Windpower,REPD
+repd-4445,4445,Scotland,Dumfries and Galloway,54.872493,-4.516466,Balmurrie Fell Wind Farm,2012,WIND,9.1,,wind farm,Scottish Southern Energy,REPD
+repd-4449,4449,Scotland,Dumfries and Galloway,55.100174,-3.107751,Solwaybank Wind Farm,2020,WIND,30.0,,wind farm,The Renewables Infrastructure Group (TRIG),REPD
+repd-4450,4450,Scotland,Tayside,56.215393,-3.768914,Burnfoot Hill Extension,2014,WIND,4.0,,wind farm,Private Developer,REPD
+repd-4462,4462,Scotland,Dumfries and Galloway,54.802051,-4.657736,Airies Farm,2017,WIND,35.0,,wind farm,NTR,REPD
+repd-4465,4465,Scotland,Dumfries and Galloway,54.868471,-5.087127,Craig Wind Farm (Extension),2017,WIND,2.5,,wind farm,Temporis Capital,REPD
+repd-4483,4483,Wales,Dyfed,51.774458,-5.000764,Lawrence Landfill,2017,WIND,1.6,,wind farm,Wind Energy Direct,REPD
+repd-4484,4484,Scotland,Dumfries and Galloway,54.956258,-3.760213,Plascow wind cluster,2015,WIND,2.4,,wind farm,Private Developer,REPD
+repd-4485,4485,Wales,West Glamorgan,51.740558,-3.644235,Maesgwyn Wind Farm - extension,2016,WIND,2.5,,wind farm,Pennant Walters (MAESX) Limited,REPD
+repd-4493,4493,England,Leicestershire,52.639806,-1.325218,Halifax Farm,2015,WIND,1.6,,wind farm,Wentworth and Harper,REPD
+repd-4497,4497,England,Hereford and Worcester,52.164311,-2.14273,Norton Fields Farm,2015,WIND,1.3,,wind farm,REsense c/o CO2Sense,REPD
+repd-4501,4501,Scotland,Dumfries and Galloway,54.859096,-4.727968,Carscreugh Renewable Energy Park,2014,WIND,15.3,,wind farm,John Laing Environmental Assets Group/ REG Power Management,REPD
+repd-4502,4502,Scotland,Dumfries and Galloway,55.357414,-4.029442,Whiteside Hill,2018,WIND,25.3,,wind farm,Whiteside Hill Farm (Scotland),REPD
+repd-4504,4504,Northern Ireland,Co. Fermanagh,54.190281,-7.6284,Slieve Rushen Extension,2008,WIND,54.0,,wind farm,Unknown,REPD
+repd-4508,4508,Scotland,Dumfries and Galloway,54.877078,-5.088098,North Rhins,2010,WIND,22.0,,wind farm,Greencoat UK Wind,REPD
+repd-4511,4511,Scotland,Grampian,56.93989,-2.386621,Jacksbank Wind Farm (Glenbervie),2014,WIND,6.8,,wind farm,East Coast Viners,REPD
+repd-4513,4513,England,Northamptonshire,52.450196,-0.755407,New Albion Wind Farm,2016,WIND,14.4,,wind farm,John Laing Environmental Assets Group,REPD
+repd-4514,4514,Scotland,Dumfries and Galloway,55.379019,-3.94891,Sunnyside wind cluster,2015,WIND,1.0,,wind farm,Sunnyside Wind Farm,REPD
+repd-4516,4516,Scotland,Lothian,55.817272,-2.825456,Keith Hill,2017,WIND,4.5,,wind farm,Sky Wind Energy,REPD
+repd-4517,4517,Scotland,Dumfries and Galloway,55.122071,-3.352857,Minsca,2008,WIND,36.8,,wind farm,Airtricity,REPD
+repd-4518,4518,Scotland,Dumfries and Galloway,54.970412,-4.774581,Artfield Fell,2005,WIND,19.5,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4519,4519,Scotland,Dumfries and Galloway,55.223054,-4.045235,Wether Hill,2007,WIND,18.2,,wind farm,Scottish Power/CRE Energy,REPD
+repd-4520,4520,Scotland,Dumfries and Galloway,55.184097,-3.650562,Dalswinton,2008,WIND,30.0,,wind farm,Airtricity Scotland,REPD
+repd-4524,4524,Scotland,Dumfries and Galloway,55.164118,-3.068992,Craig Wind Farm,2007,WIND,10.0,,wind farm,Craig Wind Farm Co,REPD
+repd-4525,4525,Scotland,Strathclyde,55.573171,-5.587353,Beinn an Tuirc Phase 2,2014,WIND,43.7,,wind farm,Scottish Power Renewables,REPD
+repd-4526,4526,Scotland,Lothian,55.917209,-2.490066,Aikengall,2008,WIND,48.0,,wind farm,Community Wind Power,REPD
+repd-4527,4527,Scotland,Dumfries and Galloway,55.297065,-4.182939,Brochloch Rig 1 (formerly Windy Standard),1996,WIND,21.6,,wind farm,Fred Olsen Renewables,REPD
+repd-4532,4532,England,Nottinghamshire,53.048234,-0.814197,Hawton Wind Farm,2017,WIND,9.0,,wind farm,Temporis Capital,REPD
+repd-4544,4544,England,Cumbria,55.010681,-3.026266,Beck Burn,2017,WIND,31.0,,wind farm,EDF Energy Renewables,REPD
+repd-4552,4552,Wales,Clwyd,53.071041,-3.489152,Clocaenog Forest Wind Farm,2019,WIND,96.0,,wind farm,RWE Innogy UK,REPD
+repd-4557,4557,Northern Ireland,Co. Tyrone,54.512752,-7.111343,Altamuskin Extension,2017,WIND,7.1,,wind farm,Altamuskin Windfarm (Energia),REPD
+repd-4558,4558,Northern Ireland,Co. Antrim,54.951489,-6.175702,Rathsherry,2018,WIND,21.0,,wind farm,Energia (formerly Brookfield Renewable Energy Group),REPD
+repd-4563,4563,Northern Ireland,Co. Antrim,54.932611,-6.192862,Elginny Hill,2018,WIND,22.0,,wind farm,Brookfields (Antrim Wind Energy),REPD
+repd-4575,4575,Scotland,Borders,55.920688,-2.391497,Hoprigshiels Community Wind Farm,2017,WIND,6.9,,wind farm,Private Developer,REPD
+repd-4580,4580,Scotland,Strathclyde,55.762189,-3.762567,Black Law Extension - 1b,2016,WIND,15.0,,wind farm,Scottish Power Renewables,REPD
+repd-4586,4586,Scotland,Strathclyde,55.317335,-4.293183,South Kyle Wind Farm,2023,WIND,240.0,,wind farm,Vattenfall,REPD
+repd-4591,4591,Scotland,Borders,55.893416,-2.45259,Aikengall IIa Community Wind Farm,2021,WIND,81.7,,wind farm,Community Windpower,REPD
+repd-4593,4593,Scotland,Strathclyde,55.000661,-4.989676,Glen App,2017,WIND,22.0,,wind farm,Scottish Power Renewables,REPD
+repd-4595,4595,Wales,Neath Port Talbot,51.655543,-3.69573,Pen Y Cymoedd,2017,WIND,228.0,,wind farm,Vattenfall (previously Nuon Renewables),REPD
+repd-4597,4597,Scotland,Highland,57.126925,-4.52637,Stronelairg Wind Farm,2018,WIND,227.7,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4598,4598,England,Northamptonshire,52.349501,-1.157687,M1 J18 Wind Turbines,2014,WIND,4.0,,wind farm,Airvolution Energy,REPD
+repd-4599,4599,Scotland,Tayside,56.654908,-3.313414,Tullymurdoch Wind Farm,2018,WIND,14.4,,wind farm,Temporis Capital,REPD
+repd-4600,4600,Scotland,Borders,55.896866,-2.321296,Penmanshiel Wind Farm,2016,WIND,28.7,,wind farm,Renewable Energy Systems (RES),REPD
+repd-4601,4601,Scotland,Borders,55.934781,-2.363692,Kinegar Quarry,2017,WIND,5.0,,wind farm,Airvolution Energy,REPD
+repd-4604,4604,England,Cornwall,50.495576,-4.821264,St. Breock Re-Power,2015,WIND,10.0,,wind farm,REG & Blackrock,REPD
+repd-4605,4605,Scotland,Strathclyde,55.568256,-5.643539,Blary Hill Wind Farm,2022,WIND,35.0,,wind farm,Renewables Infrastructure Group / Renewable Energy Systems (RES),REPD
+repd-4619,4619,Scotland,Strathclyde,56.33901,-5.294537,Carraig Gheal,2013,WIND,46.0,,wind farm,Green Power,REPD
+repd-4620,4620,Scotland,Borders,55.470665,-2.939888,Langhope Rig,2015,WIND,16.0,,wind farm,Greencoat UK Wind,REPD
+repd-4623,4623,Scotland,Grampian,57.366482,-2.866148,Clashindarroch,2015,WIND,37.0,,wind farm,Vattenfall,REPD
+repd-4624,4624,England,Devon,50.918685,-4.271451,Galsworthy Wind Park,2014,WIND,9.2,,wind farm,Ecotricity,REPD
+repd-4625,4625,Scotland,Highland,58.490004,-4.033588,Strathy North,2015,WIND,67.7,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4627,4627,Scotland,Grampian,56.968775,-2.486164,Mid Hill - Phase II,2014,WIND,18.4,,wind farm,Fred Olsen Renewables,REPD
+repd-4628,4628,Scotland,Strathclyde,55.632652,-4.036105,Kype Muir Wind Farm Extension,2024,WIND,67.2,,wind farm,Banks Renewables,REPD
+repd-4629,4629,Scotland,Western Isles,57.941675,-6.831798,Monan Hill Wind Turbines,2015,WIND,1.5,,wind farm,North Harris Trust,REPD
+repd-4633,4633,Scotland,Dumfries and Galloway,55.176148,-3.17287,Crossdykes,2021,WIND,48.0,,wind farm,Muirhall Energy,REPD
+repd-4636,4636,Scotland,Highland,58.4309,-3.444447,Halsary Wind Farm,2021,WIND,34.0,,wind farm,Scottish Power Renewables,REPD
+repd-4637,4637,England,Cambridgeshire,52.663543,-0.104339,French Farm,2016,WIND,4.0,,wind farm,REG Windpower (previously Cornwall Light and Power),REPD
+repd-4638,4638,Scotland,Dumfries and Galloway,54.96342,-4.754334,Glenchamber Wind Farm,2016,WIND,27.5,,wind farm,Renewable Energy Systems (RES),REPD
+repd-4640,4640,Scotland,Highland,57.219147,-4.581905,Bhlaraidh (previously Balmacaan),2017,WIND,110.0,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4642,4642,England,County Durham,54.574647,-1.497238,Moor House Wind Farm,2017,WIND,12.0,,wind farm,Banks Renewables,REPD
+repd-4643,4643,Scotland,Strathclyde,55.632652,-4.036105,Kype Muir Wind Farm,2019,WIND,88.4,,wind farm,Banks Renewables,REPD
+repd-4644,4644,Wales,Neath Port Talbot,51.642739,-3.614678,Llynfi Afan Renewable Energy Park,2017,WIND,6.0,,wind farm,John Laing Environmental Assets Group,REPD
+repd-4645,4645,Scotland,Strathclyde,55.226478,-4.778705,Assel Valley Wind Farm,2016,WIND,25.0,,wind farm,Falck Renewables,REPD
+repd-4646,4646,Scotland,Highland,58.420462,-3.429193,Bad a Cheo Wind Farm,2019,WIND,26.7,,wind farm,Innogy,REPD
+repd-4647,4647,England,Humberside,54.047876,-0.230717,Fraisthorpe Wind Farm,2016,WIND,29.7,,wind farm,Octopus Investments,REPD
+repd-4648,4648,Wales,West Glamorgan,51.749241,-3.938129,Mynydd Y Gwair Wind Farm,2019,WIND,32.8,,wind farm,RWE Npower Renewables/ Innogy,REPD
+repd-4649,4649,England,Norfolk,52.884084,0.687391,Jack's Lane Wind Farm,2015,WIND,13.8,,wind farm,Aviva,REPD
+repd-4651,4651,England,Cornwall,50.465949,-4.961515,Denzell Downs Wind Farm,2015,WIND,10.0,,wind farm,REG Windpower / BlackRock,REPD
+repd-4652,4652,Northern Ireland,Co. Antrim,54.984096,-6.442005,Long Mountain,2016,WIND,27.6,,wind farm,Energia Renewables,REPD
+repd-4653,4653,Northern Ireland,Co. Tyrone,54.622596,-6.979109,Cregganconroe,2017,WIND,13.8,,wind farm,Gaelectric Developments/ CGN Europe Energy,REPD
+repd-4654,4654,Northern Ireland,Co. Fermanagh,54.338496,-7.895903,Ora More,2017,WIND,15.0,,wind farm,Natural Power,REPD
+repd-4655,4655,England,Lancashire,53.700169,-2.167105,Reaps Moss Wind Farm,2015,WIND,10.2,,wind farm,Infrared Capital Partners,REPD
+repd-4656,4656,Wales,Neath Port Talbot,51.64489,-3.621085,"Llynfi Renewable Energy Park, Land at Mynydd Caerau",2017,WIND,24.0,,wind farm,John Laing Environmental Assets Group,REPD
+repd-4657,4657,England,Norfolk,52.856878,0.69076,Chiplow,2016,WIND,8.2,,wind farm,Blue Energy,REPD
+repd-4658,4658,England,West Yorkshire,53.811902,-1.335521,Hook Moor,2016,WIND,10.3,,wind farm,Banks Renewables,REPD
+repd-4659,4659,England,Greater Manchester,53.67048,-2.114768,Crook Hill (Rochdale MBC) 2 of 2,2015,WIND,23.8,,wind farm,Infrared Capital Partners,REPD
+repd-4660,4660,England,Humberside,53.677469,-0.114115,Far Marsh Farm,2017,WIND,7.5,,wind farm,Private Developer,REPD
+repd-4661,4661,Wales,Dyfed,51.702139,-4.996465,Wear Point,2014,WIND,8.2,,wind farm,John Laing Environmental Assets Group,REPD
+repd-4662,4662,England,Essex,51.663137,0.892474,Middlewick wind farm,2014,WIND,20.7,,wind farm,Blue Energy (formerly Ridgewind Ltd),REPD
+repd-4663,4663,England,Northumberland,55.129175,-1.499237,Blyth Harbour Wind Farm (re-power),2012,WIND,3.4,,wind farm,Hainsford Energy,REPD
+repd-4664,4664,Scotland,Highland,57.190085,-4.359638,Corriegarth,2016,WIND,69.5,,wind farm,Greencoat Capital,REPD
+repd-4665,4665,England,Derbyshire,53.084455,-1.633588,Carsington Pasture,2014,WIND,8.0,,wind farm,Carsington Wind Energy Limited,REPD
+repd-4666,4666,England,Bedfordshire,52.058987,-0.245279,Langford Wind Farm,2014,WIND,20.0,,wind farm,Co-operative Group,REPD
+repd-4667,4667,Scotland,Grampian,56.968775,-2.486164,Mid Hill I,2013,WIND,57.5,,wind farm,Fred Olsen Renewables,REPD
+repd-4668,4668,Scotland,Strathclyde,55.6439,-4.806141,Ardrossan Extension,2008,WIND,6.0,,wind farm,Airtricity,REPD
+repd-4669,4669,Scotland,Highland,57.805275,-4.328995,Beinn Tharsuinn Windfarm Project,2005,WIND,29.8,,wind farm,CRE Energy/ Scottish Power,REPD
+repd-4670,4670,Wales,Dyfed,51.977807,-4.237983,Blaengwen,2009,WIND,23.0,,wind farm,Statkraft and Catamount Energy Corporation,REPD
+repd-4671,4671,Scotland,Grampian,57.66533,-2.638964,Boyndie Airfield,2006,WIND,16.7,,wind farm,RDC Scotland Ltd/ Falck Renewables,REPD
+repd-4672,4672,England,Northamptonshire,52.360762,-0.643082,Burton Wold Windfarm,2006,WIND,20.0,,wind farm,Gravis Capital Management,REPD
+repd-4674,4674,Scotland,Highland,57.469127,-6.432206,Edinbane Wind Farm,2010,WIND,41.4,,wind farm,Vattenfall,REPD
+repd-4675,4675,Scotland,Highland,57.53291,-4.63153,Fairburn,2010,WIND,43.0,,wind farm,Scottish and Southern Energy (SSE),REPD
+repd-4676,4676,Scotland,Highland,57.333921,-4.103012,Farr Wind Farm,2005,WIND,92.0,,wind farm,Innogy (formerly RWE npower),REPD
+repd-4677,4677,Wales,West Glamorgan,51.682956,-3.628665,Ffynnon Oer Wind Farm,2005,WIND,32.0,,wind farm,RWE npower,REPD
+repd-4678,4678,Scotland,Orkney Islands,58.841247,-3.097252,Flotta,2010,WIND,1.8,,wind farm,Scotwind (Scottish Renewables),REPD
+repd-4679,4679,Scotland,Highland,58.602359,-3.688136,Forss Wind Farm (Extension),2007,WIND,5.2,,wind farm,Renewable Energy Systems (RES),REPD
+repd-4680,4680,Northern Ireland,Co. Tyrone,54.634296,-7.605213,Lough Hill,2006,WIND,10.5,,wind farm,B9 / Renewable Energy Systems (RES),REPD
+repd-4681,4681,Scotland,Tayside,56.483633,-2.893828,Michelin Tyre Co Ltd - Dundee,2006,WIND,4.0,,wind farm,Ecotricity,REPD
+repd-4682,4682,Scotland,Highland,57.155227,-4.883641,Millennium Windfarm,2008,WIND,40.0,,wind farm,Renewable Development Company (RDC) Scotland (Ltd) for FALCK RENEWABLES,REPD
+repd-4683,4683,Scotland,Strathclyde,55.766934,-3.585765,Muirhall,2011,WIND,12.3,,wind farm,Lomond Energy,REPD
+repd-4684,4684,Wales,Powys,52.578386,-3.428477,Mynydd Clogau Wind Farm,2005,WIND,14.5,,wind farm,Renewable Energy Systems (RES),REPD
+repd-4685,4685,England,Lancashire,53.773154,-2.30342,New Barn Farm,2007,WIND,4.5,,wind farm,Private Developer,REPD
+repd-4686,4686,England,Norfolk,52.629221,0.732052,North Pickenham,2006,WIND,14.4,,wind farm,Foresight Group,REPD
+repd-4687,4687,Scotland,Grampian,57.446152,-3.476207,Paul's Hill and Extension,2006,WIND,65.0,,wind farm,Fred Olsen Renewables,REPD
+repd-4688,4688,Northern Ireland,Co. Fermanagh,54.547136,-7.69558,Tappaghan Extension,2009,WIND,9.0,,wind farm,Greencoat UK Wind,REPD
+repd-4689,4689,Wales,Clwyd,53.117027,-3.4911,Tir Mostyn And Foel Goch Wind Farm,2005,WIND,21.3,,wind farm,Munich Re (previously Windjen Power Ltd),REPD
+repd-4690,4690,England,County Durham,54.720416,-1.442637,Trimdon Grange,2008,WIND,5.2,,wind farm,Cumbria Wind Farms,REPD
+repd-4691,4691,Scotland,Strathclyde,55.722484,-4.789481,Wardlaw Wood,2006,WIND,18.0,,wind farm,Wind Prospect / Community Windpower,REPD
+repd-4747,4747,Scotland,North Lanarkshire,55.871062,-3.729537,Southrigg,2016,WIND,1.5,,wind farm,Southrigg WT,REPD
+repd-4790,4790,Wales,Flintshire,53.28967,-3.200769,Kingspan,2019,WIND,1.8,,wind farm,Kingspan,REPD
+repd-4817,4817,Scotland,Perth and Kinross,56.30614,-3.329623,Binn Eco Park - Wind Farm,2020,WIND,10.0,,wind farm,Binn Eco Park,REPD
+repd-4892,4892,Scotland,Aberdeenshire,57.622324,-2.613012,Gawnsmoss Cluster,2017,WIND,2.4,,wind farm,Farm Energy Consulting,REPD
+repd-4908,4908,England,Buckinghamshire,51.842402,-0.835991,Quarrendon Fields,2014,WIND,1.5,,wind farm,AWE Renewables,REPD
+repd-4917,4917,England,Nottinghamshire,53.075258,-1.217812,Newstead and Annesley Wind Turbine,2016,WIND,1.5,,wind farm,Redpath Energy,REPD
+repd-4976,4976,England,London,51.525635,0.07991,Beckton Sewage Treatment Works,2014,WIND,2.2,,wind farm,Thames Water Utilities,REPD
+repd-4988,4988,Scotland,South Ayrshire,55.306419,-4.739855,Kirk Hill Wind Farm,2024,WIND,18.8,,wind farm,Corolis Energy/ ESB / Ripple Energy,REPD
+repd-4995,4995,England,Humberside,53.71722,-0.533636,Melton Waste Park,2017,WIND,5.0,,wind farm,Seneca Global Energy,REPD
+repd-5187,5187,Scotland,Highland,58.601265,-3.679805,Hill of Lybster (Wind Turbine - Extension),2021,WIND,1.5,,wind farm,The Energy Workshop,REPD
+repd-5277,5277,England,Northamptonshire,52.353551,-0.656488,Burton Wold Wind Farm South,2017,WIND,7.5,,wind farm,Infinergy/ Muirhall Energy,REPD
+repd-5393,5393,Scotland,South Lanarkshire,55.587358,-3.890104,Douglas West and Dalquhandy Renewable Energy Project,2023,WIND,45.0,,wind farm,Greencoat (formerly 3R Energy/Blue Energy) / BayWa r.e,REPD
+repd-5455,5455,Scotland,South Lanarkshire,55.571843,-3.958944,Cumberhead Wind Farm,2023,WIND,48.0,,wind farm,Octopus Renewables Infrastructure Trust,REPD
+repd-5555,5555,Wales,Gwent,51.555914,-2.973815,ANP Newport Wind Turbine,2016,WIND,2.3,,wind farm,Associated British Ports,REPD
+repd-5598,5598,Wales,Denbighshire,53.108965,-3.503056,Brenig Wind Farm,2018,WIND,37.6,,wind farm,CGNEE,REPD
+repd-5637,5637,Scotland,East Lothian,55.839451,-2.842101,Pogbie Wind Farm 2,2019,WIND,4.8,,wind farm,Mongoose (formerly Energy Law Unlimited/ Pogbie Windfarm),REPD
+repd-6005,6005,Scotland,Highland,58.528483,-3.742049,Limekiln Wind Farm,2025,WIND,79.8,,wind farm,Boralex/Infinergy,REPD
+repd-6013,6013,Wales,Mid Glamorgan,51.507722,-3.671127,"Parc Stormy, Stormy Down",2016,WIND,2.5,,wind farm,Cenin Renewables,REPD
+repd-6033,6033,Wales,Clwyd,53.017511,-3.498787,Bodtegir,2017,WIND,1.5,,wind farm,Clean Earth Energy,REPD
+repd-6079,6079,Wales,Mid Glamorgan,51.55888,-3.391394,West of Rhiwfelin Fach Farm,2018,WIND,1.5,,wind farm,Infinite Renewables,REPD
+repd-6106,6106,Scotland,South Lanarkshire,55.687104,-3.933365,Marshill Farm,2015,WIND,1.5,,wind farm,Green Cat Renewables,REPD
+repd-6120,6120,England,Bedfordshire,51.954869,-0.631444,Checkley Wood Farm,2024,WIND,4.1,,wind farm,AW Group,REPD
+repd-6136,6136,Scotland,Offshore,56.99728,-1.873801,Kincardine Offshore Windfarm,2021,WIND-OFFSHORE,49.5,,wind farm,Grupo Cobra,REPD
+repd-6147,6147,Scotland,Scottish Borders,55.353743,-2.730268,Pines Burn Wind Farm,2024,WIND,33.6,,wind farm,EnergieKontor UK,REPD
+repd-6173,6173,Scotland,South Lanarkshire,55.633298,-3.910458,Woodlands Wind Farm,2016,WIND,2.6,,wind farm,WhiteRock Energy,REPD
+repd-6293,6293,England,Avon,51.516994,-2.689071,Accolade Wines,2019,WIND,2.5,,wind farm,Clean Earth Energy,REPD
+repd-6318,6318,Scotland,Stirling,56.045452,-4.068481,Craigannet Farm Wind Turbine,2017,WIND,1.5,,wind farm,Clean Earth Energy,REPD
+repd-6324,6324,Scotland,Clackmannanshire,56.209114,-3.759967,Burnfoot East Wind Farm (further extension),2020,WIND,10.8,,wind farm,Wind Prospect Developments,REPD
+repd-6388,6388,Scotland,East Lothian,55.914843,-2.417819,Ferneylea Farm,2015,WIND,1.5,,wind farm,CBK Galbraith,REPD
+repd-6422,6422,Wales,Rhondda Cynon Taff,51.558849,-3.425452,Graig Fatha Farm,2021,WIND,2.5,,wind farm,Cleanearth,REPD
+repd-6501,6501,England,Offshore,53.135974,0.589174,Race Bank (Phase 2),2018,WIND-OFFSHORE,283.5,,wind farm,Orsted (formerly Dong Energy)/ Macquarie Group,REPD
+repd-6509,6509,Wales,Gwent,51.570796,-2.848601,"Longlands Farm, Rush Wall Lane",2021,WIND,3.5,,wind farm,Clean Earth (CE),REPD
+repd-6636,6636,Scotland,Highland,58.602359,-3.688136,Forss Wind Farm,2003,WIND,2.6,,wind farm,Renewable Energy Systems (RES),REPD
+repd-6703,6703,Scotland,Dumfries and Galloway,55.372147,-4.051345,Sandy Knowe Wind Farm,2023,WIND,81.6,,wind farm,ERG,REPD
+repd-6708,6708,Scotland,South Lanarkshire,55.604499,-3.816174,Broken Cross (Former Surface Mine),2024,WIND,48.0,,wind farm,BayWa r.e. UK Limited,REPD
+repd-6828,6828,Scotland,Shetland,60.339325,-1.208429,Viking Wind Farm,2024,WIND,443.0,,wind farm,Viking Energy Wind Farm,REPD
+repd-7304,7304,Scotland,Aberdeenshire,57.572018,-2.608187,Deuchries Windfarm (extension) (Bradley 2),2024,WIND,4.7,,wind farm,Blackfinch Energy,REPD
+repd-7312,7312,England,Staffordshire,53.00191,-2.271024,The Low Carbon Energy Generation Project at Keele University,2021,WIND,1.9,,wind farm,Keele University,REPD
+repd-7524,7524,England,Avon,51.537995,-2.674076,Severn Road,2023,WIND,4.2,,wind farm,Ambition Community Energy,REPD
+repd-7544,7544,Northern Ireland,Co. Down,54.245607,-5.928678,Dundrinne Road,2019,WIND,0.2,,wind farm,Private Developer,REPD
+repd-7562,7562,Scotland,Dumfries and Galloway,55.274673,-4.178561,Windy Rig Wind Farm,2021,WIND,43.0,,wind farm,Statkraft UK,REPD
+repd-7588,7588,England,Cornwall,50.320801,-5.055565,Land near Ventonteague,2020,WIND,2.3,,wind farm,Cornwall Council,REPD
+repd-7708,7708,Scotland,Highland,58.528441,-3.713812,Limekiln Wind Farm (Extension),2025,WIND,21.0,,wind farm,Infinergy / Boralex,REPD
+repd-8046,8046,Scotland,Highland,58.308515,-3.337652,Lower Rumster wind turbine,2021,WIND,0.2,,wind farm,Ventus Renewables,REPD
+repd-11259,11259,England,Gloucestershire,51.602485,-2.386964,Mounteneys and Cherry Rock Wind Turbines,2017,WIND,1.0,,wind farm,Resilient Energy Mounteneys Renewables,REPD
+repd-15144,15144,Scotland,North Lanarkshire,55.774531,-3.843751,Watsonhead Wind Farm,2023,WIND,8.4,,wind farm,Green Cat Renewables,REPD

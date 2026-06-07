@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Global Energy Resource Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" crossorigin="" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css?v=2">
+</head>
+<body>
+  <div id="app">
+
+    <!-- ── Left: Map ── -->
+    <div id="map-pane">
+      <div id="map"></div>
+      <button id="panel-toggle" title="Toggle panel">&#x276E;</button>
+      <div id="map-empty" class="hidden">
+        <div class="empty-icon">&#9889;</div>
+        <h3>No data for this selection</h3>
+        <p>Wind and EU datasets are on the roadmap.<br>Select Solar + US to explore current data.</p>
+      </div>
+    </div>
+
+    <!-- ── Right: Panel ── -->
+    <div id="side-panel">
+
+      <!-- 1. Metrics -->
+      <section id="metrics-section">
+        <div class="section-label">Ambra Resource Overview</div>
+        <div id="metrics-body">
+          <div class="metrics-grid">
+            <div class="metric-card" id="m-plants">
+              <div class="metric-label">Plants</div>
+              <div class="metric-value">—</div>
+            </div>
+            <div class="metric-card" id="m-capacity">
+              <div class="metric-label">Total Capacity</div>
+              <div class="metric-value">—</div>
+            </div>
+            <div class="metric-card" id="m-avg">
+              <div class="metric-label">Avg. Plant</div>
+              <div class="metric-value">—</div>
+            </div>
+            <div class="metric-card" id="m-region">
+              <div class="metric-label">Region</div>
+              <div class="metric-value">—</div>
+            </div>
+          </div>
+          <div class="type-breakdown">
+            <div class="type-chip" id="chip-solar">
+              <div class="type-dot solar"></div>
+              <div class="type-info">
+                <div class="type-name">Solar</div>
+                <div class="type-count" id="solar-count">—</div>
+                <div class="type-cap" id="solar-cap">—</div>
+              </div>
+            </div>
+            <div class="type-chip" id="chip-wind">
+              <div class="type-dot wind"></div>
+              <div class="type-info">
+                <div class="type-name">Wind</div>
+                <div class="type-count" id="wind-count">—</div>
+                <div class="type-cap" id="wind-cap">—</div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 2. Controls -->
+      <section id="controls-section">
+        <div class="control-row">
+          <span class="control-label">Energy Type</span>
+          <div class="toggle-group" id="type-toggle">
+            <button class="toggle-btn solar-active active" data-value="both">Solar &amp; Wind</button>
+            <button class="toggle-btn solar-active" data-value="solar">Solar</button>
+            <button class="toggle-btn wind-active" data-value="wind">Wind</button>
+          </div>
+        </div>
+        <div class="control-row">
+          <span class="control-label">Region</span>
+          <div class="toggle-group" id="region-toggle">
+            <button class="toggle-btn solar-active active" data-value="us">US</button>
+            <button class="toggle-btn solar-active" data-value="eu">EU</button>
+            <button class="toggle-btn solar-active" data-value="us_eu">US + EU</button>
+          </div>
+        </div>
+        <div class="control-row">
+          <span class="control-label">Map</span>
+          <div class="toggle-group" id="view-toggle">
+            <button class="toggle-btn solar-active active" data-value="dark">Dark</button>
+            <button class="toggle-btn solar-active" data-value="satellite">Satellite</button>
+          </div>
+        </div>
+        <div class="control-row" id="curtailment-row">
+          <span class="control-label">Curtailment</span>
+          <div class="toggle-group" id="curtailment-toggle">
+            <button class="toggle-btn curtail-btn active" data-value="off">Off</button>
+            <button class="toggle-btn curtail-btn" data-value="on">On</button>
+          </div>
+          <span class="curtail-hint">CAISO solar · 2025 MCC</span>
+        </div>
+      </section>
+
+      <!-- 3. Table -->
+      <section id="table-section">
+        <div id="table-toolbar">
+          <span id="table-count" class="table-count-text">Loading…</span>
+        </div>
+        <div id="table-scroll">
+          <table id="plants-table">
+            <thead>
+              <tr>
+                <th data-col="name">Name <span class="sort-icon"></span></th>
+                <th data-col="capacity_ac">MW <span class="sort-icon"></span></th>
+                <th data-col="location">Location <span class="sort-icon"></span></th>
+                <th data-col="utility_name">Utility <span class="sort-icon"></span></th>
+                <th data-col="type">Type <span class="sort-icon"></span></th>
+              </tr>
+            </thead>
+            <tbody id="plants-tbody">
+              <tr><td colspan="4" class="loading-row">Loading plants…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </section>
+
+    </div>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
+  <script src="app.js?v=2"></script>
+</body>
+</html>

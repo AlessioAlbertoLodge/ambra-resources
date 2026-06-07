@@ -1,0 +1,175 @@
+'use strict';
+
+const express = require('express');
+const compression = require('compression');
+const fs = require('fs');
+const path = require('path');
+const { parse } = require('csv-parse/sync');
+
+const app = express();
+app.use(compression());
+const PORT = process.env.PORT || 3000;
+
+// ── Data pipeline ─────────────────────────────────────────────────────────────
+// To add new regions or energy types, append an entry here.
+// The CSV's p_tech_pri column drives type: "PV" → "solar", "WIND" → "wind".
+// The region field controls ?region= filtering on the API.
+const DATA_SOURCES = [
+  { file: 'data/solar_farms_us.csv', region: 'us',  source: 'EIA'  },
+  { file: 'data/wind_farms_us.csv',  region: 'us',  source: 'EIA'  },
+  { file: 'data/solar_farms_es.csv', region: 'eu',  source: 'REE'  },
+  { file: 'data/solar_farms_uk.csv', region: 'eu',  source: 'REPD' },
+  { file: 'data/wind_farms_uk.csv',  region: 'eu',  source: 'REPD' },
+];
+
+let plants = [];
+let curtailmentMap = new Map(); // case_id → { mcc_avg, mcc_pct_neg, curtailment_risk, caiso_node }
+
+function loadCurtailmentData() {
+  const filePath = path.join(__dirname, 'data/solar_farms_caiso_curtailment_mcc.csv');
+  if (!fs.existsSync(filePath)) return;
+  const content = fs.readFileSync(filePath, 'utf-8');
+  const records = parse(content, { columns: true, skip_empty_lines: true, trim: true });
+  for (const row of records) {
+    const avg = parseFloat(row.mcc_avg_2025);
+    const pct = parseFloat(row.mcc_pct_neg_hrs_2025);
+    curtailmentMap.set(String(row.case_id), {
+      mcc_avg:          Number.isFinite(avg) ? +avg.toFixed(3) : null,
+      mcc_pct_neg:      Number.isFinite(pct) ? +pct.toFixed(1) : null,
+      curtailment_risk: (row.curtailment_risk || 'Unknown').trim(),
+      caiso_node:       (row.closest_node_id || '').trim(),
+    });
+  }
+  console.log(`  Curtailment data: ${curtailmentMap.size} CAISO solar plants`);
+}
+
+function detectDelimiter(header) {
+  const tabs = (header.match(/\t/g) || []).length;
+  const commas = (header.match(/,/g) || []).length;
+  return tabs > commas ? '\t' : ',';
+}
+
+function parseTechType(raw) {
+  const t = (raw || '').trim().toUpperCase();
+  if (t === 'PV') return 'solar';
+  if (t.includes('WIND')) return 'wind';   // covers WIND and WIND-OFFSHORE
+  return 'other';
+}
+
+function loadSource(source) {
+  const filePath = path.join(__dirname, source.file);
+  if (!fs.existsSync(filePath)) {
+    console.warn(`  [skip] ${source.file} — file not found`);
+    return 0;
+  }
+
+  const content = fs.readFileSync(filePath, 'utf-8');
+  const header = content.split(/\r?\n/)[0];
+  const delimiter = detectDelimiter(header);
+
+  const records = parse(content, {
+    columns: true,
+    delimiter,
+    skip_empty_lines: true,
+    trim: true,
+    relax_column_count: true,
+  });
+
+  let added = 0;
+  for (const row of records) {
+    const lat = parseFloat(row.ylat);
+    const lng = parseFloat(row.xlong);
+    const capAC = parseFloat(row.p_cap_ac);
+
+    if (!Number.isFinite(lat) || lat < -90 || lat > 90) continue;
+    if (!Number.isFinite(lng) || lng < -180 || lng > 180) continue;
+    if (!Number.isFinite(capAC) || capAC <= 0) continue;
+
+    const capDC = parseFloat(row.p_cap_dc);
+
+    plants.push({
+      id: String(row.case_id || `${source.region}-${added}`),
+      name: (row.p_name || 'Unknown').trim(),
+      lat,
+      lng,
+      capacity_ac: capAC,
+      capacity_dc: Number.isFinite(capDC) ? capDC : null,
+      state: (row.p_state || '').trim(),
+      county: (row.p_county || '').trim(),
+      year: parseInt(row.p_year, 10) || null,
+      type: parseTechType(row.p_tech_pri),
+      region: source.region,
+      plant_type: (row.p_type || '').trim(),
+      utility_name: (row.utility_name || '').trim(),
+      source: (row.source || source.source || '').trim(),
+      ...curtailmentMap.get(String(row.case_id)),
+    });
+    added++;
+  }
+
+  return added;
+}
+
+function boot() {
+  console.log('\nLoading energy data…');
+  plants = [];
+  loadCurtailmentData();
+  for (const src of DATA_SOURCES) {
+    const n = loadSource(src);
+    if (n > 0) console.log(`  ${src.file}: ${n.toLocaleString()} valid plants`);
+  }
+  console.log(`  Total: ${plants.length.toLocaleString()} plants ready\n`);
+}
+
+// ── API ───────────────────────────────────────────────────────────────────────
+app.use(express.static(path.join(__dirname, 'public')));
+
+app.get('/api/plants', (req, res) => {
+  const { type = 'both', region = 'us' } = req.query;
+
+  let list = plants;
+
+  if (type === 'solar') list = list.filter(p => p.type === 'solar');
+  else if (type === 'wind') list = list.filter(p => p.type === 'wind');
+  // 'both' keeps all types
+
+  if (region === 'us') list = list.filter(p => p.region === 'us');
+  else if (region === 'eu') list = list.filter(p => p.region === 'eu');
+  // 'us_eu' keeps all regions
+
+  const totalAC = list.reduce((s, p) => s + p.capacity_ac, 0);
+  const avg = list.length ? totalAC / list.length : 0;
+
+  const byType = {
+    solar: { count: 0, capacity: 0 },
+    wind: { count: 0, capacity: 0 },
+  };
+  for (const p of list) {
+    if (byType[p.type]) {
+      byType[p.type].count++;
+      byType[p.type].capacity += p.capacity_ac;
+    }
+  }
+
+  res.json({
+    plants: list,
+    metrics: {
+      total: list.length,
+      totalCapacityAC: totalAC,
+      avgCapacity: avg,
+      byType,
+    },
+  });
+});
+
+boot();
+
+// Local dev: start the HTTP server.
+// Vercel: imports this file as a module and uses the exported app directly.
+if (require.main === module) {
+  app.listen(PORT, () => {
+    console.log(`Energy Viz  →  http://localhost:${PORT}\n`);
+  });
+}
+
+module.exports = app;

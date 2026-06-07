@@ -20,6 +20,8 @@ const DATA_SOURCES = [
   { file: 'data/solar_farms_es.csv', region: 'eu',  source: 'REE'  },
   { file: 'data/solar_farms_uk.csv', region: 'eu',  source: 'REPD' },
   { file: 'data/wind_farms_uk.csv',  region: 'eu',  source: 'REPD' },
+  { file: 'data/solar_farms_nl.csv', region: 'eu',  source: 'RVO',  defaultType: 'solar' },
+  { file: 'data/plants_it.csv',      region: 'eu',  source: 'OSM',  typeCol: 'source'    },
 ];
 
 let plants = [];
@@ -51,9 +53,17 @@ function detectDelimiter(header) {
 
 function parseTechType(raw) {
   const t = (raw || '').trim().toUpperCase();
-  if (t === 'PV') return 'solar';
-  if (t.includes('WIND')) return 'wind';   // covers WIND and WIND-OFFSHORE
+  if (t === 'PV' || t === 'SOLAR') return 'solar';
+  if (t.includes('WIND')) return 'wind';
   return 'other';
+}
+
+// Read first non-empty value from a list of column name candidates
+function getField(row, ...keys) {
+  for (const k of keys) {
+    if (k && row[k] !== undefined && String(row[k]).trim() !== '') return String(row[k]).trim();
+  }
+  return '';
 }
 
 function loadSource(source) {
@@ -77,32 +87,34 @@ function loadSource(source) {
 
   let added = 0;
   for (const row of records) {
-    const lat = parseFloat(row.ylat);
-    const lng = parseFloat(row.xlong);
-    const capAC = parseFloat(row.p_cap_ac);
+    const lat   = parseFloat(getField(row, 'ylat', 'latitude'));
+    const lng   = parseFloat(getField(row, 'xlong', 'longitude'));
+    const capAC = parseFloat(getField(row, 'p_cap_ac', 'capacity_mw'));
 
     if (!Number.isFinite(lat) || lat < -90 || lat > 90) continue;
     if (!Number.isFinite(lng) || lng < -180 || lng > 180) continue;
     if (!Number.isFinite(capAC) || capAC <= 0) continue;
 
-    const capDC = parseFloat(row.p_cap_dc);
+    const capDC  = parseFloat(getField(row, 'p_cap_dc'));
+    const rawType = source.typeCol ? (row[source.typeCol] || '') : getField(row, 'p_tech_pri');
+    const type   = source.defaultType || parseTechType(rawType);
+    const caseId = getField(row, 'case_id');
 
     plants.push({
-      id: String(row.case_id || `${source.region}-${added}`),
-      name: (row.p_name || 'Unknown').trim(),
-      lat,
-      lng,
-      capacity_ac: capAC,
-      capacity_dc: Number.isFinite(capDC) ? capDC : null,
-      state: (row.p_state || '').trim(),
-      county: (row.p_county || '').trim(),
-      year: parseInt(row.p_year, 10) || null,
-      type: parseTechType(row.p_tech_pri),
-      region: source.region,
-      plant_type: (row.p_type || '').trim(),
-      utility_name: (row.utility_name || '').trim(),
-      source: (row.source || source.source || '').trim(),
-      ...curtailmentMap.get(String(row.case_id)),
+      id:           caseId || `${source.region}-${source.source}-${added}`,
+      name:         getField(row, 'p_name', 'name', 'operator') || 'Unknown',
+      lat, lng,
+      capacity_ac:  capAC,
+      capacity_dc:  Number.isFinite(capDC) ? capDC : null,
+      state:        getField(row, 'p_state', 'province'),
+      county:       getField(row, 'p_county', 'municipality'),
+      year:         parseInt(getField(row, 'p_year', 'year_realized'), 10) || null,
+      type,
+      region:       source.region,
+      plant_type:   getField(row, 'p_type'),
+      utility_name: getField(row, 'utility_name', 'operator'),
+      source:       source.source,
+      ...curtailmentMap.get(caseId),
     });
     added++;
   }

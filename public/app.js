@@ -2,13 +2,15 @@
 
 // ── State ─────────────────────────────────────────────────────────────────────
 const state = {
-  type: 'both',
+  type: 'solar',
   region: 'us',
+  scale: 'utility',
   plants: [],
   sortCol: 'capacity_ac',
   sortDir: 'desc',
   curtailment: false,
 };
+let rawPlants = [];
 
 // ── Map setup ─────────────────────────────────────────────────────────────────
 const map = L.map('map', {
@@ -352,16 +354,34 @@ function panToPlant(id) {
 }
 
 // ── Fetch & render ─────────────────────────────────────────────────────────────
+function computeMetrics(plants) {
+  const totalAC = plants.reduce((s, p) => s + p.capacity_ac, 0);
+  const avg = plants.length ? totalAC / plants.length : 0;
+  const byType = { solar: { count: 0, capacity: 0 }, wind: { count: 0, capacity: 0 } };
+  for (const p of plants) {
+    if (byType[p.type]) { byType[p.type].count++; byType[p.type].capacity += p.capacity_ac; }
+  }
+  return { total: plants.length, totalCapacityAC: totalAC, avgCapacity: avg, byType };
+}
+
+function applyFiltersAndRender() {
+  const filtered = state.scale === 'utility'
+    ? rawPlants.filter(p => p.capacity_ac >= 1)
+    : rawPlants;
+  state.plants = filtered;
+  renderMetrics(computeMetrics(filtered));
+  renderTable(filtered);
+  renderMarkers(filtered);
+  fitBounds(state.region, filtered);
+}
+
 async function refresh() {
   try {
     const res = await fetch(`/api/plants?type=${state.type}&region=${state.region}`);
     if (!res.ok) throw new Error(res.statusText);
     const data = await res.json();
-    state.plants = data.plants;
-    renderMetrics(data.metrics);
-    renderTable(data.plants);
-    renderMarkers(data.plants);     // async chunkedLoading — map stays responsive
-    fitBounds(state.region, data.plants);
+    rawPlants = data.plants;
+    applyFiltersAndRender();
   } catch (err) {
     console.error('Failed to load plants:', err);
   }
@@ -393,6 +413,15 @@ function initControls() {
     document.querySelectorAll('#view-toggle .toggle-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     setMapView(btn.dataset.value);
+  });
+
+  document.getElementById('scale-toggle').addEventListener('click', e => {
+    const btn = e.target.closest('.toggle-btn');
+    if (!btn) return;
+    document.querySelectorAll('#scale-toggle .toggle-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    state.scale = btn.dataset.value;
+    applyFiltersAndRender();
   });
 
   document.getElementById('curtailment-toggle').addEventListener('click', e => {

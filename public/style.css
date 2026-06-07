@@ -37,13 +37,34 @@ body {
   height: 100vh;
   height: 100dvh;
   overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+
+/* ── Top bar ────────────────────────────────────────────────────────────────── */
+#top-bar {
+  width: 100%;
+  flex-shrink: 0;
+  height: 48px;
+  background: var(--bg-panel);
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  align-items: center;
+  padding: 0 24px;
+}
+
+#top-bar-title {
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  color: var(--text-hi);
 }
 
 /* ── Layout ─────────────────────────────────────────────────────────────────── */
 #app {
   display: flex;
-  height: 100vh;
-  height: 100dvh;
+  flex: 1;
+  min-height: 0;
 }
 
 /* ── Map pane ───────────────────────────────────────────────────────────────── */
@@ -51,6 +72,7 @@ body {
   flex: 0 0 60%;
   position: relative;
   background: #0d0f18;
+  min-height: 0;
 }
 
 #map {

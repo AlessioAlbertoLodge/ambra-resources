@@ -20,8 +20,9 @@ const DATA_SOURCES = [
   { file: 'data/solar_farms_es.csv', region: 'eu',  source: 'REE'  },
   { file: 'data/solar_farms_uk.csv', region: 'eu',  source: 'REPD' },
   { file: 'data/wind_farms_uk.csv',  region: 'eu',  source: 'REPD' },
-  { file: 'data/solar_farms_nl.csv', region: 'eu',  source: 'RVO',  defaultType: 'solar' },
-  { file: 'data/plants_it.csv',      region: 'eu',  source: 'OSM',  typeCol: 'source'    },
+  { file: 'data/solar_farms_nl.csv', region: 'eu',  source: 'RVO',     defaultType: 'solar' },
+  { file: 'data/plants_it.csv',      region: 'eu',  source: 'OSM',     typeCol: 'source'    },
+  { file: 'data/wind_farms_es.csv',  region: 'eu',  source: 'MINETUR', defaultType: 'wind'  },
 ];
 
 let plants = [];
@@ -87,9 +88,12 @@ function loadSource(source) {
 
   let added = 0;
   for (const row of records) {
+    // skip decommissioned plants (Spain MINETUR uses 'baja' field)
+    if (getField(row, 'baja')) continue;
+
     const lat   = parseFloat(getField(row, 'ylat', 'latitude'));
     const lng   = parseFloat(getField(row, 'xlong', 'longitude'));
-    const capAC = parseFloat(getField(row, 'p_cap_ac', 'capacity_mw'));
+    const capAC = parseFloat(getField(row, 'p_cap_ac', 'capacity_mw', 'mw'));
 
     if (!Number.isFinite(lat) || lat < -90 || lat > 90) continue;
     if (!Number.isFinite(lng) || lng < -180 || lng > 180) continue;
@@ -98,17 +102,17 @@ function loadSource(source) {
     const capDC  = parseFloat(getField(row, 'p_cap_dc'));
     const rawType = source.typeCol ? (row[source.typeCol] || '') : getField(row, 'p_tech_pri');
     const type   = source.defaultType || parseTechType(rawType);
-    const caseId = getField(row, 'case_id');
+    const caseId = getField(row, 'case_id', 'objectid');
 
     plants.push({
       id:           caseId || `${source.region}-${source.source}-${added}`,
-      name:         getField(row, 'p_name', 'name', 'operator') || 'Unknown',
+      name:         getField(row, 'p_name', 'name', 'descripcion', 'operator') || 'Unknown',
       lat, lng,
       capacity_ac:  capAC,
       capacity_dc:  Number.isFinite(capDC) ? capDC : null,
-      state:        getField(row, 'p_state', 'province'),
-      county:       getField(row, 'p_county', 'municipality'),
-      year:         parseInt(getField(row, 'p_year', 'year_realized'), 10) || null,
+      state:        getField(row, 'p_state', 'province', 'provincia'),
+      county:       getField(row, 'p_county', 'municipality', 'municipio'),
+      year:         parseInt(getField(row, 'p_year', 'year_realized', 'alta'), 10) || null,
       type,
       region:       source.region,
       plant_type:   getField(row, 'p_type'),

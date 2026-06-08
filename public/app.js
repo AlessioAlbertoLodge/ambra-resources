@@ -146,7 +146,7 @@ function markerColors(plant) {
   if (plant.type === 'solar') {
     if (state.mode === 'opportunity') {
       // Opportunity: Beach Head (red) = High curtailment only, Long Term (orange) = everything else
-      return plant.curtailment_risk === 'High'
+      return (plant.curtailment_risk === 'High' || plant.curtailment_risk === 'Mid')
         ? { fill: '#cc0000', stroke: '#ee3333' }
         : { fill: '#ff8c00', stroke: '#ffb347' };
     }

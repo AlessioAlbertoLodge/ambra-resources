@@ -455,6 +455,17 @@ document.getElementById('panel-toggle').addEventListener('click', () => {
   map.invalidateSize();
 });
 
+// ── Sources toggle ────────────────────────────────────────────────────────────
+document.getElementById('sources-btn').addEventListener('click', () => {
+  const btn = document.getElementById('sources-btn');
+  const isOpen = btn.classList.toggle('active');
+  document.getElementById('sources-panel').classList.toggle('hidden', !isOpen);
+  document.getElementById('metrics-section').classList.toggle('hidden', isOpen);
+  document.getElementById('controls-section').classList.toggle('hidden', isOpen);
+  document.getElementById('table-section').classList.toggle('hidden', isOpen);
+  btn.textContent = isOpen ? 'Close' : 'Sources';
+});
+
 // ── Boot ──────────────────────────────────────────────────────────────────────
 initControls();
 refresh();

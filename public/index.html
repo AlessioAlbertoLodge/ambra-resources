@@ -9,11 +9,12 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=4">
+  <link rel="stylesheet" href="style.css?v=5">
 </head>
 <body>
   <header id="top-bar">
     <span id="top-bar-title">Ambra Energy Resources</span>
+    <button id="sources-btn">Sources</button>
   </header>
   <div id="app">
 
@@ -138,11 +139,104 @@
         </div>
       </section>
 
+      <!-- 4. Sources panel (hidden by default) -->
+      <section id="sources-panel" class="hidden">
+        <div id="sources-scroll">
+
+          <div class="src-block">
+            <div class="src-heading">Data Sources</div>
+
+            <div class="src-row">
+              <span class="src-flag">🇺🇸</span>
+              <div class="src-body">
+                <a class="src-name" href="https://energy.usgs.gov/uspvdb/" target="_blank">US Solar — USPVDB</a>
+                <p class="src-desc">USGS &amp; Lawrence Berkeley National Laboratory database of all utility-scale solar PV facilities ≥1 MW in the United States.</p>
+              </div>
+            </div>
+
+            <div class="src-row">
+              <span class="src-flag">🇺🇸</span>
+              <div class="src-body">
+                <a class="src-name" href="https://www.eia.gov/electricity/data/eia860/" target="_blank">US Wind — EIA Form 860</a>
+                <p class="src-desc">U.S. Energy Information Administration annual survey of electric power plants, including all utility-scale wind farms.</p>
+              </div>
+            </div>
+
+            <div class="src-row">
+              <span class="src-flag">🇩🇪</span>
+              <div class="src-body">
+                <a class="src-name" href="https://www.marktstammdatenregister.de/MaStR/Datendownload" target="_blank">Germany — MaStR</a>
+                <p class="src-desc">Bundesnetzagentur (Federal Network Agency) official registry of all power generation units in Germany, filtered to ≥1 MW operational plants.</p>
+              </div>
+            </div>
+
+            <div class="src-row">
+              <span class="src-flag">🇬🇧</span>
+              <div class="src-body">
+                <a class="src-name" href="https://clean-energy-map.energysecurity.gov.uk/" target="_blank">UK — REPD</a>
+                <p class="src-desc">UK Department for Energy Security &amp; Net Zero Renewable Energy Planning Database, covering operational solar and wind across Great Britain.</p>
+              </div>
+            </div>
+
+            <div class="src-row">
+              <span class="src-flag">🇪🇸</span>
+              <div class="src-body">
+                <a class="src-name" href="https://www.esios.ree.es/en/interesting-maps/solar-pv-installations-map" target="_blank">Spain Solar — REE ESIOS</a>
+                <p class="src-desc">Red Eléctrica de España (national grid operator) interactive map of registered solar PV installations across Spain.</p>
+              </div>
+            </div>
+
+            <div class="src-row">
+              <span class="src-flag">🇪🇸</span>
+              <div class="src-body">
+                <a class="src-name" href="https://www.esios.ree.es/en/interesting-maps/wind-installations-map" target="_blank">Spain Wind — REE ESIOS / MINETUR</a>
+                <p class="src-desc">Red Eléctrica de España wind installations registry via Spain's Ministry for Ecological Transition, covering all registered wind parks.</p>
+              </div>
+            </div>
+
+            <div class="src-row">
+              <span class="src-flag">🇳🇱</span>
+              <div class="src-body">
+                <a class="src-name" href="https://rom3d.maps.arcgis.com/apps/dashboards/704215ca2235496395ce0a30355e61a5" target="_blank">Netherlands — Zon op Kaart</a>
+                <p class="src-desc">Dutch government ArcGIS dashboard ("Sun on Map") tracking all realised solar parks in the Netherlands, published by RVO.</p>
+              </div>
+            </div>
+
+            <div class="src-row">
+              <span class="src-flag">🇮🇹</span>
+              <div class="src-body">
+                <a class="src-name" href="https://www.openstreetmap.org" target="_blank">Italy — OpenStreetMap</a>
+                <p class="src-desc">Renewable energy generators and plants tagged by OSM contributors, filtered to solar and wind facilities with recorded capacity.</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="src-block">
+            <div class="src-heading">Curtailment Methodology</div>
+            <p class="src-desc">Curtailment risk is derived from <strong>Locational Marginal Prices (LMPs)</strong> sourced via <a href="https://www.gridstatus.io" target="_blank">GridStatus</a> and matched to each solar plant's nearest pricing node using geographic proximity.</p>
+            <p class="src-desc">The <strong>Marginal Cost of Congestion (MCC)</strong> — the congestion component of the LMP — is used as a proxy for curtailment pressure. Persistently negative MCC signals that local generation exceeds transmission capacity, forcing output reduction.</p>
+
+            <div class="src-math">
+              <div class="src-math-row"><span class="src-math-label">MCC avg</span><span class="src-math-val">Mean MCC over all hours in 2025 ($/MWh)</span></div>
+              <div class="src-math-row"><span class="src-math-label">Neg. hours</span><span class="src-math-val">% of 2025 hours with MCC &lt; 0</span></div>
+              <div class="src-math-row src-math-tier low">Low risk</div>
+              <div class="src-math-row src-math-detail">MCC avg &gt; −5 $/MWh or neg. hours &lt; 30%</div>
+              <div class="src-math-row src-math-tier mid">Mid risk</div>
+              <div class="src-math-row src-math-detail">MCC avg −5 to −15 $/MWh or neg. hours 30–60%</div>
+              <div class="src-math-row src-math-tier high">High risk</div>
+              <div class="src-math-row src-math-detail">MCC avg &lt; −15 $/MWh or neg. hours &gt; 60%</div>
+            </div>
+            <p class="src-desc src-muted">Markets covered: CAISO, MISO, SPP, NYISO, ISONE. PJM and ERCOT excluded.</p>
+          </div>
+
+        </div>
+      </section>
+
     </div>
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
   <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
-  <script src="app.js?v=4"></script>
+  <script src="app.js?v=5"></script>
 </body>
 </html>

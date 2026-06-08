@@ -9,7 +9,6 @@ const state = {
   plants: [],
   sortCol: 'capacity_ac',
   sortDir: 'desc',
-  curtailment: false,
 };
 let rawPlants = [];
 
@@ -136,16 +135,10 @@ function capacityToRadius(capMW) {
   return Math.max(3, Math.min(10, 3 + Math.log10(Math.max(capMW, 1)) * 2.2));
 }
 
-const CURTAIL_COLORS = {
-  Low:  { fill: '#ffd700', stroke: '#ffe55c' },
-  Mid:  { fill: '#ff5500', stroke: '#ff7733' },
-  High: { fill: '#cc0000', stroke: '#ee3333' },
-};
-
 function markerColors(plant) {
-  if (state.curtailment && plant.type === 'solar' && plant.curtailment_risk) {
-    const c = CURTAIL_COLORS[plant.curtailment_risk];
-    if (c) return c;
+  // Solar with curtailment data = Beach Head (red); everything else = Long Term (orange) or wind (blue)
+  if (plant.type === 'solar' && plant.curtailment_risk && plant.curtailment_risk !== 'Unknown') {
+    return { fill: '#cc0000', stroke: '#ee3333' };
   }
   return plant.type === 'solar'
     ? { fill: '#ff8c00', stroke: '#ffb347' }
@@ -543,15 +536,6 @@ function initControls() {
     btn.classList.add('active');
     state.scale = btn.dataset.value;
     applyFiltersAndRender();
-  });
-
-  document.getElementById('curtailment-toggle').addEventListener('click', e => {
-    const btn = e.target.closest('.toggle-btn');
-    if (!btn) return;
-    document.querySelectorAll('#curtailment-toggle .toggle-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    state.curtailment = btn.dataset.value === 'on';
-    renderMarkers(state.plants);
   });
 
   document.getElementById('mode-selector').addEventListener('click', e => {

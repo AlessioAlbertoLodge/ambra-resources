@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=6">
+  <link rel="stylesheet" href="style.css?v=7">
 </head>
 <body>
   <header id="top-bar">
@@ -110,13 +110,18 @@
             <button class="toggle-btn solar-active" data-value="all">All</button>
           </div>
         </div>
-        <div class="control-row" id="curtailment-row">
-          <span class="control-label">Curtailment</span>
-          <div class="toggle-group" id="curtailment-toggle">
-            <button class="toggle-btn curtail-btn active" data-value="off">Off</button>
-            <button class="toggle-btn curtail-btn" data-value="on">On</button>
+        <div class="control-row">
+          <span class="control-label">Solar</span>
+          <div class="curtail-legend">
+            <div class="curtail-legend-item">
+              <span class="curtail-legend-dot" style="background:#cc0000;box-shadow:0 0 6px rgba(204,0,0,0.6)"></span>
+              <span>Beach Head</span>
+            </div>
+            <div class="curtail-legend-item">
+              <span class="curtail-legend-dot" style="background:#ff8c00;box-shadow:0 0 6px rgba(255,140,0,0.5)"></span>
+              <span>Long Term</span>
+            </div>
           </div>
-          <span class="curtail-hint">US solar excl. PJM/ERCOT · 2025 MCC</span>
         </div>
       </section>
 
@@ -249,6 +254,6 @@
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
   <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
-  <script src="app.js?v=6"></script>
+  <script src="app.js?v=7"></script>
 </body>
 </html>

@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=8">
+  <link rel="stylesheet" href="style.css?v=9">
 </head>
 <body>
   <header id="top-bar">
@@ -110,7 +110,14 @@
             <button class="toggle-btn solar-active" data-value="all">All</button>
           </div>
         </div>
-        <div class="control-row">
+        <div class="control-row" id="curtail-control">
+          <span class="control-label">Curtailment</span>
+          <div class="toggle-group" id="curtail-toggle">
+            <button class="toggle-btn solar-active active" data-value="on">On</button>
+            <button class="toggle-btn solar-active" data-value="off">Off</button>
+          </div>
+        </div>
+        <div class="control-row hidden" id="legend-control">
           <span class="control-label">Solar</span>
           <div class="curtail-legend">
             <div class="curtail-legend-item">
@@ -254,6 +261,6 @@
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
   <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
-  <script src="app.js?v=8"></script>
+  <script src="app.js?v=9"></script>
 </body>
 </html>

@@ -6,6 +6,7 @@ const state = {
   region: 'us',
   scale: 'utility',
   mode: 'resource',
+  curtailment: true,
   plants: [],
   sortCol: 'capacity_ac',
   sortDir: 'desc',
@@ -135,14 +136,27 @@ function capacityToRadius(capMW) {
   return Math.max(3, Math.min(10, 3 + Math.log10(Math.max(capMW, 1)) * 2.2));
 }
 
+const CURTAIL_COLORS = {
+  High: { fill: '#cc0000', stroke: '#ee3333' },
+  Mid:  { fill: '#e65c00', stroke: '#ff7722' },
+  Low:  { fill: '#ffd700', stroke: '#ffe94d' },
+};
+
 function markerColors(plant) {
-  // Beach Head (red) = high curtailment risk only; Long Term (orange) = everything else solar; wind = blue
-  if (plant.type === 'solar' && plant.curtailment_risk === 'High') {
-    return { fill: '#cc0000', stroke: '#ee3333' };
+  if (plant.type === 'solar') {
+    if (state.mode === 'opportunity') {
+      // Opportunity: Beach Head (red) = High curtailment only, Long Term (orange) = everything else
+      return plant.curtailment_risk === 'High'
+        ? { fill: '#cc0000', stroke: '#ee3333' }
+        : { fill: '#ff8c00', stroke: '#ffb347' };
+    }
+    // Resource: color by curtailment risk when toggle is on
+    if (state.curtailment && plant.curtailment_risk && plant.curtailment_risk !== 'Unknown') {
+      return CURTAIL_COLORS[plant.curtailment_risk] || { fill: '#ff8c00', stroke: '#ffb347' };
+    }
+    return { fill: '#ff8c00', stroke: '#ffb347' };
   }
-  return plant.type === 'solar'
-    ? { fill: '#ff8c00', stroke: '#ffb347' }
-    : { fill: '#4db8ff', stroke: '#80ccff' };
+  return { fill: '#4db8ff', stroke: '#80ccff' };
 }
 
 function makeMarker(plant) {
@@ -538,13 +552,25 @@ function initControls() {
     applyFiltersAndRender();
   });
 
+  document.getElementById('curtail-toggle').addEventListener('click', e => {
+    const btn = e.target.closest('.toggle-btn');
+    if (!btn) return;
+    document.querySelectorAll('#curtail-toggle .toggle-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    state.curtailment = btn.dataset.value === 'on';
+    renderMarkers(state.plants);
+  });
+
   document.getElementById('mode-selector').addEventListener('click', e => {
     const btn = e.target.closest('.mode-btn');
     if (!btn) return;
     document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     state.mode = btn.dataset.mode;
-    if (state.mode === 'opportunity') {
+    const isOpp = state.mode === 'opportunity';
+    document.getElementById('curtail-control').classList.toggle('hidden', isOpp);
+    document.getElementById('legend-control').classList.toggle('hidden', !isOpp);
+    if (isOpp) {
       state.sortCol = 'revenue';
       state.sortDir = 'desc';
     } else {
@@ -553,6 +579,7 @@ function initControls() {
     }
     renderMetrics(state.plants);
     renderTable(state.plants);
+    renderMarkers(state.plants);
   });
 }
 

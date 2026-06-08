@@ -3,17 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Global Energy Resource Map</title>
+  <title>Ambra Atlas</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" crossorigin="" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css?v=5">
+  <link rel="stylesheet" href="style.css?v=6">
 </head>
 <body>
   <header id="top-bar">
-    <span id="top-bar-title">Ambra Energy Resources</span>
+    <span id="top-bar-title">Ambra Atlas</span>
     <button id="sources-btn">Sources</button>
   </header>
   <div id="app">
@@ -34,6 +34,10 @@
 
       <!-- 1. Metrics -->
       <section id="metrics-section">
+        <div id="mode-selector">
+          <button class="mode-btn active" data-mode="resource">Resource</button>
+          <button class="mode-btn" data-mode="opportunity">Opportunity</button>
+        </div>
 <div id="metrics-body">
           <div class="metrics-grid">
             <div class="metric-card" id="m-plants">
@@ -245,6 +249,6 @@
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
   <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js" crossorigin=""></script>
-  <script src="app.js?v=5"></script>
+  <script src="app.js?v=6"></script>
 </body>
 </html>

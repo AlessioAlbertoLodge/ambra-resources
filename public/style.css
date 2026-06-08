@@ -194,6 +194,36 @@ body {
   margin-bottom: 12px;
 }
 
+/* ── Mode selector ──────────────────────────────────────────────────────────── */
+#mode-selector {
+  display: flex;
+  gap: 6px;
+  margin-bottom: 12px;
+}
+
+.mode-btn {
+  flex: 1;
+  background: var(--bg-surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  color: var(--text-hi);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  padding: 10px 8px;
+  text-align: center;
+  transition: background 0.13s, border-color 0.13s;
+}
+
+.mode-btn:hover { background: var(--bg-hover); border-color: var(--border-mid); }
+
+.mode-btn.active {
+  background: var(--bg-hover);
+  border-color: var(--text-hi);
+}
+
 /* ── Metrics ────────────────────────────────────────────────────────────────── */
 #metrics-section {
   padding: 18px 20px 14px;

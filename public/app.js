@@ -5,12 +5,27 @@ const state = {
   type: 'solar',
   region: 'us',
   scale: 'utility',
+  mode: 'resource',
   plants: [],
   sortCol: 'capacity_ac',
   sortDir: 'desc',
   curtailment: false,
 };
 let rawPlants = [];
+
+// ── Opportunity constants ─────────────────────────────────────────────────────
+const MW_PER_SYSTEM   = 9;        // MW solar per 100kW compute block
+const REV_PER_SYSTEM  = 520000;   // $/yr per 100kW system (64 GPUs @ $1.2/hr, 80% util)
+
+function plantRevenue(plant) {
+  return (plant.capacity_ac / MW_PER_SYSTEM) * REV_PER_SYSTEM;
+}
+
+function fmtRevenue(usd) {
+  if (usd >= 1e9) return { v: (usd / 1e9).toFixed(1), u: 'B$/yr' };
+  if (usd >= 1e6) return { v: (usd / 1e6).toFixed(1), u: 'M$/yr' };
+  return { v: Math.round(usd / 1e3).toLocaleString(), u: 'k$/yr' };
+}
 
 // ── Map setup ─────────────────────────────────────────────────────────────────
 const map = L.map('map', {
@@ -240,23 +255,58 @@ function fmtCap(mw) {
   return { v: mw < 10 ? mw.toFixed(1) : Math.round(mw).toLocaleString(), u: 'MW' };
 }
 
-function renderMetrics(metrics) {
-  const tot = fmtCap(metrics.totalCapacityAC);
-  const avg = fmtCap(metrics.avgCapacity);
+function renderMetrics(plants) {
   const regionLabel = { us: 'US', eu: 'EU', us_eu: 'US + EU' };
+  const region = regionLabel[state.region] ?? state.region.toUpperCase();
 
-  document.querySelector('#m-plants .metric-value').textContent = metrics.total.toLocaleString();
-  document.querySelector('#m-capacity .metric-value').innerHTML = `${tot.v}<span class="metric-unit">${tot.u}</span>`;
-  document.querySelector('#m-avg .metric-value').innerHTML = `${avg.v}<span class="metric-unit">${avg.u}</span>`;
-  document.querySelector('#m-region .metric-value').textContent = regionLabel[state.region] ?? state.region.toUpperCase();
+  if (state.mode === 'opportunity') {
+    const totalRev = plants.reduce((s, p) => s + plantRevenue(p), 0);
+    const avgRev   = plants.length ? totalRev / plants.length : 0;
+    const rev = fmtRevenue(totalRev);
+    const avg = fmtRevenue(avgRev);
 
-  const sc = fmtCap(metrics.byType.solar.capacity);
-  document.getElementById('solar-count').textContent = metrics.byType.solar.count.toLocaleString();
-  document.getElementById('solar-cap').textContent = `${sc.v} ${sc.u}`;
+    const byType = { solar: { count: 0, rev: 0 }, wind: { count: 0, rev: 0 } };
+    for (const p of plants) {
+      if (byType[p.type]) { byType[p.type].count++; byType[p.type].rev += plantRevenue(p); }
+    }
 
-  const wc = fmtCap(metrics.byType.wind.capacity);
-  document.getElementById('wind-count').textContent = metrics.byType.wind.count.toLocaleString();
-  document.getElementById('wind-cap').textContent = `${wc.v} ${wc.u}`;
+    document.querySelector('#m-plants .metric-label').textContent = 'Nodes';
+    document.querySelector('#m-plants .metric-value').textContent = plants.length.toLocaleString();
+    document.querySelector('#m-capacity .metric-label').textContent = 'Revenue / yr';
+    document.querySelector('#m-capacity .metric-value').innerHTML = `${rev.v}<span class="metric-unit">${rev.u}</span>`;
+    document.querySelector('#m-avg .metric-label').textContent = 'Per Node';
+    document.querySelector('#m-avg .metric-value').innerHTML = `${avg.v}<span class="metric-unit">${avg.u}</span>`;
+    document.querySelector('#m-region .metric-label').textContent = 'Region';
+    document.querySelector('#m-region .metric-value').textContent = region;
+
+    const sr = fmtRevenue(byType.solar.rev);
+    document.getElementById('solar-count').textContent = byType.solar.count.toLocaleString();
+    document.getElementById('solar-cap').textContent   = `${sr.v} ${sr.u}`;
+    const wr = fmtRevenue(byType.wind.rev);
+    document.getElementById('wind-count').textContent  = byType.wind.count.toLocaleString();
+    document.getElementById('wind-cap').textContent    = `${wr.v} ${wr.u}`;
+
+  } else {
+    const m = computeMetrics(plants);
+    const tot = fmtCap(m.totalCapacityAC);
+    const avg = fmtCap(m.avgCapacity);
+
+    document.querySelector('#m-plants .metric-label').textContent = 'Plants';
+    document.querySelector('#m-plants .metric-value').textContent = m.total.toLocaleString();
+    document.querySelector('#m-capacity .metric-label').textContent = 'Total Capacity';
+    document.querySelector('#m-capacity .metric-value').innerHTML = `${tot.v}<span class="metric-unit">${tot.u}</span>`;
+    document.querySelector('#m-avg .metric-label').textContent = 'Avg. Plant';
+    document.querySelector('#m-avg .metric-value').innerHTML = `${avg.v}<span class="metric-unit">${avg.u}</span>`;
+    document.querySelector('#m-region .metric-label').textContent = 'Region';
+    document.querySelector('#m-region .metric-value').textContent = region;
+
+    const sc = fmtCap(m.byType.solar.capacity);
+    document.getElementById('solar-count').textContent = m.byType.solar.count.toLocaleString();
+    document.getElementById('solar-cap').textContent   = `${sc.v} ${sc.u}`;
+    const wc = fmtCap(m.byType.wind.capacity);
+    document.getElementById('wind-count').textContent  = m.byType.wind.count.toLocaleString();
+    document.getElementById('wind-cap').textContent    = `${wc.v} ${wc.u}`;
+  }
 }
 
 // ── Table ─────────────────────────────────────────────────────────────────────
@@ -269,6 +319,7 @@ function sortPlants(plants) {
   return [...plants].sort((a, b) => {
     let av, bv;
     if      (col === 'capacity_ac') { av = a.capacity_ac; bv = b.capacity_ac; }
+    else if (col === 'revenue')     { av = plantRevenue(a); bv = plantRevenue(b); }
     else if (col === 'name')        { av = a.name.toLowerCase(); bv = b.name.toLowerCase(); }
     else if (col === 'location')    { av = `${a.state}${a.county}`.toLowerCase(); bv = `${b.state}${b.county}`.toLowerCase(); }
     else if (col === 'utility_name'){ av = (a.utility_name || '').toLowerCase(); bv = (b.utility_name || '').toLowerCase(); }
@@ -278,30 +329,54 @@ function sortPlants(plants) {
   });
 }
 
-function renderTable(plants) {
-  document.querySelectorAll('#plants-table th[data-col]').forEach(th => {
-    th.classList.remove('sorted-asc', 'sorted-desc');
-    if (th.dataset.col === state.sortCol)
-      th.classList.add(state.sortDir === 'asc' ? 'sorted-asc' : 'sorted-desc');
+function setTableHeaders(cols) {
+  const thead = document.querySelector('#plants-table thead tr');
+  thead.innerHTML = cols.map(({ col, label }) => {
+    const sort = state.sortCol === col
+      ? (state.sortDir === 'asc' ? 'sorted-asc' : 'sorted-desc') : '';
+    return `<th data-col="${col}" class="${sort}">${label} <span class="sort-icon"></span></th>`;
+  }).join('');
+  thead.querySelectorAll('th[data-col]').forEach(th => {
+    th.addEventListener('click', () => {
+      const col = th.dataset.col;
+      if (state.sortCol === col) state.sortDir = state.sortDir === 'asc' ? 'desc' : 'asc';
+      else { state.sortCol = col; state.sortDir = col === 'capacity_ac' || col === 'revenue' ? 'desc' : 'asc'; }
+      renderTable(state.plants);
+    });
   });
+}
+
+function renderTable(plants) {
+  if (state.mode === 'opportunity') {
+    renderOpportunityTable(plants);
+  } else {
+    renderResourceTable(plants);
+  }
+}
+
+function renderResourceTable(plants) {
+  setTableHeaders([
+    { col: 'name',         label: 'Name'     },
+    { col: 'capacity_ac',  label: 'MW'       },
+    { col: 'location',     label: 'Location' },
+    { col: 'utility_name', label: 'Utility'  },
+    { col: 'type',         label: 'Type'     },
+  ]);
 
   const countEl = document.getElementById('table-count');
   const tbody   = document.getElementById('plants-tbody');
 
   if (plants.length === 0) {
     countEl.textContent = '0 plants';
-    tbody.innerHTML = '<tr><td colspan="4" class="empty-row">No plants match this filter.</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="5" class="empty-row">No plants match this filter.</td></tr>';
     return;
   }
 
-  const sorted  = sortPlants(plants);
-  const shown   = sorted.slice(0, TABLE_MAX);
-
+  const shown = sortPlants(plants).slice(0, TABLE_MAX);
   countEl.textContent = plants.length > TABLE_MAX
     ? `Showing ${TABLE_MAX.toLocaleString()} of ${plants.length.toLocaleString()} plants`
     : `${plants.length.toLocaleString()} plant${plants.length !== 1 ? 's' : ''}`;
 
-  // Build DOM via fragment — avoids repeated reflow
   const frag = document.createDocumentFragment();
   for (const plant of shown) {
     const loc = [plant.county, plant.state].filter(Boolean).join(', ');
@@ -313,14 +388,60 @@ function renderTable(plants) {
       <td>${esc(loc)}</td>
       <td class="cell-utility" title="${esc(plant.utility_name)}">${esc(plant.utility_name || '—')}</td>
       <td><span class="type-badge ${plant.type}">${cap1(plant.type)}</span></td>`;
-
     tr.addEventListener('mouseenter', () => { highlightMarker(plant.id, true);  tr.classList.add('row-hl'); });
     tr.addEventListener('mouseleave', () => { highlightMarker(plant.id, false); tr.classList.remove('row-hl'); });
-    tr.addEventListener('click',      () => panToPlant(plant.id));
+    tr.addEventListener('click', () => panToPlant(plant.id));
     frag.appendChild(tr);
   }
+  tbody.textContent = '';
+  tbody.appendChild(frag);
+}
 
-  tbody.textContent = '';   // faster clear than innerHTML = ''
+function renderOpportunityTable(plants) {
+  setTableHeaders([
+    { col: 'name',     label: 'Name'       },
+    { col: 'revenue',  label: 'Revenue/yr' },
+    { col: 'capacity_ac', label: 'MW'      },
+    { col: 'location', label: 'Location'   },
+    { col: 'type',     label: 'Type'       },
+  ]);
+
+  if (state.sortCol === 'capacity_ac' && state.mode === 'opportunity') {
+    state.sortCol = 'revenue';
+  }
+
+  const countEl = document.getElementById('table-count');
+  const tbody   = document.getElementById('plants-tbody');
+
+  if (plants.length === 0) {
+    countEl.textContent = '0 nodes';
+    tbody.innerHTML = '<tr><td colspan="5" class="empty-row">No plants match this filter.</td></tr>';
+    return;
+  }
+
+  const shown = sortPlants(plants).slice(0, TABLE_MAX);
+  countEl.textContent = plants.length > TABLE_MAX
+    ? `Showing ${TABLE_MAX.toLocaleString()} of ${plants.length.toLocaleString()} nodes`
+    : `${plants.length.toLocaleString()} node${plants.length !== 1 ? 's' : ''}`;
+
+  const frag = document.createDocumentFragment();
+  for (const plant of shown) {
+    const loc = [plant.county, plant.state].filter(Boolean).join(', ');
+    const rev = fmtRevenue(plantRevenue(plant));
+    const tr  = document.createElement('tr');
+    tr.dataset.id = plant.id;
+    tr.innerHTML = `
+      <td class="cell-name" title="${esc(plant.name)}">${esc(plant.name)}</td>
+      <td class="cell-cap">${rev.v} <span style="opacity:0.6;font-size:10px">${rev.u}</span></td>
+      <td class="cell-cap">${plant.capacity_ac.toFixed(1)}</td>
+      <td>${esc(loc)}</td>
+      <td><span class="type-badge ${plant.type}">${cap1(plant.type)}</span></td>`;
+    tr.addEventListener('mouseenter', () => { highlightMarker(plant.id, true);  tr.classList.add('row-hl'); });
+    tr.addEventListener('mouseleave', () => { highlightMarker(plant.id, false); tr.classList.remove('row-hl'); });
+    tr.addEventListener('click', () => panToPlant(plant.id));
+    frag.appendChild(tr);
+  }
+  tbody.textContent = '';
   tbody.appendChild(frag);
 }
 
@@ -369,7 +490,7 @@ function applyFiltersAndRender() {
     ? rawPlants.filter(p => p.capacity_ac >= 1)
     : rawPlants;
   state.plants = filtered;
-  renderMetrics(computeMetrics(filtered));
+  renderMetrics(filtered);
   renderTable(filtered);
   renderMarkers(filtered);
   fitBounds(state.region, filtered);
@@ -433,13 +554,21 @@ function initControls() {
     renderMarkers(state.plants);
   });
 
-  document.querySelectorAll('#plants-table th[data-col]').forEach(th => {
-    th.addEventListener('click', () => {
-      const col = th.dataset.col;
-      if (state.sortCol === col) state.sortDir = state.sortDir === 'asc' ? 'desc' : 'asc';
-      else { state.sortCol = col; state.sortDir = col === 'capacity_ac' ? 'desc' : 'asc'; }
-      renderTable(state.plants);
-    });
+  document.getElementById('mode-selector').addEventListener('click', e => {
+    const btn = e.target.closest('.mode-btn');
+    if (!btn) return;
+    document.querySelectorAll('.mode-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    state.mode = btn.dataset.mode;
+    if (state.mode === 'opportunity') {
+      state.sortCol = 'revenue';
+      state.sortDir = 'desc';
+    } else {
+      state.sortCol = 'capacity_ac';
+      state.sortDir = 'desc';
+    }
+    renderMetrics(state.plants);
+    renderTable(state.plants);
   });
 }
 

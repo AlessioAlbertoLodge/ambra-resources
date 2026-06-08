@@ -28,9 +28,8 @@ const DATA_SOURCES = [
 let plants = [];
 let curtailmentMap = new Map(); // case_id → { mcc_avg, mcc_pct_neg, curtailment_risk, caiso_node }
 
-function loadCurtailmentData() {
-  const filePath = path.join(__dirname, 'data/solar_farms_caiso_curtailment_mcc.csv');
-  if (!fs.existsSync(filePath)) return;
+function loadCurtailmentFile(filePath) {
+  if (!fs.existsSync(filePath)) return 0;
   const content = fs.readFileSync(filePath, 'utf-8');
   const records = parse(content, { columns: true, skip_empty_lines: true, trim: true });
   for (const row of records) {
@@ -41,9 +40,16 @@ function loadCurtailmentData() {
       mcc_pct_neg:      Number.isFinite(pct) ? +pct.toFixed(1) : null,
       curtailment_risk: (row.curtailment_risk || 'Unknown').trim(),
       caiso_node:       (row.closest_node_id || '').trim(),
+      curtailment_iso:  (row.mcc_source_iso || '').trim(),
     });
   }
-  console.log(`  Curtailment data: ${curtailmentMap.size} CAISO solar plants`);
+  return records.length;
+}
+
+function loadCurtailmentData() {
+  loadCurtailmentFile(path.join(__dirname, 'data/solar_farms_caiso_curtailment_mcc.csv'));
+  loadCurtailmentFile(path.join(__dirname, 'data/solar_farms_us_node_LMPs_curtailment.csv'));
+  console.log(`  Curtailment data: ${curtailmentMap.size} US solar plants`);
 }
 
 function detectDelimiter(header) {

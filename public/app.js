@@ -14,7 +14,7 @@ let rawPlants = [];
 
 // ── Opportunity constants ─────────────────────────────────────────────────────
 const MW_PER_SYSTEM   = 9;        // MW solar per 100kW compute block
-const REV_PER_SYSTEM  = 520000;   // $/yr per 100kW system (64 GPUs @ $1.2/hr, 80% util)
+const REV_PER_SYSTEM  = 538214;   // $/yr per 100kW system (64 GPUs × $1.2/hr × 8760 hrs × 80% util)
 
 function plantRevenue(plant) {
   return (plant.capacity_ac / MW_PER_SYSTEM) * REV_PER_SYSTEM;

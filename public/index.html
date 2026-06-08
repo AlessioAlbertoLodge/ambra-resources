@@ -226,7 +226,15 @@
               <div class="src-math-row src-math-tier high">High risk</div>
               <div class="src-math-row src-math-detail">MCC avg &lt; −15 $/MWh or neg. hours &gt; 60%</div>
             </div>
-            <p class="src-desc src-muted">Markets covered: CAISO, MISO, SPP, NYISO, ISONE. PJM and ERCOT excluded.</p>
+            <p class="src-desc src-muted">Markets covered: CAISO, MISO, SPP, NYISO, ISONE. PJM excluded.</p>
+
+            <div class="src-heading" style="margin-top:14px;">ERCOT — Approximated MCC</div>
+            <p class="src-desc">ERCOT does not publish a native MCC component. Congestion is instead approximated as:</p>
+            <div class="src-math">
+              <div class="src-math-row"><span class="src-math-label" style="min-width:unset;font-style:italic;">MCC<sub>approx</sub> = SPP<sub>node</sub> − HB_HUBAVG<sub>same hour</sub></span></div>
+            </div>
+            <p class="src-desc">Where <strong>SPP<sub>node</sub></strong> is the Settlement Point Price at each generation node and <strong>HB_HUBAVG</strong> is ERCOT's generation-weighted average of the four hub prices (HB_NORTH, HB_SOUTH, HB_WEST, HB_HOUSTON), used as the system energy reference price λ. Subtracting λ strips out the energy component and isolates congestion + loss residuals, making ERCOT directly comparable to nodal MCC values from MISO, CAISO, and other ISOs. HB_HUBAVG slightly overestimates λ for west Texas (where wind surplus depresses HB_WEST) and underestimates for Houston, but is the standard industry proxy for risk ranking purposes.</p>
+            <p class="src-desc src-muted">ERCOT coverage: 177 solar farms matched to generation nodes. HB_HUBAVG was included in the node cache and used directly for the hourly join.</p>
           </div>
 
         </div>

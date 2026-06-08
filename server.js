@@ -23,8 +23,8 @@ const DATA_SOURCES = [
   { file: 'data/solar_farms_nl.csv', region: 'eu',  source: 'RVO',     defaultType: 'solar' },
   { file: 'data/plants_it.csv',      region: 'eu',  source: 'OSM',     typeCol: 'source'    },
   { file: 'data/wind_farms_es.csv',  region: 'eu',  source: 'MINETUR', defaultType: 'wind'  },
-  { file: 'data/solar_de.csv',       region: 'eu',  source: 'MaStR',   defaultType: 'solar', capacityScale: 0.001 },
-  { file: 'data/wind_de.csv',        region: 'eu',  source: 'MaStR',   defaultType: 'wind',  capacityScale: 0.001 },
+  { file: 'data/solar_farms_de.csv',  region: 'eu',  source: 'MaStR',   defaultType: 'solar', capacityScale: 0.001 },
+  { file: 'data/wind_farms_de.csv',  region: 'eu',  source: 'MaStR',   defaultType: 'wind',  capacityScale: 0.001 },
 ];
 
 let plants = [];
@@ -49,8 +49,8 @@ function loadCurtailmentFile(filePath) {
 }
 
 function loadCurtailmentData() {
-  loadCurtailmentFile(path.join(__dirname, 'data/solar_farms_caiso_curtailment_mcc.csv'));
-  loadCurtailmentFile(path.join(__dirname, 'data/solar_farms_us_node_LMPs_curtailment.csv'));
+  loadCurtailmentFile(path.join(__dirname, 'data/curtailment/solar_farms_caiso_curtailment_mcc.csv'));
+  loadCurtailmentFile(path.join(__dirname, 'data/curtailment/solar_farms_us_node_LMPs_curtailment.csv'));
   console.log(`  Curtailment data: ${curtailmentMap.size} US solar plants`);
 }
 

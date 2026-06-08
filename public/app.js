@@ -136,8 +136,8 @@ function capacityToRadius(capMW) {
 }
 
 function markerColors(plant) {
-  // Solar with curtailment data = Beach Head (red); everything else = Long Term (orange) or wind (blue)
-  if (plant.type === 'solar' && plant.curtailment_risk && plant.curtailment_risk !== 'Unknown') {
+  // Beach Head (red) = high curtailment risk only; Long Term (orange) = everything else solar; wind = blue
+  if (plant.type === 'solar' && plant.curtailment_risk === 'High') {
     return { fill: '#cc0000', stroke: '#ee3333' };
   }
   return plant.type === 'solar'

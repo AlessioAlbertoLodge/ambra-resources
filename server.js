@@ -148,8 +148,16 @@ function boot() {
   console.log(`  Total: ${plants.length.toLocaleString()} plants ready\n`);
 }
 
-// ── API ───────────────────────────────────────────────────────────────────────
+// ── Static & SPA routing ─────────────────────────────────────────────────────
 app.use(express.static(path.join(__dirname, 'public')));
+
+// REY dashboard — serve index.html for all /rey/* paths (client-side routing)
+app.get('/rey', (req, res) => res.redirect('/rey/'));
+app.get('/rey/*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'rey', 'index.html'));
+});
+
+// ── API ───────────────────────────────────────────────────────────────────────
 
 app.get('/api/plants', (req, res) => {
   const { type = 'both', region = 'us' } = req.query;
